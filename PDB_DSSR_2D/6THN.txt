@@ -1,0 +1,17 @@
+Title			MULTIPLE GENOMIC RNA-COAT PROTEIN CONTACTS PLAY VITAL ROLES IN THE ASSEMBLY OF INFECTIOUS ENTEROVIRUS-E SYMMETRY EXPANSION+2FOLD FOCUSED CLASSIFICATION 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6THN nts=2 [whole]
+AU
+..
+
+Interacting substructures
+Chain A 
+AU
+..
+

@@ -1,0 +1,17 @@
+Title			CRYO-EM STRUCTURE OF HUMAN CPSF160-WDR33-CPSF30-PAS RNA-CSTF77 COMPLEX 
+Chain order		D 
+Amino acids		YES
+Metal			Zn	3
+Chains			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6URO nts=8 [whole]
+AAUAAACA
+........
+
+Interacting substructures
+Chain D 
+AAUAAACA
+........
+

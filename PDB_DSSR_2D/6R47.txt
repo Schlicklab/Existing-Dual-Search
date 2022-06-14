@@ -1,0 +1,18 @@
+Title			THE STRUCTURE OF PISTOL RIBOZYME BOUND TO MAGNESIUM 
+Chain order		A B 
+Amino acids		NO
+Metal			Mg	1
+Chains			A	RNA	B A 
+			B	RNA[14]/1	A 
+Pseudoknot		YES
+
+Whole structure
+>6R47 nts=65 [whole]
+GGCCGUUCGGGCGGCCAUAAACAGCCCUCAGACCcGAAGCGUGGCGUUCC&GGAACGCCGGUGGGA
+[[[[[((((((]]]]]........[[[.....))))))....((((((((&))))))))...]]].
+
+Interacting substructures
+Chain A B 
+GGCCGUUCGGGCGGCCAUAAACAGCCCUCAGACCcGAAGCGUGGCGUUCCGGAACGCCGGUGGGA
+[[[[[((((((]]]]]........[[[.....))))))....(((((((())))))))...]]].
+

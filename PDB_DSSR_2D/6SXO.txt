@@ -1,0 +1,44 @@
+Title			? 
+Chain order		L5-1 L5-2 L5-3 L5-4 L5-5 L5-6 L5-7 L8 
+Amino acids		YES
+Metal
+Chains			L5-1	RNA*	L5-1 
+			L5-2	RNA*	L5-2 
+			L5-3	RNA*	L5-3 
+			L5-4	RNA*	L5-4 
+			L5-5	RNA*	L5-7 L5-6 
+			L5-6	RNA*	L5-7 L5-5 
+			L5-7	RNA*	L5-6 L5-5 
+			L8	RNA	L8 
+Pseudoknot		YES
+
+Whole structure
+>6SXO nts=326 [whole]
+UUGAAAAGAACUUUGAAGAGAGAGUUCAAGAGGGCG&UUCAAACGAGAACUUUGAA&UCGGGUUCAGAUCCCCGAAU&CUUGGAAAGCGUCGCGGUUCCGGCGGCGU&AAGGGCUGGGUCGGUCGGGCUGGGGCGCGAAGCGGGGCUGGGCGCGCGCCGCGGCUGGACGAGGC&GGCGACUCUGGACGCGAGCCGGGCCCUUCCCGUGGAUCGCCCCAGCUGCGGCGGGCGUCGC&GCGGCGCCUCGCCUCGGCCGGCGCCUAGCAGCCGACUU&AACGCAGCUAGCUGCGAGAAUUAAUGUGAAUUGCAGGACACAUUGAUCAUCGACACUU
+.......(..((((....))))............).&((((((.......))))))&(((((........)))))..&........(((((((.......)))))))&((((((((...(((.((.(((((((((.....((((...((((.((.((((((.(((((...(.(&).)...))))).)))).)))).))))..)))).....)))))))))...(((.((((.(((&))).))))..))).)).)))........)))))..)))&(((((.[[.....))).....(.(((......]].............)))..)...))
+
+Interacting substructures
+Chain L5-1 
+UUGAAAAGAACUUUGAAGAGAGAGUUCAAGAGGGCG
+.......(..((((....))))............).
+
+Chain L5-2 
+UUCAAACGAGAACUUUGAA
+((((((.......))))))
+
+Chain L5-3 
+UCGGGUUCAGAUCCCCGAAU
+(((((........)))))..
+
+Chain L5-4 
+CUUGGAAAGCGUCGCGGUUCCGGCGGCGU
+........(((((((.......)))))))
+
+Chain L5-5 L5-6 L5-7 
+AAGGGCUGGGUCGGUCGGGCUGGGGCGCGAAGCGGGGCUGGGCGCGCGCCGCGGCUGGACGAGGCGGCGACUCUGGACGCGAGCCGGGCCCUUCCCGUGGAUCGCCCCAGCUGCGGCGGGCGUCGCGCGGCGCCUCGCCUCGGCCGGCGCCUAGCAGCCGACUU
+((((((((...(((.((.(((((((((.....((((...((((.((.((((((.(((((...(.().)...))))).)))).)))).))))..)))).....)))))))))...(((.((((.((())).))))..))).)).)))........)))))..)))
+
+Chain L8 
+AACGCAGCUAGCUGCGAGAAUUAAUGUGAAUUGCAGGACACAUUGAUCAUCGACACUU
+(((((.[[.....))).....(.(((......]].............)))..)...))
+

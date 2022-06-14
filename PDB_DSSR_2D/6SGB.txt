@@ -1,0 +1,44 @@
+Title			? 
+Chain order		CA-1 CA-2 CA-3 CA-4 Cg F1 FF 
+Amino acids		YES
+Metal			Mg	5
+			Zn	6
+Chains			CA-1	RNA*	CA-1 CA-2 
+			CA-2	RNA*	CA-1 
+			CA-3	RNA*	CA-3 
+			CA-4	RNA*	
+			Cg			
+			F1			
+			FF			
+Pseudoknot		NO
+
+Whole structure
+>6SGB nts=612 [whole]
+UAAAUUAUGGUCAAUUGUUAGUAUUCAUAUUAAUUUUUUUAAAUGUUUUAUCAUUUUAUAAAGGUUUAUUUUUGAAAGAUUUUUUGUAUAAAAUUUUAGGAAUAGUUAAUAAUAAUUUAUAAUUUUGAUUAGAUUGUUUUGUUAAUGCUAUUAGAUGGGUGUGGAAAAAUAAAAAAAAUAAUUAAUAUAUAUCAAUAAUAAAUUAAAUUAAUCUAUUAGUCAGAAAUGGAUGCCAGCCGUUGCGGUAAUUUCUAUGCUUUUAAAUAUUAUACAAUUAUCAUAUUAAAUUGUUAAGUGCUGAUUUAACCAAUAAAAAUAUAAAUAAUUUUUAUUUGUUUUUAAACACCAUUAGGUAUAUGCAAAUAUAAAAUUAUAGUAAUUAUAAAUUAUAUUAUAUUAUAUUUAUUCAUAUAAUUAAUAGGAUAAUAUUUGUAGUUUUUGAUACCAUGAUAAGGAUUAUAAAUUGAAAGUGUUAAUAUCAUAAUCAAAAUUUAUUAUUUAUAUUAAAUAUGUAUGUGUAGAUAAAAUA&AGAAAUUAAAAAG&CACCAAUUUUUAUAAUAAAAAUAACGUGCAGUAAUUAAUAUAUUUAUAAAAAUAUAUUUUUUUUUU&u&g&a&a
+..........................(.(((......(((.......................(((.............................((....((...(((.......)))..)).......))........((....)).....)))...........................................))).........................(((..((.........))....)))..........))).)...................((((.................))))...................((((((........(((....)))....))))))..............((...........((((.....................................................(.(((.(.(...........).).))).)........................................))))........&....)).......&.......((((......))))...............(((((((((....)))))))))........&.&.&.&.
+
+Interacting substructures
+Chain CA-1 CA-2 
+UAAAUUAUGGUCAAUUGUUAGUAUUCAUAUUAAUUUUUUUAAAUGUUUUAUCAUUUUAUAAAGGUUUAUUUUUGAAAGAUUUUUUGUAUAAAAUUUUAGGAAUAGUUAAUAAUAAUUUAUAAUUUUGAUUAGAUUGUUUUGUUAAUGCUAUUAGAUGGGUGUGGAAAAAUAAAAAAAAUAAUUAAUAUAUAUCAAUAAUAAAUUAAAUUAAUCUAUUAGUCAGAAAUGGAUGCCAGCCGUUGCGGUAAUUUCUAUGCUUUUAAAUAUUAUACAAUUAUCAUAUUAAAUUGUUAAGUGCUGAUUUAACCAAUAAAAAUAUAAAUAAUUUUUAUUUGUUUUUAAACACCAUUAGGUAUAUGCAAAUAUAAAAUUAUAGUAAUUAUAAAUUAUAUUAUAUUAUAUUUAUUCAUAUAAUUAAUAGGAUAAUAUUUGUAGUUUUUGAUACCAUGAUAAGGAUUAUAAAUUGAAAGUGUUAAUAUCAUAAUCAAAAUUUAUUAUUUAUAUUAAAUAUGUAUGUGUAGAUAAAAUAAGAAAUUAAAAAG
+..........................(.(((......(((.......................(((.............................((....((...(((.......)))..)).......))........((....)).....)))...........................................))).........................(((..((.........))....)))..........))).)...................((((.................))))...................((((((........(((....)))....))))))..............((...........((((.....................................................(.(((.(.(...........).).))).)........................................))))............)).......
+
+Chain CA-3 
+CACCAAUUUUUAUAAUAAAAAUAACGUGCAGUAAUUAAUAUAUUUAUAAAAAUAUAUUUUUUUUUU
+.......((((......))))...............(((((((((....)))))))))........
+
+Chain CA-4 
+u
+.
+
+Chain Cg 
+g
+.
+
+Chain F1 
+a
+.
+
+Chain FF 
+a
+.
+

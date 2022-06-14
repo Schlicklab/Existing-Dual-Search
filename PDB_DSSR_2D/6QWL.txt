@@ -1,0 +1,18 @@
+Title			INFLUENZA B VIRUS (B/PANAMA/45) POLYMERASE HETERMOTRIMER IN COMPLEX WITH 3'5' CRNA PROMOTER 
+Chain order		T W 
+Amino acids		YES
+Metal
+Chains			T	RNA	W 
+			W	RNA	W T 
+Pseudoknot		NO
+
+Whole structure
+>6QWL nts=26 [whole]
+GGCCUUGUUUCU&AGCAAAAGCAGGCC
+((((........&.((....)).))))
+
+Interacting substructures
+Chain T W 
+GGCCUUGUUUCUAGCAAAAGCAGGCC
+((((.........((....)).))))
+

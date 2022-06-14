@@ -1,0 +1,33 @@
+Title			MECHANISM OF EIF6 RELEASE FROM THE NASCENT 60S RIBOSOMAL SUBUNIT 
+Chain order		N-1 N-2 N-3 N-4 N-5 
+Amino acids		YES
+Metal
+Chains			N-1	RNA*	N-1 
+			N-2	RNA*	N-2 
+			N-3	RNA*	N-3 N-4 
+			N-4	RNA*	N-3 N-4 
+			N-5	RNA*	N-5 
+Pseudoknot		YES
+
+Whole structure
+>6QKL nts=1158 [whole]
+AUUAGCAGUUUCGGGGGCGUAAUGCUCUCAGCUGAUUCUCAAACUCUGAA&CAUUUUUGGUAAGCAGAACUGGCGAUGUGGGUUGAACCAAAUAUUGGGAUAAGACGUCUAACAUUCACUAAUAGAUACCACAAAAGGUGUUAGUUCAUUAAGACAGCAGGACGGUGGCCAUGGAAGUCGGUAUCCGCUAAGGAGUGUGUAACAACUCACCUGCCAAAUGGACUAGCCCUGAAAAUGGAUGACGCUAGCAGUGGAUGGUCGAUGCCCAAUCGUUAAAAGAAGUGAUAAUACUUUUAAC&AAUCCAACUGUUUAAUUAAAACAAAGCAUUGCGAUAAGCUUAAAAGCUUUUGACGCAAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAAGUGAAGAGAUUCAACCUAGCACGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUCAAUGAGAUUCCCACUGUCCCUAACUACUAUACAGCGAAACCACUGCAAGGGGAACGGGCCUUGCAAAAACAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUCUGAUAUU&ACAGUUUCAGGUGGGGAGUUUGGCUGGGGCGGCACAUUUGUUAAAAGAUAACGCAAGUGUCCAAAGGCAGGCUCAGUGAGAACAGAAAUCUCACGUAGAGUAAAAGGGCAAAAGCCUGCUUGAUUCUGAUUUUCAGUACUAAUCGGAACUGGGAAACCAGGGCCUAUCGAUCCUUUAUGUGCUUAAAUCUUAACCCUAGAGGUGUCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCAGCCAAGCGCUCAUAGCGACGCUGCUUUUUGAUCCUUCGAUGUCGGCUCUUCUUAUCAUUGUGAAGCAGAAUUCACAAAGUGUUGGAUUGUUCACCCACUAACAAGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGUUGUCA&GUUUGCGUAAUAGUAGCAUGAUUUAGUACGAGAGGAACUGUCAUGCCGGAUCACUGGUCUGUAGGUUUAUUUGACAAAAUAGUGACCUGCCGCUACCAUCCGUUGGAUAAUGGCUGAACGCCUCUAAGUCAGAAUCCAUUCUAGAAAC
+(..(.((((.....(.((.....)).)...)))).)..)...........&((.(((((.....))))).))......(((......)))...((((((....((([[[...(((((((.....(..........(((.((((((((((.......(((((.(((...((.........))...))).....(...((......)).).)))))...)))))))))))))..........]]].).....))))))))))....)))))).((((((((...........))))))))&((((((...((.........))...(((((((.....(((....))).......)))))))...(((.(((..((((((.....(......((((....))))......)..))))..)))))(..((.........))..)........((..........(((((.......)))))..)..)....)))....)).)))).................................[..(((((......].)))))....(((((..(((.((......((((.(((.((..(((((.((((((.((.&...)).))))))..)))))..(((......[)).)((((((..........]))))))([((...(((((((.(.((((((.......))))))...).((][.[[[))....))))))).(.(((.((((.....{...)))).))))(((....))).))]]].].....(((((.(.(.((.......)).)))))))....)}....)).)..)))))).......((.(.(.((((((...((.......))...))))))...)).).)........((((.((((((..(((((((((......))))))..))).(((.(.....).))).....)))))..)...))).).....(((((((....))).))))....))..))).)))))....&......((..(((..(((((((......(....).....)))))))(((((...((((....((((((((((....)))))..)))))...))))..))))).((((...((((.............))))...))))..)))...))
+
+Interacting substructures
+Chain N-1 
+AUUAGCAGUUUCGGGGGCGUAAUGCUCUCAGCUGAUUCUCAAACUCUGAA
+(..(.((((.....(.((.....)).)...)))).)..)...........
+
+Chain N-2 
+CAUUUUUGGUAAGCAGAACUGGCGAUGUGGGUUGAACCAAAUAUUGGGAUAAGACGUCUAACAUUCACUAAUAGAUACCACAAAAGGUGUUAGUUCAUUAAGACAGCAGGACGGUGGCCAUGGAAGUCGGUAUCCGCUAAGGAGUGUGUAACAACUCACCUGCCAAAUGGACUAGCCCUGAAAAUGGAUGACGCUAGCAGUGGAUGGUCGAUGCCCAAUCGUUAAAAGAAGUGAUAAUACUUUUAAC
+((.(((((.....))))).))......(((......)))...((((((....((([[[...(((((((.....(..........(((.((((((((((.......(((((.(((...((.........))...))).....(...((......)).).)))))...)))))))))))))..........]]].).....))))))))))....)))))).((((((((...........))))))))
+
+Chain N-3 N-4 
+AAUCCAACUGUUUAAUUAAAACAAAGCAUUGCGAUAAGCUUAAAAGCUUUUGACGCAAUGUGAUUUCUGCCCAGUGCUCUGAAUGUCAAAGUGAAGAGAUUCAACCUAGCACGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACGCGCAUGAAUGGAUCAAUGAGAUUCCCACUGUCCCUAACUACUAUACAGCGAAACCACUGCAAGGGGAACGGGCCUUGCAAAAACAGCGGGGAAAGAAGACCCUGUUGAGCUUGACUCUAGUCUGAUAUUACAGUUUCAGGUGGGGAGUUUGGCUGGGGCGGCACAUUUGUUAAAAGAUAACGCAAGUGUCCAAAGGCAGGCUCAGUGAGAACAGAAAUCUCACGUAGAGUAAAAGGGCAAAAGCCUGCUUGAUUCUGAUUUUCAGUACUAAUCGGAACUGGGAAACCAGGGCCUAUCGAUCCUUUAUGUGCUUAAAUCUUAACCCUAGAGGUGUCAGAAAAGUUACCACAGGGAUAACUGGCUUGUGGCAGCCAAGCGCUCAUAGCGACGCUGCUUUUUGAUCCUUCGAUGUCGGCUCUUCUUAUCAUUGUGAAGCAGAAUUCACAAAGUGUUGGAUUGUUCACCCACUAACAAGGAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUACCCUACUGUUGUCA
+((((((...((.........))...(((((((.....(((....))).......)))))))...(((.(((..((((((.....(......((((....))))......)..))))..)))))(..((.........))..)........((..........(((((.......)))))..)..)....)))....)).)))).................................[..(((((......].)))))....(((((..(((.((......((((.(((.((..(((((.((((((.((....)).))))))..)))))..(((......[)).)((((((..........]))))))([((...(((((((.(.((((((.......))))))...).((][.[[[))....))))))).(.(((.((((.....{...)))).))))(((....))).))]]].].....(((((.(.(.((.......)).)))))))....)}....)).)..)))))).......((.(.(.((((((...((.......))...))))))...)).).)........((((.((((((..(((((((((......))))))..))).(((.(.....).))).....)))))..)...))).).....(((((((....))).))))....))..))).)))))....
+
+Chain N-5 
+GUUUGCGUAAUAGUAGCAUGAUUUAGUACGAGAGGAACUGUCAUGCCGGAUCACUGGUCUGUAGGUUUAUUUGACAAAAUAGUGACCUGCCGCUACCAUCCGUUGGAUAAUGGCUGAACGCCUCUAAGUCAGAAUCCAUUCUAGAAAC
+......((..(((..(((((((......(....).....)))))))(((((...((((....((((((((((....)))))..)))))...))))..))))).((((...((((.............))))...))))..)))...))
+

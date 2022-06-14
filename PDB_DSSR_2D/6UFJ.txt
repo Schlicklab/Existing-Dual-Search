@@ -1,0 +1,26 @@
+Title			PISTOL RIBOZYME PRODUCT CRYSTAL STRUCTURE 
+Chain order		A B E C D F 
+Amino acids		NO
+Metal			Mg	17
+Chains			A	RNA	B A E 
+			B	RNA	A 
+			E	RNA	A 
+			C	RNA	C F D 
+			D	RNA	C 
+			F	RNA	C 
+Pseudoknot		YES
+
+Whole structure
+>6UFJ nts=130 [whole]
+ACUCGUUUGAGCGAGUAUAAACAGCUGGUUAAGCUCAAAGCGGAGAGCAG&UCUGCUCUCg&UCCAG&ACUCGUUUGAGCGAGUAUAAACAGCUGGUUAAGCUCAAAGCGGAGAGCAG&UCUGCUCUCg&UCCAG
+.(((([[[[[[)))).........((((....(]]]]]].).((((((((&.)))))))).&.))))&((((([[[[[[)))))........((((....(]]]]]].).((((((((&.)))))))).&.))))
+
+Interacting substructures
+Chain A B E 
+ACUCGUUUGAGCGAGUAUAAACAGCUGGUUAAGCUCAAAGCGGAGAGCAGUCUGCUCUCgUCCAG
+.(((([[[[[[)))).........((((....(]]]]]].).((((((((.))))))))..))))
+
+Chain C D F 
+ACUCGUUUGAGCGAGUAUAAACAGCUGGUUAAGCUCAAAGCGGAGAGCAGUCUGCUCUCgUCCAG
+((((([[[[[[)))))........((((....(]]]]]].).((((((((.))))))))..))))
+

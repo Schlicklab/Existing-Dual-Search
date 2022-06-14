@@ -1,0 +1,20 @@
+Title			CO-CRYSTAL STRUCTURE OF M. TUBERCULOSIS ILES T-BOX IN COMPLEX WITH TRNA-3'-OH 
+Chain order		B A-1 A-2 
+Amino acids		NO
+Metal			Mg	11
+			K	4
+Chains			B	RNA	B A-1 A-2 
+			A-1	RNA*	B A-1 A-2 
+			A-2	RNA*	B A-1 A-2 
+Pseudoknot		YES
+
+Whole structure
+>6UFG nts=239 [whole]
+GGGCCUAUAGCUCAGGCGGUUAGAGCGCUUCGCUGAUAACGAAGAGGUCGGAGGUUCAAGUCCUCCUAGGCCCGCCA&gGCAUCGAUCCGGCGAUCACCGGGGAGCCUUCGGAAGAACGGCC&AGGCCCAGUAGAACCGAACGGGUUGGCCCGUCACAGCCUCAAGUCGAGCGGCCGCGCGAAAGCGUGGCAAGCGGGGUGGCACCGCGGCGUUCGCGCGAAAGCGUGGCGUCGUCCCCGc
+(((((((..((((.....[...)))).(((((..{{{..))))).....(((((..]....))))))))))))[[[[&(((......((((..}}}.))))...)))(((((......((((&.))))........)))))(((...[[[))).....]]].........{..(((((((....)))))))..((((((]]]]..}(((((((.(((((....))))))))))))))))))
+
+Interacting substructures
+Chain B A-1 A-2 
+GGGCCUAUAGCUCAGGCGGUUAGAGCGCUUCGCUGAUAACGAAGAGGUCGGAGGUUCAAGUCCUCCUAGGCCCGCCAgGCAUCGAUCCGGCGAUCACCGGGGAGCCUUCGGAAGAACGGCCAGGCCCAGUAGAACCGAACGGGUUGGCCCGUCACAGCCUCAAGUCGAGCGGCCGCGCGAAAGCGUGGCAAGCGGGGUGGCACCGCGGCGUUCGCGCGAAAGCGUGGCGUCGUCCCCGc
+(((((((..((((.....[...)))).(((((..{{{..))))).....(((((..]....))))))))))))[[[[(((......((((..}}}.))))...)))(((((......((((.))))........)))))(((...[[[))).....]]].........{..(((((((....)))))))..((((((]]]]..}(((((((.(((((....))))))))))))))))))
+

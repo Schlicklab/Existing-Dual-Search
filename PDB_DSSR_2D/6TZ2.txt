@@ -1,0 +1,24 @@
+Title			IN SITU STRUCTURE OF BMCPV RNA-DEPENDENT RNA POLYMERASE AT ELONGATION STATE 
+Chain order		M N T A 
+Amino acids		YES
+Metal			Mg	2
+Chains			M	RNA	T 
+			N	RNA	T 
+			T	RNA	M N 
+			A			
+Pseudoknot		YES
+
+Whole structure
+>6TZ2 nts=92 [whole]
+UUUUUUUUUUUUUUUUUU&UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU&AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&a&u
+..........[[[[[[[[&(((((((.((((((.............(((((((((&)))))))))...]]]]].]]].)))))).)))))))&.&.
+
+Interacting substructures
+Chain M N T 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+..........[[[[[[[[(((((((.((((((.............((((((((()))))))))...]]]]].]]].)))))).)))))))
+
+Chain A 
+au
+..
+

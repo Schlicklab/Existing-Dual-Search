@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF YBX1 CSD WITH RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6KUG nts=4 [whole]
+GCCU
+....
+
+Interacting substructures
+Chain B 
+GCCU
+....
+

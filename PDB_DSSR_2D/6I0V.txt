@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF DMTAILOR IN COMPLEX WITH CACAGU RNA 
+Chain order		B 
+Amino acids		YES
+Metal			Mg	2
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6I0V nts=4 [whole]
+CAGU
+....
+
+Interacting substructures
+Chain B 
+CAGU
+....
+

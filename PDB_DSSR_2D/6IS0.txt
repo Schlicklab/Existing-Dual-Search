@@ -1,0 +1,27 @@
+Title			CRYSTAL STRUCTURE OF THE ZEBRAFISH CAP-SPECIFIC ADENOSINE METHYLTRANSFERASE BOUND TO SAH AND M7G-CAPPED RNA 
+Chain order		C-1 C-2 A 
+Amino acids		YES
+Metal
+Chains			C-1	RNA*	
+			C-2	RNA*	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>6IS0 nts=5 [whole]
+g&aG&a&g
+.&..&.&.
+
+Interacting substructures
+Chain C-1 
+g
+.
+
+Chain C-2 
+aG
+..
+
+Chain A 
+ag
+..
+

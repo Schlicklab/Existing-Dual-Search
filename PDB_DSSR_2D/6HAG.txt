@@ -1,0 +1,22 @@
+Title			THE STRUCTURE OF THE SAM/SAH-BINDING RIBOSWITCH. 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal
+Chains			A-1	RNA*	A-1 
+			A-2	RNA*	
+Pseudoknot		YES
+
+Whole structure
+>6HAG nts=44 [whole]
+GUCACAACGGCUUCCUGACGUGGCAGAUUGAAUUAUUGGAGCA&a
+(((((..(.[[[.[[.)..))))).............]]]]].&.
+
+Interacting substructures
+Chain A-1 
+GUCACAACGGCUUCCUGACGUGGCAGAUUGAAUUAUUGGAGCA
+(((((..(.[[[.[[.)..))))).............]]]]].
+
+Chain A-2 
+a
+.
+

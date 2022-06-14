@@ -1,0 +1,17 @@
+Title			STRUCTURE OF HUMAN SRSF1 RRM1 BOUND TO AACAAA RNA 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6HPJ nts=6 [whole]
+AACAAA
+......
+
+Interacting substructures
+Chain A 
+AACAAA
+......
+

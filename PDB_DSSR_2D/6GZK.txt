@@ -1,0 +1,17 @@
+Title			SOLUTION NMR STRUCTURE OF THE TETRAMETHYLRHODAMINE (TMR) APTAMER 3 IN COMPLEX WITH 5-TAMRA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6GZK nts=48 [whole]
+GGACGACUGAACCGAAAGGUUCUUGGCUGCUUCGGCAGAGGUACGUCC
+(((((((.(((((....)))))....((((....))))..)).)))))
+
+Interacting substructures
+Chain A 
+GGACGACUGAACCGAAAGGUUCUUGGCUGCUUCGGCAGAGGUACGUCC
+(((((((.(((((....)))))....((((....))))..)).)))))
+

@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF ARCHEOGLOBUS FULGIDUS L7AE BOUND TO ITS COGNATE UTR K-TURN 
+Chain order		A B E F 
+Amino acids		YES
+Metal			Na	4
+Chains			A	RNA	B 
+			B	RNA	A 
+			E	RNA	F 
+			F	RNA	E 
+Pseudoknot		NO
+
+Whole structure
+>6HCT nts=57 [whole]
+GCCGAUGAAUGCAUGAAGC&GCCGAUGAAUGCAUGAAGC&GCCGAUGAAUG&CAUGAAGC
+((.......((((....((&)).......))))....))&((.......((&))....))
+
+Interacting substructures
+Chain A B 
+GCCGAUGAAUGCAUGAAGCGCCGAUGAAUGCAUGAAGC
+((.......((((....(()).......))))....))
+
+Chain E F 
+GCCGAUGAAUGCAUGAAGC
+((.......(())....))
+

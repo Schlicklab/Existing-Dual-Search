@@ -1,0 +1,20 @@
+Title			STRUCTURE OF TRANSCRIBING RNA POLYMERASE II-NUCLEOSOME COMPLEX 
+Chain order		T N P 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			T	DNA	P N 
+			N	DNA	T 
+			P	RNA	T 
+Pseudoknot		YES
+
+Whole structure
+>6I84 nts=337 [whole]
+ATCAGAATCCCGGTGCCGAGGCCGCTCAATTGGTCGTAGACAGCTCTAGCACCGCTTAAACGCACGTACGCGCTGTCCCCCGCGTTTTAACCGCCAAGGGGATTACTCCCTAGTCTCCAGGCACGTGTCAGATATATACATCGATATAGGAATAACAGGATCCAGTGAG&CTGTTATTCCTATATCGATGTATATATCTGACACGTGCCTGGAGACTAGGGAGTAATCCCCTTGGCGGTTAAAACGCGGGGGACAGCGCGTACGTGCGTTTAAGCGGTGCTAGAGCTGTCTACGACCAATTGAGCGGCCTCGGCACCGGGATTCTGAT&UCUCACUGGA
+..(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((.((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((..[[[[[[[[[&)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))).)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))..&.]]]]]]]]]
+
+Interacting substructures
+Chain T N P 
+ATCAGAATCCCGGTGCCGAGGCCGCTCAATTGGTCGTAGACAGCTCTAGCACCGCTTAAACGCACGTACGCGCTGTCCCCCGCGTTTTAACCGCCAAGGGGATTACTCCCTAGTCTCCAGGCACGTGTCAGATATATACATCGATATAGGAATAACAGGATCCAGTGAGCTGTTATTCCTATATCGATGTATATATCTGACACGTGCCTGGAGACTAGGGAGTAATCCCCTTGGCGGTTAAAACGCGGGGGACAGCGCGTACGTGCGTTTAAGCGGTGCTAGAGCTGTCTACGACCAATTGAGCGGCCTCGGCACCGGGATTCTGATUCUCACUGGA
+..(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((.((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((..[[[[[[[[[)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))).)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))...]]]]]]]]]
+

@@ -1,0 +1,18 @@
+Title			SOLUTION STRUCTURE OF THE RNA DUPLEX FORMED BY THE 5'-END OF U1SNRNA AND THE 5'-SPLICE SITE OF SMN2 EXON7 IN COMPLEX WITH THE SMN-C5 SPLICING MODIFIER 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6HMO nts=22 [whole]
+AUACPPACCUG&GGAGUAAGUCU
+(.((..((((.&)).))..)).)
+
+Interacting substructures
+Chain A B 
+AUACPPACCUGGGAGUAAGUCU
+(.((..((((.)).))..)).)
+

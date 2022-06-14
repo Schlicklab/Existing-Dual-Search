@@ -1,0 +1,57 @@
+Title			CRYO-EM STRUCTURE OF A HUMAN INTRON LARIAT SPLICEOSOME AFTER PRP43 LOADED (ILS2 COMPLEX) AT 2.9 ANGSTROM RESOLUTION 
+Chain order		B F G-1 G-2 H-1 H-2 H-3 H-4 H-5 H-6 H-7 C 
+Amino acids		YES
+Metal			Mg	7
+			Zn	7
+Chains			B	RNA	B 
+			F	RNA	H-1 F G-1 
+			G-1	RNA*	F 
+			G-2	RNA*	H-1 
+			H-1	RNA*	G-2 F 
+			H-2	RNA*	
+			H-3	RNA*	H-4 
+			H-4	RNA*	H-3 
+			H-5	RNA*	
+			H-6	RNA*	
+			H-7	RNA*	H-7 
+			C			
+Pseudoknot		YES
+
+Whole structure
+>6ID1 nts=400 [whole]
+UGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCCUUUUACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAGUCUUAACCCAAUUUUUUGAGGCCUUGC&GUGCUCGCUUCGGCAGCACAUAUACUAAAAUUGGAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCGCAAGGAUGACACGCAAAUUCGUGAAGCGUU&GUAAGAGCCUAGCAUGUAGAACUGGUUACC&AGGGUUUCCUUGAUGAUGUCAUACUUAUCCUGUCCCUU&AUCGCUUCUCGGCCUUUUGGCUAAGAUCAAGUGUAGUAUCUGUUCUU&UUAAUAU&CGUCCUCUA&CCGAGGACA&AUAUUAA&GGAUUUUUGGAGCAGGGAG&GCAUCGACCUGGUAUUGCAGUACCUCCAGGAACGGUGC&g
+....(((((((((....(...((((((((.(.......).)))))))).).)))))))))......................................&(((((.((....)))))))............[[..[............(((((((.((..((((.....)))..).))........((.((((((.(&.........]..]]................&....................[[[[[....[[.......&).)))))).))........)))..)))).]]...]]]]]........&.......&.((((((..&..)))))).&.......&...................&(((.((.(((((.............)))))..)).)))&.
+
+Interacting substructures
+Chain B 
+UGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCCUUUUACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAGUCUUAACCCAAUUUUUUGAGGCCUUGC
+....(((((((((....(...((((((((.(.......).)))))))).).)))))))))......................................
+
+Chain F G-1 G-2 H-1 
+GUGCUCGCUUCGGCAGCACAUAUACUAAAAUUGGAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCGCAAGGAUGACACGCAAAUUCGUGAAGCGUUGUAAGAGCCUAGCAUGUAGAACUGGUUACCAGGGUUUCCUUGAUGAUGUCAUACUUAUCCUGUCCCUUAUCGCUUCUCGGCCUUUUGGCUAAGAUCAAGUGUAGUAUCUGUUCUU
+(((((.((....)))))))............[[..[............(((((((.((..((((.....)))..).))........((.((((((.(.........]..]]....................................[[[[[....[[.......).)))))).))........)))..)))).]]...]]]]]........
+
+Chain H-2 
+UUAAUAU
+.......
+
+Chain H-3 H-4 
+CGUCCUCUACCGAGGACA
+.((((((....)))))).
+
+Chain H-5 
+AUAUUAA
+.......
+
+Chain H-6 
+GGAUUUUUGGAGCAGGGAG
+...................
+
+Chain H-7 
+GCAUCGACCUGGUAUUGCAGUACCUCCAGGAACGGUGC
+(((.((.(((((.............)))))..)).)))
+
+Chain C 
+g
+.
+

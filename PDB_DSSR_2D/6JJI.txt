@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A TWO-QUARTET RNA PARALLEL G-QUADRUPLEX COMPLEXED WITH THE PORPHYRIN TMPYP4 (1:1) 
+Chain order		B 
+Amino acids		NO
+Metal			K	3
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6JJI nts=14 [whole]
+GGCUCGGCGGCGGA
+..............
+
+Interacting substructures
+Chain B 
+GGCUCGGCGGCGGA
+..............
+

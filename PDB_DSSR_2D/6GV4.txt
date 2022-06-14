@@ -1,0 +1,17 @@
+Title			HIGH-RESOLUTION CRYO-EM OF FAB-LABELED HUMAN PARECHOVIRUS 3 
+Chain order		D 
+Amino acids		YES
+Metal
+Chains			D	RNA[7]/1	
+Pseudoknot		NO
+
+Whole structure
+>6GV4 nts=8 [whole]
+UGGUAUUU
+........
+
+Interacting substructures
+Chain D 
+UGGUAUUU
+........
+

@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF DROSOPHILA PIWI 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	8
+			Hg	6
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6KR6 nts=4 [whole]
+UAUU
+....
+
+Interacting substructures
+Chain B 
+UAUU
+....
+

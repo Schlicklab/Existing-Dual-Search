@@ -1,0 +1,22 @@
+Title			CRYO-EM STRUCTURE OF CSM EFFECTOR COMPLEX 
+Chain order		I A 
+Amino acids		YES
+Metal
+Chains			I	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>6IQW nts=25 [whole]
+GUGGAAAGUGGCCCGAAACCCUUC&a
+........................&.
+
+Interacting substructures
+Chain I 
+GUGGAAAGUGGCCCGAAACCCUUC
+........................
+
+Chain A 
+a
+.
+

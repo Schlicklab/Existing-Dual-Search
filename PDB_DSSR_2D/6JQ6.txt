@@ -1,0 +1,17 @@
+Title			HATCHET RIBOZYME STRUCTURE SOAKING WITH IR(NH3)6+ 
+Chain order		U 
+Amino acids		NO
+Metal			Ir	1
+Chains			U	RNA	U 
+Pseudoknot		NO
+
+Whole structure
+>6JQ6 nts=81 [whole]
+UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUCUUCGGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU
+((((((.......))))))...........((((.(((.((((((....))))))))).))).).................
+
+Interacting substructures
+Chain U 
+UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUCUUCGGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU
+((((((.......))))))...........((((.(((.((((((....))))))))).))).).................
+

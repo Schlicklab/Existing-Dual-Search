@@ -1,0 +1,17 @@
+Title			ZINC-FINGER ANTIVIRAL PROTEIN (ZAP) BOUND TO RNA 
+Chain order		C 
+Amino acids		YES
+Metal			Zn	4
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6L1W nts=6 [whole]
+CGUCGU
+......
+
+Interacting substructures
+Chain C 
+CGUCGU
+......
+

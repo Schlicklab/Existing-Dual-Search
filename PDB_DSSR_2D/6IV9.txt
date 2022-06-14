@@ -1,0 +1,17 @@
+Title			THE CAS13D BINARY COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal			Mg	2
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6IV9 nts=50 [whole]
+CACUGGUGCAAAUUUGCACUAGUCUAAAACUCCUCGAUUACAUACACAAA
+.(((((((((....))))))))..).........................
+
+Interacting substructures
+Chain B 
+CACUGGUGCAAAUUUGCACUAGUCUAAAACUCCUCGAUUACAUACACAAA
+.(((((((((....))))))))..).........................
+

@@ -1,0 +1,37 @@
+Title			THERMUS THERMOPHILUS INITIAL TRANSCRIPTION COMPLEX COMPRISING SIGMA A AND 5'-OH RNA OF 3 NT 
+Chain order		G-1 H I Q-1 R S G-2 Q-2 
+Amino acids		YES
+Metal			Mg	7
+			Zn	4
+Chains			G-1	DNA*	H I 
+			H	DNA	G-1 
+			I	RNA	G-1 
+			Q-1	DNA*	S R 
+			R	DNA	Q-1 
+			S	RNA	Q-1 
+			G-2	DNA*	
+			Q-2	DNA*	
+Pseudoknot		YES
+
+Whole structure
+>6KQD nts=88 [whole]
+GCATCCGTGAGTCCAG&TATAATGGGAGCTGTCACGGATGC&GGA&GCATCCGTGAGTCCAG&TATAATGGGAGCTGTCACGGATGC&GGA&G&G
+((((((((((.[[[..&..............))))))))))&]]]&((((((((((.[[[..&..............))))))))))&]]]&.&.
+
+Interacting substructures
+Chain G-1 H I 
+GCATCCGTGAGTCCAGTATAATGGGAGCTGTCACGGATGCGGA
+((((((((((.[[[................))))))))))]]]
+
+Chain Q-1 R S 
+GCATCCGTGAGTCCAGTATAATGGGAGCTGTCACGGATGCGGA
+((((((((((.[[[................))))))))))]]]
+
+Chain G-2 
+G
+.
+
+Chain Q-2 
+G
+.
+

@@ -1,0 +1,17 @@
+Title			NMR SOLUTION STRUCTURE OF THE C/D BOX SNORNA U14 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6HYK nts=31 [whole]
+GGCACGGUGAUGACCUUCGGGUCUGAGUGCC
+(((((......((((....))))...)))))
+
+Interacting substructures
+Chain A 
+GGCACGGUGAUGACCUUCGGGUCUGAGUGCC
+(((((......((((....))))...)))))
+

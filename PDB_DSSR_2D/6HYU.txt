@@ -1,0 +1,27 @@
+Title			CRYSTAL STRUCTURE OF DHX8 HELICASE BOUND TO SINGLE STRANDED POLY- ADENINE RNA 
+Chain order		B D-1 D-2 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+			D-1	DNA*	
+			D-2	DNA*	
+Pseudoknot		NO
+
+Whole structure
+>6HYU nts=8 [whole]
+AAAAAA&A&A
+......&.&.
+
+Interacting substructures
+Chain B 
+AAAAAA
+......
+
+Chain D-1 
+A
+.
+
+Chain D-2 
+A
+.
+

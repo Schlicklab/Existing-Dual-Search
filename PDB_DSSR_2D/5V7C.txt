@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF LARP1-UNIQUE DOMAIN DM15 BOUND 5'TOP RNA SEQUENCE 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5V7C nts=8 [whole]
+CUUUUCCG
+........
+
+Interacting substructures
+Chain C 
+CUUUUCCG
+........
+

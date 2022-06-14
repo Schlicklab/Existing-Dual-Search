@@ -1,0 +1,20 @@
+Title			STRUCTURE OF R-GNA DODECAMER 
+Chain order		A-1 A-2 B-1 B-2 
+Amino acids		NO
+Metal
+Chains			A-1	RNA[11]/1*	B-2 B-1 
+			A-2	RNA[11]/1*	B-1 
+			B-1	RNA[11]/1*	A-1 A-2 
+			B-2	RNA[11]/1*	A-1 
+Pseudoknot		NO
+
+Whole structure
+>5V1K nts=24 [whole]
+CGCGAAut&AGCG&CGCGAAut&AGCG
+(((...(.&.(((&)))..)..&.)))
+
+Interacting substructures
+Chain A-1 A-2 B-1 B-2 
+CGCGAAutAGCGCGCGAAutAGCG
+(((...(..((()))..)...)))
+

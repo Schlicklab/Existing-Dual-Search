@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURE OF MYCOBACTERIUM TUBERCULOSIS TRANSCRIPTION INITIATION COMPLEX CONTAINING 3NT RNA IN COMPLEX WITH RIFAMPIN 
+Chain order		H G I 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			H	DNA	G 
+			G	DNA	H I 
+			I	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>5UHC nts=41 [whole]
+TATAATGGGAGCTGTCACGGATG&CATCCGTGAGTCCAG&GGA
+..............(((((((((&))))))))).((...&.))
+
+Interacting substructures
+Chain H G I 
+TATAATGGGAGCTGTCACGGATGCATCCGTGAGTCCAGGGA
+..............((((((((())))))))).((....))
+

@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF SPYCAS9-SGRNA-ACRIIA4 TERNARY COMPLEX 
+Chain order		C 
+Amino acids		YES
+Metal			Mg	1
+Chains			C	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>5VW1 nts=73 [whole]
+UUGUAAAAAAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGUC
+..........((((((..((((....))))....))))))..(((..).)).......((((....))))...
+
+Interacting substructures
+Chain C 
+UUGUAAAAAAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGUC
+..........((((((..((((....))))....))))))..(((..).)).......((((....))))...
+

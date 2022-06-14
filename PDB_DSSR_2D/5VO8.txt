@@ -1,0 +1,25 @@
+Title			X-RAY CRYSTAL STRUCTURE OF A BACTERIAL REITERATIVE TRANSCRIPTION COMPLEX OF PYRG PROMOTER 
+Chain order		G H-1 H-2 I 
+Amino acids		YES
+Metal			Mg	2
+			Zn	2
+Chains			G	DNA	I H-2 
+			H-1	DNA*	
+			H-2	DNA*	G 
+			I	RNA	G 
+Pseudoknot		YES
+
+Whole structure
+>5VO8 nts=46 [whole]
+CCTGCATCAGAGCCCAAAA&TATAATGGG&CTGATGCAGG&gGGGGGGG
+((.(((((((..[[[....&.........&))))))).))&.....]]]
+
+Interacting substructures
+Chain G H-2 I 
+CCTGCATCAGAGCCCAAAACTGATGCAGGgGGGGGGG
+((.(((((((..[[[....))))))).)).....]]]
+
+Chain H-1 
+TATAATGGG
+.........
+

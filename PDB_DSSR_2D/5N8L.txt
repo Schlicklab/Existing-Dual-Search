@@ -1,0 +1,18 @@
+Title			STRUCTURE OF TRBP DSRBD 1 AND 2 IN COMPLEX WITH A 19 BP SIRNA (COMPLEX B) 
+Chain order		B C 
+Amino acids		YES
+Metal
+Chains			B	RNA	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>5N8L nts=42 [whole]
+UUAAUUAUCUAUUCCGUACUU&GUACGGAAUAGAUAAUUAAUU
+(((((((((((((((((((..&)))))))))))))))))))..
+
+Interacting substructures
+Chain B C 
+UUAAUUAUCUAUUCCGUACUUGUACGGAAUAGAUAAUUAAUU
+(((((((((((((((((((..)))))))))))))))))))..
+

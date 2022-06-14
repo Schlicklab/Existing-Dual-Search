@@ -1,0 +1,24 @@
+Title			FLUORESCENCE DETECTION OF RNA-LIGAND BINDING AND CRYSTAL STRUCTURE DETERMINATION OF RIBOSOMAL DECODING SITE RNA USING A HEAVY ATOM CONTAINING FLUORESCENT RIBONUCLEOSIDE 
+Chain order		A B C D 
+Amino acids		NO
+Metal			Mg	10
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>5T3K nts=66 [whole]
+GGUGGUGAAGUCGCUGG&CAGCGtCACACCACCC&GGUGGUGAAGUCGCUGG&CAGCGtCACACCACCC
+(((((((..(.(((((.&))))).).))))))).&(((((((..(.(((((.&))))).).))))))).
+
+Interacting substructures
+Chain A B 
+GGUGGUGAAGUCGCUGGCAGCGtCACACCACCC
+(((((((..(.(((((.))))).).))))))).
+
+Chain C D 
+GGUGGUGAAGUCGCUGGCAGCGtCACACCACCC
+(((((((..(.(((((.))))).).))))))).
+

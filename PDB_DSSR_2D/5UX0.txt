@@ -1,0 +1,24 @@
+Title			X-RAY CRYSTAL STRUCTURE OF MARINITOGA PIEZOPHILA ARGONAUTE IN COMPLEX WITH 5' OH GUIDE RNA AND TARGET DNA 
+Chain order		B C E F 
+Amino acids		YES
+Metal
+Chains			B	RNA	C 
+			C	DNA	B 
+			E	RNA	F 
+			F	DNA	E 
+Pseudoknot		NO
+
+Whole structure
+>5UX0 nts=74 [whole]
+GGUACAACCUACUACCUCAU&ATGAGGTAGTAGGTTGTACC&GGUACAACCUACUACCUC&GGTAGTAGGTTGTACC
+.(((((((((((((((....&....))))))))))))))).&.(((((((((((((((..&))))))))))))))).
+
+Interacting substructures
+Chain B C 
+GGUACAACCUACUACCUCAUATGAGGTAGTAGGTTGTACC
+.(((((((((((((((........))))))))))))))).
+
+Chain E F 
+GGUACAACCUACUACCUCGGTAGTAGGTTGTACC
+.(((((((((((((((..))))))))))))))).
+

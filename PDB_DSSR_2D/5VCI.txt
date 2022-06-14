@@ -1,0 +1,18 @@
+Title			RNA HAIRPIN STRUCTURE CONTAINING TETRALOOP/RECEPTOR MOTIF, COMPLEXED WITH 2-MEIMPG ANALOGUE 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>5VCI nts=34 [whole]
+CUGCUGGCUAAGGCCCGAAAGG&CUAUGCCUGCUG
+(.((.(((..(((.((....))&)).)))).)).)
+
+Interacting substructures
+Chain A B 
+CUGCUGGCUAAGGCCCGAAAGGCUAUGCCUGCUG
+(.((.(((..(((.((....)))).)))).)).)
+

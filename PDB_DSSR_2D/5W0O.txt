@@ -1,0 +1,28 @@
+Title			STRUCTURE OF HUMAN TUT7 CATALYTIC MODULE (CM) IN COMPLEX WITH DSRNA 
+Chain order		C D A B 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	RNA	C 
+			A			
+			B			
+Pseudoknot		NO
+
+Whole structure
+>5W0O nts=32 [whole]
+GCGAAGCGCUUCGCU&GCGAAGCGCUUCGCU&u&u
+((((((((((((((.&)))))))))))))).&.&.
+
+Interacting substructures
+Chain C D 
+GCGAAGCGCUUCGCUGCGAAGCGCUUCGCU
+((((((((((((((.)))))))))))))).
+
+Chain A 
+u
+.
+
+Chain B 
+u
+.
+

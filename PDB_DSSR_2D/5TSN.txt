@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURES OF NORWALK VIRUS POLYMERASE BOUND TO AN RNA PRIMER- TEMPLATE DUPLEX 
+Chain order		P T 
+Amino acids		YES
+Metal			Mn	2
+Chains			P	RNA	T 
+			T	RNA	P 
+Pseudoknot		NO
+
+Whole structure
+>5TSN nts=15 [whole]
+UACCCGGG&ACCCGGG
+..((((((&.))))))
+
+Interacting substructures
+Chain P T 
+UACCCGGGACCCGGG
+..((((((.))))))
+

@@ -1,0 +1,66 @@
+Title			STRUCTURE OF AN RNA POLYMERASE II-DSIF TRANSCRIPTION ELONGATION COMPLEX 
+Chain order		N-1 N-2 N-3 N-4 N-5 N-6 N-7 N-8 N-9 N-10 N-11 P T 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			N-1	DNA*	T 
+			N-2	DNA*	
+			N-3	DNA*	
+			N-4	DNA*	
+			N-5	DNA*	
+			N-6	DNA*	
+			N-7	DNA*	
+			N-8	DNA*	
+			N-9	DNA*	
+			N-10	DNA*	
+			N-11	DNA*	T 
+			P	RNA	T 
+			T	DNA	N-1 P N-11 
+Pseudoknot		YES
+
+Whole structure
+>5OIK nts=106 [whole]
+GGCAGTACTAGTAT&T&C&T&A&G&T&A&T&T&GAAAGTACTTGAGCTTGATC&UAUAUACAUAAAGACCAGGC&GATCAAGCTCAAGTACTTAAGCCTGGTCTATACTAGTACTGCC
+((((((((((((((&.&.&.&.&.&.&.&.&.&..((((((((((((((((((&...........[[[[[[[[[&))))))))))))))))))..]]]]]]]]]))))))))))))))
+
+Interacting substructures
+Chain N-1 N-11 P T 
+GGCAGTACTAGTATGAAAGTACTTGAGCTTGATCUAUAUACAUAAAGACCAGGCGATCAAGCTCAAGTACTTAAGCCTGGTCTATACTAGTACTGCC
+((((((((((((((..((((((((((((((((((...........[[[[[[[[[))))))))))))))))))..]]]]]]]]]))))))))))))))
+
+Chain N-2 
+T
+.
+
+Chain N-3 
+C
+.
+
+Chain N-4 
+T
+.
+
+Chain N-5 
+A
+.
+
+Chain N-6 
+G
+.
+
+Chain N-7 
+T
+.
+
+Chain N-8 
+A
+.
+
+Chain N-9 
+T
+.
+
+Chain N-10 
+T
+.
+

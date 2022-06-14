@@ -1,0 +1,18 @@
+Title			DIMERIZED STRUCTURE GIVES FURTHER INSIGHT INTO THE FUNCTION OF THE NOVEL RNA GENE: HAR1 
+Chain order		A B 
+Amino acids		NO
+Metal			Mg	2
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>5UNE nts=94 [whole]
+GGGAAAUGAUGGGCGUAGACGCACGUCAGCGGCGGAAAUGGUUUCCC&GGGAAAUGAUGGGCGUAGACGCACGUCAGCGGCGGAAAUGGUUUCCC
+(((((((.((...(((.((((..((((.(((......((.(((((((&))))))).))...))).))))..)))).)))......)).)))))))
+
+Interacting substructures
+Chain A B 
+GGGAAAUGAUGGGCGUAGACGCACGUCAGCGGCGGAAAUGGUUUCCCGGGAAAUGAUGGGCGUAGACGCACGUCAGCGGCGGAAAUGGUUUCCC
+(((((((.((...(((.((((..((((.(((......((.((((((())))))).))...))).))))..)))).)))......)).)))))))
+

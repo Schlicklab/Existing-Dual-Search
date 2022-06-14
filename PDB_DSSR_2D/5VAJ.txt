@@ -1,0 +1,19 @@
+Title			BHRNASE H - AMIDE-RNA/DNA COMPLEX 
+Chain order		C-1 C-2 D 
+Amino acids		YES
+Metal			Mg	4
+Chains			C-1	RNA*	D 
+			C-2	RNA*	D 
+			D	DNA	C-1 C-2 
+Pseudoknot		NO
+
+Whole structure
+>5VAJ nts=23 [whole]
+GACACCUGAu&C&GAATCAGGTGTC
+((((((((((&(&).))))))))))
+
+Interacting substructures
+Chain C-1 C-2 D 
+GACACCUGAuCGAATCAGGTGTC
+((((((((((().))))))))))
+

@@ -1,0 +1,22 @@
+Title			RNA-RNA BASE STACKING IN THE CRYSTAL STRUCTURE OF AN HFQ6:RNA DIMER 
+Chain order		H C 
+Amino acids		YES
+Metal
+Chains			H	RNA	
+			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5NEW nts=8 [whole]
+AAAAAA&UU
+......&..
+
+Interacting substructures
+Chain H 
+AAAAAA
+......
+
+Chain C 
+UU
+..
+

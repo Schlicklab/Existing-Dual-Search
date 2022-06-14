@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE RNA BINDING DOMAIN OF HRP1 IN COMPLEX WITH RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2CJK nts=8 [whole]
+UAUAUAUA
+........
+
+Interacting substructures
+Chain B 
+UAUAUAUA
+........
+

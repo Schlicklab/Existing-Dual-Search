@@ -1,0 +1,18 @@
+Title			CATALYTIC DOMAIN OF E. COLI RNASE E IN COMPLEX WITH 13-MER RNA 
+Chain order		R 
+Amino acids		YES
+Metal			Mg	2
+			Zn	1
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2C0B nts=10 [whole]
+UUUACAGUAU
+..........
+
+Interacting substructures
+Chain R 
+UUUACAGUAU
+..........
+

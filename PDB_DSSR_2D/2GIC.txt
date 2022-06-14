@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A VESICULAR STOMATITIS VIRUS NUCLEOCAPSID-RNA COMPLEX 
+Chain order		R 
+Amino acids		YES
+Metal			U	15
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2GIC nts=45 [whole]
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+.............................................
+
+Interacting substructures
+Chain R 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+.............................................
+

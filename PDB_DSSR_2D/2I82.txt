@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF PSEUDOURIDINE SYNTHASE RLUA: INDIRECT SEQUENCE READOUT THROUGH PROTEIN-INDUCED RNA STRUCTURE 
+Chain order		E F G H 
+Amino acids		YES
+Metal
+Chains			E	RNA	E 
+			F	RNA	F 
+			G	RNA	G 
+			H	RNA	H 
+Pseudoknot		NO
+
+Whole structure
+>2I82 nts=84 [whole]
+GAGGGGA?UGAAAAUCCCCUC&GAGGGGA?UGAAAAUCCCCUC&GAGGGGA?UGAAAAUCCCCUC&GAGGGGA?UGAAAAUCCCCUC
+(((((((.......)))))))&(((((((.......)))))))&((((((.........))))))&(((((((.......)))))))
+
+Interacting substructures
+Chain E 
+GAGGGGA?UGAAAAUCCCCUC
+(((((((.......)))))))
+
+Chain F 
+GAGGGGA?UGAAAAUCCCCUC
+(((((((.......)))))))
+
+Chain G 
+GAGGGGA?UGAAAAUCCCCUC
+((((((.........))))))
+
+Chain H 
+GAGGGGA?UGAAAAUCCCCUC
+(((((((.......)))))))
+

@@ -1,0 +1,29 @@
+Title			CRYSTAL STRUCTURE OF AN H/ACA BOX RNP FROM PYROCOCCUS FURIOSUS 
+Chain order		E-1 E-2 E-3 E-4 A 
+Amino acids		YES
+Metal			Zn	1
+Chains			E-1	RNA*	E-4 
+			E-2	RNA*	E-3 
+			E-3	RNA*	E-2 
+			E-4	RNA*	E-1 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>2HVY nts=58 [whole]
+GGGUCCGCCUUGA&UGCCCGGGUGA&AAGCAUGAUCCCGGGUAAU&AUGGCGGACCCACA&a
+(((((((((....&.(((((((...&.........)))))))...&..)))))))))...&.
+
+Interacting substructures
+Chain E-1 E-4 
+GGGUCCGCCUUGAAUGGCGGACCCACA
+(((((((((......)))))))))...
+
+Chain E-2 E-3 
+UGCCCGGGUGAAAGCAUGAUCCCGGGUAAU
+.(((((((............)))))))...
+
+Chain A 
+a
+.
+

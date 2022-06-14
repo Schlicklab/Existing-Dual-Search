@@ -1,0 +1,26 @@
+Title			CRYSTAL STRUCTURE OF THE TERNARY COMPLEX OF YEAST TYROSYL-TRNA SYNTHETASE 
+Chain order		Y-1 Y-2 Y-3 Y-4 Y-5 X 
+Amino acids		YES
+Metal			Mg	1
+Chains			Y-1	DNA[4]/RNA[65]*	Y-3 Y-5 
+			Y-2	DNA[4]/RNA[65]*	Y-5 
+			Y-3	DNA[4]/RNA[65]*	Y-1 Y-4 
+			Y-4	DNA[4]/RNA[65]*	Y-3 
+			Y-5	DNA[4]/RNA[65]*	Y-5 Y-1 Y-2 
+			X			
+Pseudoknot		YES
+
+Whole structure
+>2DLC nts=70 [whole]
+CUCUCGGUAgCCAAG&gG&AAGGCgCAAG&GPAaAPCUUGAG&UcGGGCGtPCGaCUCGCCCCCGGGAGACCA&a
+(((((((..(((...&.[&..))).(...&.........)..&..(((((..]....))))))))))))....&.
+
+Interacting substructures
+Chain Y-1 Y-2 Y-3 Y-4 Y-5 
+CUCUCGGUAgCCAAGgGAAGGCgCAAGGPAaAPCUUGAGUcGGGCGtPCGaCUCGCCCCCGGGAGACCA
+(((((((..(((....[..))).(............)....(((((..]....))))))))))))....
+
+Chain X 
+a
+.
+

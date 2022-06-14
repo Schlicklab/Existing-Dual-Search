@@ -1,0 +1,53 @@
+Title			CRYSTAL STRUCTURE OF AN RNA QUADRUPLEX CONTAINING INOSINE- TETRAD 
+Chain order		A B C D E F G H 
+Amino acids		NO
+Metal			K	11
+			Sr	1
+Chains			A	RNA	
+			B	RNA	
+			C	RNA[5]/1	
+			D	RNA[5]/1	
+			E	RNA[5]/1	
+			F	RNA[5]/1	
+			G	RNA[5]/1	
+			H	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2GRB nts=45 [whole]
+GgGGU&GgGGU&uGgGGU&uGgGGU&uGgGGU&uGgGGU&uGgGGU&GgGGU
+.....&.....&......&......&......&......&......&.....
+
+Interacting substructures
+Chain A 
+GgGGU
+.....
+
+Chain B 
+GgGGU
+.....
+
+Chain C 
+uGgGGU
+......
+
+Chain D 
+uGgGGU
+......
+
+Chain E 
+uGgGGU
+......
+
+Chain F 
+uGgGGU
+......
+
+Chain G 
+uGgGGU
+......
+
+Chain H 
+GgGGU
+.....
+

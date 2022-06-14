@@ -1,0 +1,32 @@
+Title			DENGUE VIRUS 4 NS3 HELICASE IN COMPLEX WITH SSRNA AND AMPPNP 
+Chain order		C D A B 
+Amino acids		YES
+Metal			Mn	2
+Chains			C	RNA	
+			D	RNA	
+			A			
+			B			
+Pseudoknot		NO
+
+Whole structure
+>2JLV nts=16 [whole]
+AGACUAA&AGACUAA&a&a
+.......&.......&.&.
+
+Interacting substructures
+Chain C 
+AGACUAA
+.......
+
+Chain D 
+AGACUAA
+.......
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+

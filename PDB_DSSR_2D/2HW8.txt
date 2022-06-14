@@ -1,0 +1,18 @@
+Title			STRUCTURE OF RIBOSOMAL PROTEIN L1-MRNA COMPLEX AT 2.1 RESOLUTION. 
+Chain order		B 
+Amino acids		YES
+Metal			Mg	1
+			K	1
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2HW8 nts=36 [whole]
+GGGGUGAAGGAGGCUUCGGCCGCGAAACUUCACCCC
+(((((((((..(((....)))......)))))))))
+
+Interacting substructures
+Chain B 
+GGGGUGAAGGAGGCUUCGGCCGCGAAACUUCACCCC
+(((((((((..(((....)))......)))))))))
+

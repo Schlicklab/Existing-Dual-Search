@@ -1,0 +1,26 @@
+Title			SACCHAROMYCES CEREVISIAE SPLICEOSOMAL E COMPLEX (ACT1) 
+Chain order		R-1 R-2 R-3 r-1 r-2 r-3 
+Amino acids		YES
+Metal			Zn	1
+Chains			R-1	RNA*	R-2 R-3 r-1 
+			R-2	RNA*	R-2 R-3 R-1 
+			R-3	RNA*	R-2 R-3 R-1 
+			r-1	RNA*	R-1 
+			r-2	RNA*	r-3 
+			r-3	RNA*	r-2 
+Pseudoknot		YES
+
+Whole structure
+>6N7R nts=621 [whole]
+AUACUUACCUUAAGAUAUCAGAGGA&AAGUCCUACUGAUCAAACAUGCGCUUCCAAUAGUAGAAGGACGUUAAGCAUUUAUCAUUGAACUAUAAUUGUUCAUUGAAGUCAUUGAUGCAAACUCCUUGGUCACACACACAUACGGCGCGGAAGGCGUGUUUGCUGACGUUUCCAUUCCCUUGUUUCAAUCAUUGGUUAAUCCCUUGAUUCCUUUGGGGAUUUUUGGGUUAAACUGAUUUUUGGGGCCCUUUGUUUCUUCUGCCUGGAGAAGUUUGACACCAAAUUCAAAUUGGUGUUAGGGGAGCUGGGGCCUUUCAA&AAGAGAGCUUUGUAGAGGCAUUCUUUUUGACUACUUUUCUCUAGCGUGCCAUUUUAGUUUUUGACGGCAGAUUCGAAUGAACUUAAGUUUAUGAUGAAGGUAUGGCUGUUGAGAUUAUUUGGUCGGGAUUGUAGUUUGAAGAUGUGCUCUUUUGAGCAGUCUCAACUUUGCUCGUUCCCGUUAUGGGAAAAAUUUUGGAAGGUCUUGGUAGGAACGGGUGGAUCUUAUAAUUUUUGAUUUAU&UGGUAUGUUC&aaaaaaaaaaaaaaaaaaaaaaaaaa&uuuuuuuuuuuuuuuuuuuuuuuuuuu
+..((.((((..((((((((((((((&...)))).)))))((((((((([(((((.[......(((((.(((..(((((..(((.((((.........)))).))).......))))).)))))))).(](..............]))))))))))))))))(((.((((.((..(((((((((((((..(((((((...(((..((((((....))))))...)))...)))))))..)))))))[[.......(((((....]])))))...((((((.(.(....).)))))))))))))((((((.((((.(((&((..((((...((.(((((..(((((..((((((..((.(.......((((...(((((((.(((.((...((((.((((((....))))))..))))......)).))))))))))..)))).).))..)))))).)))))..(((((....)))))))))).))...)))).((((((...))))))...))))).)))).)))))).))))))..))))))))................&.)))).))..&(((((((((((((((((((.((((((&.))))))))))))))))))))))))).
+
+Interacting substructures
+Chain R-1 R-2 R-3 r-1 
+AUACUUACCUUAAGAUAUCAGAGGAAAGUCCUACUGAUCAAACAUGCGCUUCCAAUAGUAGAAGGACGUUAAGCAUUUAUCAUUGAACUAUAAUUGUUCAUUGAAGUCAUUGAUGCAAACUCCUUGGUCACACACACAUACGGCGCGGAAGGCGUGUUUGCUGACGUUUCCAUUCCCUUGUUUCAAUCAUUGGUUAAUCCCUUGAUUCCUUUGGGGAUUUUUGGGUUAAACUGAUUUUUGGGGCCCUUUGUUUCUUCUGCCUGGAGAAGUUUGACACCAAAUUCAAAUUGGUGUUAGGGGAGCUGGGGCCUUUCAAAAGAGAGCUUUGUAGAGGCAUUCUUUUUGACUACUUUUCUCUAGCGUGCCAUUUUAGUUUUUGACGGCAGAUUCGAAUGAACUUAAGUUUAUGAUGAAGGUAUGGCUGUUGAGAUUAUUUGGUCGGGAUUGUAGUUUGAAGAUGUGCUCUUUUGAGCAGUCUCAACUUUGCUCGUUCCCGUUAUGGGAAAAAUUUUGGAAGGUCUUGGUAGGAACGGGUGGAUCUUAUAAUUUUUGAUUUAUUGGUAUGUUC
+..((.((((..((((((((((((((...)))).)))))((((((((([(((((.[......(((((.(((..(((((..(((.((((.........)))).))).......))))).)))))))).(](..............]))))))))))))))))(((.((((.((..(((((((((((((..(((((((...(((..((((((....))))))...)))...)))))))..)))))))[[.......(((((....]])))))...((((((.(.(....).)))))))))))))((((((.((((.(((((..((((...((.(((((..(((((..((((((..((.(.......((((...(((((((.(((.((...((((.((((((....))))))..))))......)).))))))))))..)))).).))..)))))).)))))..(((((....)))))))))).))...)))).((((((...))))))...))))).)))).)))))).))))))..)))))))).................)))).))..
+
+Chain r-2 r-3 
+aaaaaaaaaaaaaaaaaaaaaaaaaauuuuuuuuuuuuuuuuuuuuuuuuuuu
+(((((((((((((((((((.((((((.))))))))))))))))))))))))).
+

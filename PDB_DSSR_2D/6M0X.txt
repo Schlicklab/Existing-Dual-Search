@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURE OF STREPTOCOCCUS THERMOPHILUS CAS9 IN COMPLEX WITH AGGA PAM 
+Chain order		B C D 
+Amino acids		YES
+Metal			Mg	2
+			Ba	14
+Chains			B	RNA	B C 
+			C	DNA	B D 
+			D	DNA	C 
+Pseudoknot		YES
+
+Whole structure
+>6M0X nts=106 [whole]
+GGUGCUAAGAUUAAUCAGGAUGUUUUUGUACUCGAAAGAAGCUACAAAGAUAAGGCUUCAUGCCGAAAUC&GCTCCTTTATCCTGATTAATCTTAGCAC&AAAGGAGC
+.(((((((((((((((((((((((((((((.((....))...)))))))))..((((..).)))......&[[[[[[[[))))))))))))))))))))&]]]]]]]]
+
+Interacting substructures
+Chain B C D 
+GGUGCUAAGAUUAAUCAGGAUGUUUUUGUACUCGAAAGAAGCUACAAAGAUAAGGCUUCAUGCCGAAAUCGCTCCTTTATCCTGATTAATCTTAGCACAAAGGAGC
+.(((((((((((((((((((((((((((((.((....))...)))))))))..((((..).)))......[[[[[[[[))))))))))))))))))))]]]]]]]]
+

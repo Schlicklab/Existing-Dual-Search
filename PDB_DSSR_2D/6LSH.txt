@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE ENTEROVIRUS 71 POLYMERASE ELONGATION COMPLEX (C2S6M FORM) 
+Chain order		B C 
+Amino acids		YES
+Metal			Zn	1
+Chains			B	RNA	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6LSH nts=19 [whole]
+AGGUCUCUCU&AGAGAGACC
+.(((((((((&)))))))))
+
+Interacting substructures
+Chain B C 
+AGGUCUCUCUAGAGAGACC
+.((((((((()))))))))
+

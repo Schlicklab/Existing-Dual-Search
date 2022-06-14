@@ -1,0 +1,22 @@
+Title			CRYO-EM STRUCTURE OF THE FULL-LENGTH BACILLUS SUBTILIS GLYQS T-BOX RIBOSWITCH IN COMPLEX WITH TRNA-GLY 
+Chain order		A-1 A-2 A-3 A-4 A-5 B 
+Amino acids		NO
+Metal
+Chains			A-1	RNA*	A-1 A-2 
+			A-2	RNA*	B A-1 
+			A-3	RNA*	A-4 
+			A-4	RNA*	A-5 B A-3 
+			A-5	RNA*	A-4 
+			B	RNA	B A-4 A-2 
+Pseudoknot		YES
+
+Whole structure
+>6POM nts=230 [whole]
+GUUGCAGUGAGAGAAAGAAGUACUUGCGUUACCUCAUGAAAGCGACCUUAGGGCGGUGUAAGCUAAGGAUGAG&ACGCAACGAAAGGCAUUCUUGAGCAAU&AAAAAAGAGGCUGGGA&UCUCAGCAACUAGGGUGGAACCGCGGGA&UCUCGUCCCUA&GCGGAAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCGCGGGUUCGAAUCCCGUCUUCCGCUCCA
+.((((.....(((((........(((((....(((((.....[..((((((..........])))))))))))&.))))).....[[[.)))))..)))).&.........(((((((&)))))))....[.[[((((...((((((&))))))]].].&(((((((..((((.......)))).(((((..]]]..))))).....(((((.......))))))))))))))))
+
+Interacting substructures
+Chain A-1 A-2 A-3 A-4 A-5 B 
+GUUGCAGUGAGAGAAAGAAGUACUUGCGUUACCUCAUGAAAGCGACCUUAGGGCGGUGUAAGCUAAGGAUGAGACGCAACGAAAGGCAUUCUUGAGCAAUAAAAAAGAGGCUGGGAUCUCAGCAACUAGGGUGGAACCGCGGGAUCUCGUCCCUAGCGGAAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCGCGGGUUCGAAUCCCGUCUUCCGCUCCA
+.((((.....(((((........(((((....(((((.....[..((((((..........]))))))))))).))))).....[[[.)))))..))))..........((((((()))))))....[.[[((((...(((((())))))]].].(((((((..((((.......)))).(((((..]]]..))))).....(((((.......))))))))))))))))
+

@@ -1,0 +1,27 @@
+Title			CO-CRYSTAL STRUCTURE OF THE GEOBACILLUS KAUSTOPHILUS GLYQ T-BOX RIBOSWITCH DISCRIMINATOR DOMAIN IN COMPLEX WITH TRNA-GLY 
+Chain order		B-1 B-2 A-1 A-2 A-3 A-4 
+Amino acids		NO
+Metal			Mg	4
+			Ir	13
+Chains			B-1	RNA*	B-2 B-1 
+			B-2	RNA*	B-2 A-3 B-1 
+			A-1	RNA*	A-2 
+			A-2	RNA*	A-1 
+			A-3	RNA*	B-2 A-4 
+			A-4	RNA*	A-3 
+Pseudoknot		YES
+
+Whole structure
+>6PMO nts=130 [whole]
+GCGGAAGUAGUUCAGUGGUAGAACACCACC&AAGGUGGGGGUCGCGGGUUCGAAUCCCGUCUUCCGCUCCA&AAGUGGGUGCGCGUU&GGCGCAUC&ACUCGGGUGGAACCGCGGGAGCU&GCUCUCGUCCCGAG
+(((((((..((((....[..)))).(((((&..))))).....(((((..]....))))))))))))[[[[&.....(.(((((...&.))))).)&.((((((]]]]...((((((((.&))))))))))))))
+
+Interacting substructures
+Chain B-1 B-2 A-3 A-4 
+GCGGAAGUAGUUCAGUGGUAGAACACCACCAAGGUGGGGGUCGCGGGUUCGAAUCCCGUCUUCCGCUCCAACUCGGGUGGAACCGCGGGAGCUGCUCUCGUCCCGAG
+(((((((..((((....[..)))).(((((..))))).....(((((..]....))))))))))))[[[[.((((((]]]]...((((((((.))))))))))))))
+
+Chain A-1 A-2 
+AAGUGGGUGCGCGUUGGCGCAUC
+.....(.(((((....))))).)
+

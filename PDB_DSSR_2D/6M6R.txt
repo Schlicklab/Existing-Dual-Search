@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF CAENORHABDITIS ELEGANS DICER-RELATED HELICASE 3 (DRH-3) C-TERMINAL DOMAIN WITH 5'-PPP 8-MER SSRNA 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	1
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6M6R nts=8 [whole]
+gGCCGCCC
+........
+
+Interacting substructures
+Chain B 
+gGCCGCCC
+........
+

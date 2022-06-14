@@ -1,0 +1,19 @@
+Title			STRUCTURAL BASIS FOR 2'-DEOXYGUANOSINE RECOGNITION BY THE 2'-DG-II CLASS OF RIBOSWITCHES 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal			Mg	5
+			Co	5
+Chains			A-1	RNA[69]/1*	A-1 A-2 
+			A-2	RNA[69]/1*	A-1 
+Pseudoknot		YES
+
+Whole structure
+>6P2H nts=70 [whole]
+gGGUGUAAUCUCCAAAAUAUGGUUGGGGAGCCUCCACCAGUGAACCGUAAAAUCGCUGUCACCACCCAG&g
+((((((..(((((((.....[[)))))))......).((((((.]]......))))))...[)))))..&]
+
+Interacting substructures
+Chain A-1 A-2 
+gGGUGUAAUCUCCAAAAUAUGGUUGGGGAGCCUCCACCAGUGAACCGUAAAAUCGCUGUCACCACCCAGg
+((((((..(((((((.....[[)))))))......).((((((.]]......))))))...[)))))..]
+

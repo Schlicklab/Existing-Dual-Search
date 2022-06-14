@@ -1,0 +1,20 @@
+Title			SIGM28-TRANSCRIPTION INITIATION COMPLEX WITH SPECIFIC PROMOTER AT THE STATE 1 
+Chain order		1 2 3 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			1	DNA	2 
+			2	DNA	3 1 
+			3	RNA	2 
+Pseudoknot		YES
+
+Whole structure
+>6PMI nts=111 [whole]
+AGCAATAAAGTTTCCTTCCTCCTTGCCGATAACGAGATCAACTTGTTTGCGGCG&CGCCGCAAACAAGTTGTAGAGCTTATCGGCAAGGAGGAAGGAAACTTTATTGCT&aAC
+((((((((((((((.(....((((((((...............((((((((((.&.)))))))))).[[[...........))))))))....).))))))))))))))&]]]
+
+Interacting substructures
+Chain 1 2 3 
+AGCAATAAAGTTTCCTTCCTCCTTGCCGATAACGAGATCAACTTGTTTGCGGCGCGCCGCAAACAAGTTGTAGAGCTTATCGGCAAGGAGGAAGGAAACTTTATTGCTaAC
+((((((((((((((.(....((((((((...............((((((((((..)))))))))).[[[...........))))))))....).))))))))))))))]]]
+

@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF MURINE DHX37 IN COMPLEX WITH RNA 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6O16 nts=20 [whole]
+UUUUUUUUUU&UUUUUUUUUU
+..........&..........
+
+Interacting substructures
+Chain C 
+UUUUUUUUUU
+..........
+
+Chain D 
+UUUUUUUUUU
+..........
+

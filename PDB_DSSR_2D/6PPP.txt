@@ -1,0 +1,22 @@
+Title			STRUCTURE OF S. POMBE LSM2-8 WITH PROCESSED U6 SNRNA 
+Chain order		A I 
+Amino acids		YES
+Metal
+Chains			A	RNA	
+			I	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6PPP nts=10 [whole]
+UUUUU&UUUUU
+.....&.....
+
+Interacting substructures
+Chain A 
+UUUUU
+.....
+
+Chain I 
+UUUUU
+.....
+

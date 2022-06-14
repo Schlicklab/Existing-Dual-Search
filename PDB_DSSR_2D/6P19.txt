@@ -1,0 +1,21 @@
+Title			Q21 TRANSCRIPTION ANTITERMINATION COMPLEX: LOADED COMPLEX 
+Chain order		1-1 1-2 2 R 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			1-1	DNA*	2 
+			1-2	DNA*	2 
+			2	DNA	1-2 R 1-1 
+			R	RNA	2 
+Pseudoknot		YES
+
+Whole structure
+>6P19 nts=66 [whole]
+GTGGTGGA&TACCTCGTTGTGGTA&TACCACAACGAGGTACCTCTCCACCAC&GAGUGGUGGAGAGGUA
+[[[[....&...((((((((((((&)))))))))))).(((((((((.]]]]&.......)))))))))
+
+Interacting substructures
+Chain 1-1 1-2 2 R 
+GTGGTGGATACCTCGTTGTGGTATACCACAACGAGGTACCTCTCCACCACGAGUGGUGGAGAGGUA
+[[[[.......(((((((((((()))))))))))).(((((((((.]]]].......)))))))))
+

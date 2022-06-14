@@ -1,0 +1,17 @@
+Title			VIBRIO CHOLERAE OLIGORIBONUCLEASE BOUND TO PCPU 
+Chain order		D 
+Amino acids		YES
+Metal			Na	1
+Chains			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6N6H nts=2 [whole]
+CU
+..
+
+Interacting substructures
+Chain D 
+CU
+..
+

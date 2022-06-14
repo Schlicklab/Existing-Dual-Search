@@ -1,0 +1,28 @@
+Title			CRYSTAL STRUCTURE OF MUS MUSCULUS (MM) ENDONUCLEASE V IN COMPLEX WITH A 23MER RNA OLIGO CONTAINING AN INOSINE AFTER A 180 MIN SOAK IN 10 MM MN2+ 
+Chain order		c C d D 
+Amino acids		YES
+Metal			Mn	11
+Chains			c	RNA[3]/1	
+			C	RNA	D 
+			d	RNA[3]/1	
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>6OZP nts=32 [whole]
+CCgA&UAUGCAUGCAUU&CCgA&UAUGCAUGCAUU
+....&.((((((((((.&....&.)))))))))).
+
+Interacting substructures
+Chain c 
+CCgA
+....
+
+Chain C D 
+UAUGCAUGCAUUUAUGCAUGCAUU
+.((((((((((..)))))))))).
+
+Chain d 
+CCgA
+....
+

@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF CSM1-CSM4 CASSETTE IN COMPLEX WITH PPPAPAPA 
+Chain order		E 
+Amino acids		YES
+Metal			Mn	2
+Chains			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6O78 nts=3 [whole]
+aAA
+...
+
+Interacting substructures
+Chain E 
+aAA
+...
+

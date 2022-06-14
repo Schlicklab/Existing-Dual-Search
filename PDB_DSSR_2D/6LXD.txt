@@ -1,0 +1,18 @@
+Title			PRI-MIRNA BOUND DROSHA-DGCR8 COMPLEX 
+Chain order		D-1 D-2 
+Amino acids		YES
+Metal			Zn	2
+Chains			D-1	RNA*	D-2 
+			D-2	RNA*	D-1 
+Pseudoknot		NO
+
+Whole structure
+>6LXD nts=72 [whole]
+AUAGCAAUGUCAGCAGUGCCUUAGCAGCACGUAAA&UUAACUGUGCUGCUGAAGUAAGGUUGACCAUACUCUA
+..((....(.((.(..(((.(((((((((((..((&))..).)))))))))).)))..).))..).....)).
+
+Interacting substructures
+Chain D-1 D-2 
+AUAGCAAUGUCAGCAGUGCCUUAGCAGCACGUAAAUUAACUGUGCUGCUGAAGUAAGGUUGACCAUACUCUA
+..((....(.((.(..(((.(((((((((((..(())..).)))))))))).)))..).))..).....)).
+

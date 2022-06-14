@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF A TERNARY COMPLEX OF FBF-2 WITH LST-1 (SITE B) AND COMPACT FBE RNA 
+Chain order		B D 
+Amino acids		YES
+Metal			Na	1
+Chains			B	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6PUN nts=15 [whole]
+CUGUGAAU&UGUGAAU
+........&.......
+
+Interacting substructures
+Chain B 
+CUGUGAAU
+........
+
+Chain D 
+UGUGAAU
+.......
+

@@ -1,0 +1,18 @@
+Title			CRYO-EM STRUCTURE OF THE T. THERMOPHILUS CSM COMPLEX BOUND TO TARGET SSRNA 
+Chain order		M N 
+Amino acids		NO
+Metal
+Chains			M	RNA	N 
+			N	RNA	M 
+Pseudoknot		NO
+
+Whole structure
+>6O1O nts=66 [whole]
+UGCGACCCGUAGAUAAGGCGCCCGGGGACGACCACG&UGACGUGGUCGUCCCCGGGCGCCUUAUCUA
+............(((((.(((((.(((((.((((..&.....)))).))))).))))).)))))...
+
+Interacting substructures
+Chain M N 
+UGCGACCCGUAGAUAAGGCGCCCGGGGACGACCACGUGACGUGGUCGUCCCCGGGCGCCUUAUCUA
+............(((((.(((((.(((((.((((.......)))).))))).))))).)))))...
+

@@ -1,0 +1,25 @@
+Title			MANGANESE RIBOSWITCH FROM XANTHMONAS ORYZAE BOUND TO MN(II) 
+Chain order		A B 
+Amino acids		NO
+Metal			Na	1
+			Mg	39
+			Mn	7
+			Sr	9
+Chains			A	RNA	A 
+			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6N2V nts=198 [whole]
+gGCUUGGGGAGUAGCCUGCUUUCGGAAACGAAAGCGCCUGUAUCAACAUACUCGGCGAAAGCCGUGGUGCAGGACCGAAAGGUCUGGCGAGACCAGGCC&gGCUUGGGGAGUAGCCUGCUUUCGGAAACGAAAGCGCCUGUAUCAACAUACUCGGCGAAAGCCGUGGUGCAGGACCGAAAGGUCUGGCGAGACCAGGCC
+(((((((......(((.(((((((....))))))).(((((((((.......((((....)))))))))))))(((....)))..)))....)))))))&(((((((......(((.(((((((....))))))).(((((((((.......((((....))))))))))))).((....))...)))....)))))))
+
+Interacting substructures
+Chain A 
+gGCUUGGGGAGUAGCCUGCUUUCGGAAACGAAAGCGCCUGUAUCAACAUACUCGGCGAAAGCCGUGGUGCAGGACCGAAAGGUCUGGCGAGACCAGGCC
+(((((((......(((.(((((((....))))))).(((((((((.......((((....)))))))))))))(((....)))..)))....)))))))
+
+Chain B 
+gGCUUGGGGAGUAGCCUGCUUUCGGAAACGAAAGCGCCUGUAUCAACAUACUCGGCGAAAGCCGUGGUGCAGGACCGAAAGGUCUGGCGAGACCAGGCC
+(((((((......(((.(((((((....))))))).(((((((((.......((((....))))))))))))).((....))...)))....)))))))
+

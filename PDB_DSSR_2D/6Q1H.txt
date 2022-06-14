@@ -1,0 +1,22 @@
+Title			STRUCTURE OF P. AERUGINOSA ATCC27853 NUCC, CAAA-BOUND FORM 
+Chain order		D H 
+Amino acids		YES
+Metal
+Chains			D	RNAo	
+			H	RNAo	
+Pseudoknot		NO
+
+Whole structure
+>6Q1H nts=6 [whole]
+AAA&AAA
+...&...
+
+Interacting substructures
+Chain D 
+AAA
+...
+
+Chain H 
+AAA
+...
+

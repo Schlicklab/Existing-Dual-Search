@@ -1,0 +1,631 @@
+Title			X-RAY CRYSTAL STRUCTURES OF 70S RIBOSOME FUNCTIONAL COMPLEXES 
+Chain order		A-1 A-2 A-3 B C-1 C-2 C-3 D E F-1 F-2 F-3 F-4 F-5 F-6 F-7 F-8 F-9 F-10 F-11 F-12 F-13 F-14 F-15 F-16 F-17 F-18 F-19 F-20 F-21 F-22 F-23 F-24 F-25 F-26 F-27 F-28 F-29 F-30 F-31 F-32 F-33 F-34 F-35 F-36 F-37 F-38 F-39 F-40 F-41 F-42 F-43 F-44 F-45 F-46 F-47 F-48 F-49 F-50 F-51 F-52 F-53 F-54 F-55 F-56 F-57 F-58 F-59 F-60 F-61 F-62 F-63 F-64 F-65 F-66 F-67 F-68 F-69 F-70 F-71 F-72 F-73 F-74 F-75 F-76 F-77 F-78 F-79 F-80 F-81 F-82 F-83 F-84 F-85 G-1 G-2 G-3 G-4 G-5 G-6 G-7 G-8 G-9 G-10 G-11 G-12 G-13 G-14 G-15 G-16 G-17 G-18 G-19 G-20 G-21 G-22 G-23 G-24 G-25 G-26 G-27 G-28 G-29 G-30 G-31 G-32 G-33 
+Amino acids		NO
+Metal			Ir	4
+Chains			A-1	RNA*	A-1 A-3 
+			A-2	RNA*	B A-2 
+			A-3	RNA*	A-1 A-3 
+			B	RNA	A-2 
+			C-1	RNA*	C-3 C-1 
+			C-2	RNA*	C-2 D 
+			C-3	RNA*	C-3 C-1 
+			D	RNA	C-2 
+			E	RNA	E 
+			F-1	DNA*	
+			F-2	DNA*	
+			F-3	DNA*	
+			F-4	DNA*	
+			F-5	DNA*	
+			F-6	DNA*	
+			F-7	DNA*	
+			F-8	DNA*	
+			F-9	DNA*	
+			F-10	DNA*	
+			F-11	DNA*	
+			F-12	DNA*	
+			F-13	DNA*	
+			F-14	DNA*	
+			F-15	DNA*	
+			F-16	DNA*	
+			F-17	DNA*	
+			F-18	DNA*	
+			F-19	DNA*	
+			F-20	DNA*	
+			F-21	DNA*	
+			F-22	DNA*	
+			F-23	DNA*	
+			F-24	DNA*	
+			F-25	DNA*	
+			F-26	DNA*	
+			F-27	DNA*	
+			F-28	DNA*	
+			F-29	DNA*	
+			F-30	DNA*	
+			F-31	DNA*	
+			F-32	DNA*	
+			F-33	DNA*	
+			F-34	DNA*	
+			F-35	DNA*	
+			F-36	DNA*	
+			F-37	DNA*	
+			F-38	DNA*	
+			F-39	DNA*	
+			F-40	DNA*	
+			F-41	DNA*	
+			F-42	DNA*	
+			F-43	DNA*	
+			F-44	DNA*	
+			F-45	DNA*	
+			F-46	DNA*	
+			F-47	DNA*	
+			F-48	DNA*	
+			F-49	DNA*	
+			F-50	DNA*	
+			F-51	DNA*	
+			F-52	DNA*	
+			F-53	DNA*	
+			F-54	DNA*	
+			F-55	DNA*	
+			F-56	DNA*	
+			F-57	DNA*	
+			F-58	DNA*	
+			F-59	DNA*	
+			F-60	DNA*	
+			F-61	DNA*	
+			F-62	DNA*	
+			F-63	DNA*	
+			F-64	DNA*	
+			F-65	DNA*	
+			F-66	DNA*	
+			F-67	DNA*	
+			F-68	DNA*	
+			F-69	DNA*	
+			F-70	DNA*	
+			F-71	DNA*	
+			F-72	DNA*	
+			F-73	DNA*	
+			F-74	DNA*	
+			F-75	DNA*	
+			F-76	DNA*	
+			F-77	DNA*	
+			F-78	DNA*	
+			F-79	DNA*	
+			F-80	DNA*	
+			F-81	DNA*	
+			F-82	DNA*	
+			F-83	DNA*	
+			F-84	DNA*	
+			F-85	DNA*	
+			G-1	DNA*	
+			G-2	DNA*	
+			G-3	DNA*	
+			G-4	DNA*	
+			G-5	DNA*	
+			G-6	DNA*	
+			G-7	DNA*	
+			G-8	DNA*	
+			G-9	DNA*	
+			G-10	DNA*	
+			G-11	DNA*	
+			G-12	DNA*	
+			G-13	DNA*	
+			G-14	DNA*	
+			G-15	DNA*	
+			G-16	DNA*	
+			G-17	DNA*	
+			G-18	DNA*	
+			G-19	DNA*	
+			G-20	DNA*	
+			G-21	DNA*	
+			G-22	DNA*	
+			G-23	DNA*	
+			G-24	DNA*	
+			G-25	DNA*	
+			G-26	DNA*	
+			G-27	DNA*	
+			G-28	DNA*	
+			G-29	DNA*	
+			G-30	DNA*	
+			G-31	DNA*	
+			G-32	DNA*	
+			G-33	DNA*	
+Pseudoknot		YES
+
+Whole structure
+>486D nts=342 [whole]
+UCCGUGAUAGUUPAAuGGuCAGAAU&gCCAGAcUGAAgAUcUGGA&GAUcGGGGtPCAAUUCCCCGUCGCGGAGCC&UUU&GCGGAUUUAgCUCAGuuGGGAGAGCgCC&CGCPUGUCgCGUG&GGAGgUCcUGUGtPCGaUCCACAGAAUUCGC&GUC&UCCGUGAUAGUUPAAuGGuCAGAAUGGGCGCPUGUCgCGUGCCAGAUcGGGGtPCAAUUCCCCGUCGCGGAG&C&G&U&C&A&C&A&C&C&A&U&G&G&A&A&G&G&G&G&G&U&U&G&C&A&A&A&G&A&A&A&G&G&G&U&G&G&C&C&C&C&C&U&U&C&G&G&G&G&C&G&C&C&U&A&A&C&U&U&U&G&U&G&A&U&U&C&C&U&A&A&C&U&G&G&G&G&U&G&A&A&G&U&C&G&C&U&G&G&G&G&A&G&U&A&C&G&G&C&C&G&C&A&A&G&G&C&U&G&A&A&A&C&U&C&A&A&A
+(((((((..(((..........)))&.((((....[[...)))).&...(((((.......))))))))))))...&]].&(((((((..((((.....{..)))).((&(((..[.[..)))&)).....(((((..}....))))))))))))&].]&(((((((..(((..........))).(((((.......)))))....(((((.......)))))))))))).&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.
+
+Interacting substructures
+Chain A-1 A-3 
+UCCGUGAUAGUUPAAuGGuCAGAAUGAUcGGGGtPCAAUUCCCCGUCGCGGAGCC
+(((((((..(((..........)))...(((((.......))))))))))))...
+
+Chain A-2 B 
+gCCAGAcUGAAgAUcUGGAUUU
+.((((....[[...)))).]].
+
+Chain C-1 C-3 
+GCGGAUUUAgCUCAGuuGGGAGAGCgCCGGAGgUCcUGUGtPCGaUCCACAGAAUUCGC
+(((((((..((((.....{..)))).(()).....(((((..}....))))))))))))
+
+Chain C-2 D 
+CGCPUGUCgCGUGGUC
+(((..[.[..)))].]
+
+Chain E 
+UCCGUGAUAGUUPAAuGGuCAGAAUGGGCGCPUGUCgCGUGCCAGAUcGGGGtPCAAUUCCCCGUCGCGGAG
+(((((((..(((..........))).(((((.......)))))....(((((.......)))))))))))).
+
+Chain F-1 
+C
+.
+
+Chain F-2 
+G
+.
+
+Chain F-3 
+U
+.
+
+Chain F-4 
+C
+.
+
+Chain F-5 
+A
+.
+
+Chain F-6 
+C
+.
+
+Chain F-7 
+A
+.
+
+Chain F-8 
+C
+.
+
+Chain F-9 
+C
+.
+
+Chain F-10 
+A
+.
+
+Chain F-11 
+U
+.
+
+Chain F-12 
+G
+.
+
+Chain F-13 
+G
+.
+
+Chain F-14 
+A
+.
+
+Chain F-15 
+A
+.
+
+Chain F-16 
+G
+.
+
+Chain F-17 
+G
+.
+
+Chain F-18 
+G
+.
+
+Chain F-19 
+G
+.
+
+Chain F-20 
+G
+.
+
+Chain F-21 
+U
+.
+
+Chain F-22 
+U
+.
+
+Chain F-23 
+G
+.
+
+Chain F-24 
+C
+.
+
+Chain F-25 
+A
+.
+
+Chain F-26 
+A
+.
+
+Chain F-27 
+A
+.
+
+Chain F-28 
+G
+.
+
+Chain F-29 
+A
+.
+
+Chain F-30 
+A
+.
+
+Chain F-31 
+A
+.
+
+Chain F-32 
+G
+.
+
+Chain F-33 
+G
+.
+
+Chain F-34 
+G
+.
+
+Chain F-35 
+U
+.
+
+Chain F-36 
+G
+.
+
+Chain F-37 
+G
+.
+
+Chain F-38 
+C
+.
+
+Chain F-39 
+C
+.
+
+Chain F-40 
+C
+.
+
+Chain F-41 
+C
+.
+
+Chain F-42 
+C
+.
+
+Chain F-43 
+U
+.
+
+Chain F-44 
+U
+.
+
+Chain F-45 
+C
+.
+
+Chain F-46 
+G
+.
+
+Chain F-47 
+G
+.
+
+Chain F-48 
+G
+.
+
+Chain F-49 
+G
+.
+
+Chain F-50 
+C
+.
+
+Chain F-51 
+G
+.
+
+Chain F-52 
+C
+.
+
+Chain F-53 
+C
+.
+
+Chain F-54 
+U
+.
+
+Chain F-55 
+A
+.
+
+Chain F-56 
+A
+.
+
+Chain F-57 
+C
+.
+
+Chain F-58 
+U
+.
+
+Chain F-59 
+U
+.
+
+Chain F-60 
+U
+.
+
+Chain F-61 
+G
+.
+
+Chain F-62 
+U
+.
+
+Chain F-63 
+G
+.
+
+Chain F-64 
+A
+.
+
+Chain F-65 
+U
+.
+
+Chain F-66 
+U
+.
+
+Chain F-67 
+C
+.
+
+Chain F-68 
+C
+.
+
+Chain F-69 
+U
+.
+
+Chain F-70 
+A
+.
+
+Chain F-71 
+A
+.
+
+Chain F-72 
+C
+.
+
+Chain F-73 
+U
+.
+
+Chain F-74 
+G
+.
+
+Chain F-75 
+G
+.
+
+Chain F-76 
+G
+.
+
+Chain F-77 
+G
+.
+
+Chain F-78 
+U
+.
+
+Chain F-79 
+G
+.
+
+Chain F-80 
+A
+.
+
+Chain F-81 
+A
+.
+
+Chain F-82 
+G
+.
+
+Chain F-83 
+U
+.
+
+Chain F-84 
+C
+.
+
+Chain F-85 
+G
+.
+
+Chain G-1 
+C
+.
+
+Chain G-2 
+U
+.
+
+Chain G-3 
+G
+.
+
+Chain G-4 
+G
+.
+
+Chain G-5 
+G
+.
+
+Chain G-6 
+G
+.
+
+Chain G-7 
+A
+.
+
+Chain G-8 
+G
+.
+
+Chain G-9 
+U
+.
+
+Chain G-10 
+A
+.
+
+Chain G-11 
+C
+.
+
+Chain G-12 
+G
+.
+
+Chain G-13 
+G
+.
+
+Chain G-14 
+C
+.
+
+Chain G-15 
+C
+.
+
+Chain G-16 
+G
+.
+
+Chain G-17 
+C
+.
+
+Chain G-18 
+A
+.
+
+Chain G-19 
+A
+.
+
+Chain G-20 
+G
+.
+
+Chain G-21 
+G
+.
+
+Chain G-22 
+C
+.
+
+Chain G-23 
+U
+.
+
+Chain G-24 
+G
+.
+
+Chain G-25 
+A
+.
+
+Chain G-26 
+A
+.
+
+Chain G-27 
+A
+.
+
+Chain G-28 
+C
+.
+
+Chain G-29 
+U
+.
+
+Chain G-30 
+C
+.
+
+Chain G-31 
+A
+.
+
+Chain G-32 
+A
+.
+
+Chain G-33 
+A
+.
+

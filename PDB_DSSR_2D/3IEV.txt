@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF ERA IN COMPLEX WITH MGGNP AND THE 3' END OF 16S RRNA 
+Chain order		D A 
+Amino acids		YES
+Metal			Mg	1
+Chains			D	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>3IEV nts=12 [whole]
+AUCACCUCCUU&g
+...........&.
+
+Interacting substructures
+Chain D 
+AUCACCUCCUU
+...........
+
+Chain A 
+g
+.
+

@@ -1,0 +1,19 @@
+Title			COCRYSTAL STRUCTURE OF A MUTANT CLASS-I PREQ1 RIBOSWITCH 
+Chain order		A-1 A-2 A-3 
+Amino acids		NO
+Metal			Ca	4
+Chains			A-1	RNA[29]/1*	A-2 
+			A-2	RNA[29]/1*	A-1 A-3 
+			A-3	RNA[29]/1*	A-2 
+Pseudoknot		YES
+
+Whole structure
+>3K1V nts=30 [whole]
+AGAGGUUCUAG&CCCUCUAUAAAAAACUAA&g
+(((((...[[[&{)))))........]]].&}
+
+Interacting substructures
+Chain A-1 A-2 A-3 
+AGAGGUUCUAGCCCUCUAUAAAAAACUAAg
+(((((...[[[{)))))........]]].}
+

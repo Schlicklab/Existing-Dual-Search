@@ -1,0 +1,19 @@
+Title			TERTIARY ARCHITECTURE OF THE OCEANOBACILLUS IHEYENSIS GROUP II INTRON 
+Chain order		A B 
+Amino acids		NO
+Metal			Mg	44
+			K	22
+Chains			A	RNA	B A 
+			B	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>3IGI nts=396 [whole]
+UGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGU&GCUCUACU
+.[<.((((({..(((((((((((...(((.......)))..(((((...[[[[[[[...)))))..(((...(((..((((.((((((....))))))))))...>}..)))...)))...(((((((((((.(.....)...(((((.....[(((....(.((((((((..((((.]{.{.{.))))...)))).]]]]]]]...)))).)....)))...))))))))))...))))))...)))))))))))...])))))(...((((....))))...).......(((.(....(((........)))...))))....(((((.(((((....))))..)))))).(((((((((((((....)))..))))))))))..&}.}.}...
+
+Interacting substructures
+Chain A B 
+UGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGCAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACCGCCGUAUACCGAACGGUACGUACGGUGGUGUGCUCUACU
+.[<.((((({..(((((((((((...(((.......)))..(((((...[[[[[[[...)))))..(((...(((..((((.((((((....))))))))))...>}..)))...)))...(((((((((((.(.....)...(((((.....[(((....(.((((((((..((((.]{.{.{.))))...)))).]]]]]]]...)))).)....)))...))))))))))...))))))...)))))))))))...])))))(...((((....))))...).......(((.(....(((........)))...))))....(((((.(((((....))))..)))))).(((((((((((((....)))..))))))))))..}.}.}...
+

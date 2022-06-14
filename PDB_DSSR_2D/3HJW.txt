@@ -1,0 +1,19 @@
+Title			STRUCTURE OF A FUNCTIONAL RIBONUCLEOPROTEIN PSEUDOURIDINE SYNTHASE BOUND TO A SUBSTRATE RNA 
+Chain order		D E 
+Amino acids		YES
+Metal			K	1
+			Zn	1
+Chains			D	RNA	E D 
+			E	RNA	D 
+Pseudoknot		YES
+
+Whole structure
+>3HJW nts=71 [whole]
+GGGCCACGGAAACCGCGCGCGGUGAUCAAUGAGCCGCGUUCGCUCCCGUGGCCCACAA&GAGCGpGCGGUUU
+((((((((([[[[[[.(((((((.........))))))).[[[[[)))))))))....&]]]]]..]]]]]]
+
+Interacting substructures
+Chain D E 
+GGGCCACGGAAACCGCGCGCGGUGAUCAAUGAGCCGCGUUCGCUCCCGUGGCCCACAAGAGCGpGCGGUUU
+((((((((([[[[[[.(((((((.........))))))).[[[[[)))))))))....]]]]]..]]]]]]
+

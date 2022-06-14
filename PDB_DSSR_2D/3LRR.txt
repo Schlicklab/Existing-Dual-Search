@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF HUMAN RIG-I CTD BOUND TO A 12 BP AU RICH 5' PPP DSRNA 
+Chain order		C D 
+Amino acids		YES
+Metal			Zn	2
+Chains			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>3LRR nts=24 [whole]
+aUAUAUAUAUAU&aUAUAUAUAUAU
+((((((((((((&))))))))))))
+
+Interacting substructures
+Chain C D 
+aUAUAUAUAUAUaUAUAUAUAUAU
+(((((((((((())))))))))))
+

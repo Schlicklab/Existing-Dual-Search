@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF FBF-2/FBE COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3K5Q nts=9 [whole]
+UGUACUAUA
+.........
+
+Interacting substructures
+Chain B 
+UGUACUAUA
+.........
+

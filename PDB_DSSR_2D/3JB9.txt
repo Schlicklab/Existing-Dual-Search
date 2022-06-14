@@ -1,0 +1,52 @@
+Title			CRYO-EM STRUCTURE OF THE YEAST SPLICEOSOME AT 3.6 ANGSTROM RESOLUTION 
+Chain order		C N O Q P-1 P-2 P-3 P-4 P-5 B X 
+Amino acids		YES
+Metal			Mg	4
+			Zn	7
+Chains			C	RNA	C 
+			N	RNA	P-1 N O 
+			O	RNA	N 
+			Q	RNA	P-1 
+			P-1	RNA*	Q N 
+			P-2	RNA*	
+			P-3	RNA*	P-4 
+			P-4	RNA*	P-3 
+			P-5	RNA*	P-5 
+			B			
+			X			
+Pseudoknot		YES
+
+Whole structure
+>3JB9 nts=329 [whole]
+CGUCAAAGCACUUUGCAAAAGCUAACGUAUCUGUUUCUUGCCUUUUACCAGAAACAGCCGUUUGUAAGGUGUGCUAAUUUGACUGUAUAGUUUUUGUAAUCUUUU&GAUCUUCGGAUCACUUUGGUCAAAUUGAAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCACAAGGAUGACACUGCGACAUUGAGAGAAA&GUAUGUAU&UUUAUACUAACAC&AUUCUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGU&AUCUUGUUUUUGGUUU&UUGGAAAGCCUCUGG&GCUAUGCUUUCC&UCUUGCUAUUGCACUACUGGCAAGC&g&a
+(((((((((((((((((((......((...((((((((.(.......).)))))))).)))))))))))))).....)))))).)....................&((((....))))....................[[[[......(((((((.((..((((.....)))..).))..........(((((((.&....]]]]&...[[[[[..[[[&.)))))))...........)))..))))..]]].]]]]]....&................&.......((.(....&...).)).....&.((((((...........)))))).&.&.
+
+Interacting substructures
+Chain C 
+CGUCAAAGCACUUUGCAAAAGCUAACGUAUCUGUUUCUUGCCUUUUACCAGAAACAGCCGUUUGUAAGGUGUGCUAAUUUGACUGUAUAGUUUUUGUAAUCUUUU
+(((((((((((((((((((......((...((((((((.(.......).)))))))).)))))))))))))).....)))))).)....................
+
+Chain N O Q P-1 
+GAUCUUCGGAUCACUUUGGUCAAAUUGAAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCACAAGGAUGACACUGCGACAUUGAGAGAAAGUAUGUAUUUUAUACUAACACAUUCUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGU
+((((....))))....................[[[[......(((((((.((..((((.....)))..).))..........(((((((.....]]]]...[[[[[..[[[.)))))))...........)))..))))..]]].]]]]]....
+
+Chain P-2 
+AUCUUGUUUUUGGUUU
+................
+
+Chain P-3 P-4 
+UUGGAAAGCCUCUGGGCUAUGCUUUCC
+.......((.(.......).)).....
+
+Chain P-5 
+UCUUGCUAUUGCACUACUGGCAAGC
+.((((((...........)))))).
+
+Chain B 
+g
+.
+
+Chain X 
+a
+.
+

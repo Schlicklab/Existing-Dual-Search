@@ -1,0 +1,18 @@
+Title			M296I MUTANT OF FOOT-AND-MOUTH DISEASE VIRUS RNA-POLYMERASE IN COMPLEX WITH A TEMPLATE- PRIMER RNA AND GTP 
+Chain order		B C 
+Amino acids		YES
+Metal			Mg	2
+Chains			B	RNA[5]/1	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>3KOA nts=10 [whole]
+AUGGGC&CCCG
+..(((.&))).
+
+Interacting substructures
+Chain B C 
+AUGGGCCCCG
+..(((.))).
+

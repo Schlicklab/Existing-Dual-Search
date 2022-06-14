@@ -1,0 +1,18 @@
+Title			STRUCTURE OF THE MAMMALIAN RIBOSOMAL PRE-TERMINATION COMPLEX ASSOCIATED WITH ERF1-ERF3-GDPNP 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	RNA	C D 
+Pseudoknot		YES
+
+Whole structure
+>3J5Y nts=98 [whole]
+AUUGUAAAAA&GCGGGGGUUGCCGAGCCUGGUCAAAGGCGGGGGACUCAAGAUCCCCUCCCGUAGGGGUUCCGGGGUUCGAAUCCCCGCCCCCGCACCA
+..[[......&(((((((..(((.......{.....)))((((((..]]...))))))(((....)))...(((((..}....))))))))))))....
+
+Interacting substructures
+Chain C D 
+AUUGUAAAAAGCGGGGGUUGCCGAGCCUGGUCAAAGGCGGGGGACUCAAGAUCCCCUCCCGUAGGGGUUCCGGGGUUCGAAUCCCCGCCCCCGCACCA
+..[[......(((((((..(((.......{.....)))((((((..]]...))))))(((....)))...(((((..}....))))))))))))....
+

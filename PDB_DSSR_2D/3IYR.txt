@@ -1,0 +1,17 @@
+Title			TMRNA-SMPB: A JOURNEY TO THE CENTER OF THE BACTERIAL RIBOSOME 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>3IYR nts=349 [whole]
+GGGGGUGAAACGGUCUCGACGGGGGUCGCCGAGGGCGUGGCUGCGCGCCGAGGUGCGGGUGGCCUCGUAAAAACCCGCAACGGCAUAACUGCCAACACCAACUACGCUCUCGCGGCUUAAUGACCGCGACCUCGCCCGGUAGCCCUGCCGGGGGCUCACCGGAAGCGGGGACACAAACCCGGCUAGCCCGGGGCCACGCCCUCUAACCCCGGGCGAAGCUUGAAGGGGGCUCGCUCCUGGCCGCCCGUCCGCGGGCCAAGCCAGGAGGACACGCGAAACGCGGACUACGCGCGUAGAGGCCCGCCGUAGGGACCUUCGGACGGGGGUUCGACUCCCCCCACCUCCACCA
+((((..(.............(..(((........(((.(((...((((..[[..((((.(...]].......).))))...............................((((((........))))))..((((.(((.(.....[[[[.....)..)))...))))...........]]]]...((((((.....[[[[......)))))).............]]]]...[[[..[[[.[...(((((((..]...]]]..]].]..........)))))))...))))......)))))).......)))..)....(.(((.......))).))..))))....
+
+Interacting substructures
+Chain A 
+GGGGGUGAAACGGUCUCGACGGGGGUCGCCGAGGGCGUGGCUGCGCGCCGAGGUGCGGGUGGCCUCGUAAAAACCCGCAACGGCAUAACUGCCAACACCAACUACGCUCUCGCGGCUUAAUGACCGCGACCUCGCCCGGUAGCCCUGCCGGGGGCUCACCGGAAGCGGGGACACAAACCCGGCUAGCCCGGGGCCACGCCCUCUAACCCCGGGCGAAGCUUGAAGGGGGCUCGCUCCUGGCCGCCCGUCCGCGGGCCAAGCCAGGAGGACACGCGAAACGCGGACUACGCGCGUAGAGGCCCGCCGUAGGGACCUUCGGACGGGGGUUCGACUCCCCCCACCUCCACCA
+((((..(.............(..(((........(((.(((...((((..[[..((((.(...]].......).))))...............................((((((........))))))..((((.(((.(.....[[[[.....)..)))...))))...........]]]]...((((((.....[[[[......)))))).............]]]]...[[[..[[[.[...(((((((..]...]]]..]].]..........)))))))...))))......)))))).......)))..)....(.(((.......))).))..))))....
+

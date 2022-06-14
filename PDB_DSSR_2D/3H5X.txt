@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF 2'-AMINO-2'-DEOXY-CYTIDINE-5'-TRIPHOSPHATE BOUND TO NOROVIRUS GII RNA POLYMERASE 
+Chain order		P T A 
+Amino acids		YES
+Metal			Mn	4
+Chains			P	RNA	T 
+			T	RNA	P 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>3H5X nts=17 [whole]
+GCCCGGG&UGCCCGGGC&c
+(((((((&..)))))))&.
+
+Interacting substructures
+Chain P T 
+GCCCGGGUGCCCGGGC
+(((((((..)))))))
+
+Chain A 
+c
+.
+

@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE CENA-RNA HYBRID OCTAMER CE(GCGTAGCG) :R(CGCUACGC) 
+Chain order		A B 
+Amino acids		NO
+Metal			Mg	2
+Chains			A	DNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>3KNC nts=16 [whole]
+gcgtagcg&CGCUACGC
+((((((((&))))))))
+
+Interacting substructures
+Chain A B 
+gcgtagcgCGCUACGC
+(((((((())))))))
+

@@ -1,0 +1,19 @@
+Title			CRYSTAL STRUCTURE OF ZAIRE EBOLA VP35 INTERFERON INHIBITORY DOMAIN BOUND TO 8 BP DSRNA 
+Chain order		C F 
+Amino acids		YES
+Metal			Na	8
+			Mg	1
+Chains			C	RNA	F 
+			F	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>3L25 nts=16 [whole]
+CGCAUGCG&CGCAUGCG
+((((((((&))))))))
+
+Interacting substructures
+Chain C F 
+CGCAUGCGCGCAUGCG
+(((((((())))))))
+

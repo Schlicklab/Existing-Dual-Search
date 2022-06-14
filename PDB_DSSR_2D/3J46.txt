@@ -1,0 +1,42 @@
+Title			STRUCTURE OF THE SECY PROTEIN TRANSLOCATION CHANNEL IN ACTION 
+Chain order		p a 1 2 3 4 
+Amino acids		YES
+Metal
+Chains			p	RNA	p 
+			a	RNA	a 
+			1	RNA	1 
+			2	RNA	2 
+			3	RNA	3 
+			4	RNA	4 
+Pseudoknot		YES
+
+Whole structure
+>3J46 nts=404 [whole]
+GCGGGAAUAGCUCAGUUGGUAGAGCACGACCUUGCCAAGGUCGGGGUCGCGAGUUCGAGUCUCGUUUCCCGCUCCA&GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAaAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA&AAGGACGUGCUAAUCUGCGAUAAGCGUCGGUAAGGUGAUAUGAACCGUUAUAACCGGCGAUUU&AAGGGUUCCUGUCCAACGUUAAUCGGGGCAGGGUGA&AGGCGUGAUGACGAGGCACUACGGUGCUGAAGCAACAAAUGCCC&CUGAACAUUGAGCCUUGAUGUGUAGGAUAGGUGGGAGGCUUUGAAGUGUGGACGCCAGUCUGCAUGGAGCCGACCUUGAAAUACCACCCUUUAAUGUUUGAUGUUCUAA
+(((((((...((..........))..(((((.......))))).....(((((.......))))))))))))....&(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....&....((((.[..[[[.)))....(((((((...(((]]]..].))).......)))))).).)&.......((((((...((.....)).))))))....&...........(..(((((....)))))...)............&..(((((((((((.((((.(......[....(((...........(((.((((....)))).)))................].)))..).)))).)))))))))))...
+
+Interacting substructures
+Chain p 
+GCGGGAAUAGCUCAGUUGGUAGAGCACGACCUUGCCAAGGUCGGGGUCGCGAGUUCGAGUCUCGUUUCCCGCUCCA
+(((((((...((..........))..(((((.......))))).....(((((.......))))))))))))....
+
+Chain a 
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAaAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....
+
+Chain 1 
+AAGGACGUGCUAAUCUGCGAUAAGCGUCGGUAAGGUGAUAUGAACCGUUAUAACCGGCGAUUU
+....((((.[..[[[.)))....(((((((...(((]]]..].))).......)))))).).)
+
+Chain 2 
+AAGGGUUCCUGUCCAACGUUAAUCGGGGCAGGGUGA
+.......((((((...((.....)).))))))....
+
+Chain 3 
+AGGCGUGAUGACGAGGCACUACGGUGCUGAAGCAACAAAUGCCC
+...........(..(((((....)))))...)............
+
+Chain 4 
+CUGAACAUUGAGCCUUGAUGUGUAGGAUAGGUGGGAGGCUUUGAAGUGUGGACGCCAGUCUGCAUGGAGCCGACCUUGAAAUACCACCCUUUAAUGUUUGAUGUUCUAA
+..(((((((((((.((((.(......[....(((...........(((.((((....)))).)))................].)))..).)))).)))))))))))...
+

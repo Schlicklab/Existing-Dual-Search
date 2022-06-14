@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF CLASS I LIGASE RIBOZYME SELF-LIGATION PRODUCT, IN COMPLEX WITH U1A RBD 
+Chain order		C E 
+Amino acids		YES
+Metal			Mg	34
+Chains			C	RNA	C 
+			E	RNA	E 
+Pseudoknot		YES
+
+Whole structure
+>3HHN nts=274 [whole]
+UCCAGUAGGAACACUAUACUACUGGAUAAUCAAAGACAAAUCUGCCCGAAGGGCUUGAGAACAUACCCAUUGCACUCCGGGUAUGCAGAGGUGGCAGCCUCCGGUGGGUUAAAACCCAACGUUCUCAACAAUAGUGa&UCCAGUAGGAACACUAUACUACUGGAUAAUCAAAGACAAAUCUGCCCGAAGGGCUUGAGAACAUACCCAUUGCACUCCGGGUAUGCAGAGGUGGCAGCCUCCGGUGGGUUAAAACCCAACGUUCUCAACAAUAGUGa
+((((((((...[[[[[[.))))))))...............[[[[[(...).(.((((((((((((((..........)))))))..((((.]]]]]))))((.((((......)))).)))))))))).]]]]]].&((((((((...[[[[[[.))))))))...............[[[[[(...).(.((((((((((((((..........)))))))..((((.]]]]]))))((.((((......)))).)))))))))).]]]]]].
+
+Interacting substructures
+Chain C 
+UCCAGUAGGAACACUAUACUACUGGAUAAUCAAAGACAAAUCUGCCCGAAGGGCUUGAGAACAUACCCAUUGCACUCCGGGUAUGCAGAGGUGGCAGCCUCCGGUGGGUUAAAACCCAACGUUCUCAACAAUAGUGa
+((((((((...[[[[[[.))))))))...............[[[[[(...).(.((((((((((((((..........)))))))..((((.]]]]]))))((.((((......)))).)))))))))).]]]]]].
+
+Chain E 
+UCCAGUAGGAACACUAUACUACUGGAUAAUCAAAGACAAAUCUGCCCGAAGGGCUUGAGAACAUACCCAUUGCACUCCGGGUAUGCAGAGGUGGCAGCCUCCGGUGGGUUAAAACCCAACGUUCUCAACAAUAGUGa
+((((((((...[[[[[[.))))))))...............[[[[[(...).(.((((((((((((((..........)))))))..((((.]]]]]))))((.((((......)))).)))))))))).]]]]]].
+

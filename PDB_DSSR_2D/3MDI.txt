@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE 25KDA SUBUNIT OF HUMAN CLEAVAGE FACTOR IM IN COMPLEX WITH RNA UGUAAA 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3MDI nts=6 [whole]
+UGUAAA
+......
+
+Interacting substructures
+Chain C 
+UGUAAA
+......
+

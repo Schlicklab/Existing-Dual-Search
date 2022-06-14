@@ -1,0 +1,18 @@
+Title			SRP RIBONUCLEOPROTEIN CORE COMPLEXED WITH COBALT HEXAMMINE 
+Chain order		B 
+Amino acids		YES
+Metal			K	2
+			Co	8
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>3LQX nts=49 [whole]
+GGCUCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGAGCc
+((((((((((....(((....(((....)))....))).))))))))))
+
+Interacting substructures
+Chain B 
+GGCUCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGAGCc
+((((((((((....(((....(((....)))....))).))))))))))
+

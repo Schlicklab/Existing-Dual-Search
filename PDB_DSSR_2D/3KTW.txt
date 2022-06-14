@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF THE SRP19/S-DOMAIN SRP RNA COMPLEX OF SULFOLOBUS SOLFATARICUS 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	6
+			K	4
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>3KTW nts=191 [whole]
+AGAUAGUCGUGGGUUCCCUUUCUGGAGGGAGAGGGAAUUCCACGUUGACCGGGGGAACCGGCCAGGCCCGGAAGGGAGCAACCGUGCCCGGCUAUC&AGAUAGUCGUGGGUUCCCUUUCUGGAGGGAGAGGGAAUUCCACGUUGACCGGGGGAACCGGCCAGGCCCGGAAGGGAGCAACCGUGCCCGGCUAU
+.(((...((((((((((((((((....))))))))))).))))).....((((.....(((.....(((....))).....)))..))))...)))&..(((..((.(((((((((((((....))))))))))).)).))....(.(((.....(((.....(((....))).....)))..))).).)))
+
+Interacting substructures
+Chain C 
+AGAUAGUCGUGGGUUCCCUUUCUGGAGGGAGAGGGAAUUCCACGUUGACCGGGGGAACCGGCCAGGCCCGGAAGGGAGCAACCGUGCCCGGCUAUC
+.(((...((((((((((((((((....))))))))))).))))).....((((.....(((.....(((....))).....)))..))))...)))
+
+Chain D 
+AGAUAGUCGUGGGUUCCCUUUCUGGAGGGAGAGGGAAUUCCACGUUGACCGGGGGAACCGGCCAGGCCCGGAAGGGAGCAACCGUGCCCGGCUAU
+..(((..((.(((((((((((((....))))))))))).)).))....(.(((.....(((.....(((....))).....)))..))).).)))
+

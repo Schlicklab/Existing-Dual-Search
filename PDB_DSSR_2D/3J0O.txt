@@ -1,0 +1,107 @@
+Title			CORE OF MAMMALIAN 80S PRE-RIBOSOME IN COMPLEX WITH TRNAS FITTED TO A 9A CRYO-EM MAP: CLASSIC PRE STATE 2 
+Chain order		a b c d e E f g G h 2 3 4 5 6 7 8 Y y V v W w 
+Amino acids		YES
+Metal
+Chains			a	RNA	a 
+			b	RNA	b 
+			c	RNA	c 
+			d	RNA	G 
+			e	RNA	E 
+			E	RNA	e 
+			f	RNA	
+			g	RNA	g G 
+			G	RNA	g d 
+			h	RNA	h 
+			2	RNA	2 
+			3	RNA	
+			4	RNA	4 
+			5	RNA	
+			6	RNA	6 
+			7	RNA	7 
+			8	RNA	8 
+			Y	RNA	y Y 
+			y	RNA	Y 
+			V	RNA	V v 
+			v	RNA	V 
+			W	RNA	W 
+			w	RNA	
+Pseudoknot		YES
+
+Whole structure
+>3J0O nts=736 [whole]
+GGAGGGCAAGUCAUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUA&GAGGUGAAAUUC&GACGAUCAGAUACCGUC&CGAGGAA&ACCA&UCCCU&GGUGGUGGUGCAUGGCCGUUC&GAACCUGCGGCUUAAUUUGACUCAACACGGG&GCACGCGCGUUAC&CACCGCCCGUCGCUUGUAGUAACGAAUGGUCUGGUGAACCUUCUGGACUGCGACAGCAAUGUUGCGGAAAAAUAAGUAAACCCUACCAUUUGGAACAACAAGAAGUCGUAA&GCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAACCAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACG&GCCAGUGAAAUA&GGCUGGGGCGGCAC&CCUAAG&AGAACAAAAGGGUAAAAGC&GCUUGUGGCAGUCAAGCGUUCAUAGCGACAUUGCUUUUUGAUUCUUCGAU&GACCGUCGUGAGACAGGUUA&GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACC&UUC&GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACC&UUC&GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA&AA
+((([[....(.(.(((.....((..]])).......))))))))....&((........))&((((.........))))&...(...&(...&)....&.....................&.(((..(((((.......(........)...&)).)))..))).)&.......((.(.(((((.....(.((((((..(((..((.(..(...(.((.(((....))).)).)...)..).))..)))..)))))).).....)))))..).))...&(((..((((((.(...((.....((((....)))).....)).)))))..))))).((((.........))).)....................(((((.......))))).&............&(((.......)).)&......&...((......))......&(.(.(.((((.(...((.......))...).))))...)).)........&(((((((....))).)))).&(..((((..((............))..((((..[[[..))))......((.((.......)).))))))..)...&]]]&(((((((..((((.....{..)))).(((((..[[[..))))).....(((((..}....))))))))))))...&]]]&(((((((..((((........)))).((((.........)))).....((.((.......)).)))))))))....&..
+
+Interacting substructures
+Chain a 
+GGAGGGCAAGUCAUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUA
+((([[....(.(.(((.....((..]])).......))))))))....
+
+Chain b 
+GAGGUGAAAUUC
+((........))
+
+Chain c 
+GACGAUCAGAUACCGUC
+((((.........))))
+
+Chain d g G 
+CGAGGAAGAACCUGCGGCUUAAUUUGACUCAACACGGGGCACGCGCGUUAC
+...(....(((..(((((.......(........)...)).)))..))).)
+
+Chain e E 
+ACCAUCCCU
+(...)....
+
+Chain f 
+GGUGGUGGUGCAUGGCCGUUC
+.....................
+
+Chain h 
+CACCGCCCGUCGCUUGUAGUAACGAAUGGUCUGGUGAACCUUCUGGACUGCGACAGCAAUGUUGCGGAAAAAUAAGUAAACCCUACCAUUUGGAACAACAAGAAGUCGUAA
+.......((.(.(((((.....(.((((((..(((..((.(..(...(.((.(((....))).)).)...)..).))..)))..)))))).).....)))))..).))...
+
+Chain 2 
+GCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAACCAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACG
+(((..((((((.(...((.....((((....)))).....)).)))))..))))).((((.........))).)....................(((((.......))))).
+
+Chain 3 
+GCCAGUGAAAUA
+............
+
+Chain 4 
+GGCUGGGGCGGCAC
+(((.......)).)
+
+Chain 5 
+CCUAAG
+......
+
+Chain 6 
+AGAACAAAAGGGUAAAAGC
+...((......))......
+
+Chain 7 
+GCUUGUGGCAGUCAAGCGUUCAUAGCGACAUUGCUUUUUGAUUCUUCGAU
+(.(.(.((((.(...((.......))...).))))...)).)........
+
+Chain 8 
+GACCGUCGUGAGACAGGUUA
+(((((((....))).)))).
+
+Chain Y y 
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCUUC
+(..((((..((............))..((((..[[[..))))......((.((.......)).))))))..)...]]]
+
+Chain V v 
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCUUC
+(((((((..((((.....{..)))).(((((..[[[..))))).....(((((..}....))))))))))))...]]]
+
+Chain W 
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+(((((((..((((........)))).((((.........)))).....((.((.......)).)))))))))....
+
+Chain w 
+AA
+..
+

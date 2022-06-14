@@ -1,0 +1,33 @@
+Title			STRUCTURE OF MLE RNA ADP ALF4 COMPLEX 
+Chain order		C D A B 
+Amino acids		YES
+Metal			Mg	3
+			Al	2
+Chains			C	RNA	
+			D	RNA	
+			A			
+			B			
+Pseudoknot		NO
+
+Whole structure
+>5AOR nts=22 [whole]
+UUUUUUUUUU&UUUUUUUUUU&a&a
+..........&..........&.&.
+
+Interacting substructures
+Chain C 
+UUUUUUUUUU
+..........
+
+Chain D 
+UUUUUUUUUU
+..........
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+

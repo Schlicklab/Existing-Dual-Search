@@ -1,0 +1,35 @@
+Title			CRYSTAL STRUCTURE OF THE TERNARY COMPLEX OF AGROBACTERIUM RADIOBACTER K84 AGNB2 LEURS-TRNA-LEUAMS 
+Chain order		C-1 C-2 D-1 D-2 A B 
+Amino acids		YES
+Metal			Mn	2
+			Zn	2
+Chains			C-1	RNA*	C-1 C-2 
+			C-2	RNA*	C-1 C-2 
+			D-1	RNA*	D-2 D-1 
+			D-2	RNA*	D-2 D-1 
+			A			
+			B			
+Pseudoknot		YES
+
+Whole structure
+>5AH5 nts=163 [whole]
+GCCCGCAUGGUGAAAUCGGUAAACACAUCGCAC&AAUGCGCCGCCUCUGGCUUGCCGGUUCAAGUCCGGCUGCGGGCACCA&GCCCGCAUGGUGAAAUCGGUAAACACAUCGCACU&AAUGCGCCGCCUCUGGCUUGCCGGUUCAAGUCCGGCUGCGGGCACCA&a&a
+(((((((..(((......[....)))..((((.&..))))..(((...)))..(((((..]....))))))))))))....&(((((((..(((......[....)))..((((..&..))))..(((...)))..(((((..]....))))))))))))....&.&.
+
+Interacting substructures
+Chain C-1 C-2 
+GCCCGCAUGGUGAAAUCGGUAAACACAUCGCACAAUGCGCCGCCUCUGGCUUGCCGGUUCAAGUCCGGCUGCGGGCACCA
+(((((((..(((......[....)))..((((...))))..(((...)))..(((((..]....))))))))))))....
+
+Chain D-1 D-2 
+GCCCGCAUGGUGAAAUCGGUAAACACAUCGCACUAAUGCGCCGCCUCUGGCUUGCCGGUUCAAGUCCGGCUGCGGGCACCA
+(((((((..(((......[....)))..((((....))))..(((...)))..(((((..]....))))))))))))....
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+

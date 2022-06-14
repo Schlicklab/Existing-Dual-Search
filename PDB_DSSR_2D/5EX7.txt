@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF BRAT NHL DOMAIN IN COMPLEX WITH AN 8-NT HUNCHBACK MRNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5EX7 nts=7 [whole]
+UUGUUGU
+.......
+
+Interacting substructures
+Chain B 
+UUGUUGU
+.......
+

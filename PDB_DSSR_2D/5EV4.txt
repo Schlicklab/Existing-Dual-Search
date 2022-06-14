@@ -1,0 +1,17 @@
+Title			STRUCTURE IV OF INTACT U2AF65 RECOGNIZING THE 3' SPLICE SITE SIGNAL 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	DNA[3]/RNA[6]	
+Pseudoknot		NO
+
+Whole structure
+>5EV4 nts=9 [whole]
+UUUUUUuUC
+.........
+
+Interacting substructures
+Chain B 
+UUUUUUuUC
+.........
+

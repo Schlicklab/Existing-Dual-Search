@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF THE COMPLEX BETWEEN HUMAN FMRP RGG MOTIF AND G- QUADRUPLEX RNA, CESIUM BOUND FORM. 
+Chain order		A C 
+Amino acids		YES
+Metal			K	4
+			Cs	3
+Chains			A	RNA	A 
+			C	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>5DEA nts=70 [whole]
+GCUGCGGUGUGGAAGGAGUGGCUGGGUUGCGCAGC&GCUGCGGUGUGGAAGGAGUGGCUGGGUUGCGCAGC
+(((((.((....................)))))))&(((((.((....................)))))))
+
+Interacting substructures
+Chain A 
+GCUGCGGUGUGGAAGGAGUGGCUGGGUUGCGCAGC
+(((((.((....................)))))))
+
+Chain C 
+GCUGCGGUGUGGAAGGAGUGGCUGGGUUGCGCAGC
+(((((.((....................)))))))
+

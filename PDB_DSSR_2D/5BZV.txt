@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE RNA-BINDING DOMAIN OF YEAST PUF5P BOUND TO SMX2 RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5BZV nts=9 [whole]
+UGUACUAUA
+.........
+
+Interacting substructures
+Chain B 
+UGUACUAUA
+.........
+

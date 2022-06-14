@@ -1,0 +1,22 @@
+Title			X-RAY STRUCTURE OF HUMAN RBPMS IN COMPLEX WITH THE RNA 
+Chain order		Q P 
+Amino acids		YES
+Metal
+Chains			Q	RNA	
+			P	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5DET nts=9 [whole]
+UCACU&UCAC
+.....&....
+
+Interacting substructures
+Chain Q 
+UCACU
+.....
+
+Chain P 
+UCAC
+....
+

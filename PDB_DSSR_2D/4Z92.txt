@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF PARECHOVIRUS-1 VIRION 
+Chain order		D 
+Amino acids		YES
+Metal
+Chains			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4Z92 nts=6 [whole]
+AUUUUU
+......
+
+Interacting substructures
+Chain D 
+AUUUUU
+......
+

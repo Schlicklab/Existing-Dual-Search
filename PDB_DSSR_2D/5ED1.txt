@@ -1,0 +1,18 @@
+Title			HUMAN ADENOSINE DEAMINASE ACTING ON DSRNA (ADAR2) MUTANT E488Q BOUND TO DSRNA SEQUENCE DERIVED FROM S. CEREVISIAE BDF2 GENE 
+Chain order		B C 
+Amino acids		YES
+Metal			Zn	2
+Chains			B	RNA	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>5ED1 nts=46 [whole]
+UUCCCCACAUUgGACGUUCAGUC&GACUGAACGACCAAUGUGGGGAA
+(((((((((((.(.(((((((((&))))))))).).)))))))))))
+
+Interacting substructures
+Chain B C 
+UUCCCCACAUUgGACGUUCAGUCGACUGAACGACCAAUGUGGGGAA
+(((((((((((.(.((((((((())))))))).).)))))))))))
+

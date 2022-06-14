@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF EPOXYQUEUOSINE REDUCTASE WITH A TRNA-TYR EPOXYQUEUOSINE-MODIFIED TRNA STEM LOOP 
+Chain order		F 
+Amino acids		YES
+Metal			Fe	16
+			Co	2
+Chains			F	RNA	F 
+Pseudoknot		NO
+
+Whole structure
+>5D0B nts=17 [whole]
+GCAGACUgUAAAUCUGC
+(((((.(...).)))))
+
+Interacting substructures
+Chain F 
+GCAGACUgUAAAUCUGC
+(((((.(...).)))))
+

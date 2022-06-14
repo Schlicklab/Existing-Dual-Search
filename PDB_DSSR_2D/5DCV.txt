@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF PHORPP38-SL12M COMPLEX 
+Chain order		B-1 B-2 D-1 D-2 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	B-2 
+			B-2	RNA*	B-2 B-1 
+			D-1	RNA*	D-2 
+			D-2	RNA*	D-2 D-1 
+Pseudoknot		NO
+
+Whole structure
+>5DCV nts=94 [whole]
+gGUAUGGUGGA&AGCGGUGAAGGGAAACCGAGUUAACCCGCCUAAGCC&gGUAUGGUGGA&AGCGGUGAAGGGAAACCGAGUUAACCCGCCUAAGCC
+(((.(((.((.&(((......((....))..)))...)).))..))))&(((.(((.((.&(((......((....))..)))...)).))..))))
+
+Interacting substructures
+Chain B-1 B-2 
+gGUAUGGUGGAAGCGGUGAAGGGAAACCGAGUUAACCCGCCUAAGCC
+(((.(((.((.(((......((....))..)))...)).))..))))
+
+Chain D-1 D-2 
+gGUAUGGUGGAAGCGGUGAAGGGAAACCGAGUUAACCCGCCUAAGCC
+(((.(((.((.(((......((....))..)))...)).))..))))
+

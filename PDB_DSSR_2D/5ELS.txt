@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE KH DOMAIN OF T-STAR IN COMPLEX WITH AAAUAA RNA 
+Chain order		H 
+Amino acids		YES
+Metal
+Chains			H	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5ELS nts=6 [whole]
+AAAUAA
+......
+
+Interacting substructures
+Chain H 
+AAAUAA
+......
+

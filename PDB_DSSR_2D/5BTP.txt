@@ -1,0 +1,25 @@
+Title			FUSOBACTERIUM ULCERANS ZTP RIBOSWITCH BOUND TO ZMP 
+Chain order		B-1 B-2 A-1 A-2 
+Amino acids		NO
+Metal			Mg	12
+			K	1
+Chains			B-1	RNA*	B-2 B-1 
+			B-2	RNA*	B-2 B-1 
+			A-1	RNA*	A-1 A-2 
+			A-2	RNA*	A-1 A-2 
+Pseudoknot		YES
+
+Whole structure
+>5BTP nts=124 [whole]
+GUUAUAUGACUGACGGAACGUGGAAUUAACCACAUGAAGUAUAA&AUGCCGACCGUCUGGGCG&GUUAUAUGACUGACGGAACGUGGAAUUAACCACAUGAAGUAUAACG&GCCGACCGUCUGGGCG
+.(.((((..(.[[[[[...((((......))))..)..)))).)&..(((..]]]]]..))).&(((((((..(.[[[[[...((((......))))..)..))))))).&(((..]]]]]..))).
+
+Interacting substructures
+Chain B-1 B-2 
+GUUAUAUGACUGACGGAACGUGGAAUUAACCACAUGAAGUAUAAAUGCCGACCGUCUGGGCG
+.(.((((..(.[[[[[...((((......))))..)..)))).)..(((..]]]]]..))).
+
+Chain A-1 A-2 
+GUUAUAUGACUGACGGAACGUGGAAUUAACCACAUGAAGUAUAACGGCCGACCGUCUGGGCG
+(((((((..(.[[[[[...((((......))))..)..))))))).(((..]]]]]..))).
+

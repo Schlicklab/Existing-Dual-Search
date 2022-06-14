@@ -1,0 +1,36 @@
+Title			CRYSTAL STRUCTURE OF A DNA-RNA CHIMERA IN COMPLEX WITH BA2+ IONS: A CASE OF UNUSUAL MULTI-DOMAIN TWINNING 
+Chain order		A B C D E F G H 
+Amino acids		NO
+Metal			Ba	16
+Chains			A	DNA[3]/RNA[3]	B 
+			B	DNA[3]/RNA[3]	A 
+			C	DNA[3]/RNA[3]	D 
+			D	DNA[3]/RNA[3]	C 
+			E	DNA[3]/RNA[3]	F 
+			F	DNA[3]/RNA[3]	E 
+			G	DNA[3]/RNA[3]	H 
+			H	DNA[3]/RNA[3]	G 
+Pseudoknot		NO
+
+Whole structure
+>5EBI nts=48 [whole]
+CGCGCG&CGCGCG&CGCGCG&CGCGCG&CGCGCG&CGCGCG&CGCGCG&CGCGCG
+((((((&))))))&((((((&))))))&((((((&))))))&((((((&))))))
+
+Interacting substructures
+Chain A B 
+CGCGCGCGCGCG
+(((((())))))
+
+Chain C D 
+CGCGCGCGCGCG
+(((((())))))
+
+Chain E F 
+CGCGCGCGCGCG
+(((((())))))
+
+Chain G H 
+CGCGCGCGCGCG
+(((((())))))
+

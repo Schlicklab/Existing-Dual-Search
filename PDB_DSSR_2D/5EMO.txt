@@ -1,0 +1,22 @@
+Title			STRUCTURE OF THE STAR DOMAIN OF T-STAR IN COMPLEX WITH AUUAAA RNA 
+Chain order		E F 
+Amino acids		YES
+Metal
+Chains			E	RNA	
+			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5EMO nts=12 [whole]
+AUUAAA&AUUAAA
+......&......
+
+Interacting substructures
+Chain E 
+AUUAAA
+......
+
+Chain F 
+AUUAAA
+......
+

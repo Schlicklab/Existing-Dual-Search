@@ -1,0 +1,43 @@
+Title			CRYSTAL STRUCTURE OF RIG-I HELICASE-RD IN COMPLEX WITH 24-MER BLUNT- END HAIRPIN RNA 
+Chain order		B D F H J L 
+Amino acids		YES
+Metal			Mg	6
+			Zn	6
+Chains			B	RNA	B 
+			D	RNA	D 
+			F	RNA	F 
+			H	RNA	H 
+			J	RNA	J 
+			L	RNA	L 
+Pseudoknot		NO
+
+Whole structure
+>5F9F nts=144 [whole]
+GAAUAUAAUAGUGAUAUUAUAUUC&GAAUAUAAUAGUGAUAUUAUAUUC&GAAUAUAAUAGUGAUAUUAUAUUC&GAAUAUAAUAGUGAUAUUAUAUUC&GAAUAUAAUAGUGAUAUUAUAUUC&GAAUAUAAUAGUGAUAUUAUAUUC
+((((((((((....))))))))))&((((((((((....))))))))))&((((((((((....))))))))))&((((((((((....))))))))))&((((((((((....))))))))))&((((((((((....))))))))))
+
+Interacting substructures
+Chain B 
+GAAUAUAAUAGUGAUAUUAUAUUC
+((((((((((....))))))))))
+
+Chain D 
+GAAUAUAAUAGUGAUAUUAUAUUC
+((((((((((....))))))))))
+
+Chain F 
+GAAUAUAAUAGUGAUAUUAUAUUC
+((((((((((....))))))))))
+
+Chain H 
+GAAUAUAAUAGUGAUAUUAUAUUC
+((((((((((....))))))))))
+
+Chain J 
+GAAUAUAAUAGUGAUAUUAUAUUC
+((((((((((....))))))))))
+
+Chain L 
+GAAUAUAAUAGUGAUAUUAUAUUC
+((((((((((....))))))))))
+

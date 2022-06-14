@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE BASE OF THE RIBOSOMAL P STALK FROM METHANOCOCCUS JANNASCHII WITH ANTIBIOTIC THIOSTREPTON 
+Chain order		A 
+Amino acids		YES
+Metal			Na	4
+			Mg	11
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>5D8H nts=74 [whole]
+GCCUAAGACAGCGGGGAGGUUGGCUUAGAAGCAGCCAUCCUUUAAAGAGUGCGUAACAGCUCACCCGUCGAGGC
+(((.......(((((.(((..(((.........)))..))).....(...((......)).).)))))...)))
+
+Interacting substructures
+Chain A 
+GCCUAAGACAGCGGGGAGGUUGGCUUAGAAGCAGCCAUCCUUUAAAGAGUGCGUAACAGCUCACCCGUCGAGGC
+(((.......(((((.(((..(((.........)))..))).....(...((......)).).)))))...)))
+

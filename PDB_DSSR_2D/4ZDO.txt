@@ -1,0 +1,40 @@
+Title			THE CRYSTAL STRUCTURE OF T325S MUTANT OF HUMAN SEPSECS IN COMPLEX WITH SELENOCYSTEINE TRNA (TRNASEC) 
+Chain order		E-1 E-2 E-3 E-4 A B C D 
+Amino acids		YES
+Metal
+Chains			E-1	RNA*	E-2 E-4 E-1 
+			E-2	RNA*	E-1 
+			E-3	RNA*	E-4 
+			E-4	RNA*	E-3 E-4 E-1 
+			A			
+			B			
+			C			
+			D			
+Pseudoknot		YES
+
+Whole structure
+>4ZDO nts=79 [whole]
+GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAG&ACCUGU&UGUCU&CGACAGAGUGGUUCAAUUCCACCUUUCGGGCG&t&t&t&t
+(((((((.(..((((((..[.)))))).((((&..))))&((((.&.))))..((((..]....))))).))))))).&.&.&.&.
+
+Interacting substructures
+Chain E-1 E-2 E-3 E-4 
+GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGACCUGUUGUCUCGACAGAGUGGUUCAAUUCCACCUUUCGGGCG
+(((((((.(..((((((..[.)))))).((((..))))((((..))))..((((..]....))))).))))))).
+
+Chain A 
+t
+.
+
+Chain B 
+t
+.
+
+Chain C 
+t
+.
+
+Chain D 
+t
+.
+

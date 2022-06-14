@@ -1,0 +1,23 @@
+Title			STRUCTURE OF THE STANDARD KINK TURN HMKT-7 AS SIMPLE DUPLEX IN P4222 SPACE GROUP 
+Chain order		A B C 
+Amino acids		NO
+Metal			Mg	3
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5FJ0 nts=57 [whole]
+GGCGAAGAACCGGGGAGCC&GGCGAAGAACCGGGGAGCC&GGCGAAGAACCGGGGAGCC
+(((......((((...(((&)))......))))...)))&...................
+
+Interacting substructures
+Chain A B 
+GGCGAAGAACCGGGGAGCCGGCGAAGAACCGGGGAGCC
+(((......((((...((()))......))))...)))
+
+Chain C 
+GGCGAAGAACCGGGGAGCC
+...................
+

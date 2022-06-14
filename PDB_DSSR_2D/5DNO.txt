@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF MMI1 YTH DOMAIN COMPLEX WITH RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5DNO nts=7 [whole]
+CUUAAAC
+.......
+
+Interacting substructures
+Chain B 
+CUUAAAC
+.......
+

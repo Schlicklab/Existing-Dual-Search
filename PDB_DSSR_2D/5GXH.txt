@@ -1,0 +1,22 @@
+Title			THE STRUCTURE OF THE GEMIN5 WD40 DOMAIN WITH AAUUUUUG 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>5GXH nts=6 [whole]
+AUUU&UG
+....&..
+
+Interacting substructures
+Chain B-1 
+AUUU
+....
+
+Chain B-2 
+UG
+..
+

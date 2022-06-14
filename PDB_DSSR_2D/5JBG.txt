@@ -1,0 +1,25 @@
+Title			CRYSTAL STRUCTURE OF CHICKEN LGP2 WITH 5'PPP 26-MER HAIRPIN RNA WITH 3' GG OVERHANG AND ADP-ALF4-MG2+ AT 2.0 A RESOLUTION. 
+Chain order		X-1 X-2 A 
+Amino acids		YES
+Metal			Mg	1
+			Al	1
+			Zn	1
+Chains			X-1	RNA*	X-2 
+			X-2	RNA*	X-1 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>5JBG nts=24 [whole]
+gGAGCGUGCCG&GGCACGCUCCGG&a
+((((((((((.&))))))))))..&.
+
+Interacting substructures
+Chain X-1 X-2 
+gGAGCGUGCCGGGCACGCUCCGG
+((((((((((.))))))))))..
+
+Chain A 
+a
+.
+

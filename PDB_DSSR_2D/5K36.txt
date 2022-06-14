@@ -1,0 +1,22 @@
+Title			STRUCTURE OF AN ELEVEN COMPONENT NUCLEAR RNA EXOSOME COMPLEX BOUND TO RNA 
+Chain order		M L 
+Amino acids		YES
+Metal			Zn	1
+Chains			M	RNA	
+			L	RNA	L 
+Pseudoknot		NO
+
+Whole structure
+>5K36 nts=24 [whole]
+UUUAAAA&UAUUAUUUAUUUUAAAA
+.......&.(.........).....
+
+Interacting substructures
+Chain M 
+UUUAAAA
+.......
+
+Chain L 
+UAUUAUUUAUUUUAAAA
+.(.........).....
+

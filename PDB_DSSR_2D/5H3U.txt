@@ -1,0 +1,17 @@
+Title			SM RNA BOUND TO GEMIN5-WD 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5H3U nts=7 [whole]
+AAUUUUU
+.......
+
+Interacting substructures
+Chain C 
+AAUUUUU
+.......
+

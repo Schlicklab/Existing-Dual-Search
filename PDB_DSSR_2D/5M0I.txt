@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE NUCLEAR COMPLEX WITH SHE2P AND THE ASH1 MRNA E3-LOCALIZATION ELEMENT 
+Chain order		E F 
+Amino acids		YES
+Metal			Mg	6
+Chains			E	RNA	E 
+			F	RNA	F 
+Pseudoknot		NO
+
+Whole structure
+>5M0I nts=56 [whole]
+GAUAACUGAAUCGAAAGACAUUAUCACG&GAUAACUGAAUCGAAAGACAUUAUCACG
+((((......((....))...))))...&((((......((....))...))))...
+
+Interacting substructures
+Chain E 
+GAUAACUGAAUCGAAAGACAUUAUCACG
+((((......((....))...))))...
+
+Chain F 
+GAUAACUGAAUCGAAAGACAUUAUCACG
+((((......((....))...))))...
+

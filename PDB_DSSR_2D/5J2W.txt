@@ -1,0 +1,17 @@
+Title			INTERMEDIATE STATE LYING ON THE PATHWAY OF RELEASE OF TAT FROM HIV-1 TAR. 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>5J2W nts=29 [whole]
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...(((((...).))))))))))
+
+Interacting substructures
+Chain B 
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...(((((...).))))))))))
+

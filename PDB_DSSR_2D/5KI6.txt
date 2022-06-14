@@ -1,0 +1,22 @@
+Title			HUMAN ARGONAUTE-2 BOUND TO A GUIDE RNA WITH A NUCLEOBASE MODIFICATION AT POSITION 1 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>5KI6 nts=10 [whole]
+?GGAGUGU&UU
+........&..
+
+Interacting substructures
+Chain B-1 
+?GGAGUGU
+........
+
+Chain B-2 
+UU
+..
+

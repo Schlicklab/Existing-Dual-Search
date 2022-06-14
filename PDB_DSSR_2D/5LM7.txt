@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE LAMBDA N-NUS FACTOR COMPLEX 
+Chain order		R G 
+Amino acids		YES
+Metal
+Chains			R	RNA	R 
+			G	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>5LM7 nts=56 [whole]
+CUCUUUAACAUUAAGCCCUGAAGAAGGGC&CUUUAACAUUAAGCCCUGAAGAAGGGC
+..............(((((.....)))))&............(((((.....)))))
+
+Interacting substructures
+Chain R 
+CUCUUUAACAUUAAGCCCUGAAGAAGGGC
+..............(((((.....)))))
+
+Chain G 
+CUUUAACAUUAAGCCCUGAAGAAGGGC
+............(((((.....)))))
+

@@ -1,0 +1,17 @@
+Title			SINEB2 ELEMENT OF THE LONG NON-CODING RNA ACTIVATOR OF TRANSLATION AS UCHL1 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>5LSN nts=29 [whole]
+CCUCGUGGUGGUUGUGAACCACCAUGUGG
+((.((((((((((...)))))))))).))
+
+Interacting substructures
+Chain A 
+CCUCGUGGUGGUUGUGAACCACCAUGUGG
+((.((((((((((...)))))))))).))
+

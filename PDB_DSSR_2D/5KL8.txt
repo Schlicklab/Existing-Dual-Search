@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE PUMILIO-NOS-CYCLINB RNA COMPLEX 
+Chain order		C 
+Amino acids		YES
+Metal			Zn	2
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5KL8 nts=11 [whole]
+UAUUUGUAAUU
+...........
+
+Interacting substructures
+Chain C 
+UAUUUGUAAUU
+...........
+

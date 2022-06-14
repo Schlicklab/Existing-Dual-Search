@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF P2A-J2A/B-P2B OF MEDAKA TELOMERASE RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>5KQE nts=36 [whole]
+GGGUGUACUUAACGUUUGCUUCGGCAAACUACAUCC
+((((((.....(.((((((....)))))))))))))
+
+Interacting substructures
+Chain A 
+GGGUGUACUUAACGUUUGCUUCGGCAAACUACAUCC
+((((((.....(.((((((....)))))))))))))
+

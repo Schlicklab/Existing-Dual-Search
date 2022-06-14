@@ -1,0 +1,24 @@
+Title			N6-METHYLADENINE IS ACCOMMODATED IN A CONVENTIONAL A-U BASEPAIR 
+Chain order		A B C D 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>5LR5 nts=40 [whole]
+GGaCUAGUcC&GGaCUAGUcC&GGaCUAGUcC&GGaCUAGUcC
+((((((((((&))))))))))&((((((((((&))))))))))
+
+Interacting substructures
+Chain A B 
+GGaCUAGUcCGGaCUAGUcC
+(((((((((())))))))))
+
+Chain C D 
+GGaCUAGUcCGGaCUAGUcC
+(((((((((())))))))))
+

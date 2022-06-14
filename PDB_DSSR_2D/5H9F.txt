@@ -1,0 +1,19 @@
+Title			CRYSTAL STRUCTURE OF E. COLI CASCADE BOUND TO A PAM-CONTAINING DSDNA TARGET AT 2.45 ANGSTROM RESOLUTION. 
+Chain order		L M N 
+Amino acids		YES
+Metal			Zn	1
+Chains			L	RNA	L N 
+			M	DNA	N 
+			N	DNA	M L 
+Pseudoknot		YES
+
+Whole structure
+>5H9F nts=139 [whole]
+AUAAACCGACGGUAUUGUUCAGAUCCUGGCUUGCCAACAGGAGUUCCCCGCGCCAGCGGGg&TCTGTGCAGTGCTCGATGTTTTATTTAT&CTGTTGGCAAGCCAGGATCTGAACAATACCGTCATCGAGCACTGCACAGA
+........(((((.(((((.(((((.(((((.(((((.((.....((((((....))))))&[[[[.[..[[[[[[[[[[..........&)).))))).))))).))))).))))).)))))]]]]]]]]]]..].]]]]
+
+Interacting substructures
+Chain L M N 
+AUAAACCGACGGUAUUGUUCAGAUCCUGGCUUGCCAACAGGAGUUCCCCGCGCCAGCGGGgTCTGTGCAGTGCTCGATGTTTTATTTATCTGTTGGCAAGCCAGGATCTGAACAATACCGTCATCGAGCACTGCACAGA
+........(((((.(((((.(((((.(((((.(((((.((.....((((((....))))))[[[[.[..[[[[[[[[[[..........)).))))).))))).))))).))))).)))))]]]]]]]]]]..].]]]]
+

@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF DESIGNED PENTATRICOPEPTIDE REPEAT PROTEIN DPPR- U8A2 IN COMPLEX WITH ITS TARGET RNA U8A2 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5I9D nts=10 [whole]
+UUUAAUUUUC
+..........
+
+Interacting substructures
+Chain B 
+UUUAAUUUUC
+..........
+

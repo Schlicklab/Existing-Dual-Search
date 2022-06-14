@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE 5'-TERMINAL HAIRPIN OF THE 7SK SNRNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>5IEM nts=57 [whole]
+GGGAUCUGUCACCCCAUUGAUCGCCUUCGGGCUGAUCUGGCUGGCUAGGCGGGUCCC
+((((((((((.(((((..(((((((....))).)))))))..))...))))))))))
+
+Interacting substructures
+Chain A 
+GGGAUCUGUCACCCCAUUGAUCGCCUUCGGGCUGAUCUGGCUGGCUAGGCGGGUCCC
+((((((((((.(((((..(((((((....))).)))))))..))...))))))))))
+

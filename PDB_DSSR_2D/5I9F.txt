@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF DESIGNED PENTATRICOPEPTIDE REPEAT PROTEIN DPPR- U10 IN COMPLEX WITH ITS TARGET RNA U10 
+Chain order		F 
+Amino acids		YES
+Metal
+Chains			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5I9F nts=10 [whole]
+UUUUUUUUUU
+..........
+
+Interacting substructures
+Chain F 
+UUUUUUUUUU
+..........
+

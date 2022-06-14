@@ -1,0 +1,18 @@
+Title			THE CRYSTAL STRUCTURE OF R(GGUCACAGCCC)2 METAL FREE FORM 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1KD5 nts=22 [whole]
+GGUCACAGCCC&GGUCACAGCCC
+(((....(((.&)))....))).
+
+Interacting substructures
+Chain A B 
+GGUCACAGCCCGGUCACAGCCC
+(((....(((.)))....))).
+

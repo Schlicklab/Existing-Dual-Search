@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF THERMUS THERMOPHILUS GLUTAMYL-TRNA SYNTHETASE COMPLEXED WITH TRNA(GLU) AND GLUTAMOL-AMP. 
+Chain order		C D A B 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	C 
+			D	RNA	D 
+			A			
+			B			
+Pseudoknot		YES
+
+Whole structure
+>1N78 nts=152 [whole]
+GGCCCCAUCGUCUAGCGGUUAGGACGCGGCCCUCUCAAGGCCGAAACGGGGGUUCGAUUCCCCCUGGGGUCACCA&GGCCCCAUCGUCUAGCGGUUAGGACGCGGCCCUCUCAAGGCCGAAACGGGGGUUCGAUUCCCCCUGGGGUCACCA&a&a
+(((((((..((((....[...)))).(((((.......)))))....(((((..]....))))))))))))....&(((((((..((((....[...)))).(((((.......)))))....(((((..]....))))))))))))....&.&.
+
+Interacting substructures
+Chain C 
+GGCCCCAUCGUCUAGCGGUUAGGACGCGGCCCUCUCAAGGCCGAAACGGGGGUUCGAUUCCCCCUGGGGUCACCA
+(((((((..((((....[...)))).(((((.......)))))....(((((..]....))))))))))))....
+
+Chain D 
+GGCCCCAUCGUCUAGCGGUUAGGACGCGGCCCUCUCAAGGCCGAAACGGGGGUUCGAUUCCCCCUGGGGUCACCA
+(((((((..((((....[...)))).(((((.......)))))....(((((..]....))))))))))))....
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+

@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE L1 PROTUBERANCE IN THE RIBOSOME 
+Chain order		B 
+Amino acids		YES
+Metal			Mg	3
+Chains			B	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>1MZP nts=55 [whole]
+GGGAUGCGUAGGAUAGGUGGGAGCCGCAAGGCGCCGGUGAAAUACCACCCUUCCC
+((((.(......[..(((((..(((....)))..........].)))))).))))
+
+Interacting substructures
+Chain B 
+GGGAUGCGUAGGAUAGGUGGGAGCCGCAAGGCGCCGGUGAAAUACCACCCUUCCC
+((((.(......[..(((((..(((....)))..........].)))))).))))
+

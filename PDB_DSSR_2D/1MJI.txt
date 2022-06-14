@@ -1,0 +1,23 @@
+Title			DETAILED ANALYSIS OF RNA-PROTEIN INTERACTIONS WITHIN THE BACTERIAL RIBOSOMAL PROTEIN L5/5S RRNA COMPLEX 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	4
+			K	2
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>1MJI nts=68 [whole]
+GGCACCUGACCCCAUGCCGAACUCAGAAGUGCCC&GGCACCUGACCCCAUGCCGAACUCAGAAGUGCCC
+(((((((((...(.....)...))))..))))).&(((((((((...(.....)...))))..))))).
+
+Interacting substructures
+Chain C 
+GGCACCUGACCCCAUGCCGAACUCAGAAGUGCCC
+(((((((((...(.....)...))))..))))).
+
+Chain D 
+GGCACCUGACCCCAUGCCGAACUCAGAAGUGCCC
+(((((((((...(.....)...))))..))))).
+

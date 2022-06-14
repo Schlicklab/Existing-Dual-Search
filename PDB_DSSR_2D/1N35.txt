@@ -1,0 +1,23 @@
+Title			LAMBDA3 ELONGATION COMPLEX WITH FOUR PHOSPHODIESTER BOND FORMED 
+Chain order		B C A 
+Amino acids		YES
+Metal			Mn	2
+Chains			B	RNA	C 
+			C	RNA	B 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>1N35 nts=16 [whole]
+GGGGG&UAGCCCCC&c&c&c
+(((((&...)))))&.&.&.
+
+Interacting substructures
+Chain B C 
+GGGGGUAGCCCCC
+(((((...)))))
+
+Chain A 
+ccc
+...
+

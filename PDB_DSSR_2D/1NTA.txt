@@ -1,0 +1,19 @@
+Title			2.9 A CRYSTAL STRUCTURE OF STREPTOMYCIN RNA-APTAMER 
+Chain order		A B 
+Amino acids		NO
+Metal			Na	2
+			Ba	3
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1NTA nts=40 [whole]
+GGAUCGCAUUUGGACUUCUGCC&CGGCACCACGGUCGGAUC
+.((((.(.....(((..(((((&.))))....)))))))))
+
+Interacting substructures
+Chain A B 
+GGAUCGCAUUUGGACUUCUGCCCGGCACCACGGUCGGAUC
+.((((.(.....(((..(((((.))))....)))))))))
+

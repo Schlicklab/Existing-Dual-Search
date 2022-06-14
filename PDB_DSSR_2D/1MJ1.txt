@@ -1,0 +1,362 @@
+Title			FITTING THE TERNARY COMPLEX OF EF-TU/TRNA/GTP AND RIBOSOMAL PROTEINS INTO A 13 A CRYO-EM MAP OF THE COLI 70S RIBOSOME 
+Chain order		D C Q-1 Q-2 Q-3 Q-4 Q-5 Q-6 Q-7 Q-8 Q-9 Q-10 Q-11 Q-12 Q-13 Q-14 Q-15 Q-16 Q-17 Q-18 Q-19 Q-20 Q-21 Q-22 Q-23 Q-24 Q-25 Q-26 Q-27 Q-28 Q-29 Q-30 Q-31 Q-32 Q-33 Q-34 Q-35 Q-36 Q-37 Q-38 Q-39 Q-40 Q-41 R-1 R-2 R-3 R-4 R-5 R-6 R-7 R-8 R-9 R-10 R-11 R-12 R-13 R-14 R-15 R-16 R-17 R-18 R-19 R-20 R-21 R-22 R-23 R-24 R-25 R-26 R-27 
+Amino acids		YES
+Metal
+Chains			D	RNA	D 
+			C	RNA	C 
+			Q-1	DNA*	
+			Q-2	DNA*	
+			Q-3	DNA*	
+			Q-4	DNA*	
+			Q-5	DNA*	
+			Q-6	DNA*	
+			Q-7	DNA*	
+			Q-8	DNA*	
+			Q-9	DNA*	
+			Q-10	DNA*	
+			Q-11	DNA*	
+			Q-12	DNA*	
+			Q-13	DNA*	
+			Q-14	DNA*	
+			Q-15	DNA*	
+			Q-16	DNA*	
+			Q-17	DNA*	
+			Q-18	DNA*	
+			Q-19	DNA*	
+			Q-20	DNA*	
+			Q-21	DNA*	
+			Q-22	DNA*	
+			Q-23	DNA*	
+			Q-24	DNA*	
+			Q-25	DNA*	
+			Q-26	DNA*	
+			Q-27	DNA*	
+			Q-28	DNA*	
+			Q-29	DNA*	
+			Q-30	DNA*	
+			Q-31	DNA*	
+			Q-32	DNA*	
+			Q-33	DNA*	
+			Q-34	DNA*	
+			Q-35	DNA*	
+			Q-36	DNA*	
+			Q-37	DNA*	
+			Q-38	DNA*	
+			Q-39	DNA*	
+			Q-40	DNA*	
+			Q-41	DNA*	
+			R-1	DNA*	
+			R-2	DNA*	
+			R-3	DNA*	
+			R-4	DNA*	
+			R-5	DNA*	
+			R-6	DNA*	
+			R-7	DNA*	
+			R-8	DNA*	
+			R-9	DNA*	
+			R-10	DNA*	
+			R-11	DNA*	
+			R-12	DNA*	
+			R-13	DNA*	
+			R-14	DNA*	
+			R-15	DNA*	
+			R-16	DNA*	
+			R-17	DNA*	
+			R-18	DNA*	
+			R-19	DNA*	
+			R-20	DNA*	
+			R-21	DNA*	
+			R-22	DNA*	
+			R-23	DNA*	
+			R-24	DNA*	
+			R-25	DNA*	
+			R-26	DNA*	
+			R-27	DNA*	
+Pseudoknot		YES
+
+Whole structure
+>1MJ1 nts=220 [whole]
+GCGGAUUUAgCUCAGuuGGGAGAGCgCCAGAcUgAAgAPcUGGAGgUCcUGUGtPCGaUCCACAGAAUUCGCACCA&GCGGAUUUAgCUCAGuuGGGAGAGCgCCAGAcUgAAgAPcUGGAGgUCcUGUGtPCGaUCCACAGAAUUCGCACCA&G&G&G&G&G&G&C&U&C&U&U&C&C&U&A&G&U&A&C&G&A&G&A&G&G&A&C&C&G&G&A&A&G&G&G&A&C&G&C&A&C&G&C&G&G&C&C&G&U&A&A&C&U&A&U&A&A&C&G&G&U&C&C&U&A&A&G&G
+(((((((..((((.....[..)))).((((.........)))).....(((((..]....))))))))))))....&.((((((..((((.....[..)))).((((.........)))).....(((((..]....))))))))))).....&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.
+
+Interacting substructures
+Chain D 
+GCGGAUUUAgCUCAGuuGGGAGAGCgCCAGAcUgAAgAPcUGGAGgUCcUGUGtPCGaUCCACAGAAUUCGCACCA
+(((((((..((((.....[..)))).((((.........)))).....(((((..]....))))))))))))....
+
+Chain C 
+GCGGAUUUAgCUCAGuuGGGAGAGCgCCAGAcUgAAgAPcUGGAGgUCcUGUGtPCGaUCCACAGAAUUCGCACCA
+.((((((..((((.....[..)))).((((.........)))).....(((((..]....))))))))))).....
+
+Chain Q-1 
+G
+.
+
+Chain Q-2 
+G
+.
+
+Chain Q-3 
+G
+.
+
+Chain Q-4 
+G
+.
+
+Chain Q-5 
+G
+.
+
+Chain Q-6 
+G
+.
+
+Chain Q-7 
+C
+.
+
+Chain Q-8 
+U
+.
+
+Chain Q-9 
+C
+.
+
+Chain Q-10 
+U
+.
+
+Chain Q-11 
+U
+.
+
+Chain Q-12 
+C
+.
+
+Chain Q-13 
+C
+.
+
+Chain Q-14 
+U
+.
+
+Chain Q-15 
+A
+.
+
+Chain Q-16 
+G
+.
+
+Chain Q-17 
+U
+.
+
+Chain Q-18 
+A
+.
+
+Chain Q-19 
+C
+.
+
+Chain Q-20 
+G
+.
+
+Chain Q-21 
+A
+.
+
+Chain Q-22 
+G
+.
+
+Chain Q-23 
+A
+.
+
+Chain Q-24 
+G
+.
+
+Chain Q-25 
+G
+.
+
+Chain Q-26 
+A
+.
+
+Chain Q-27 
+C
+.
+
+Chain Q-28 
+C
+.
+
+Chain Q-29 
+G
+.
+
+Chain Q-30 
+G
+.
+
+Chain Q-31 
+A
+.
+
+Chain Q-32 
+A
+.
+
+Chain Q-33 
+G
+.
+
+Chain Q-34 
+G
+.
+
+Chain Q-35 
+G
+.
+
+Chain Q-36 
+A
+.
+
+Chain Q-37 
+C
+.
+
+Chain Q-38 
+G
+.
+
+Chain Q-39 
+C
+.
+
+Chain Q-40 
+A
+.
+
+Chain Q-41 
+C
+.
+
+Chain R-1 
+G
+.
+
+Chain R-2 
+C
+.
+
+Chain R-3 
+G
+.
+
+Chain R-4 
+G
+.
+
+Chain R-5 
+C
+.
+
+Chain R-6 
+C
+.
+
+Chain R-7 
+G
+.
+
+Chain R-8 
+U
+.
+
+Chain R-9 
+A
+.
+
+Chain R-10 
+A
+.
+
+Chain R-11 
+C
+.
+
+Chain R-12 
+U
+.
+
+Chain R-13 
+A
+.
+
+Chain R-14 
+U
+.
+
+Chain R-15 
+A
+.
+
+Chain R-16 
+A
+.
+
+Chain R-17 
+C
+.
+
+Chain R-18 
+G
+.
+
+Chain R-19 
+G
+.
+
+Chain R-20 
+U
+.
+
+Chain R-21 
+C
+.
+
+Chain R-22 
+C
+.
+
+Chain R-23 
+U
+.
+
+Chain R-24 
+A
+.
+
+Chain R-25 
+A
+.
+
+Chain R-26 
+G
+.
+
+Chain R-27 
+G
+.
+

@@ -1,0 +1,17 @@
+Title			P6.1 STEM LOOP FROM THE ACTIVATION DOMAIN OF HTR 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1OQ0 nts=15 [whole]
+GAGAGUUGGGCUCUC
+((((((...))))))
+
+Interacting substructures
+Chain A 
+GAGAGUUGGGCUCUC
+((((((...))))))
+

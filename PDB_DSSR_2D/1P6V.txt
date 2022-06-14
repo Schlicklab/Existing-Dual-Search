@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE TRNA DOMAIN OF TRANSFER-MESSENGER RNA IN COMPLEX WITH SMPB 
+Chain order		B D 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>1P6V nts=69 [whole]
+GAUUCGACGGGGACUUCGGUCCUCGGACGCGGGUUCGAUUCCCGC&UCGACGGGGACUUCGGUCCUCGGA
+.......(((((((....)))))))...(((((.......)))))&....(((((((....)))))))..
+
+Interacting substructures
+Chain B 
+GAUUCGACGGGGACUUCGGUCCUCGGACGCGGGUUCGAUUCCCGC
+.......(((((((....)))))))...(((((.......)))))
+
+Chain D 
+UCGACGGGGACUUCGGUCCUCGGA
+....(((((((....)))))))..
+

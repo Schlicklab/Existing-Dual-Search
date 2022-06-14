@@ -1,0 +1,23 @@
+Title			REOVIRUS POLYMERASE LAMBDA3 ELONGATION COMPLEX WITH ONE PHOSPHODIESTER BOND FORMED 
+Chain order		B C A 
+Amino acids		YES
+Metal			Mn	2
+Chains			B	RNA	C 
+			C	RNA	B 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>1N38 nts=10 [whole]
+GC&UUAGC&u&c&c
+((&...))&.&.&.
+
+Interacting substructures
+Chain B C 
+GCUUAGC
+((...))
+
+Chain A 
+ucc
+...
+

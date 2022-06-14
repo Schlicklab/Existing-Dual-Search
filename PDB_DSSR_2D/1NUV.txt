@@ -1,0 +1,37 @@
+Title			THE LEADZYME RIBOZYME BOUND TO MG(H2O)6(II) AND SR(II) AT 1.8 A RESOLUTION 
+Chain order		A B C D E F G H 
+Amino acids		NO
+Metal			Mg	10
+			Sr	6
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	D 
+			D	RNA	C 
+			E	RNA	F 
+			F	RNA	E 
+			G	RNA	H 
+			H	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>1NUV nts=96 [whole]
+CGGACCGAGCCAG&GCUGGGAGUCC&CGGACCGAGCCAG&GCUGGGAGUCC&CGGACCGAGCCAG&GCUGGGAGUCC&CGGACCGAGCCAG&GCUGGGAGUCC
+.((((....((((&.))))..))))&.((((....((((&.))))..))))&.((((....((((&.))))..))))&.((((....((((&.))))..))))
+
+Interacting substructures
+Chain A B 
+CGGACCGAGCCAGGCUGGGAGUCC
+.((((....((((.))))..))))
+
+Chain C D 
+CGGACCGAGCCAGGCUGGGAGUCC
+.((((....((((.))))..))))
+
+Chain E F 
+CGGACCGAGCCAGGCUGGGAGUCC
+.((((....((((.))))..))))
+
+Chain G H 
+CGGACCGAGCCAGGCUGGGAGUCC
+.((((....((((.))))..))))
+

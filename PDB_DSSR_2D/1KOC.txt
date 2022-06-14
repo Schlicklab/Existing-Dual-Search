@@ -1,0 +1,18 @@
+Title			RNA APTAMER COMPLEXED WITH ARGININE, NMR 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA*	A 
+Pseudoknot		NO
+
+Whole structure
+>1KOC nts=25 [whole]
+AGAAGGAGCGU&ACAGGUAGGUCGCU
+((...((..(.&.).......)).))
+
+Interacting substructures
+Chain A B 
+AGAAGGAGCGUACAGGUAGGUCGCU
+((...((..(..).......)).))
+

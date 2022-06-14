@@ -1,0 +1,17 @@
+Title			STRUCTURE OF PROKARYOTIC SECIS MRNA HAIRPIN 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1MFK nts=23 [whole]
+GGCGGUUGCAGGUCUGCACCGCC
+((((((.(((....)))))))))
+
+Interacting substructures
+Chain A 
+GGCGGUUGCAGGUCUGCACCGCC
+((((((.(((....)))))))))
+

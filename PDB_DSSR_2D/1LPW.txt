@@ -1,0 +1,18 @@
+Title			SOLUTION STRUCTURE OF THE YEAST SPLICEOSOMAL U2 SNRNA- INTRON BRANCH SITE HELIX FEATURING A CONSERVED PSEUDOURIDINE 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1LPW nts=19 [whole]
+GGUGPAGUA&UACUAACACC
+((((.((((&))))..))))
+
+Interacting substructures
+Chain A B 
+GGUGPAGUAUACUAACACC
+((((.(((())))..))))
+

@@ -1,0 +1,17 @@
+Title			THE STEM OF SL1 RNA IN HIV-1: STRUCTURE AND NUCLEOCAPSID PROTEIN BINDING FOR A 1X3 INTERNAL LOOP 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1OSW nts=22 [whole]
+GGAGGCGCUACGGCGAGGCUCC
+((((.(((....)))...))))
+
+Interacting substructures
+Chain A 
+GGAGGCGCUACGGCGAGGCUCC
+((((.(((....)))...))))
+

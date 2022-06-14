@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF A RIBOSOMAL RNA HAIRPIN CONTAINING A CONSERVED CUCAA PENTALOOP 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1K5I nts=23 [whole]
+GGACCCGGGCUCAACCUGGGUCC
+(((((((((.....)))))))))
+
+Interacting substructures
+Chain A 
+GGACCCGGGCUCAACCUGGGUCC
+(((((((((.....)))))))))
+

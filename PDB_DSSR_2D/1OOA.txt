@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF NF-KB(P50)2 COMPLEXED TO A HIGH- AFFINITY RNA APTAMER 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>1OOA nts=58 [whole]
+CAUACUUGAAACUGUAAGGUUGGCGUAUG&CAUACUUGAAACUGUAAGGUUGGCGUAUG
+(((((....((((....))))...)))))&(((((....((((....))))...)))))
+
+Interacting substructures
+Chain C 
+CAUACUUGAAACUGUAAGGUUGGCGUAUG
+(((((....((((....))))...)))))
+
+Chain D 
+CAUACUUGAAACUGUAAGGUUGGCGUAUG
+(((((....((((....))))...)))))
+

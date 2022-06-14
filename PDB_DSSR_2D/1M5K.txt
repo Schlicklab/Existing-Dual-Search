@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF A HAIRPIN RIBOZYME IN THE CATALYTICALLY-ACTIVE CONFORMATION 
+Chain order		A B D E 
+Amino acids		YES
+Metal			Ca	33
+Chains			A	RNA	B 
+			B	RNA	B A 
+			D	RNA	E 
+			E	RNA	E D 
+Pseudoknot		YES
+
+Whole structure
+>1M5K nts=226 [whole]
+GGCCACCUGACaGUCCuCUCC&gGAGAGAGAAGUCAACCAGAGAAACACACCAACCCAUUGCACUCCGGGUUGGUGGUAUAUUACCUGGUACGGGGGAAACUUCGUGGUGGCCG&GGCCACCUGACaGUCCuCUCC&gGAGAGAGAAGUCAACCAGAGAAACACACCAACCCAUUGCACUCCGGGUUGGUGGUAUAUUACCUGGUACGGGGGAAACUUCGUGGUGGCCG
+(((((((((((.[..((((((&))))))....))))(((((...(.].(((((((((..........)))))))))......)..)))))(((..........)))))))))).&(((((((((((.[..((((((&))))))....))))(((((...(.].(((((((((..........)))))))))......)..)))))((((((....))))))))))))).
+
+Interacting substructures
+Chain A B 
+GGCCACCUGACaGUCCuCUCCgGAGAGAGAAGUCAACCAGAGAAACACACCAACCCAUUGCACUCCGGGUUGGUGGUAUAUUACCUGGUACGGGGGAAACUUCGUGGUGGCCG
+(((((((((((.[..(((((())))))....))))(((((...(.].(((((((((..........)))))))))......)..)))))(((..........)))))))))).
+
+Chain D E 
+GGCCACCUGACaGUCCuCUCCgGAGAGAGAAGUCAACCAGAGAAACACACCAACCCAUUGCACUCCGGGUUGGUGGUAUAUUACCUGGUACGGGGGAAACUUCGUGGUGGCCG
+(((((((((((.[..(((((())))))....))))(((((...(.].(((((((((..........)))))))))......)..)))))((((((....))))))))))))).
+

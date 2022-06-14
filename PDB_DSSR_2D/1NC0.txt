@@ -1,0 +1,17 @@
+Title			U80G U6 INTRAMOLECULAR STEM-LOOP RNA FROM SACCHAROMYCES CEREVISIAE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1NC0 nts=24 [whole]
+GGUUCCCCUGCAUAAGGAGGAACC
+((((((((.......)).))))))
+
+Interacting substructures
+Chain A 
+GGUUCCCCUGCAUAAGGAGGAACC
+((((((((.......)).))))))
+

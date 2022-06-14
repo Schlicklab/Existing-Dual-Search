@@ -1,0 +1,18 @@
+Title			AN ALTERNATING ANTIPARALLEL OCTAPLEX IN AN RNA CRYSTAL STRUCTURE 
+Chain order		A 
+Amino acids		NO
+Metal			Na	5
+			Co	1
+Chains			A	RNA[5]/1	
+Pseudoknot		NO
+
+Whole structure
+>1MDG nts=6 [whole]
+UgAGGU
+......
+
+Interacting substructures
+Chain A 
+UgAGGU
+......
+

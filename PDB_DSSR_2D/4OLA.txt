@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF HUMAN ARGONAUTE2 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>4OLA nts=9 [whole]
+AAAAAAAA&U
+........&.
+
+Interacting substructures
+Chain B-1 
+AAAAAAAA
+........
+
+Chain B-2 
+U
+.
+

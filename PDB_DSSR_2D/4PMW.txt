@@ -1,0 +1,22 @@
+Title			STRUCTURE OF MOUSE DIS3L2 IN COMPLEX WITH OLIGOU RNA SUBSTRATE 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4PMW nts=28 [whole]
+UUUUUUUUUUUUUU&UUUUUUUUUUUUUU
+..............&..............
+
+Interacting substructures
+Chain C 
+UUUUUUUUUUUUUU
+..............
+
+Chain D 
+UUUUUUUUUUUUUU
+..............
+

@@ -1,0 +1,33 @@
+Title			STRUCTURE OF BACTERIAL POLYNUCLEOTIDE KINASE BOUND TO GTP AND RNA 
+Chain order		C D A B 
+Amino acids		YES
+Metal			Na	5
+			Mg	2
+Chains			C	RNA	
+			D	RNA	
+			A			
+			B			
+Pseudoknot		NO
+
+Whole structure
+>4QM6 nts=10 [whole]
+CCUG&CCUG&g&g
+....&....&.&.
+
+Interacting substructures
+Chain C 
+CCUG
+....
+
+Chain D 
+CCUG
+....
+
+Chain A 
+g
+.
+
+Chain B 
+g
+.
+

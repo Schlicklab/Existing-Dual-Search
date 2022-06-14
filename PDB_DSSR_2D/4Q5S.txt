@@ -1,0 +1,26 @@
+Title			THERMUS THERMOPHILUS RNA POLYMERASE INITIALLY TRANSCRIBING COMPLEX CONTAINING 6-MER RNA 
+Chain order		G H-1 H-2 I-1 I-2 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			G	DNA	I-2 I-1 H-2 
+			H-1	DNA*	
+			H-2	DNA*	G 
+			I-1	RNA*	G 
+			I-2	RNA*	G 
+Pseudoknot		YES
+
+Whole structure
+>4Q5S nts=36 [whole]
+TGCATCCGTGAGTG&TATAATGGG&GGATGCA&CUCAC&a
+((((((([[[[[[.&.........&)))))))&]]]]]&]
+
+Interacting substructures
+Chain G H-2 I-1 I-2 
+TGCATCCGTGAGTGGGATGCACUCACa
+((((((([[[[[[.)))))))]]]]]]
+
+Chain H-1 
+TATAATGGG
+.........
+

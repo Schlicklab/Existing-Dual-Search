@@ -1,0 +1,17 @@
+Title			E.COLI HFQ IN COMPLEX WITH RNA ADS 
+Chain order		H 
+Amino acids		YES
+Metal
+Chains			H	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4QVD nts=4 [whole]
+UAAA
+....
+
+Interacting substructures
+Chain H 
+UAAA
+....
+

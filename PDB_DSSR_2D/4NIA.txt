@@ -1,0 +1,108 @@
+Title			SATELLITE TOBACCO MOSAIC VIRUS REFINED AT ROOM TEMPERATURE TO 1.8 A RESOLUTION USING NCS RESTRAINTS 
+Chain order		P e Q u R g S h T i y V z 1 X m Y n 4 a 5 6 7 8 
+Amino acids		YES
+Metal			Mg	3
+Chains			P	RNA	e 
+			e	RNA	P 
+			Q	RNA	
+			u	RNA	
+			R	RNA	g 
+			g	RNA	R 
+			S	RNA	h 
+			h	RNA	S 
+			T	RNA	i 
+			i	RNA	T 
+			y	RNA	
+			V	RNA	
+			z	RNA	
+			1	RNA	
+			X	RNA	m 
+			m	RNA	X 
+			Y	RNA	n 
+			n	RNA	Y 
+			4	RNA	
+			a	RNA	
+			5	RNA	
+			6	RNA	
+			7	RNA	
+			8	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4NIA nts=159 [whole]
+AAAAAAAAAA&UUUUUUUUUU&AAAAAAAAAA&U&AAAAAAAAAA&UUUUUUUUUU&AAAAAAAAAA&UUUUUUUUUU&AAAAAAAAAA&UUUUUUUUUU&U&AAAAAAAAAA&U&U&AAAAAAAAAA&UUUUUUUUUU&AAAAAAAAAA&UUUUUUUUUU&U&AAAAAAAAAA&U&U&U&U
+(((((((((.&))))))))).&..........&.&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&.&..........&.&.&(((((((((.&))))))))).&(((((((((.&))))))))).&.&..........&.&.&.&.
+
+Interacting substructures
+Chain P e 
+AAAAAAAAAAUUUUUUUUUU
+(((((((((.))))))))).
+
+Chain Q 
+AAAAAAAAAA
+..........
+
+Chain u 
+U
+.
+
+Chain R g 
+AAAAAAAAAAUUUUUUUUUU
+(((((((((.))))))))).
+
+Chain S h 
+AAAAAAAAAAUUUUUUUUUU
+(((((((((.))))))))).
+
+Chain T i 
+AAAAAAAAAAUUUUUUUUUU
+(((((((((.))))))))).
+
+Chain y 
+U
+.
+
+Chain V 
+AAAAAAAAAA
+..........
+
+Chain z 
+U
+.
+
+Chain 1 
+U
+.
+
+Chain X m 
+AAAAAAAAAAUUUUUUUUUU
+(((((((((.))))))))).
+
+Chain Y n 
+AAAAAAAAAAUUUUUUUUUU
+(((((((((.))))))))).
+
+Chain 4 
+U
+.
+
+Chain a 
+AAAAAAAAAA
+..........
+
+Chain 5 
+U
+.
+
+Chain 6 
+U
+.
+
+Chain 7 
+U
+.
+
+Chain 8 
+U
+.
+

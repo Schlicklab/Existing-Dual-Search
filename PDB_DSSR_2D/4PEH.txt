@@ -1,0 +1,57 @@
+Title			DBR1 IN COMPLEX WITH SYNTHETIC LINEAR RNA 
+Chain order		V-1 V-2 W X-1 X-2 Y-1 Y-2 Z-1 Z-2 
+Amino acids		YES
+Metal			Mn	5
+Chains			V-1	RNA*	
+			V-2	RNA*	
+			W	RNA	
+			X-1	RNA*	
+			X-2	RNA*	
+			Y-1	RNA*	
+			Y-2	RNA*	
+			Z-1	RNA*	
+			Z-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>4PEH nts=17 [whole]
+A&aC&aCA&A&aCA&A&aCA&A&aC
+.&..&...&.&...&.&...&.&..
+
+Interacting substructures
+Chain V-1 
+A
+.
+
+Chain V-2 
+aC
+..
+
+Chain W 
+aCA
+...
+
+Chain X-1 
+A
+.
+
+Chain X-2 
+aCA
+...
+
+Chain Y-1 
+A
+.
+
+Chain Y-2 
+aCA
+...
+
+Chain Z-1 
+A
+.
+
+Chain Z-2 
+aC
+..
+

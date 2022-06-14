@@ -1,0 +1,23 @@
+Title			STRUCTURE OF HISTIDINYL-TRNA SYNTHETASE IN COMPLEX WITH TRNA(HIS) 
+Chain order		C-1 C-2 A 
+Amino acids		YES
+Metal
+Chains			C-1	RNA*	C-1 C-2 
+			C-2	RNA*	C-1 C-2 
+			A			
+Pseudoknot		YES
+
+Whole structure
+>4RDX nts=78 [whole]
+gGUGAGCGUAGCUCAGCUGGUUAGAGCACCGGACUGUGG&UCCGGGGGUCGUGGGUUCAAGUCCCAUCGCUCACCCCA&a
+((((((((..((((.....[...)))).((((.......&.)))).....(((((..]....)))))))))))))...&.
+
+Interacting substructures
+Chain C-1 C-2 
+gGUGAGCGUAGCUCAGCUGGUUAGAGCACCGGACUGUGGUCCGGGGGUCGUGGGUUCAAGUCCCAUCGCUCACCCCA
+((((((((..((((.....[...)))).((((........)))).....(((((..]....)))))))))))))...
+
+Chain A 
+a
+.
+

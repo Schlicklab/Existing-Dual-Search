@@ -1,0 +1,18 @@
+Title			NV POLYMERASE POST-INCORPORATION-LIKE COMPLEX 
+Chain order		P T 
+Amino acids		YES
+Metal			Mn	3
+Chains			P	RNA	T 
+			T	RNA	P 
+Pseudoknot		NO
+
+Whole structure
+>4QPX nts=15 [whole]
+UGCCCGGG&ACCCGGG
+..((((((&.))))))
+
+Interacting substructures
+Chain P T 
+UGCCCGGGACCCGGG
+..((((((.))))))
+

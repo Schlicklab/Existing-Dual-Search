@@ -1,0 +1,22 @@
+Title			TWO DISTINCT CONFORMATIONAL STATES OF GLYRS CAPTURED IN CRYSTAL LATTICE 
+Chain order		C A 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+			A			
+Pseudoknot		YES
+
+Whole structure
+>4QEI nts=70 [whole]
+gCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCG&a
+.((((((..(((.....[...)))((((((.......))))))...(((((..]....)))))))))))&.
+
+Interacting substructures
+Chain C 
+gCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCG
+.((((((..(((.....[...)))((((((.......))))))...(((((..]....)))))))))))
+
+Chain A 
+a
+.
+

@@ -1,0 +1,21 @@
+Title			CRYSTAL STRUCTURE OF THE NICO TRANSITION-METAL RIBOSWITCH BOUND TO COBALT 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal			Mg	2
+			K	7
+			Co	4
+			Sr	1
+Chains			A-1	RNA*	A-1 A-2 
+			A-2	RNA*	A-1 
+Pseudoknot		NO
+
+Whole structure
+>4RUM nts=92 [whole]
+gGGAACUGAGCAGGCAAUGACCAGAGCGGUCAUGCAGCCGGGCUGCGAAAGCGGCAACAGAUGAU&ACACGCACAUCUGUGGGACAGUUCCCA
+((((((((..(.(((.((((((.....))))))...)))..(((((....))))).(((((((..&.......)))))))..).)))))))).
+
+Interacting substructures
+Chain A-1 A-2 
+gGGAACUGAGCAGGCAAUGACCAGAGCGGUCAUGCAGCCGGGCUGCGAAAGCGGCAACAGAUGAUACACGCACAUCUGUGGGACAGUUCCCA
+((((((((..(.(((.((((((.....))))))...)))..(((((....))))).(((((((.........)))))))..).)))))))).
+

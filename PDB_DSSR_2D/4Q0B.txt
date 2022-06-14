@@ -1,0 +1,26 @@
+Title			CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE IN COMPLEX WITH GAP- RNA/DNA AND NEVIRAPINE 
+Chain order		T t P E F e 
+Amino acids		YES
+Metal			Mn	2
+Chains			T	RNA	P 
+			t	RNA	P 
+			P	DNA	T t 
+			E	RNA	F 
+			F	DNA	E e 
+			e	RNA	F 
+Pseudoknot		YES
+
+Whole structure
+>4Q0B nts=75 [whole]
+CGGCGCCCG&ACAGGGACUG&CAGTCCCTGTTCGGGCGCC&CGGCGCCCG&CAGTCCCTGTTCGGGCGCC&ACAGGGACU
+.((((((((&((((((((((&)))))))))).))))))))&.[[[[[[[.&..((((((((..]]]]]]]&)))))))).
+
+Interacting substructures
+Chain T t P 
+CGGCGCCCGACAGGGACUGCAGTCCCTGTTCGGGCGCC
+.(((((((((((((((((()))))))))).))))))))
+
+Chain E F e 
+CGGCGCCCGCAGTCCCTGTTCGGGCGCCACAGGGACU
+.[[[[[[[...((((((((..]]]]]]])))))))).
+

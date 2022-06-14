@@ -1,0 +1,22 @@
+Title			STRUCTURAL BASIS FOR THE ASSEMBLY OF THE SXL-UNR TRANSLATION REGULATORY COMPLEX 
+Chain order		P C 
+Amino acids		YES
+Metal
+Chains			P	RNA	
+			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4QQB nts=34 [whole]
+UUUUUUUGAGCACGUGA&UUUUUUUGAGCACGUGA
+.................&.................
+
+Interacting substructures
+Chain P 
+UUUUUUUGAGCACGUGA
+.................
+
+Chain C 
+UUUUUUUGAGCACGUGA
+.................
+

@@ -1,0 +1,29 @@
+Title			CRYSTAL STRUCTURE OF THE TRIPLE-HELICAL STABILITY ELEMENT AT THE 3' END OF MALAT1 
+Chain order		A B-1 B-2 C-1 C-2 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+			B-1	RNA*	B-2 B-1 
+			B-2	RNA*	B-1 
+			C-1	RNA*	C-1 C-2 
+			C-2	RNA*	C-1 
+Pseudoknot		YES
+
+Whole structure
+>4PLX nts=220 [whole]
+gGAAGGUUUUUCUUUUCCUGAGGCGAAAGUCUCAGGUUUUGCUUUUUGGCCUUUCUUAAAAAAAAAAAAAGCAAAa&gGAAGGUUUUUCUUUUCCUGAGGCGAAAGUCUCAGGUUUUGCUUUUUGGCCUUUC&AAAAAAAAAAAAGCAAAa&gGAAGGUUUUUCUUUUCCUGAGGCGAAAGUCUCAGGUUUUGCUUUUUGGCCUUU&AAAAAAAAAAAGCAAAa
+.[[[[[..........((((((((....))))))))(((((((((((..]]]]]...........)))))))))))&.[.[[[{.........((((((((....))))))))((((((((((...]]].].&.......}))))))))))&..[[[.{.........((((((((....))))))))((((((((((....]]].&......}))))))))))
+
+Interacting substructures
+Chain A 
+gGAAGGUUUUUCUUUUCCUGAGGCGAAAGUCUCAGGUUUUGCUUUUUGGCCUUUCUUAAAAAAAAAAAAAGCAAAa
+.[[[[[..........((((((((....))))))))(((((((((((..]]]]]...........)))))))))))
+
+Chain B-1 B-2 
+gGAAGGUUUUUCUUUUCCUGAGGCGAAAGUCUCAGGUUUUGCUUUUUGGCCUUUCAAAAAAAAAAAAGCAAAa
+.[.[[[{.........((((((((....))))))))((((((((((...]]].]........}))))))))))
+
+Chain C-1 C-2 
+gGAAGGUUUUUCUUUUCCUGAGGCGAAAGUCUCAGGUUUUGCUUUUUGGCCUUUAAAAAAAAAAAGCAAAa
+..[[[.{.........((((((((....))))))))((((((((((....]]].......}))))))))))
+

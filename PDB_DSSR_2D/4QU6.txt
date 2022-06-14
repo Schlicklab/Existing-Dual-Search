@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A G-RICH RNA SEQUENCE BINDING FACTOR 1 (GRSF1) FROM HOMO SAPIENS AT 1.75 A RESOLUTION 
+Chain order		B 
+Amino acids		YES
+Metal			Ca	1
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4QU6 nts=3 [whole]
+GGG
+...
+
+Interacting substructures
+Chain B 
+GGG
+...
+

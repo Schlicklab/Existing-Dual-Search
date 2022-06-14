@@ -1,0 +1,42 @@
+Title			CRYSTAL STRUCTURE OF YTH DOMAIN OF ZYGOSACCHAROMYCES ROUXII MRB1 PROTEIN IN COMPLEX WITH N6-METHYLADENOSINE RNA 
+Chain order		O P Q R S T 
+Amino acids		YES
+Metal
+Chains			O	RNA	
+			P	RNA	
+			Q	RNA	
+			R	RNA	
+			S	RNA	
+			T	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4U8T nts=42 [whole]
+AGGaCAU&AGGaCAU&AGGaCAU&AGGaCAU&AGGaCAU&AGGaCAU
+.......&.......&.......&.......&.......&.......
+
+Interacting substructures
+Chain O 
+AGGaCAU
+.......
+
+Chain P 
+AGGaCAU
+.......
+
+Chain Q 
+AGGaCAU
+.......
+
+Chain R 
+AGGaCAU
+.......
+
+Chain S 
+AGGaCAU
+.......
+
+Chain T 
+AGGaCAU
+.......
+

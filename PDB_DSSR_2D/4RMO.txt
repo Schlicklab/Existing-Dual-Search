@@ -1,0 +1,52 @@
+Title			CRYSTAL STRUCTURE OF THE CPTIN TYPE III TOXIN-ANTITOXIN SYSTEM FROM EUBACTERIUM RECTALE 
+Chain order		B D F H J L N P 
+Amino acids		YES
+Metal			Ca	48
+Chains			B	RNA	B 
+			D	RNA	D 
+			F	RNA	F 
+			H	RNA	H 
+			J	RNA	J 
+			L	RNA	L 
+			N	RNA	N 
+			P	RNA	P 
+Pseudoknot		YES
+
+Whole structure
+>4RMO nts=360 [whole]
+AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa&AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa&AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa&AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa&AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa&AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa&AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa&AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa
+......(((((...[[[[[..))))).........]]]]].....&......(((((...[[[[[..))))).........]]]]].....&......(((((...[[[[[..))))).........]]]]].....&......(((((...[[[[[..))))).........]]]]].....&......(((((...[[[[[..))))).........]]]]].....&......(((((...[[[[[..))))).........]]]]].....&......(((((...[[[[[..))))).........]]]]].....&......(((((...[[[[[..))))).........]]]]].....
+
+Interacting substructures
+Chain B 
+AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa
+......(((((...[[[[[..))))).........]]]]].....
+
+Chain D 
+AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa
+......(((((...[[[[[..))))).........]]]]].....
+
+Chain F 
+AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa
+......(((((...[[[[[..))))).........]]]]].....
+
+Chain H 
+AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa
+......(((((...[[[[[..))))).........]]]]].....
+
+Chain J 
+AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa
+......(((((...[[[[[..))))).........]]]]].....
+
+Chain L 
+AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa
+......(((((...[[[[[..))))).........]]]]].....
+
+Chain N 
+AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa
+......(((((...[[[[[..))))).........]]]]].....
+
+Chain P 
+AAGUUUACCACUGACCGAUAUGUGGUAUAUAAAUGGUCGGGUUGa
+......(((((...[[[[[..))))).........]]]]].....
+

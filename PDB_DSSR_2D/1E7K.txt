@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF THE SPLICEOSOMAL 15.5KD PROTEIN BOUND TO A U4 SNRNA FRAGMENT 
+Chain order		C-1 C-2 D-1 D-2 
+Amino acids		YES
+Metal
+Chains			C-1	RNA*	C-2 
+			C-2	RNA*	C-1 
+			D-1	RNA*	D-2 
+			D-2	RNA*	D-1 
+Pseudoknot		NO
+
+Whole structure
+>1E7K nts=34 [whole]
+GCCAAUGAGG&CCGAGGC&GCCAAUGAGG&CCGAGGC
+(((.....((&))..)))&(((.....((&))..)))
+
+Interacting substructures
+Chain C-1 C-2 
+GCCAAUGAGGCCGAGGC
+(((.....(())..)))
+
+Chain D-1 D-2 
+GCCAAUGAGGCCGAGGC
+(((.....(())..)))
+

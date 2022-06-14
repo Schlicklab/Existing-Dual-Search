@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURE OF A NUCLEIC ACID FOUR-WAY JUNCTION 
+Chain order		A B C D 
+Amino acids		NO
+Metal			Mg	14
+Chains			A	RNA[19]/1	B D 
+			B	DNA	B C A D 
+			C	RNA[19]/1	B D 
+			D	DNA	B C A D 
+Pseudoknot		NO
+
+Whole structure
+>1EGK nts=108 [whole]
+AGGAGAGAGAUGGGUGCGAG&CTCGCACCCAGGCTAGCTACAACGACTCTCTCCT&AGGAGAGAGAUGGGUGCGAG&CTCGCACCCAGGCTAGCTACAACGACTCTCTCCT
+.((((((((.((((((((((&)))))))))).(((((((.(...))((((((((.&.)))))))).((((((((((&)))))))))).))))))(.(...)))))))))).
+
+Interacting substructures
+Chain A B C D 
+AGGAGAGAGAUGGGUGCGAGCTCGCACCCAGGCTAGCTACAACGACTCTCTCCTAGGAGAGAGAUGGGUGCGAGCTCGCACCCAGGCTAGCTACAACGACTCTCTCCT
+.((((((((.(((((((((()))))))))).(((((((.(...))((((((((..)))))))).(((((((((()))))))))).))))))(.(...)))))))))).
+

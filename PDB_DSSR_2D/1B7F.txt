@@ -1,0 +1,22 @@
+Title			SXL-LETHAL PROTEIN/RNA COMPLEX 
+Chain order		P Q 
+Amino acids		YES
+Metal
+Chains			P	RNA	
+			Q	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1B7F nts=24 [whole]
+GUUGUUUUUUUU&GUUGUUUUUUUU
+............&............
+
+Interacting substructures
+Chain P 
+GUUGUUUUUUUU
+............
+
+Chain Q 
+GUUGUUUUUUUU
+............
+

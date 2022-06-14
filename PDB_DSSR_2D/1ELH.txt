@@ -1,0 +1,18 @@
+Title			NMR ANALYSIS OF HELIX I FROM THE 5S RNA OF ESCHERICHIA COLI 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1ELH nts=25 [whole]
+UUGCCUGGCGGC&AACUGCCAGGCAU
+.((((((((((.&..)))))))))).
+
+Interacting substructures
+Chain A B 
+UUGCCUGGCGGCAACUGCCAGGCAU
+.((((((((((...)))))))))).
+

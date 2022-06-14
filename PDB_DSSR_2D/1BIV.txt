@@ -1,0 +1,17 @@
+Title			BOVINE IMMUNODEFICIENCY VIRUS TAT-TAR COMPLEX, NMR, 5 STRUCTURES 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1BIV nts=28 [whole]
+GGCUCGUGUAGCUCAUUAGCUCCGAGCC
+((((((.(.((((....)))))))))))
+
+Interacting substructures
+Chain A 
+GGCUCGUGUAGCUCAUUAGCUCCGAGCC
+((((((.(.((((....)))))))))))
+

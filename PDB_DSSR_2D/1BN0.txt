@@ -1,0 +1,17 @@
+Title			SL3 HAIRPIN FROM THE PACKAGING SIGNAL OF HIV-1, NMR, 11 STRUCTURES 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1BN0 nts=20 [whole]
+GGACUAGCGGAGGCUAGUCC
+((((((((....))))))))
+
+Interacting substructures
+Chain A 
+GGACUAGCGGAGGCUAGUCC
+((((((((....))))))))
+

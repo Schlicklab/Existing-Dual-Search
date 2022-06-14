@@ -1,0 +1,17 @@
+Title			CORE OF THE ALU DOMAIN OF THE MAMMALIAN SRP 
+Chain order		E 
+Amino acids		YES
+Metal
+Chains			E	RNA	E 
+Pseudoknot		YES
+
+Whole structure
+>1E8O nts=50 [whole]
+gGGCCGGGCGCGGUGGCGCGCGCCUGUAGUCCCAGCUACUCGGGAGGCUC
+((((((((((((..[[[.)))))))....((((.]]..]..)))))))))
+
+Interacting substructures
+Chain E 
+gGGCCGGGCGCGGUGGCGCGCGCCUGUAGUCCCAGCUACUCGGGAGGCUC
+((((((((((((..[[[.)))))))....((((.]]..]..)))))))))
+

@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF AN 82-NUCLEOTIDE RNA-DNA COMPLEX FORMED BY THE 10-23 DNA ENZYME 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	DNA	B A 
+Pseudoknot		NO
+
+Whole structure
+>1BR3 nts=41 [whole]
+GGACAGAUGGGAG&GCTCCCAGGCTAGCTACAACGACTGTCC
+((((((.......&..............(......)))))))
+
+Interacting substructures
+Chain A B 
+GGACAGAUGGGAGGCTCCCAGGCTAGCTACAACGACTGTCC
+((((((.....................(......)))))))
+

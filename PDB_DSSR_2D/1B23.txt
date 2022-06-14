@@ -1,0 +1,22 @@
+Title			E. COLI CYSTEINYL-TRNA AND T. AQUATICUS ELONGATION FACTOR EF-TU:GTP TERNARY COMPLEX 
+Chain order		R P 
+Amino acids		YES
+Metal			Mg	3
+Chains			R	RNA*	R 
+			P			
+Pseudoknot		YES
+
+Whole structure
+>1B23 nts=75 [whole]
+GGCGCGUuAACAAAGCGGuuAUGUAGCGGAPUGCAaAPCCGUCUAGUCCGGtPCGACUCCGGAACGCGCCUCCA&g
+(((((((..(((.....[...))).((((.........))))....(((((..]....))))))))))))....&.
+
+Interacting substructures
+Chain R 
+GGCGCGUuAACAAAGCGGuuAUGUAGCGGAPUGCAaAPCCGUCUAGUCCGGtPCGACUCCGGAACGCGCCUCCA
+(((((((..(((.....[...))).((((.........))))....(((((..]....))))))))))))....
+
+Chain P 
+g
+.
+

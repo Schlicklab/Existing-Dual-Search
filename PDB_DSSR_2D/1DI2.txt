@@ -1,0 +1,28 @@
+Title			CRYSTAL STRUCTURE OF A DSRNA-BINDING DOMAIN COMPLEXED WITH DSRNA: MOLECULAR BASIS OF DOUBLE-STRANDED RNA-PROTEIN INTERACTIONS 
+Chain order		C D E G 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	RNA	C 
+			E	RNA	
+			G	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1DI2 nts=40 [whole]
+GGCGCGCGCC&GGCGCGCGCC&GGCGCGCGCC&GGCGCGCGCC
+((((((((((&))))))))))&..........&..........
+
+Interacting substructures
+Chain C D 
+GGCGCGCGCCGGCGCGCGCC
+(((((((((())))))))))
+
+Chain E 
+GGCGCGCGCC
+..........
+
+Chain G 
+GGCGCGCGCC
+..........
+

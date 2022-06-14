@@ -1,0 +1,17 @@
+Title			5S RRNA STRUCTURE FITTED TO A CRYO-ELECTRON MICROSCOPIC MAP AT 7.5 ANGSTROMS RESOLUTION 
+Chain order		C 
+Amino acids		NO
+Metal
+Chains			C	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>1C2X nts=120 [whole]
+UGCCUGGCGGCCGUAGCGCGGUGGUCCCACCUGACCCCAUGCCGAACUCAGAAGUGAAACGCCGUAGCGCCGAUGGUAGUGUGGGGUCUCCCCAUGCGAGAGUAGGGAACUGCCAGGCAU
+((((((((.(.....((.(((.(.......((((.............))))........).)))..)).((.......((((((((...)))))))).......))...).)))))))).
+
+Interacting substructures
+Chain C 
+UGCCUGGCGGCCGUAGCGCGGUGGUCCCACCUGACCCCAUGCCGAACUCAGAAGUGAAACGCCGUAGCGCCGAUGGUAGUGUGGGGUCUCCCCAUGCGAGAGUAGGGAACUGCCAGGCAU
+((((((((.(.....((.(((.(.......((((.............))))........).)))..)).((.......((((((((...)))))))).......))...).)))))))).
+

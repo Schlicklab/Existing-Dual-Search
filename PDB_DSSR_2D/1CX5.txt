@@ -1,0 +1,19 @@
+Title			ANTISENSE DNA/RNA HYBRID CONTAINING MODIFIED BACKBONE 
+Chain order		A-1 A-2 B 
+Amino acids		NO
+Metal
+Chains			A-1	DNA*	B 
+			A-2	DNA*	B 
+			B	RNA	A-1 A-2 
+Pseudoknot		NO
+
+Whole structure
+>1CX5 nts=24 [whole]
+CGCGTT&tTGCGC&GCGCAAAACGCG
+((((((&((((((&))))))))))))
+
+Interacting substructures
+Chain A-1 A-2 B 
+CGCGTTtTGCGCGCGCAAAACGCG
+(((((((((((())))))))))))
+

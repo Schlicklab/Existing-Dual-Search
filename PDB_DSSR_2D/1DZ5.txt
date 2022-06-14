@@ -1,0 +1,18 @@
+Title			THE NMR STRUCTURE OF THE 38KDA U1A PROTEIN-PIE RNA COMPLEX REVEALS THE BASIS OF COOPERATIVITY IN REGULATION OF POLYADENYLATION BY HUMAN U1A PROTEIN 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>1DZ5 nts=44 [whole]
+GAGACAUUGCACCCGGAGUCUC&GAGACAUUGCACCCGGAGUCUC
+(((((.......((((.(((((&))))).......)))).)))))
+
+Interacting substructures
+Chain C D 
+GAGACAUUGCACCCGGAGUCUCGAGACAUUGCACCCGGAGUCUC
+(((((.......((((.((((())))).......)))).)))))
+

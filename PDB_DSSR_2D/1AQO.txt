@@ -1,0 +1,17 @@
+Title			IRON RESPONSIVE ELEMENT RNA HAIRPIN, NMR, 15 STRUCTURES 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1AQO nts=29 [whole]
+GGAGUGCUUCAACAGUGCUUGGACGCUCC
+((((((.((((((...).)))))))))))
+
+Interacting substructures
+Chain A 
+GGAGUGCUUCAACAGUGCUUGGACGCUCC
+((((((.((((((...).)))))))))))
+

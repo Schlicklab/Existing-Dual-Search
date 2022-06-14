@@ -1,0 +1,18 @@
+Title			RNA LOOP-LOOP COMPLEX: THE COLE1 INVERTED LOOP SEQUENCE, NMR, 8 STRUCTURES 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	B A 
+Pseudoknot		YES
+
+Whole structure
+>1BJ2 nts=40 [whole]
+GGCAACGGAUGGUUCGUUGCC&GCACCGAACCAUCCGGUGC
+((((((([[[[[[[)))))))&((((((]]]]]]]))))))
+
+Interacting substructures
+Chain A B 
+GGCAACGGAUGGUUCGUUGCCGCACCGAACCAUCCGGUGC
+((((((([[[[[[[)))))))((((((]]]]]]]))))))
+

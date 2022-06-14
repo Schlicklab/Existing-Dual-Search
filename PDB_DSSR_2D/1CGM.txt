@@ -1,0 +1,17 @@
+Title			STRUCTURE DETERMINATION OF CUCUMBER GREEN MOTTLE MOSAIC VIRUS BY X-RAY FIBER DIFFRACTION. SIGNIFICANCE FOR THE EVOLUTION OF TOBAMOVIRUSES 
+Chain order		I 
+Amino acids		YES
+Metal
+Chains			I	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1CGM nts=3 [whole]
+GAA
+...
+
+Interacting substructures
+Chain I 
+GAA
+...
+

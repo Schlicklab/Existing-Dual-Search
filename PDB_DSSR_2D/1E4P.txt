@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE RIBOZYME SUBSTRATE HAIRPIN OF NEUROSPORA VS RNA. A CLOSE LOOK AT THE CLEAVAGE SITE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1E4P nts=24 [whole]
+GUGCGAAGACGAAAGUCCGAGCGC
+((((...(((....)))...))))
+
+Interacting substructures
+Chain A 
+GUGCGAAGACGAAAGUCCGAGCGC
+((((...(((....)))...))))
+

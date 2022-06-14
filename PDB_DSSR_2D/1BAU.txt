@@ -1,0 +1,18 @@
+Title			NMR STRUCTURE OF THE DIMER INITIATION COMPLEX OF HIV-1 GENOMIC RNA, MINIMIZED AVERAGE STRUCTURE 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	B A 
+Pseudoknot		YES
+
+Whole structure
+>1BAU nts=46 [whole]
+GGCAAUGAAGCGCGCACGUUGCC&GGCAAUGAAGCGCGCACGUUGCC
+((((((...[.[[[[..))))))&((((((...]]]].]..))))))
+
+Interacting substructures
+Chain A B 
+GGCAAUGAAGCGCGCACGUUGCCGGCAAUGAAGCGCGCACGUUGCC
+((((((...[.[[[[..))))))((((((...]]]].]..))))))
+

@@ -1,0 +1,17 @@
+Title			RNA RECOGNITION BY THE VTS1 SAM DOMAIN 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2B6G nts=19 [whole]
+GGAGGCUCUGGCAGCUUUC
+((((((((..).)))))))
+
+Interacting substructures
+Chain B 
+GGAGGCUCUGGCAGCUUUC
+((((((((..).)))))))
+

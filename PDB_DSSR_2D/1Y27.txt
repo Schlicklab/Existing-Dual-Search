@@ -1,0 +1,18 @@
+Title			G-RIBOSWITCH-GUANINE COMPLEX 
+Chain order		X-1 X-2 
+Amino acids		NO
+Metal
+Chains			X-1	RNA[68]/1*	X-2 X-1 
+			X-2	RNA[68]/1*	X-1 
+Pseudoknot		YES
+
+Whole structure
+>1Y27 nts=69 [whole]
+gGAUCAUAUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGACUAUGGUc&g
+.((((((((..(.(((((.....[[))))).)[.....)]((((((]].....)))))).[)))))))&]
+
+Interacting substructures
+Chain X-1 X-2 
+gGAUCAUAUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGACUAUGGUcg
+.((((((((..(.(((((.....[[))))).)[.....)]((((((]].....)))))).[)))))))]
+

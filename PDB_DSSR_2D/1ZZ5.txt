@@ -1,0 +1,20 @@
+Title			MOLECULAR RECOGNITION OF RNA BY NEOMYCIN AND A RESTRICTED NEOMYCIN DERIVATIVE 
+Chain order		A B C D 
+Amino acids		NO
+Metal			Mg	2
+Chains			A	RNA	B 
+			B	RNA	C A 
+			C	RNA	B D 
+			D	RNA	C 
+Pseudoknot		YES
+
+Whole structure
+>1ZZ5 nts=58 [whole]
+GUGGUGAAGUCGCGG&CGCGUCACACCACC&GUGGUGAAGUCGCGG&CGCGUCACACCACC
+((((((..(.((((.&)))).).))))))[&((((((..(.((((]&)))).).)))))).
+
+Interacting substructures
+Chain A B C D 
+GUGGUGAAGUCGCGGCGCGUCACACCACCGUGGUGAAGUCGCGGCGCGUCACACCACC
+((((((..(.((((.)))).).))))))[((((((..(.((((])))).).)))))).
+

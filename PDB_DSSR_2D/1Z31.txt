@@ -1,0 +1,17 @@
+Title			THE STRUCTURE OF AN ENZYME-ACTIVATING FRAGMENT OF HUMAN TELOMERASE RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1Z31 nts=32 [whole]
+GAGGUCGGCCCGACUUCGGUCACUGCCACCUC
+(((((.(((..(((....)))...))))))))
+
+Interacting substructures
+Chain A 
+GAGGUCGGCCCGACUUCGGUCACUGCCACCUC
+(((((.(((..(((....)))...))))))))
+

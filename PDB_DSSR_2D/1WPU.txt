@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE HUTP ANTITERMINATION COMPLEX BOUND TO A SINGLE STRANDED REGION OF HUT MRNA 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1WPU nts=14 [whole]
+UUGAGUU&UUGAGUU
+.......&.......
+
+Interacting substructures
+Chain C 
+UUGAGUU
+.......
+
+Chain D 
+UUGAGUU
+.......
+

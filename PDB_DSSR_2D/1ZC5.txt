@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE RNA SIGNAL ESSENTIAL FOR TRANSLATIONAL FRAMESHIFTING IN HIV-1 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1ZC5 nts=41 [whole]
+GGCGAUCUGGCCUUCCUACAAGGGAAGGCCAGGGAAUUGCC
+(((((((((((((((((....)))))))))))...))))))
+
+Interacting substructures
+Chain A 
+GGCGAUCUGGCCUUCCUACAAGGGAAGGCCAGGGAAUUGCC
+(((((((((((((((((....)))))))))))...))))))
+

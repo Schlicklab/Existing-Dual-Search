@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE (I) OF NOVA-1 KH1/KH2 DOMAIN TANDEM WITH 25 NT RNA HAIRPIN 
+Chain order		B 
+Amino acids		YES
+Metal			Mg	2
+			K	1
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2ANN nts=23 [whole]
+CGCGGAUCAGUCACCCAAGCGCG
+(((...............)))..
+
+Interacting substructures
+Chain B 
+CGCGGAUCAGUCACCCAAGCGCG
+(((...............)))..
+

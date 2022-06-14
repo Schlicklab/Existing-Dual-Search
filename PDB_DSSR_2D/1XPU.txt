@@ -1,0 +1,67 @@
+Title			STRUCTURAL MECHANISM OF INHIBITION OF THE RHO TRANSCRIPTION TERMINATION FACTOR BY THE ANTIBIOTIC 5A-(3-FORMYLPHENYLSULFANYL)- DIHYDROBICYCLOMYCIN (FPDB) 
+Chain order		G M H J K L A B C D E 
+Amino acids		YES
+Metal			Mg	6
+Chains			G	RNA	
+			M	RNA	
+			H	RNA	
+			J	RNA	
+			K	RNA	
+			L	RNA	
+			A			
+			B			
+			C			
+			D			
+			E			
+Pseudoknot		NO
+
+Whole structure
+>1XPU nts=18 [whole]
+UC&UC&UC&UC&UC&UC&a&a&a&a&a&a
+..&..&..&..&..&..&.&.&.&.&.&.
+
+Interacting substructures
+Chain G 
+UC
+..
+
+Chain M 
+UC
+..
+
+Chain H 
+UC
+..
+
+Chain J 
+UC
+..
+
+Chain K 
+UC
+..
+
+Chain L 
+UC
+..
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+
+Chain C 
+a
+.
+
+Chain D 
+a
+.
+
+Chain E 
+aa
+..
+

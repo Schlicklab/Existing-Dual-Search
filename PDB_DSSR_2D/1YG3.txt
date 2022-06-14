@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE SCYLV P1-P2 FRAMESHIFTING PSEUDOKNOT, 20 LOWEST ENERGY STRUCTURES 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>1YG3 nts=28 [whole]
+AGUGGcGCCGACCACUUAAAAACACCGG
+(((((..[[[.))))).........]]]
+
+Interacting substructures
+Chain A 
+AGUGGcGCCGACCACUUAAAAACACCGG
+(((((..[[[.))))).........]]]
+

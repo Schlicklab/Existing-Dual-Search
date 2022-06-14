@@ -1,0 +1,17 @@
+Title			HELIX 45 (16S RRNA) FROM B. STEAROTHERMOPHILUS, NMR, MINIMIZED AVERAGE STRUCTURE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1WTS nts=14 [whole]
+GGACCgGaaGGUCC
+(((((....)))))
+
+Interacting substructures
+Chain A 
+GGACCgGaaGGUCC
+(((((....)))))
+

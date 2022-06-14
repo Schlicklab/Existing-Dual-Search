@@ -1,0 +1,17 @@
+Title			STRUCTURE OF HUMAN TRYPTOPHANYL-TRNA SYNTHETASE IN COMPLEX WITH TRNA(TRP) 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2AKE nts=72 [whole]
+GACCUCGUGGCGCAAUGGUAGCGCGUCUGACUCCAGAUCAGAAGGUUGCGUGUUCGAAUCACGUCGGGGUCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).
+
+Interacting substructures
+Chain B 
+GACCUCGUGGCGCAAUGGUAGCGCGUCUGACUCCAGAUCAGAAGGUUGCGUGUUCGAAUCACGUCGGGGUCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).
+

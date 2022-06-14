@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF AN RNA STEM-LOOP DERIVED FROM THE 3' CONSERVED REGION OF EEL LINE UNAL2 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1WKS nts=17 [whole]
+GGCUUUGGAUAAAAGCC
+((((((.....))))))
+
+Interacting substructures
+Chain A 
+GGCUUUGGAUAAAAGCC
+((((((.....))))))
+

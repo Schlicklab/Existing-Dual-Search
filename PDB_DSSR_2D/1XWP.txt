@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF AUCGCA LOOP 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1XWP nts=15 [whole]
+GGAGAUCGCACUCCA
+((((......)))).
+
+Interacting substructures
+Chain A 
+GGAGAUCGCACUCCA
+((((......)))).
+

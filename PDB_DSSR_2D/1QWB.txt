@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF 5'-R(GGACACGAAAUCCCGAAGUAGUGUCC)-3' : AN RNA HAIRPIN CONTAINING THE IN VITRO SELECTED CONSENSUS SEQUENCE FOR NUCLEOLIN RBD12 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1QWB nts=26 [whole]
+GGACACGAAAUCCCGAAGUAGUGUCC
+((((((..............))))))
+
+Interacting substructures
+Chain A 
+GGACACGAAAUCCCGAAGUAGUGUCC
+((((((..............))))))
+

@@ -1,0 +1,17 @@
+Title			STEM-LOOP D OF THE CLOVERLEAF DOMAIN OF ENTEROVIRAL 5'UTR RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1TXS nts=38 [whole]
+GGGCUAGCACUCUGGUAUUACGGUACCUUUGUGCGCCC
+((((..((((...(((((....)))))...))))))))
+
+Interacting substructures
+Chain A 
+GGGCUAGCACUCUGGUAUUACGGUACCUUUGUGCGCCC
+((((..((((...(((((....)))))...))))))))
+

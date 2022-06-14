@@ -1,0 +1,20 @@
+Title			T7 RNA POLYMERASE ALPHA BETA METHYLENE ATP ELONGATION COMPLEX 
+Chain order		T N R-1 R-2 
+Amino acids		YES
+Metal			Mg	2
+Chains			T	DNA	R-2 R-1 N 
+			N	DNA	T 
+			R-1	RNA*	T 
+			R-2	RNA*	T 
+Pseudoknot		YES
+
+Whole structure
+>1S76 nts=48 [whole]
+GCCGTGCGCATTCGCCGTGTT&TTTACGTTGCGCACGGC&ACACGGCGA&a
+[...[.[[[.(((((((....&........]]].]...]&...))))))&)
+
+Interacting substructures
+Chain T N R-1 R-2 
+GCCGTGCGCATTCGCCGTGTTTTTACGTTGCGCACGGCACACGGCGAa
+[...[.[[[.(((((((............]]].]...]...)))))))
+

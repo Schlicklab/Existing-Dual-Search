@@ -1,0 +1,17 @@
+Title			NMR SOLUTION STRUCTURE OF THE IIIC DOMAIN OF GB VIRUS B IRES ELEMENT 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1R4H nts=10 [whole]
+GGGCAAGCCC
+.(((..))).
+
+Interacting substructures
+Chain A 
+GGGCAAGCCC
+.(((..))).
+

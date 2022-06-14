@@ -1,0 +1,18 @@
+Title			CRYSTALLOGRAPHIC STRUCTURE OF AN RNA HELIX: [U(U-A)6A]2 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1RNA nts=28 [whole]
+UUAUAUAUAUAUAA&UUAUAUAUAUAUAA
+((((((((((((((&))))))))))))))
+
+Interacting substructures
+Chain A B 
+UUAUAUAUAUAUAAUUAUAUAUAUAUAA
+(((((((((((((())))))))))))))
+

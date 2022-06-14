@@ -1,0 +1,23 @@
+Title			REOVIRUS POLYMERASE LAMBDA-3 LOCALIZED BY ELECTRON CRYOMICROSCOPY OF VIRIONS AT 7.6-A RESOLUTION 
+Chain order		B C A 
+Amino acids		YES
+Metal			Mn	2
+Chains			B	RNA	C 
+			C	RNA	B 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>1UON nts=16 [whole]
+GGGGG&UAGCCCCC&c&c&c
+(((((&...)))))&.&.&.
+
+Interacting substructures
+Chain B C 
+GGGGGUAGCCCCC
+(((((...)))))
+
+Chain A 
+ccc
+...
+

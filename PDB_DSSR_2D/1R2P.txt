@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF DOMAIN 5 FROM THE AI5(GAMMA) GROUP II INTRON 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1R2P nts=34 [whole]
+GAGCCGUAUGCGAUGAAAGUCGCACGUACGGUUC
+(((((((..(((((....)))))....)))))))
+
+Interacting substructures
+Chain A 
+GAGCCGUAUGCGAUGAAAGUCGCACGUACGGUUC
+(((((((..(((((....)))))....)))))))
+

@@ -1,0 +1,67 @@
+Title			X-RAY CRYSTAL STRUCTURE OF RHO TRANSCRIPTION TERMINATION FACTOR IN COMPLEX WITH SSRNA SUBSTRATE AND ANPPNP 
+Chain order		G H J K L A B C D E F 
+Amino acids		YES
+Metal
+Chains			G	RNA	
+			H	RNA	
+			J	RNA	
+			K	RNA	
+			L	RNA	
+			A			
+			B			
+			C			
+			D			
+			E			
+			F			
+Pseudoknot		NO
+
+Whole structure
+>1PVO nts=16 [whole]
+UC&UC&UC&UC&UC&a&a&a&a&a&a
+..&..&..&..&..&.&.&.&.&.&.
+
+Interacting substructures
+Chain G 
+UC
+..
+
+Chain H 
+UC
+..
+
+Chain J 
+UC
+..
+
+Chain K 
+UC
+..
+
+Chain L 
+UC
+..
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+
+Chain C 
+a
+.
+
+Chain D 
+a
+.
+
+Chain E 
+a
+.
+
+Chain F 
+a
+.
+

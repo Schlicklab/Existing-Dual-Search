@@ -1,0 +1,352 @@
+Title			COORDINATES OF S12, L11 PROTEINS AND E-SITE TRNA FROM 70S CRYSTAL STRUCTURE SEPARATELY FITTED INTO THE CRYO-EM MAP OF E.COLI 70S.EF-G.GDPNP COMPLEX. THE ATOMIC COORDINATES ORIGINALLY FROM THE E-SITE TRNA WERE FITTED IN THE POSITION OF THE HYBRID P/E-SITE TRNA. 
+Chain order		D-1 D-2 D-3 D-4 D-5 D-6 D-7 D-8 D-9 D-10 D-11 D-12 D-13 D-14 D-15 D-16 D-17 D-18 D-19 D-20 D-21 D-22 D-23 D-24 D-25 D-26 D-27 D-28 D-29 D-30 D-31 D-32 D-33 D-34 D-35 D-36 D-37 D-38 D-39 D-40 D-41 D-42 D-43 D-44 D-45 D-46 D-47 D-48 D-49 D-50 D-51 D-52 D-53 D-54 D-55 D-56 D-57 D-58 D-59 D-60 D-61 D-62 D-63 D-64 D-65 D-66 D-67 D-68 
+Amino acids		YES
+Metal
+Chains			D-1	DNA*	
+			D-2	DNA*	
+			D-3	DNA*	
+			D-4	DNA*	
+			D-5	DNA*	
+			D-6	DNA*	
+			D-7	DNA*	
+			D-8	DNA*	
+			D-9	DNA*	
+			D-10	DNA*	
+			D-11	DNA*	
+			D-12	DNA*	
+			D-13	DNA*	
+			D-14	DNA*	
+			D-15	DNA*	
+			D-16	DNA*	
+			D-17	DNA*	
+			D-18	DNA*	
+			D-19	DNA*	
+			D-20	DNA*	
+			D-21	DNA*	
+			D-22	DNA*	
+			D-23	DNA*	
+			D-24	DNA*	
+			D-25	DNA*	
+			D-26	DNA*	
+			D-27	DNA*	
+			D-28	DNA*	
+			D-29	DNA*	
+			D-30	DNA*	
+			D-31	DNA*	
+			D-32	DNA*	
+			D-33	DNA*	
+			D-34	DNA*	
+			D-35	DNA*	
+			D-36	DNA*	
+			D-37	DNA*	
+			D-38	DNA*	
+			D-39	DNA*	
+			D-40	DNA*	
+			D-41	DNA*	
+			D-42	DNA*	
+			D-43	DNA*	
+			D-44	DNA*	
+			D-45	DNA*	
+			D-46	DNA*	
+			D-47	DNA*	
+			D-48	DNA*	
+			D-49	DNA*	
+			D-50	DNA*	
+			D-51	DNA*	
+			D-52	DNA*	
+			D-53	DNA*	
+			D-54	DNA*	
+			D-55	DNA*	
+			D-56	DNA*	
+			D-57	DNA*	
+			D-58	DNA*	
+			D-59	DNA*	
+			D-60	DNA*	
+			D-61	DNA*	
+			D-62	DNA*	
+			D-63	DNA*	
+			D-64	DNA*	
+			D-65	DNA*	
+			D-66	DNA*	
+			D-67	DNA*	
+			D-68	DNA*	
+Pseudoknot		NO
+
+Whole structure
+>1PN8 nts=68 [whole]
+U&C&C&G&U&G&A&A&A&C&A&A&A&G&C&G&G&A&U&G&U&A&C&C&G&G&A&U&U&U&U&U&A&U&U&C&C&G&G&C&U&A&U&G&G&G&G&C&A&A&U&U&C&C&C&C&G&U&C&G&C&G&G&A&G&C&C&A
+.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.
+
+Interacting substructures
+Chain D-1 
+U
+.
+
+Chain D-2 
+C
+.
+
+Chain D-3 
+C
+.
+
+Chain D-4 
+G
+.
+
+Chain D-5 
+U
+.
+
+Chain D-6 
+G
+.
+
+Chain D-7 
+A
+.
+
+Chain D-8 
+A
+.
+
+Chain D-9 
+A
+.
+
+Chain D-10 
+C
+.
+
+Chain D-11 
+A
+.
+
+Chain D-12 
+A
+.
+
+Chain D-13 
+A
+.
+
+Chain D-14 
+G
+.
+
+Chain D-15 
+C
+.
+
+Chain D-16 
+G
+.
+
+Chain D-17 
+G
+.
+
+Chain D-18 
+A
+.
+
+Chain D-19 
+U
+.
+
+Chain D-20 
+G
+.
+
+Chain D-21 
+U
+.
+
+Chain D-22 
+A
+.
+
+Chain D-23 
+C
+.
+
+Chain D-24 
+C
+.
+
+Chain D-25 
+G
+.
+
+Chain D-26 
+G
+.
+
+Chain D-27 
+A
+.
+
+Chain D-28 
+U
+.
+
+Chain D-29 
+U
+.
+
+Chain D-30 
+U
+.
+
+Chain D-31 
+U
+.
+
+Chain D-32 
+U
+.
+
+Chain D-33 
+A
+.
+
+Chain D-34 
+U
+.
+
+Chain D-35 
+U
+.
+
+Chain D-36 
+C
+.
+
+Chain D-37 
+C
+.
+
+Chain D-38 
+G
+.
+
+Chain D-39 
+G
+.
+
+Chain D-40 
+C
+.
+
+Chain D-41 
+U
+.
+
+Chain D-42 
+A
+.
+
+Chain D-43 
+U
+.
+
+Chain D-44 
+G
+.
+
+Chain D-45 
+G
+.
+
+Chain D-46 
+G
+.
+
+Chain D-47 
+G
+.
+
+Chain D-48 
+C
+.
+
+Chain D-49 
+A
+.
+
+Chain D-50 
+A
+.
+
+Chain D-51 
+U
+.
+
+Chain D-52 
+U
+.
+
+Chain D-53 
+C
+.
+
+Chain D-54 
+C
+.
+
+Chain D-55 
+C
+.
+
+Chain D-56 
+C
+.
+
+Chain D-57 
+G
+.
+
+Chain D-58 
+U
+.
+
+Chain D-59 
+C
+.
+
+Chain D-60 
+G
+.
+
+Chain D-61 
+C
+.
+
+Chain D-62 
+G
+.
+
+Chain D-63 
+G
+.
+
+Chain D-64 
+A
+.
+
+Chain D-65 
+G
+.
+
+Chain D-66 
+C
+.
+
+Chain D-67 
+C
+.
+
+Chain D-68 
+A
+.
+

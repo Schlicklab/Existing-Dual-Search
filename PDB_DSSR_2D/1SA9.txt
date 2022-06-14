@@ -1,0 +1,29 @@
+Title			CRYSTAL STRUCTURE OF THE RNA OCTAMER GGCGAGCC 
+Chain order		A B C D E 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	D 
+			D	RNA	C 
+			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1SA9 nts=40 [whole]
+GGCGAGCC&GGCGAGCC&GGCGAGCC&GGCGAGCC&GGCGAGCC
+(((..(((&)))..)))&(((..(((&)))..)))&........
+
+Interacting substructures
+Chain A B 
+GGCGAGCCGGCGAGCC
+(((..((()))..)))
+
+Chain C D 
+GGCGAGCCGGCGAGCC
+(((..((()))..)))
+
+Chain E 
+GGCGAGCC
+........
+

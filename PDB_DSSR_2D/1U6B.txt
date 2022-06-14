@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURE OF A SELF-SPLICING GROUP I INTRON WITH BOTH EXONS 
+Chain order		B C D 
+Amino acids		YES
+Metal			Mg	13
+			K	5
+Chains			B	RNA	B C D 
+			C	RNA	B 
+			D	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>1U6B nts=222 [whole]
+gGCCGUGUGCCUUGCGCCGGGAAACCACGCAAGGGAUGGUGUCAAAUUCGGCGAAACCUAAGCGCCCGCCCGGGCGUAUGGCAACGCCGAGCCAAGCUUCGCAGCCAUUGCACUCCGGCUGCGAUGAAGGUGUAGAGACUAGACGGCACCCACCUAAGGCAAACGCUAUGGUGAAGGCAUAGUCCAGGGAGUGGCGa&AAGCCACACAAACCAGACGGCC&CAt
+(((((([[[(((((((..((....)).)))))))...((((((....((((((...((...((((((....))))))..))...))))))(((...(.((((((((..........)))))))).)..)))...[.[[[[[...))))))((((..((((....))).)))))......]]]]]].((..(((((..&..))))).....))..))))))&]]]
+
+Interacting substructures
+Chain B C D 
+gGCCGUGUGCCUUGCGCCGGGAAACCACGCAAGGGAUGGUGUCAAAUUCGGCGAAACCUAAGCGCCCGCCCGGGCGUAUGGCAACGCCGAGCCAAGCUUCGCAGCCAUUGCACUCCGGCUGCGAUGAAGGUGUAGAGACUAGACGGCACCCACCUAAGGCAAACGCUAUGGUGAAGGCAUAGUCCAGGGAGUGGCGaAAGCCACACAAACCAGACGGCCCAt
+(((((([[[(((((((..((....)).)))))))...((((((....((((((...((...((((((....))))))..))...))))))(((...(.((((((((..........)))))))).)..)))...[.[[[[[...))))))((((..((((....))).)))))......]]]]]].((..(((((....))))).....))..))))))]]]
+

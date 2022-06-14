@@ -1,0 +1,17 @@
+Title			RIBGRASS MOSAIC VIRUS, FIBER DIFFRACTION 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1RMV nts=3 [whole]
+GAA
+...
+
+Interacting substructures
+Chain B 
+GAA
+...
+

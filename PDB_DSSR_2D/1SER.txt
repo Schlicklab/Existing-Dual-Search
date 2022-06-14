@@ -1,0 +1,19 @@
+Title			THE 2.9 ANGSTROMS CRYSTAL STRUCTURE OF T. THERMOPHILUS SERYL-TRNA SYNTHETASE COMPLEXED WITH TRNA SER 
+Chain order		T-1 T-2 T-3 
+Amino acids		YES
+Metal
+Chains			T-1	RNA*	T-3 T-1 
+			T-2	RNA*	T-3 
+			T-3	RNA*	T-3 T-2 T-1 
+Pseudoknot		YES
+
+Whole structure
+>1SER nts=64 [whole]
+GAGGUGCCCGAGUGGCuGAAGGG&GGUAGGGGGG&CCUCCCUCGCGGGtPCGAAUCCCGCCCUCUC
+((((..(((.....[.....)))&...(((((((&))))))).(((((..]....)))))))))..
+
+Interacting substructures
+Chain T-1 T-2 T-3 
+GAGGUGCCCGAGUGGCuGAAGGGGGUAGGGGGGCCUCCCUCGCGGGtPCGAAUCCCGCCCUCUC
+((((..(((.....[.....)))...((((((())))))).(((((..]....)))))))))..
+

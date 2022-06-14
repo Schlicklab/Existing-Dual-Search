@@ -1,0 +1,28 @@
+Title			STRUCTURE OF PROTEIN L7AE BOUND TO A K-TURN DERIVED FROM AN ARCHAEAL BOX H/ACA SRNA 
+Chain order		D E F 
+Amino acids		YES
+Metal			K	1
+			Ca	10
+Chains			D	RNA	
+			E	RNA	
+			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1SDS nts=45 [whole]
+CCUGAUUGGUGAGGG&CCUGAUUGGUGAGGG&CCUGAUUGGUGAGGG
+...............&...............&...............
+
+Interacting substructures
+Chain D 
+CCUGAUUGGUGAGGG
+...............
+
+Chain E 
+CCUGAUUGGUGAGGG
+...............
+
+Chain F 
+CCUGAUUGGUGAGGG
+...............
+

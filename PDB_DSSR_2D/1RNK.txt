@@ -1,0 +1,17 @@
+Title			THE STRUCTURE OF AN RNA PSEUDOKNOT THAT CAUSES EFFICIENT FRAMESHIFTING IN MOUSE MAMMARY TUMOR VIRUS 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>1RNK nts=34 [whole]
+GGCGCAGUGGGCUAGCGCCACUCAAAAGGCCCAU
+[[[[[..((((((.]]]]]........)))))).
+
+Interacting substructures
+Chain A 
+GGCGCAGUGGGCUAGCGCCACUCAAAAGGCCCAU
+[[[[[..((((((.]]]]]........)))))).
+

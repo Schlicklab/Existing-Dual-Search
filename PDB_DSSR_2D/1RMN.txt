@@ -1,0 +1,17 @@
+Title			A THREE-DIMENSIONAL MODEL FOR THE HAMMERHEAD RIBOZYME BASED ON FLUORESCENCE MEASUREMENTS 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1RMN nts=49 [whole]
+GCGCUCUGAUGAGGCCGCAAGGCCGAAACUGCCGCAAGGCAGUCAGCGC
+(((((.......((((....))))...((((((....)))))).)))))
+
+Interacting substructures
+Chain A 
+GCGCUCUGAUGAGGCCGCAAGGCCGAAACUGCCGCAAGGCAGUCAGCGC
+(((((.......((((....))))...((((((....)))))).)))))
+

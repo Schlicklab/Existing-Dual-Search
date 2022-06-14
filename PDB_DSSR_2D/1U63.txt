@@ -1,0 +1,22 @@
+Title			THE STRUCTURE OF A RIBOSOMAL PROTEIN L1-MRNA COMPLEX 
+Chain order		B D 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>1U63 nts=98 [whole]
+GGGAGUGAAGGAGGCUCGCGAACUCGCGAAGCCGAGAAACUUCACUCCC&GGGAGUGAAGGAGGCUCGCGAACUCGCGAAGCCGAGAAACUUCACUCCC
+.(((((((((..((((((((....)))).))))......))))))))).&.(((((((((..((((((((....)))).))))......))))))))).
+
+Interacting substructures
+Chain B 
+GGGAGUGAAGGAGGCUCGCGAACUCGCGAAGCCGAGAAACUUCACUCCC
+.(((((((((..((((((((....)))).))))......))))))))).
+
+Chain D 
+GGGAGUGAAGGAGGCUCGCGAACUCGCGAAGCCGAGAAACUUCACUCCC
+.(((((((((..((((((((....)))).))))......))))))))).
+

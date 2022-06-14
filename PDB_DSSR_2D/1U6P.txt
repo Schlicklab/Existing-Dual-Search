@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE MLV ENCAPSIDATION SIGNAL BOUND TO THE NUCLEOCAPSID PROTEIN 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	1
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>1U6P nts=101 [whole]
+GGCGGUaCUAGUUGAGAAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGUGAAGUUCGGAACACCCGGCCGCAACCCUGGGAGAGGUCCCAGGGUU
+.((((..((((((....))))))..)))).....((((..(((.(((((((((....)))))....)))))))))))((((((((((....))))))))))
+
+Interacting substructures
+Chain B 
+GGCGGUaCUAGUUGAGAAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGUGAAGUUCGGAACACCCGGCCGCAACCCUGGGAGAGGUCCCAGGGUU
+.((((..((((((....))))))..)))).....((((..(((.(((((((((....)))))....)))))))))))((((((((((....))))))))))
+

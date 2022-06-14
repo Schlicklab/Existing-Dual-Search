@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE VS RIBOZYME STEM-LOOP V RNA IN THE ABSENCE OF MULTIVALENT IONS. 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1TBK nts=17 [whole]
+GCGAGUUGACUACUCGC
+((((((.....))))))
+
+Interacting substructures
+Chain A 
+GCGAGUUGACUACUCGC
+((((((.....))))))
+

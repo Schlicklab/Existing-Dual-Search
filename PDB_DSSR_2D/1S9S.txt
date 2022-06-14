@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF MLV PSI SITE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1S9S nts=101 [whole]
+GGCGGUACUAGUUGAGAAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGUGAAGUUCGGAACACCCGGCCGCAACCCUGGGAGAGGUCCCAGGGUU
+.((((..((((((....))))))..)))).....((((..(((.(((((((((....)))))....)))))))))))((((((((((....))))))))))
+
+Interacting substructures
+Chain A 
+GGCGGUACUAGUUGAGAAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGUGAAGUUCGGAACACCCGGCCGCAACCCUGGGAGAGGUCCCAGGGUU
+.((((..((((((....))))))..)))).....((((..(((.(((((((((....)))))....)))))))))))((((((((((....))))))))))
+

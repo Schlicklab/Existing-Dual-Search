@@ -1,0 +1,17 @@
+Title			FIRST STEM LOOP OF THE SL1 RNA FROM CAENORHABDITIS ELEGANS, NMR, MINIMIZED AVERAGE STRUCTURE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1SLO nts=19 [whole]
+UUACCCAAGUUUGAGGUAA
+(((((((....)).)))))
+
+Interacting substructures
+Chain A 
+UUACCCAAGUUUGAGGUAA
+(((((((....)).)))))
+

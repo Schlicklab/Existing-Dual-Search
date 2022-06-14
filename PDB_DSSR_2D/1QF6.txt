@@ -1,0 +1,22 @@
+Title			STRUCTURE OF E. COLI THREONYL-TRNA SYNTHETASE COMPLEXED WITH ITS COGNATE TRNA 
+Chain order		B A 
+Amino acids		YES
+Metal			Zn	1
+Chains			B	RNA	B 
+			A			
+Pseudoknot		YES
+
+Whole structure
+>1QF6 nts=77 [whole]
+GCCGAUAUAGCUCAGuuGGuAGAGCAGCGCAUUCGUaAUGCGAAGgUCGUAGGtPCGACUCCUAUUAUCGGCACCA&a
+(((((((..((((.....[..))))..((((.......))))......(((((..]....))))))))))))....&.
+
+Interacting substructures
+Chain B 
+GCCGAUAUAGCUCAGuuGGuAGAGCAGCGCAUUCGUaAUGCGAAGgUCGUAGGtPCGACUCCUAUUAUCGGCACCA
+(((((((..((((.....[..))))..((((.......))))......(((((..]....))))))))))))....
+
+Chain A 
+a
+.
+

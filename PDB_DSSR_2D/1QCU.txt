@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF AN 18 BASE PAIR COPY CONTROL RELATED RNA DUPLEX 
+Chain order		A B C D 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>1QCU nts=44 [whole]
+GGGGGGGGGGG&CCCCCCCCCCC&CCCCCCCCCCC&GGGGGGGGGGG
+(((((((((((&)))))))))))&(((((((((((&)))))))))))
+
+Interacting substructures
+Chain A B 
+GGGGGGGGGGGCCCCCCCCCCC
+((((((((((()))))))))))
+
+Chain C D 
+CCCCCCCCCCCGGGGGGGGGGG
+((((((((((()))))))))))
+

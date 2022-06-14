@@ -1,0 +1,22 @@
+Title			MOLECULAR BASIS OF BOX C/D RNA-PROTEIN INTERACTION: CO-CRYSTAL STRUCTURE OF THE ARCHAEAL SRNP INTIATION COMPLEX 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>1RLG nts=50 [whole]
+GCuCuGACCGAAAGGCGUGAuGAGC&GCuCuGACCGAAAGGCGUGAuGAGC
+((.(...((....))......).))&((.(...((....))......).))
+
+Interacting substructures
+Chain C 
+GCuCuGACCGAAAGGCGUGAuGAGC
+((.(...((....))......).))
+
+Chain D 
+GCuCuGACCGAAAGGCGUGAuGAGC
+((.(...((....))......).))
+

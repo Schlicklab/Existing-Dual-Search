@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE R(GGAGGACAUCCCUCACGGGUGACCGUGGUCCUCC), DOMAIN IV STEM-LOOP B OF ENTEROVIRAL IRES WITH AUCCCU BULGE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1R7W nts=34 [whole]
+GGAGGACAUCCCUCACGGGUGACCGUGGUCCUCC
+(((((((......(((((....))))))))))))
+
+Interacting substructures
+Chain A 
+GGAGGACAUCCCUCACGGGUGACCGUGGUCCUCC
+(((((((......(((((....))))))))))))
+

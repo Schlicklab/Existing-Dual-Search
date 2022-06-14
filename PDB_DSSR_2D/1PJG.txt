@@ -1,0 +1,18 @@
+Title			RNA/DNA HYBRID DECAMER OF CAAAGAAAAG/CTTTTCTTTG 
+Chain order		A B 
+Amino acids		NO
+Metal			Ca	4
+Chains			A	RNA	B 
+			B	DNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1PJG nts=20 [whole]
+CAAAGAAAAG&CTTTTCTTTG
+((((((((((&))))))))))
+
+Interacting substructures
+Chain A B 
+CAAAGAAAAGCTTTTCTTTG
+(((((((((())))))))))
+

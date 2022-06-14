@@ -1,0 +1,17 @@
+Title			REFINED SOLUTION STRUCTURE OF THE S. CEREVISIAE U6 INTRAMOLECULAR STEM LOOP (ISL) RNA USING RESIDUAL DIPOLAR COUPLINGS (RDCS) 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1SY4 nts=24 [whole]
+GGUUCCCCUGCAUAAGGAUGAACC
+(((((.(((.....)))..)))))
+
+Interacting substructures
+Chain A 
+GGUUCCCCUGCAUAAGGAUGAACC
+(((((.(((.....)))..)))))
+

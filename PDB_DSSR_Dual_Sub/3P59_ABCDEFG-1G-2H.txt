@@ -1,0 +1,2 @@
+No subgraph for 1_1
+Vertex number > 9

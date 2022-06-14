@@ -1,0 +1,1 @@
+No matching graph exists (even if the vertex number is between 2 and 9).

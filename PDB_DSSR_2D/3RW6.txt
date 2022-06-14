@@ -1,0 +1,22 @@
+Title			STRUCTURE OF NUCLEAR RNA EXPORT FACTOR TAP BOUND TO CTE RNA 
+Chain order		H F 
+Amino acids		YES
+Metal
+Chains			H	RNA	H 
+			F	RNA	F 
+Pseudoknot		NO
+
+Whole structure
+>3RW6 nts=124 [whole]
+gGCACUAACCUAAGACAGGAGGGCCGGGAAACCUGCCUAAUCCAAUGACGGGUAAUAGUGUc&gGCACUAACCUAAGACAGGAGGGCCGGGAAACCUGCCUAAUCCAAUGACGGGUAAUAGUGUc
+(((((((((((......(((((((.((....)).))))..)))......))))..)))))))&(((((((((((......(((((((.((....)).))))..)))......))))..)))))))
+
+Interacting substructures
+Chain H 
+gGCACUAACCUAAGACAGGAGGGCCGGGAAACCUGCCUAAUCCAAUGACGGGUAAUAGUGUc
+(((((((((((......(((((((.((....)).))))..)))......))))..)))))))
+
+Chain F 
+gGCACUAACCUAAGACAGGAGGGCCGGGAAACCUGCCUAAUCCAAUGACGGGUAAUAGUGUc
+(((((((((((......(((((((.((....)).))))..)))......))))..)))))))
+

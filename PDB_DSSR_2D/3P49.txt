@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A GLYCINE RIBOSWITCH FROM FUSOBACTERIUM NUCLEATUM 
+Chain order		A 
+Amino acids		YES
+Metal			Mg	13
+Chains			A	RNA*	A 
+Pseudoknot		NO
+
+Whole structure
+>3P49 nts=169 [whole]
+GGAUAUGAGGAGAGAUUUCAUCCAUUGCACUCCGGAUGAAACACCGAAGAAGUAAAUCUUUCAGGUAAAAAGGACUCAUAUUGGACGAACCUCUGGAGAGCUUAUCUAAGAGAUAACACCGAAGGAGCAAAGCUAAUUUUAGCCUAAACUCUCAGGUAAAAGGACGGAG
+.((((((((....(.((((((((..........)))))))))(((....(((.....)))...)))........))))))))........(((((......(((((.....))))).(((...((((....(((......))).....))).).))).......)))))
+
+Interacting substructures
+Chain A 
+GGAUAUGAGGAGAGAUUUCAUCCAUUGCACUCCGGAUGAAACACCGAAGAAGUAAAUCUUUCAGGUAAAAAGGACUCAUAUUGGACGAACCUCUGGAGAGCUUAUCUAAGAGAUAACACCGAAGGAGCAAAGCUAAUUUUAGCCUAAACUCUCAGGUAAAAGGACGGAG
+.((((((((....(.((((((((..........)))))))))(((....(((.....)))...)))........))))))))........(((((......(((((.....))))).(((...((((....(((......))).....))).).))).......)))))
+

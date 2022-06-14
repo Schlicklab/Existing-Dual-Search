@@ -1,0 +1,23 @@
+Title			S. CEREVISIAE DBP5 BOUND TO RNA AND ADP BEF3 
+Chain order		B A 
+Amino acids		YES
+Metal			Be	1
+			Mg	3
+Chains			B	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>3PEY nts=6 [whole]
+UUUUU&a
+.....&.
+
+Interacting substructures
+Chain B 
+UUUUU
+.....
+
+Chain A 
+a
+.
+

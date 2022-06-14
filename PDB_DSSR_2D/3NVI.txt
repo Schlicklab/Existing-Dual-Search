@@ -1,0 +1,22 @@
+Title			STRUCTURE OF N-TERMINAL TRUNCATED NOP56/58 BOUND WITH L7AE AND BOX C/D RNA 
+Chain order		E F 
+Amino acids		YES
+Metal
+Chains			E	RNA	E 
+			F	RNA	F 
+Pseudoknot		NO
+
+Whole structure
+>3NVI nts=48 [whole]
+CUCUGACCGAAAGGCGUGAUGAGC&CUCUGACCGAAAGGCGUGAUGAGC
+..(...((....))......)...&..(...((....))......)...
+
+Interacting substructures
+Chain E 
+CUCUGACCGAAAGGCGUGAUGAGC
+..(...((....))......)...
+
+Chain F 
+CUCUGACCGAAAGGCGUGAUGAGC
+..(...((....))......)...
+

@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THERMUS THERMOPHILUS CSE3 BOUND TO AN RNA REPRESENTING A PRODUCT COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3QRR nts=18 [whole]
+GUCCCCACGCGUGUGGGg
+..................
+
+Interacting substructures
+Chain B 
+GUCCCCACGCGUGUGGGg
+..................
+

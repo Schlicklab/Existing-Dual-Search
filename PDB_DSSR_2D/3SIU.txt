@@ -1,0 +1,22 @@
+Title			STRUCTURE OF A HPRP31-15.5K-U4ATAC 5' STEM LOOP COMPLEX, MONOMERIC FORM 
+Chain order		C F 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+			F	RNA	F 
+Pseudoknot		NO
+
+Whole structure
+>3SIU nts=56 [whole]
+CUGUCCAAUGAGCGCAUAGUGAGGGCAG&CUGUCCAAUGAGCGCAUAGUGAGGGCAG
+((((((.....((.....))..))))))&((((((.....((.....))..))))))
+
+Interacting substructures
+Chain C 
+CUGUCCAAUGAGCGCAUAGUGAGGGCAG
+((((((.....((.....))..))))))
+
+Chain F 
+CUGUCCAAUGAGCGCAUAGUGAGGGCAG
+((((((.....((.....))..))))))
+

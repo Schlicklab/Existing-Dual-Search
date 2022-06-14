@@ -1,0 +1,23 @@
+Title			RNA POLYMERASE II INITIATION COMPLEX WITH A 5-NT RNA (VARIANT 1) 
+Chain order		R T 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			R	RNA	
+			T	DNA	
+Pseudoknot		NO
+
+Whole structure
+>3S1M nts=13 [whole]
+AGACG&CGATCGTC
+.....&........
+
+Interacting substructures
+Chain R 
+AGACG
+.....
+
+Chain T 
+CGATCGTC
+........
+

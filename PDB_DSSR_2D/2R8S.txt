@@ -1,0 +1,17 @@
+Title			HIGH RESOLUTION STRUCTURE OF A SPECIFIC SYNTHETIC FAB BOUND TO P4-P6 RNA RIBOZYME DOMAIN 
+Chain order		R 
+Amino acids		YES
+Metal			Mg	4
+Chains			R	RNA	R 
+Pseudoknot		NO
+
+Whole structure
+>2R8S nts=159 [whole]
+GGAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCA
+.....((((.(...((((((.....(((.((((.(((..(((((((((....)))))))))..((.......))....)))......)))))))....))))))..).))))((...((((...(((((((.......)))))))..))))...))...
+
+Interacting substructures
+Chain R 
+GGAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCA
+.....((((.(...((((((.....(((.((((.(((..(((((((((....)))))))))..((.......))....)))......)))))))....))))))..).))))((...((((...(((((((.......)))))))..))))...))...
+

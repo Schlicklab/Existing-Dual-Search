@@ -1,0 +1,32 @@
+Title			CRYO-EM STRUCTURE OF THE ACTIVE YEAST SSH1 COMPLEX BOUND TO THE YEAST 80S RIBOSOME 
+Chain order		D E F G 
+Amino acids		YES
+Metal
+Chains			D	RNA	D 
+			E	RNA	E 
+			F	RNA	F 
+			G	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>2WW9 nts=140 [whole]
+AGAACGCAGCGAAAUGCGAUACGUAAUGUGAAUUGCAGAAUUCCGUGAAUCAUCGAAUCUUUG&UGAAAAGAACUUUGAAAAGAGAGUGAAAAAGUAC&CCACGUCAACAGCAGUUGGACGUGG&GCCAGCACCUUUGCUGGC
+.((((((........))).....(.((....(((....)))..........))..)...))).&......(..((.(....).))............)&((((((...((.....)).))))))&(((((((....)))))))
+
+Interacting substructures
+Chain D 
+AGAACGCAGCGAAAUGCGAUACGUAAUGUGAAUUGCAGAAUUCCGUGAAUCAUCGAAUCUUUG
+.((((((........))).....(.((....(((....)))..........))..)...))).
+
+Chain E 
+UGAAAAGAACUUUGAAAAGAGAGUGAAAAAGUAC
+......(..((.(....).))............)
+
+Chain F 
+CCACGUCAACAGCAGUUGGACGUGG
+((((((...((.....)).))))))
+
+Chain G 
+GCCAGCACCUUUGCUGGC
+(((((((....)))))))
+

@@ -1,0 +1,22 @@
+Title			L1 RIBOZYME LIGASE CIRCULAR ADDUCT 
+Chain order		P Q 
+Amino acids		NO
+Metal			Mg	7
+Chains			P	RNAo	P 
+			Q	RNAo	Q 
+Pseudoknot		NO
+
+Whole structure
+>2OIU nts=142 [whole]
+GGACCUCGGCGAAAGCCGUUCGACCAGCGAAAGCUCUUAGACAGGAGGUUAGGUGCUCCGAAAGGAGCACU&GGACCUCGGCGAAAGCCGUUCGACCAGCGAAAGCUCUUAGACAGGAGGUUAGGUGCUCCGAAAGGAGCACU
+.(((((((((....)))(.((....(((....)))....)))..)))))).((((((((....))))))))&.(((((((((....)))(.((....(((....)))....)))..)))))).((((((((....))))))))
+
+Interacting substructures
+Chain P 
+GGACCUCGGCGAAAGCCGUUCGACCAGCGAAAGCUCUUAGACAGGAGGUUAGGUGCUCCGAAAGGAGCACU
+.(((((((((....)))(.((....(((....)))....)))..)))))).((((((((....))))))))
+
+Chain Q 
+GGACCUCGGCGAAAGCCGUUCGACCAGCGAAAGCUCUUAGACAGGAGGUUAGGUGCUCCGAAAGGAGCACU
+.(((((((((....)))(.((....(((....)))....)))..)))))).((((((((....))))))))
+

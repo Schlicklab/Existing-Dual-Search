@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE RRM DOMAIN OF MOUSE DELETED IN AZOOSPERMIA-LIKE IN COMPLEX WITH SYCP3 RNA, UUGUUU 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	1
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2XS7 nts=4 [whole]
+GUUU
+....
+
+Interacting substructures
+Chain B 
+GUUU
+....
+

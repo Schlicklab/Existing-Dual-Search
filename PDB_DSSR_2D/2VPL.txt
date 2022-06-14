@@ -1,0 +1,23 @@
+Title			THE STRUCTURE OF THE COMPLEX BETWEEN THE FIRST DOMAIN OF L1 PROTEIN FROM THERMUS THERMOPHILUS AND MRNA FROM METHANOCOCCUS JANNASCHII 
+Chain order		B D-1 D-2 
+Amino acids		YES
+Metal			K	2
+Chains			B	RNA	B 
+			D-1	RNA*	D-2 
+			D-2	RNA*	D-1 
+Pseudoknot		NO
+
+Whole structure
+>2VPL nts=94 [whole]
+GGAGUGAAGGAGGCUCGCGAACUCGCGAAGCCGAGAAACUUCACUCCC&GGAGUGAAGGAGGCUCGCGA&UCGCGAAGCCGAGAAACUUCACUCCC
+(((((((((..(((((((......))).))))......))))))))).&(((((((((..((((((((.&.)))).))))......)))))))).)
+
+Interacting substructures
+Chain B 
+GGAGUGAAGGAGGCUCGCGAACUCGCGAAGCCGAGAAACUUCACUCCC
+(((((((((..(((((((......))).))))......))))))))).
+
+Chain D-1 D-2 
+GGAGUGAAGGAGGCUCGCGAUCGCGAAGCCGAGAAACUUCACUCCC
+(((((((((..((((((((..)))).))))......)))))))).)
+

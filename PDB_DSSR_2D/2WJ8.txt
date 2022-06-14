@@ -1,0 +1,112 @@
+Title			RESPIRATORY SYNCITIAL VIRUS RIBONUCLEOPROTEIN 
+Chain order		a b c d e f g h i j k l m n o p q r s t 
+Amino acids		YES
+Metal
+Chains			a	RNA	
+			b	RNA	
+			c	RNA	
+			d	RNA	
+			e	RNA	
+			f	RNA	
+			g	RNA	
+			h	RNA	
+			i	RNA	
+			j	RNA	
+			k	RNA	
+			l	RNA	
+			m	RNA	
+			n	RNA	
+			o	RNA	
+			p	RNA	
+			q	RNA	
+			r	RNA	
+			s	RNA	
+			t	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2WJ8 nts=140 [whole]
+CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC&CCCCCCC
+.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......&.......
+
+Interacting substructures
+Chain a 
+CCCCCCC
+.......
+
+Chain b 
+CCCCCCC
+.......
+
+Chain c 
+CCCCCCC
+.......
+
+Chain d 
+CCCCCCC
+.......
+
+Chain e 
+CCCCCCC
+.......
+
+Chain f 
+CCCCCCC
+.......
+
+Chain g 
+CCCCCCC
+.......
+
+Chain h 
+CCCCCCC
+.......
+
+Chain i 
+CCCCCCC
+.......
+
+Chain j 
+CCCCCCC
+.......
+
+Chain k 
+CCCCCCC
+.......
+
+Chain l 
+CCCCCCC
+.......
+
+Chain m 
+CCCCCCC
+.......
+
+Chain n 
+CCCCCCC
+.......
+
+Chain o 
+CCCCCCC
+.......
+
+Chain p 
+CCCCCCC
+.......
+
+Chain q 
+CCCCCCC
+.......
+
+Chain r 
+CCCCCCC
+.......
+
+Chain s 
+CCCCCCC
+.......
+
+Chain t 
+CCCCCCC
+.......
+

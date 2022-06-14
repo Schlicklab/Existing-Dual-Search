@@ -1,0 +1,22 @@
+Title			CRYOEM MODEL OF THE VESICULAR STOMATITIS VIRUS 
+Chain order		R S 
+Amino acids		YES
+Metal
+Chains			R	RNA	
+			S	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2WYY nts=90 [whole]
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU&UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+.............................................&.............................................
+
+Interacting substructures
+Chain R 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+.............................................
+
+Chain S 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+.............................................
+

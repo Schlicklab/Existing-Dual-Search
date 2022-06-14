@@ -1,0 +1,19 @@
+Title			SUBSTRATE RNA POSITIONING IN THE ARCHAEAL H/ACA RIBONUCLEOPROTEIN COMPLEX 
+Chain order		D E F 
+Amino acids		YES
+Metal			Zn	1
+Chains			D	RNA	F E 
+			E	RNA	F D 
+			F	RNA	E D 
+Pseudoknot		YES
+
+Whole structure
+>2RFK nts=61 [whole]
+GGGCUCCGGAAACCGCGGCGC&GCGCUUCGCUCCCGGAGCCCACACUA&GGAGCGUGCGGUUU
+(((((((((.[[[[[[(((((&)))))..[[[[)))))))))......&.]]]]..]]]]]].
+
+Interacting substructures
+Chain D E F 
+GGGCUCCGGAAACCGCGGCGCGCGCUUCGCUCCCGGAGCCCACACUAGGAGCGUGCGGUUU
+(((((((((.[[[[[[((((()))))..[[[[))))))))).......]]]]..]]]]]].
+

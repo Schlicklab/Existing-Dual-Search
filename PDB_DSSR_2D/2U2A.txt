@@ -1,0 +1,17 @@
+Title			STEM LOOP IIA FROM U2 SNRNA OF SACCHAROMYCES CEREVISIAE, NMR, MINIMIZED AVERAGE STRUCTURE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2U2A nts=20 [whole]
+GGUCAGUGUAACAACUGACC
+(((((((......)))))))
+
+Interacting substructures
+Chain A 
+GGUCAGUGUAACAACUGACC
+(((((((......)))))))
+

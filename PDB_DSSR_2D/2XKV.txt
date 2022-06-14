@@ -1,0 +1,17 @@
+Title			ATOMIC MODEL OF THE SRP-FTSY EARLY CONFORMATION 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2XKV nts=96 [whole]
+CUCUGUUGGUUCUCUGUGCUCUGUGCUCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGAGACGCAGAGCAGGCAGAUGUAGCUGGC
+..............(.....((......((.......((.....(((....))).....))....)).......))........)...........
+
+Interacting substructures
+Chain B 
+CUCUGUUGGUUCUCUGUGCUCUGUGCUCUGUUUACCAGGUCAGGUCCGAAAGGAAGCAGCCAAGGCAGAGACGCAGAGCAGGCAGAUGUAGCUGGC
+..............(.....((......((.......((.....(((....))).....))....)).......))........)...........
+

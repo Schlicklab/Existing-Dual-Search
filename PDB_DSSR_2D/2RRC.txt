@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF RNA APTAMER AGAINST AML1 RUNT DOMAIN 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2RRC nts=22 [whole]
+GGACCCaCCACGGCGAGGUCCA
+((((((.(....).).))))).
+
+Interacting substructures
+Chain A 
+GGACCCaCCACGGCGAGGUCCA
+((((((.(....).).))))).
+

@@ -1,0 +1,18 @@
+Title			HUMAN RNASE H CATALYTIC DOMAIN MUTANT D210N IN COMPLEX WITH 18-MER RNA/DNA HYBRID 
+Chain order		B C 
+Amino acids		YES
+Metal			Na	1
+Chains			B	RNA	C 
+			C	DNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2QK9 nts=36 [whole]
+AGUGCGACACCUGAUUCC&GGAATCAGGTGTCGCACT
+((((((((((((((((((&))))))))))))))))))
+
+Interacting substructures
+Chain B C 
+AGUGCGACACCUGAUUCCGGAATCAGGTGTCGCACT
+(((((((((((((((((())))))))))))))))))
+

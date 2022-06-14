@@ -1,0 +1,21 @@
+Title			CISPLATIN LESION CONTAINING RNA POLYMERASE II ELONGATION COMPLEX 
+Chain order		T N P 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+			Pt	1
+Chains			T	DNA	P N 
+			N	DNA	T 
+			P	RNA	T 
+Pseudoknot		YES
+
+Whole structure
+>2R7Z nts=34 [whole]
+TACTTGGCCCTCCTCAT&CAAGTAG&UUUGAGGAGG
+[[[[[[..((((((((.&]]]]]].&..))))))))
+
+Interacting substructures
+Chain T N P 
+TACTTGGCCCTCCTCATCAAGTAGUUUGAGGAGG
+[[[[[[..((((((((.]]]]]]...))))))))
+

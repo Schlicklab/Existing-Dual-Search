@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF E. COLI RNASE E POSSESSING M1 RNA FRAGMENTS - CATALYTIC DOMAIN 
+Chain order		E F G H 
+Amino acids		YES
+Metal			Zn	2
+Chains			E	RNA	
+			F	RNA	
+			G	RNA	
+			H	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2VRT nts=10 [whole]
+UU&UU&UUG&UUG
+..&..&...&...
+
+Interacting substructures
+Chain E 
+UU
+..
+
+Chain F 
+UU
+..
+
+Chain G 
+UUG
+...
+
+Chain H 
+UUG
+...
+

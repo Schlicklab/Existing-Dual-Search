@@ -1,0 +1,17 @@
+Title			1H, 13C, AND 15N CHEMICAL SHIFT ASSIGNMENTS FOR MUSASHI1 RBD1:R(GUAGU) COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2RS2 nts=5 [whole]
+GUAGU
+.....
+
+Interacting substructures
+Chain B 
+GUAGU
+.....
+

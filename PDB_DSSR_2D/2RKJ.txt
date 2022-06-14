@@ -1,0 +1,40 @@
+Title			COCRYSTAL STRUCTURE OF A TYROSYL-TRNA SYNTHETASE SPLICING FACTOR WITH A GROUP I INTRON RNA 
+Chain order		C-1 C-2 D G-1 G-2 H K-1 K-2 L O-1 O-2 P 
+Amino acids		YES
+Metal
+Chains			C-1	RNA*	C-1 C-2 D 
+			C-2	RNA*	C-1 C-2 
+			D	RNA	C-1 
+			G-1	RNA*	H G-2 G-1 
+			G-2	RNA*	G-2 G-1 
+			H	RNA	G-1 
+			K-1	RNA*	K-1 K-2 L 
+			K-2	RNA*	K-1 K-2 
+			L	RNA	K-1 
+			O-1	RNA*	O-1 P O-2 
+			O-2	RNA*	O-1 O-2 
+			P	RNA	O-1 
+Pseudoknot		YES
+
+Whole structure
+>2RKJ nts=968 [whole]
+GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACA&UGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUG&GCUU&GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACA&UGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUG&GCUU&GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACA&UGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUG&GCUU&GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACA&UGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUG&GCUU
+(((((..((((((....))))))..)....((((((....((((((.....((...((&)).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).&))))&(((((..((((((....))))))..)....((((((....((((((.....((...((&)).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).&))))&(((((..((((((....))))))..)....((((((....((((((.....((...((&)).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).&))))&(((((..((((((....))))))..)....((((((....((((((.....((...((&)).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).&))))
+
+Interacting substructures
+Chain C-1 C-2 D 
+GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACAUGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUGGCUU
+(((((..((((((....))))))..)....((((((....((((((.....((...(()).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).))))
+
+Chain G-1 G-2 H 
+GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACAUGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUGGCUU
+(((((..((((((....))))))..)....((((((....((((((.....((...(()).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).))))
+
+Chain K-1 K-2 L 
+GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACAUGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUGGCUU
+(((((..((((((....))))))..)....((((((....((((((.....((...(()).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).))))
+
+Chain O-1 O-2 P 
+GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACAUGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUGGCUU
+(((((..((((((....))))))..)....((((((....((((((.....((...(()).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).))))
+

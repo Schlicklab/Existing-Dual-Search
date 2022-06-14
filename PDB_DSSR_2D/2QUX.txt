@@ -1,0 +1,42 @@
+Title			PP7 COAT PROTEIN DIMER IN COMPLEX WITH RNA HAIRPIN 
+Chain order		C F I L O R 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+			F	RNA	F 
+			I	RNA	I 
+			L	RNA	L 
+			O	RNA	O 
+			R	RNA	R 
+Pseudoknot		NO
+
+Whole structure
+>2QUX nts=150 [whole]
+GGCACAGAAGAUAUGGCUUCGUGCC&GGCACAGAAGAUAUGGCUUCGUGCC&GGCACAGAAGAUAUGGCUUCGUGCC&GGCACAGAAGAUAUGGCUUCGUGCC&GGCACAGAAGAUAUGGCUUCGUGCC&GGCACAGAAGAUAUGGCUUCGUGCC
+(((((.((((......)))))))))&(((((.((((......)))))))))&(((((.((((......)))))))))&(((((.((((......)))))))))&(((((.((((......)))))))))&(((((.((((......)))))))))
+
+Interacting substructures
+Chain C 
+GGCACAGAAGAUAUGGCUUCGUGCC
+(((((.((((......)))))))))
+
+Chain F 
+GGCACAGAAGAUAUGGCUUCGUGCC
+(((((.((((......)))))))))
+
+Chain I 
+GGCACAGAAGAUAUGGCUUCGUGCC
+(((((.((((......)))))))))
+
+Chain L 
+GGCACAGAAGAUAUGGCUUCGUGCC
+(((((.((((......)))))))))
+
+Chain O 
+GGCACAGAAGAUAUGGCUUCGUGCC
+(((((.((((......)))))))))
+
+Chain R 
+GGCACAGAAGAUAUGGCUUCGUGCC
+(((((.((((......)))))))))
+

@@ -1,0 +1,22 @@
+Title			HAMMERHEAD RIBOZYME G12A MUTANT PRE-CLEAVAGE 
+Chain order		A B 
+Amino acids		NO
+Metal			Mg	16
+Chains			A	RNA	A 
+			B	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>2QUS nts=138 [whole]
+gGGAGCCCUGUCACCGGAUGUGCUUUCCGGUCUGAUGAGUCCGUGAGGACAAAACAGGGCUCCCGAAUU&gGGAGCCCUGUCACCGGAUGUGCUUUCCGGUCUGAUGAGUCCGUGAGGACAAAACAGGGCUCCCGAAUU
+(((((((((((.((((((.....[.))))))(....).((((...]))))...))))))))))).....&(((((((((((.((((((.....[.))))))(....).((((...]))))...))))))))))).....
+
+Interacting substructures
+Chain A 
+gGGAGCCCUGUCACCGGAUGUGCUUUCCGGUCUGAUGAGUCCGUGAGGACAAAACAGGGCUCCCGAAUU
+(((((((((((.((((((.....[.))))))(....).((((...]))))...))))))))))).....
+
+Chain B 
+gGGAGCCCUGUCACCGGAUGUGCUUUCCGGUCUGAUGAGUCCGUGAGGACAAAACAGGGCUCCCGAAUU
+(((((((((((.((((((.....[.))))))(....).((((...]))))...))))))))))).....
+

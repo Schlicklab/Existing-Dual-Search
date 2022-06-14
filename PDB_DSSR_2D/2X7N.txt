@@ -1,0 +1,17 @@
+Title			MECHANISM OF EIF6S ANTI-ASSOCIATION ACTIVITY 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2X7N nts=28 [whole]
+ACCGUAUAGUACGAGAGGAACUACGGUU
+((((((.....(....)....)))))).
+
+Interacting substructures
+Chain A 
+ACCGUAUAGUACGAGAGGAACUACGGUU
+((((((.....(....)....)))))).
+

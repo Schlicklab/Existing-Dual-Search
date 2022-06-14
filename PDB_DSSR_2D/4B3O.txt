@@ -1,0 +1,19 @@
+Title			STRUCTURES OF HIV-1 RT AND RNA-DNA COMPLEX REVEAL A UNIQUE RT CONFORMATION AND SUBSTRATE INTERFACE 
+Chain order		D R-1 R-2 
+Amino acids		YES
+Metal			Ca	2
+Chains			D	DNA	R-2 R-1 
+			R-1	RNA[23]/1*	D 
+			R-2	RNA[23]/1*	D 
+Pseudoknot		NO
+
+Whole structure
+>4B3O nts=46 [whole]
+TATGCCTATAGTTATTGTGGCC&A?GGCCACAAUAAC&UAUAGGCAUA
+((((((((((((((((((((((&..))))))))))))&))))))))))
+
+Interacting substructures
+Chain D R-1 R-2 
+TATGCCTATAGTTATTGTGGCCA?GGCCACAAUAACUAUAGGCAUA
+((((((((((((((((((((((..))))))))))))))))))))))
+

@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF AN ACTIVE-SITE MUTANT OF THE GLYCOPROTEIN ERNS FROM THE PESTIVIRUS BVDV-1 IN COMPLEX WITH A CPUPC TRINUCLEOTIDE 
+Chain order		D 
+Amino acids		YES
+Metal
+Chains			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4DWA nts=3 [whole]
+CUC
+...
+
+Interacting substructures
+Chain D 
+CUC
+...
+

@@ -1,0 +1,17 @@
+Title			RNA BINDING PROTEIN SOLUTION STRUCTURE OF THE THIRD KH DOMAIN OF KSRP IN COMPLEX WITH THE G-RICH TARGET SEQUENCE. 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4B8T nts=5 [whole]
+AGGGU
+.....
+
+Interacting substructures
+Chain B 
+AGGGU
+.....
+

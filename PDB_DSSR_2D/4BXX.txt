@@ -1,0 +1,20 @@
+Title			ARRESTED RNA POLYMERASE II-BYE1 COMPLEX 
+Chain order		N P T 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			N	DNA	T 
+			P	RNA	T 
+			T	DNA	P N 
+Pseudoknot		YES
+
+Whole structure
+>4BXX nts=35 [whole]
+AGGTAAGCTA&CCCCCCCCCCC&AGCTTACCTGGTGu
+(((((((((.&[.[[.......&)))))))))]].].
+
+Interacting substructures
+Chain N P T 
+AGGTAAGCTACCCCCCCCCCCAGCTTACCTGGTGu
+(((((((((.[.[[.......)))))))))]].].
+

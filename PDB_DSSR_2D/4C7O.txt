@@ -1,0 +1,38 @@
+Title			THE STRUCTURAL BASIS OF FTSY RECRUITMENT AND GTPASE ACTIVATION BY SRP RNA 
+Chain order		E A B C D 
+Amino acids		YES
+Metal			Mg	4
+			Al	4
+Chains			E	RNA	E 
+			A			
+			B			
+			C			
+			D			
+Pseudoknot		NO
+
+Whole structure
+>4C7O nts=53 [whole]
+UGUUGGUUCUCCCGCAACGCGGAAGCGUGUGCCGGGAUGUAGCUGGCA&g&g&g&g&g
+((((((((((((((((((((....)))).))).)))).).))))))))&.&.&.&.&.
+
+Interacting substructures
+Chain E 
+UGUUGGUUCUCCCGCAACGCGGAAGCGUGUGCCGGGAUGUAGCUGGCA
+((((((((((((((((((((....)))).))).)))).).))))))))
+
+Chain A 
+g
+.
+
+Chain B 
+g
+.
+
+Chain C 
+g
+.
+
+Chain D 
+gg
+..
+

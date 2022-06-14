@@ -1,0 +1,20 @@
+Title			STRUCTURE OF MITOCHONDRIAL RNA POLYMERASE ELONGATION COMPLEX 
+Chain order		N-1 N-2 R T 
+Amino acids		YES
+Metal
+Chains			N-1	DNA*	T 
+			N-2	DNA*	T 
+			R	RNA	T 
+			T	DNA	N-1 R N-2 
+Pseudoknot		YES
+
+Whole structure
+>4BOC nts=57 [whole]
+ATGGGGTAA&CGACGCCAGACG&GCGGCGCGC&CGTCTGGCGTGCGCGCCGCTACCCCAT
+.(((((((.&..((((((((((&[[[[[[[[[&))))))))))]]]]]]]]]))))))).
+
+Interacting substructures
+Chain N-1 N-2 R T 
+ATGGGGTAACGACGCCAGACGGCGGCGCGCCGTCTGGCGTGCGCGCCGCTACCCCAT
+.(((((((...(((((((((([[[[[[[[[))))))))))]]]]]]]]]))))))).
+

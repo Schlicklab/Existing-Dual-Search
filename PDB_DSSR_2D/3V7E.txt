@@ -1,0 +1,33 @@
+Title			CRYSTAL STRUCTURE OF YBXF BOUND TO THE SAM-I RIBOSWITCH APTAMER 
+Chain order		C-1 D-1 C-2 D-2 
+Amino acids		YES
+Metal			Mg	22
+			Co	18
+Chains			C-1	RNA*	C-1 
+			D-1	RNA*	D-1 
+			C-2	RNA*	
+			D-2	RNA*	
+Pseudoknot		YES
+
+Whole structure
+>3V7E nts=254 [whole]
+GGCUUAUCAAGAGAGGUGGAGGGACUGGCCCGAUGAAACCCGGCAACCACUAGUCUAGCGUCAGCUUCGGCUGACGCUAGGCUAGUGGUGCCAAUUCCUGCAGCGGAAACGUUGAAAGAUGAGCCA&GGCUUAUCAAGAGAGGUGGAGGGACUGGCCCGAUGAAACCCGGCAACCACUAGUCUAGCGUCAGCUUCGGCUGACGCUAGGCUAGUGGUGCCAAUUCCUGCAGCGGAAACGUUGAAAGAUGAGCCA&a&a
+((((((((....(.(((...(((.[.[[)))......))))(((..(((((((((((((((((((....))))))))))))))))))).)))...(]].](((((....)))))..))))))))).&((((((((....(.(((...(((.[.[[)))......))))(((..(((((((((((((((((.(....).))))))))))))))))).)))...(]].](((((....)))))..))))))))).&.&.
+
+Interacting substructures
+Chain C-1 
+GGCUUAUCAAGAGAGGUGGAGGGACUGGCCCGAUGAAACCCGGCAACCACUAGUCUAGCGUCAGCUUCGGCUGACGCUAGGCUAGUGGUGCCAAUUCCUGCAGCGGAAACGUUGAAAGAUGAGCCA
+((((((((....(.(((...(((.[.[[)))......))))(((..(((((((((((((((((((....))))))))))))))))))).)))...(]].](((((....)))))..))))))))).
+
+Chain D-1 
+GGCUUAUCAAGAGAGGUGGAGGGACUGGCCCGAUGAAACCCGGCAACCACUAGUCUAGCGUCAGCUUCGGCUGACGCUAGGCUAGUGGUGCCAAUUCCUGCAGCGGAAACGUUGAAAGAUGAGCCA
+((((((((....(.(((...(((.[.[[)))......))))(((..(((((((((((((((((.(....).))))))))))))))))).)))...(]].](((((....)))))..))))))))).
+
+Chain C-2 
+a
+.
+
+Chain D-2 
+a
+.
+

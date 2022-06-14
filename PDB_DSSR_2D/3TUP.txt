@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF HUMAN MITOCHONDRIAL PHERS COMPLEXED WITH TRNAPHE IN THE ACTIVE OPEN STATE 
+Chain order		T 
+Amino acids		YES
+Metal
+Chains			T	RNA	T 
+Pseudoknot		YES
+
+Whole structure
+>3TUP nts=74 [whole]
+GCCGAGGUAGCUCAGUUGGUAGAGCAUGCGACUGAAAAUCGCAGUGUCGGCGGUUCGAUUCUGCUCCUCGGCAC
+(((((((..((((.....[..)))).(((((.......)))))......((.(..]....).)).)))))))..
+
+Interacting substructures
+Chain T 
+GCCGAGGUAGCUCAGUUGGUAGAGCAUGCGACUGAAAAUCGCAGUGUCGGCGGUUCGAUUCUGCUCCUCGGCAC
+(((((((..((((.....[..)))).(((((.......)))))......((.(..]....).)).)))))))..
+

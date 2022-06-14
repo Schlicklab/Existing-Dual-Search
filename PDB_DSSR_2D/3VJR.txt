@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF PEPTIDYL-TRNA HYDROLASE FROM ESCHERICHIA COLI IN COMPLEX WITH THE CCA-ACCEPTOR-T[PSI]C DOMAIN OF TRNA 
+Chain order		B D 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>3VJR nts=72 [whole]
+GGGGGCUAAGCGGUUCGAUCCCGCUUAGCUCCACCA&GGGGGCUAAGCGGUUCGAUCCCGCUUAGCUCCACCA
+.((((((((((((.......))))))))))))....&.((((((((((((.......))))))))))))....
+
+Interacting substructures
+Chain B 
+GGGGGCUAAGCGGUUCGAUCCCGCUUAGCUCCACCA
+.((((((((((((.......))))))))))))....
+
+Chain D 
+GGGGGCUAAGCGGUUCGAUCCCGCUUAGCUCCACCA
+.((((((((((((.......))))))))))))....
+

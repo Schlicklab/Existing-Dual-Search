@@ -1,0 +1,18 @@
+Title			STRUCTURE OF A RIBOSWITCH-LIKE RNA-LIGAND COMPLEX FROM THE HEPATITIS C VIRUS INTERNAL RIBOSOME ENTRY SITE 
+Chain order		A B 
+Amino acids		NO
+Metal			Mg	6
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>3TZR nts=36 [whole]
+CGAGGAACUACUGUCUUCCC&GGUCGUGCAGCCUCGG
+(((((.....(((((..((.&))..).))))))))).
+
+Interacting substructures
+Chain A B 
+CGAGGAACUACUGUCUUCCCGGUCGUGCAGCCUCGG
+(((((.....(((((..((.))..).))))))))).
+

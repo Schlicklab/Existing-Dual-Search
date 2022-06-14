@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF HUMAN TDP-43 TANDEM RRMS IN COMPLEX WITH UG-RICH RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4BS2 nts=12 [whole]
+GUGUGAAUGAAU
+............
+
+Interacting substructures
+Chain B 
+GUGUGAAUGAAU
+............
+

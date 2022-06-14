@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF FLUORIDE RIBOSWITCH 
+Chain order		A 
+Amino acids		NO
+Metal			Mg	5
+			K	1
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>4ENC nts=52 [whole]
+GGGCGAUGAGGCCCGCCCAAACUGCCCUGAAAAGGGCUGAUGGCCUCUACUG
+.[[[[..((((((]]]]......(((((....)))))....)))))).....
+
+Interacting substructures
+Chain A 
+GGGCGAUGAGGCCCGCCCAAACUGCCCUGAAAAGGGCUGAUGGCCUCUACUG
+.[[[[..((((((]]]]......(((((....)))))....)))))).....
+

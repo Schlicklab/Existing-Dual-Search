@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF 19MER DOUBLE-HELICAL RNA CONTAINING CUG/CGG- REPEATS 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>4E5C nts=38 [whole]
+GGCGGCGGCGGCUGCUGCC&GGCGGCGGCGGCUGCUGCC
+(((((((((.(((((((((&))))))))).)))))))))
+
+Interacting substructures
+Chain A B 
+GGCGGCGGCGGCUGCUGCCGGCGGCGGCGGCUGCUGCC
+(((((((((.((((((((())))))))).)))))))))
+

@@ -1,0 +1,24 @@
+Title			SMALL RNA PHAGE PRR1 IN COMPLEX WITH AN RNA OPERATOR FRAGMENT 
+Chain order		R-1 R-2 S-1 S-2 
+Amino acids		YES
+Metal			Ca	1
+Chains			R-1	RNA[13]/1*	R-2 
+			R-2	RNA[13]/1*	R-1 
+			S-1	RNA*	S-2 
+			S-2	RNA*	S-1 
+Pseudoknot		NO
+
+Whole structure
+>4ANG nts=27 [whole]
+UAAGGAGCU&ACCUA&UAAGGAG&UACCUA
+((.((....&.))))&((.(...&...)))
+
+Interacting substructures
+Chain R-1 R-2 
+UAAGGAGCUACCUA
+((.((.....))))
+
+Chain S-1 S-2 
+UAAGGAGUACCUA
+((.(......)))
+

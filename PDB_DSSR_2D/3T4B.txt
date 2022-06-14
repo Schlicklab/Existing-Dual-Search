@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE HCV IRES PSEUDOKNOT DOMAIN 
+Chain order		A 
+Amino acids		NO
+Metal			Ni	17
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>3T4B nts=84 [whole]
+CCUCCCGGGAGAGCCGCUAAGGGGGAAACUCUAUGCGGUACUGCCUGAUAGGGUGCUUGCGAGUGCCCCGGGAGGUCUCGUAGa
+(((((((((((.(((((..(((((....)))).))))))[))((((..].))))((..[[[[[.))))))))))).]]]]]...
+
+Interacting substructures
+Chain A 
+CCUCCCGGGAGAGCCGCUAAGGGGGAAACUCUAUGCGGUACUGCCUGAUAGGGUGCUUGCGAGUGCCCCGGGAGGUCUCGUAGa
+(((((((((((.(((((..(((((....)))).))))))[))((((..].))))((..[[[[[.))))))))))).]]]]]...
+

@@ -1,0 +1,30 @@
+Title			ELONGATING RNA POLYMERASE II-BYE1 TLD COMPLEX 
+Chain order		N P T A G 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			N	DNA	T 
+			P	RNA	T 
+			T	DNA	P N 
+			A			
+			G			
+Pseudoknot		YES
+
+Whole structure
+>4BY7 nts=50 [whole]
+AAAGTACTTGAGC&UCGACCAGGA&GCTCAAGTACTTATTCCuGGTCATT&c&c
+.((((((((((((&..[[[[[[[[&))))))))))))..]]]]]]]]...&.&.
+
+Interacting substructures
+Chain N P T 
+AAAGTACTTGAGCUCGACCAGGAGCTCAAGTACTTATTCCuGGTCATT
+.((((((((((((..[[[[[[[[))))))))))))..]]]]]]]]...
+
+Chain A 
+c
+.
+
+Chain G 
+c
+.
+

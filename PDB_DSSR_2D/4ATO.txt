@@ -1,0 +1,17 @@
+Title			NEW INSIGHTS INTO THE MECHANISM OF BACTERIAL TYPE III TOXIN-ANTITOXIN SYSTEMS: SELECTIVE TOXIN INHIBITION BY A NON-CODING RNA PSEUDOKNOT 
+Chain order		G 
+Amino acids		YES
+Metal
+Chains			G	RNA	G 
+Pseudoknot		YES
+
+Whole structure
+>4ATO nts=34 [whole]
+AAAUUGGUGUAACCUUACCGUAGUAGGUGCUAAa
+.....[[[...((((.]]].....))))......
+
+Interacting substructures
+Chain G 
+AAAUUGGUGUAACCUUACCGUAGUAGGUGCUAAa
+.....[[[...((((.]]].....))))......
+

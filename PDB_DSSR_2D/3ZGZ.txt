@@ -1,0 +1,37 @@
+Title			TERNARY COMPLEX OF E. COLI LEUCYL-TRNA SYNTHETASE, TRNA(LEU) AND TOXIC MOIETY FROM AGROCIN 84 (TM84) IN AMINOACYLATION- LIKE CONFORMATION 
+Chain order		B-1 B-2 B-3 E-1 E-2 E-3 A D 
+Amino acids		YES
+Metal			Mg	7
+			Zn	2
+Chains			B-1	RNA*	B-2 B-3 B-1 
+			B-2	RNA*	B-3 B-1 
+			B-3	RNA*	B-2 B-3 B-1 
+			E-1	RNA*	E-2 E-3 E-1 
+			E-2	RNA*	E-3 E-1 
+			E-3	RNA*	E-2 E-3 E-1 
+			A			
+			D			
+Pseudoknot		YES
+
+Whole structure
+>3ZGZ nts=159 [whole]
+GCCCGGAUGGUGGAAUCGGUAGACACAAGGGA&UCCCUCGGCG&UCGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGCACCA&GCCCGGAUGGUGGAAUCGGUAGACACAAGGGA&UCCCUCGGCG&CGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGCACCA&a&a
+(((((((..(((......[....))).(((((&))))).((((&...))))..(((((..]....))))))))))))....&(((((((..(((......[....))).(((((&))))).((((&..))))..(((((..]....))))))))))))....&.&.
+
+Interacting substructures
+Chain B-1 B-2 B-3 
+GCCCGGAUGGUGGAAUCGGUAGACACAAGGGAUCCCUCGGCGUCGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGCACCA
+(((((((..(((......[....))).((((())))).((((...))))..(((((..]....))))))))))))....
+
+Chain E-1 E-2 E-3 
+GCCCGGAUGGUGGAAUCGGUAGACACAAGGGAUCCCUCGGCGCGCGCUGUGCGGGUUCAAGUCCCGCUCCGGGCACCA
+(((((((..(((......[....))).((((())))).((((..))))..(((((..]....))))))))))))....
+
+Chain A 
+a
+.
+
+Chain D 
+a
+.
+

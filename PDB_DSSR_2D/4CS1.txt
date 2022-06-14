@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A SIMPLE DUPLEX KINK TURN, HMKT-7 WITH 2 MG BOUND. 
+Chain order		A 
+Amino acids		NO
+Metal			Mg	2
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4CS1 nts=19 [whole]
+GGCGAAGAACCGGGGAGCC
+...................
+
+Interacting substructures
+Chain A 
+GGCGAAGAACCGGGGAGCC
+...................
+

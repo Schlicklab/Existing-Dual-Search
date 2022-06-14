@@ -1,0 +1,17 @@
+Title			MOLECULAR BASIS FOR THE RECOGNITION AND CLEAVAGE OF RNA (CUGG) BY THE BIFUNCTIONAL 5'-3' EXO/ENDORIBONUCLEASE RNASE J 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	1
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3T3O nts=5 [whole]
+cuggU
+.....
+
+Interacting substructures
+Chain B 
+cuggU
+.....
+

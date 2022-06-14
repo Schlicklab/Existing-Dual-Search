@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE NUCLEOCAPSID PROTEIN FROM BUNYAMWERA VIRUS BOUND TO RNA 
+Chain order		I J 
+Amino acids		YES
+Metal
+Chains			I	RNA	
+			J	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3ZLA nts=88 [whole]
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU&UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+............................................&............................................
+
+Interacting substructures
+Chain I 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+............................................
+
+Chain J 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+............................................
+

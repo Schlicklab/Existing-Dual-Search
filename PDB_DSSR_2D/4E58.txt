@@ -1,0 +1,19 @@
+Title			CRYSTAL STRUCTURE OF GCC(LCG)CCGC DUPLEX CONTAINING LNA RESIDUE 
+Chain order		C E D 
+Amino acids		NO
+Metal
+Chains			C	RNA	D 
+			E	RNA	D 
+			D	RNA	C E 
+Pseudoknot		NO
+
+Whole structure
+>4E58 nts=23 [whole]
+GCCgCCGC&GCCgCCG&GCCgCCGC
+..((.((.&((.....&)))).)).
+
+Interacting substructures
+Chain C E D 
+GCCgCCGCGCCgCCGGCCgCCGC
+..((.((.((.....)))).)).
+

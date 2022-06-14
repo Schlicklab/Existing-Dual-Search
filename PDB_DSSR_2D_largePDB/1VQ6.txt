@@ -1,0 +1,31 @@
+Title			THE STRUCTURE OF C-HPMN AND CCA-PHE-CAP-BIO BOUND TO THE LARGE RIBOSOMAL SUBUNIT OF HALOARCULA MARISMORTUI 
+Chain order		0-1 0-2 0-3 0-4 0-5 0-6 0-7 0-8 0-9 9 4 5 
+Amino acids		YES
+Metal			Na	86
+			Mg	117
+			K	2
+			Cd	5
+Chains			0-1	RNA*
+			0-2	RNA*
+			0-3	RNA*
+			0-4	RNA*
+			0-5	RNA*
+			0-6	RNA*
+			0-7	RNA*
+			0-8	RNA*
+			0-9	RNA*
+			9	RNA
+			4	RNA
+			5	RNA*
+Pseudoknot		YES
+
+Whole structure
+>1VQ6 nts=2881 [whole]
+UAUGCCAGCUGGUGGAUUGCUCGGCUCAGGCGCUGAUGAAGGACGUGCCAAGCUGCGAUAAGCCAUGGGGAGCCGCACGGAGGCGAAGAACCAUGGAUUUCCGAAUGAGAAUCUCU&AACAAUUGCUUCGCGCAAUGAGGAACCCCGAGAACUGAAACAUCUCAGUAUCGGGAGGAACAGAAAACGCAAUGUGAUGUCGUUAGUAACCGCGAGUGAACGCGAUACAGCCCAAACCGAAGCCCUCACGGGCAAUGUGGUGUCAGGGCUACCUCUCAUCAGCCGACCGUCUCGACGAAGUCUCUUGGAACAGAGCGUGAUACAGGGUGACAACCCCGUACUCGAGACCAGUACGACGUGCGGUAGUGCCAGAGUAGCGGGGGUUGGAUAUCCCUCGCGAAUAACGCAGGCAUCGACUGCGAAGGCUAAACACAACCUGAGACCGAUAGUGAACAAGUAGUGUGAACGAACGCUGCAAAGUACCCUCAGAAGGGAGGCGAAAUAGAGCAUGAAAUCAGUUGGCGAUCGAGCGACAGGGCAUACAAGGUCCCUCGACGAAUGACCGACGCGCGAGCGUCCAGUAAGACUCACGGGAAGCCGAUGUUCUGUCGUACGUUUUGaAAAACGAGCCAGGGAGUGUGUCUGCAUGGCAAGUCUAACCGGAGUAUCCGGGGAGGCACAGGGAAACCGACAUGGCCGCAGGGCUU&GCCCGAGGGCCGCCGUCUUCAAGGGCGGGGAGCCAUGUGGACACGACCCGAAUCCGGACGAUCUACGCAUGGACAAGAUGAAGCGUGCCGAAAGGCACGUGGAAGUCUGUUAGAGUUGGUGUCCUACAAUACCCUCUCGUGAUCUAUGUGUAGGGGUGAAAGGCCCAUCGAGUCCGGCAACAGCUGGUUCCAAUCGAAACAUGUCGAAGCAUGACCUCCGCCGAGGUAGUCUGUGAGGUAGAGCGACCGAUUGGU&CCUGUCAAACUCCAAACUUACAGACGCCGUUUGACGCGGGGAUUCCGGUGCGCGGGGUAAGCCUGUGUACCAGGAGGGGAACAACCCAGAGAUAGGUUAAGGUCCCCAAGUGUGGAUUAAGUGUAAUCCUCUGAAGGUGGUCUCGAGCCCUAGACAGCCGGGAGGUGAGCUUAGAAGCAGCUACCCUCUAAGAAAAGCGUAACAGCUUACCGGCCGAGGUUUGAGGCGCCCAAAAUGAUCGGGACUCAAAUCCACCACCGAGACCUGUCCGUACCACUCAUACUGGUAAUCGAGUAGAUUGGCGCUCUAAUUGGAUGGAAGUAGGGGUGAAAACUCCUAUGGACCGAUUAGUGACGAAAAUCCUGGCCAUAGUAGCAGCGAUAGUCGGGUGAGAACCCCGACGGCCUAAUGGAUAAGGGUUCCUCAGCACUGCUGAUCAGCUGAGGGUUAGCCGGUCCUAAGUCAUACCGCAACUCGACUAUGACGAAAUGGGAAACGGGUUAAUAUUCCCGUGCCACUAUGCAGUGAAAGUUGACGCCCUGGGGUCGAUCACGCUGGGCA&UCGCCCAGUCGAACCGUCCAACUCCGUGGAAGCCGUAAUGGCAGGAAGCGGACGAACGGCGGCAUAGGGAAACGUGAUUCAACCUGGGGCCCAUGAAAAGACGAGCAUAGUGUCCGUACCGAGAACCGACACAGGUGUCCAUGGCGGCGAAAGCCAAGGCCUGUCGGGAGCAACCAACGUUAGGGAAUUCGGCAAGUUAGUCCCGUACCUUCGGAAGAAGGGAUGCCUGCUCCGGAACGGAGCAGGUCGCAGUGACUCGGAAGCUCGGACUGUCUAGUAACAACAUAGGUGACCGCAAAUCCGCAAGGACUCGUACGGUCACUGAAUCCUGCCCAGUGCAGGUAUCUGAACACCUCGUACAAGAGGACGAAGGACCUGUCAACGGCGGGGG&UCUUAAGGUAGCGUAGUACCUUGCCGCAUCAGUAGCGGCUUGCAUGAAUGGAUUAACCAGAGCUUCACUGUCCCAACGUUGGGCCCGGUGAACUGUACAUUCCAGUGCGGAGUCUGGAGACACCCAGGGGGAAGCGAAGACCCUAUGGAGCUUUACUGCAGGCUGUCGCUGAG&GACUCUCACUCCGGGAGGAGGACACCGAUAGCCGGGCAGUUUGACUGGGGCGGUACGCGCUCGAAAAGAUAUCGAGCGCGCCCUAUGGCUAUCUCAGCCGGG&GACCCGGCGAAGAGUGCAAGAGCAAAAGAUAGCUUGACAGUGUUCUUCCCAACGAGGAACGCUGACGCGAAAGCGUGGUCUAGCGAACCAAUUAGCCUGCUUGAUGCGGGCAAUUGAUGACAGAAAAGCUACCCUAGGGAUAACAGAGUCGUCACUCGCAAGAGCACAUAUCGACCGAGUGGCUUGCUACCUCGAUGUCGGUUCCCUCCAUCCUGCCCGUGCAGAAGCGGGCAAGGGUGAGGUugUUCGCCUAUUAAAGGAGGUCGUGAGCUGGGuUPAGACCGUCGUGAGACAGGUCGGCUGCUAUCUACUGGGUGUGUA&GGUGUCUGACAAGAACGACCGUAUAGUACGAGAGGAACUACGGUUGGUGGCCACUGGUGUACCGGUUGUUCGAGAGAGCACGUGCCGGGUAGCCACGCCACACGGGGUAAGAGCUGAACGCAUCUAAGCUCGAAACCCACUUGGAAAAGAGACACCGCCGAGGUCCCGCGUACAAGACGCGGUCGAUAGACUCGGGGUGUGCGCGUCGAGGUAACGAGACGUUAAGCCCACGAGCACUAACAGACCAA&UUAGGCGGCCACAGCGGUGGGGUUGCCUCCCGUACCCAUCCCGAACACGGAAGAUAAGCCCACCAGCGUUCCGGGGAGUACUGGAGUGCGCGAGCCUCUGGGAAACCCGGUUCGCCGCCACC&Ca&CCA
+...(((((((((.....(((..((((((((.(((......((((((.[[..[[.))).....((((((...(((]]..]].)))......))))))...)))....(((...)))(&.)..(((((.....))))).))...((((((.....(...[..)......))))).).........((.....))...(((((.....((.]...))....)))))...((((...((..(((((....))))....))).....((((((((......(..(.....(((((((....({((((......)))))[[(...).(((....}]])))....)))))))......)..)...)))))).)).)....(((((((........)))))))......(((((.[[[[[[)))))..)))......)..)))))).))...............((....))....))......((..(((.....))).)...........)).....)))))))))......(.((((((((((....((((((..((....(....(((((....))))).....)...))..))))..)).)))))))))).{.(((........))).((((((..(.(((((((((((((..(((...((((.....))))...)))...((....))..(..((((...((((..&))))...)))))((((((....))))))...)))))))))))))..((.(...((((((.....((((((((((.((((...(((((((....)))))))...)[)))....(((..((.((........)))).)))..).))))))))).(.(((.....)))...)..))))))......).))).((((((....(((((....)))))..((((((...(((.(((((((((...(((.....((..((.&))..))...)).)...)))))))))))).......)))))).....((((((((((.....))))))))))....(((......)))...(((((((...((([[[...(.((((((.....((...........(((.((((((((((.......(((((.((...(((.........)))...)).....(..(((......)))).)))))...)))))))))))))..........]]]))....))))))))))...)))))))(((((((.......)))))..))....))))))(.(.((((((((......((((((((....))))))))...)))))))).)..).....))))))((.....((.......((((((.......))))))((((....((((..((..(((((((...((.....)).))))))....[[(((.((...((((((.((.....))..)))))).....))...(((((........)))))]]((((((((.......(((...((((((((...(((((((((((((.&<<)))))))(...(((((....(((((....(((.....))).....))))).....)))))....)(....)))))))...))))))))(...)....)))..)))))))).))).))).....((......)).))))..(((.......)))..))))...((((.....((((((((.((..(....(.......(((((....(.{..).....)))))(((((((((.....)))))))))(...).......(((((((((.].((.........))...(((((((.....(((....))).......))))))).}.(((.(((..(((((((..(((.....((((......)))).....))))))))..)))))((...&))........((..........(((((.......)))))..)..)....)))....)).))))))).)..))).)))))))).))))))....)))[[..(((((.....}]])))))..(((((((..(((.((......((((.((((((..(((((.((((((((..(((&..)))...((((....)))).....))))))))..)))))..(((..{{..[)).)((((((..........]))))))([((...(((((((.(.((((((&..))))))...).((][.[[[))....)))))))...(((((((((.........))))))))).(((....))).))]]].].....(((((.(((((.]]]]]]))))))))))....).....))))..)))))).......((((.(.((((((...((.......))...))))))...)))).).......(((((.((((((..(((((((((......))))))..)))..(((.......)))......)))))..)...))).))....(((((((....))).))))....))..))).)))))))....&((((((...((((..((((((((.....(....)....))))))))(((((...((((...((((((((((>>..)))))...))))).[.)))).)))))..(((....((((.............))))....))).)))).......)))))).....(((((((((.......)))))....(((.((((((((....(((((..(....)..)))))...))))]))))..)))...))))..&...((((((....((((((((......((((((...(.....)...))))..))....)))))).))...(((((.....((((((.((....))))))))....)))))...))))))...&..&}}.
+
+Interacting substructures
+Chain 4 
+Ca
+..
+

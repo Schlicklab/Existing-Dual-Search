@@ -1,0 +1,26 @@
+Title			FIRST CRYSTAL STRUCTURE OF A RNA NANOSQUARE 
+Chain order		A B C D E F G-1 G-2 H 
+Amino acids		NO
+Metal			Mg	2
+			Co	10
+Chains			A	RNA
+			B	RNA
+			C	RNA
+			D	RNA
+			E	RNA
+			F	RNA
+			G-1	RNA*
+			G-2	RNA*
+			H	RNA
+Pseudoknot		YES
+
+Whole structure
+>3P59 nts=98 [whole]
+CCGGAGGAACUACuG&CCGGCAGCCU&CCGGAGGAACUACuG&CCGGCAGCCU&CCGGAGGAACUACuG&CCGGCAGCCU&CCGGAGGAAC&CuG&CCGGCAGCCU
+(((((((.....(((&[[[[))))))&[[[[[[[........&))))...]]]&{{{{((......(((&]]]]))).))&]]]](((...&(((&}}}}))))))
+
+Interacting substructures
+Chain A B C D E F G-1 G-2 H 
+CCGGAGGAACUACuGCCGGCAGCCUCCGGAGGAACUACuGCCGGCAGCCUCCGGAGGAACUACuGCCGGCAGCCUCCGGAGGAACCuGCCGGCAGCCU
+(((((((.....((([[[[))))))[[[[[[[........))))...]]]{{{{((......(((]]]]))).))]]]](((...(((}}}}))))))
+

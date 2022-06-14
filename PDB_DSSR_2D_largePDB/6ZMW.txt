@@ -1,0 +1,22 @@
+Title			? 
+Chain order		7 A-1 A-2 A-3 A-4 A-5 A-6 A-7 w 
+Amino acids		YES
+Metal			Mg	89
+			Zn	2
+Chains			7	RNA
+			A-1	DNA[3]/RNA[1716]*
+			A-2	DNA[3]/RNA[1716]*
+			A-3	DNA[3]/RNA[1716]*
+			A-4	DNA[3]/RNA[1716]*
+			A-5	DNA[3]/RNA[1716]*
+			A-6	DNA[3]/RNA[1716]*
+			A-7	DNA[3]/RNA[1716]*
+			w	RNA
+Pseudoknot		YES
+
+Whole structure
+>6ZMW nts=1822 [whole]
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA&UACCUGGUUGAUCCUGCCAGUAGCAUaUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUGAGUACGCACGGCCGGUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUGGUuCCPUuGGUCGCUCGCUC&CUACUUGGAUAACUGUGGUAaUUCUAGaGCUAAUAcAUGCCGACGGGCGCUGACCCCCUUCGCGGGGGGGAUGCGUGCAUUUAUCAG&UGGUGACUCUAGAUAACCUCGGGCCGAUCGCACGCCCCCCGUGGCGGCGACGACCCAUUCGAACGUCUGCCCUAUCAACUUUCGAUGGUAGUCGCCGUGCCUACCAUGGUGACCACGGGUGACGGGGAAUCAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCaAAUUACCCACUCCCGACCCGGGGAgGUAGUGAcGAAAAAUAACAAUACAGGACUCUUUCGAGGCCCUGUAAUUGGAAUGAGUCCACUUUAAAUCCUUUAACGAGGAUCCAUUGGAGGGCAAGUCUGGPGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAgCGUAUAUUAAAGUUGCUGCAGUUaAAAAGCUCGUAGUUgGAUCUUGGGAGCGG&CCCCGCCC&CUCUCGGC&GGCCCGAAGCGUUUACUUUGAAAAAAtUAGAGUGPPCAAAGCAGGCCCGAGCCGCCUGGAUACCGCAGCUAGGAAUAAUGGAAUAGGACCGCGGUUCUAUUUUGUUGGUUUUCGGAACUGAGGCCAUGAUUAAGAGGGACGGCCGGGGGCAUUCGUAUUGCGCCGCUAGAGGUGAAAUUCUUGGACCGGCGCAAGACGGACCAGAGCGAAAGCAUUUGCCAAGAAUGUUUUCAUUAAUCAAGAaCGAAAGUCGGAGGUUCGAAGACGAUCAGAUACCGUCGUAGUUCCGACCAPAAACGAUGCCGACCGGCGAUGCGGCGGCGUUAUUCCCAUGACCCGCCGGGCAGCUUCCGGGAAACCAAAGUCUUUGGGUUCCGGGGGGAGUAUGGUUGCAAAGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACcAGGAGUGGAGCCUGCGGCUUAAUPUGACUCAACACGGGAAACCUCACCCGGCCCGGACACGGACAGGAUUGACAGAUUGAUAGCUCUUUCUCGAUUCCGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGCGAUUUGUCUGGUUAAUUCcGAUAACGAACGAGACUCUGGCAUGCUAACUAGUUACGCGACCCCCGAGCGGUCGGCGUCCCCCAACUUCUUAGAGGGACAAGUGGCGUUCAGCCACCCGAGAUUGAGCAAUAACAGGUCUGUGAUGCCCUUAGAUGUCCGGGGCUGCACGCGCGCUACACUGACUGGCUCAGCGUGUGCCUACCCUACGCCGGCAGGCGCGGGUAACCCGUUGAACCCCAUUCGUGAUGGGGAUCGGGGAUUGCAAUUAUUCCCCAUGAACGAGGAAUUCCCAGUAAGUGCGGGUCAUAAGCUUGCGUUGAUUaAGUCCCUGCCCUUUGUACACACCGcCCGUCGCUACUACCGAUUGGAUGGUUUAGUGAGGCCCUCGGAUCGGCCCCGCCGGGG&GCCCUGGCGGAGCGCUGAGAAGACGGUCGAACUUGACUAUCUAGAGGAAGUAAAAGUCGuAaCAAGGUUUCCGUAGGUGaaCCUGCGGAAGGAUCAUUA&AGCAGAGUGGCGCAGCGGAAGCGUGCUGGGCCCAUAACCCAGAGGUCGAUGGAUCGAAACCAUCCUCUGCUACCA
+............................&...((((..[.[[[..))))(((.((((((...(.((..((.....(((.(((..((....((....((..........))...))[))......(((.......(((.(.(..((....(((.....((...&.[...((.....((.(((.....))).))......))......)).((((...((((........))))...))))((..(((((..&.(......)..)))))......)).(]((((.((((......)))))))))...)))...))).).))).(((....(((....(((((((.........))))))))))......)))...(((.((((....))))....)))))).((.(((..........))).)).(.((....)).)...)))))).).....(.(((...((((.]...))).))))).)...)).).....(......((.(((....))).))........)....(.((..(...........)..))......)..((((([[....(.((((.....((..]])).......))))))))))..)))))).)))..[......(.([[...(.(.((...(((..(.....((.....&.....)).&((......&.......))...((((((.(.......((..((.......)).(((.......)))....))......).)))..)))........(.((.(.(...(...............)...).).)).)....)....(((.((...(...((((..((..((((((((...((........))......))))))))..)).......((....))...))))..)...))..))..))))...)).)....((((((....(...((((.........))))...).))))))......{...(((.((.(((..(.((((((.(((........))))))))).)..)))...((..]]))...))...].))))).).(((......((((....))))....)))...]]].](((((.(((((((..((..(((((..(((.(((.((......((........))..........(((((.(....(((((.....(..((.(((........))).))....).)))))...((.(((...(.((((((....(((.(((((....)))..(.((......)))...)).)))....(((...(...((((..((((((((((((.......)))).)))).....))))..))))..).....(((((.....)))))........)))....))).))).....).))))).....).)))))...))..))).))).(...((.(((........(.......(((.((((....)))).)))....).........))).))......(.....(((((..........))))).....)..)..))))).....((((((((.......))))))))......))...)))))))))).))..(.(..((.(..((((.((..(.((((((((.(((..((((.((...((((.(.........&.............)))))...)).))))..))).)))))))))..)).))))...).))...)..)..(((((((((....)))))))))}........&.((((((...(((.......)))..(((((.......))))).....(((((.......))))))))))).....
+
+Interacting substructures

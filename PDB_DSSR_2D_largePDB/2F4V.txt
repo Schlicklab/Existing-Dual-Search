@@ -1,0 +1,28 @@
+Title			30S RIBOSOME + DESIGNER ANTIBIOTIC 
+Chain order		A-1 A-2 A-3 A-4 A-5 A-6 A-7 A-8 A-9 A-10 A-11 A-12 A-13 Z 
+Amino acids		YES
+Metal			Mg	101
+			K	12
+			Zn	2
+Chains			A-1	RNA*
+			A-2	RNA*
+			A-3	RNA*
+			A-4	RNA*
+			A-5	RNA*
+			A-6	RNA*
+			A-7	RNA*
+			A-8	RNA*
+			A-9	RNA*
+			A-10	RNA*
+			A-11	RNA*
+			A-12	RNA*
+			A-13	RNA*
+			Z	RNA
+Pseudoknot		YES
+
+Whole structure
+>2F4V nts=1511 [whole]
+UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGG&CCGCGGGGUUUU&ACUCCG&UGGUC&AGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACCCGCCCCUUGGGGUGUGUCCAAAGGGCUUU&GCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAA&CCCGGGACGAAACCCCCGACGA&GGGGACUGACGGUACCGGG&GUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGGUCU&CCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGUGCCCCGCGAGGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGG&AGCCUACGGG&CAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGAUC&A&UUCU
+....((((..[.[[[..)))).((((.(((((..(((((((((....(((.(((..(((..((.((&((((((((....&.)))))&)))))&.)))))......(((......((((((((..((...(((((((.(((((....((((((....)))))).....)))))....((((.(((((....))))).))))...((((...&)))).)))))))..))))))))))(((....(((..((((((((.......)))))))))))......)))..((((((((....))))...))))))).(((((............))))).((((....))))...)))))).).....(.(((...((.((....)).).))))).)).))))))..((((.......(((....)))......))))....&(.(((...(....((((.....&)))).....)....))).)&......((((([[[...(((((.....((.]]])).......))))))))))..)))))))))..........((([[...(.((((...(((.(((((((.((((((((((......((((((.....))))))....))))))))..)))))))))..(((.(((((...((((((((....((((((....((........)).......))))))....).......((....)).)))))))..)))))..))..))))...))))....((((((...((...((((.........))))...))))))))......{...((((((..((((((((((...&))))))))))...((..]])).....)))))))))).(((......((((....))))....)))...]]].](((((.(((((((.((..(((((..((((((((((......((........))..........((((((...(...((............(.(....).)........(((....).))........))).((.(((...((((((.(....(((((((((....)))...(((......)))...)))))).....((((.(((((.(...(...((.......)).)....).)))))..(..(((((....))))).....)..)))).....).).)))...)).))))).....))))))..[)).)))))))).(...(((((((.....(((..((..((((....))))..))....))).....)))))))......(....(((((((........)))))))....)..)..))))).....(((((((......]...)))))))......))...)))))))))).))..(.(..((...((((.(((..((.(((.((((((...(.((((...&.(((....))&).)))).)..)))))).))).))..))).))))....))...)..)..(((((((((....)))))))))}....&.&....
+
+Interacting substructures

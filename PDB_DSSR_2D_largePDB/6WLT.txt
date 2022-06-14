@@ -1,0 +1,17 @@
+Title			APO V. CHOLERAE GLYCINE RIBOSWITCH MODELS, 4.8 ANGSTROM RESOLUTION 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA
+Pseudoknot		NO
+
+Whole structure
+>6WLT nts=231 [whole]
+GGUCCGUUGAAGACUGCAGGAGAGUGGUUGUUAACCAGAUUUUAACAUCUGAGCCAAAUAACCCGCCGAAGAAGUAAAUCUUUCAGGUGCAUUAUUCUUAGCCAUAUAUUGGCAACGAAUAAGCGAGGACUGUAGUUGGAGGAACCUCUGGAGAGAACCGUUUAAUCGGUCGCCGAAGGAGCAAGCUCUGCGCAUAUGCAGAGUGAAACUCUCAGGCAAAAGGACAGAGGA
+..(((......((((((((......(((((((...(((((......))))).....))))))).(((...((((.....))))..)))((.((((((.(.((((.....)))))..)))))))).....))))))))...))).((((((....(.((((......)))))(((...((((...((((((((....))))))))....))).).))).......)))))).
+
+Interacting substructures
+Chain A 
+GGUCCGUUGAAGACUGCAGGAGAGUGGUUGUUAACCAGAUUUUAACAUCUGAGCCAAAUAACCCGCCGAAGAAGUAAAUCUUUCAGGUGCAUUAUUCUUAGCCAUAUAUUGGCAACGAAUAAGCGAGGACUGUAGUUGGAGGAACCUCUGGAGAGAACCGUUUAAUCGGUCGCCGAAGGAGCAAGCUCUGCGCAUAUGCAGAGUGAAACUCUCAGGCAAAAGGACAGAGGA
+..(((......((((((((......(((((((...(((((......))))).....))))))).(((...((((.....))))..)))((.((((((.(.((((.....)))))..)))))))).....))))))))...))).((((((....(.((((......)))))(((...((((...((((((((....))))))))....))).).))).......)))))).
+

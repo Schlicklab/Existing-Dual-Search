@@ -1,0 +1,18 @@
+Title			CRYO-EM STRUCTURE OF HUMAN RIBONUCLEASE P WITH MATURE TRNA 
+Chain order		A T 
+Amino acids		YES
+Metal			Zn	1
+Chains			A	RNA
+			T	RNA
+Pseudoknot		YES
+
+Whole structure
+>6AHU nts=413 [whole]
+AUAGGGCGGAGGGAAGCUCAUCAGUGGGGCCACGAGCUGAGUGCGUCCUGUCACUCCACUCCCAUGUCCCUUGGGAAGGUCUGAGACUAGGGCCAGAGGCGGCCCUAACAGGGCUCUCCCUGAGCUUCGGGGAGGUGAGUUCCCAGAGAACGGGGCUCCGCGCGAGGUCAGACUGGGCAGGAGAUGCCGUGGACCCCGCCCUUCGGGGAGGGGCCCGGCGGAUGCCUCCUUUGCCGGAGCUUGGAACAGACUCACGGCCAGCGAAGUGAGUUCAAUGGCUGAGGUGAGGUACCCCGCAGGGGACCUCAUAACCCAAUUCAGACUACUCUCCUCCGCCCAUU&GUUUCCGUAGUGUAGUGGUUAUCACGUUCGCCUAACACGCGAAAGGUCCCCGGUUCGAAACCGGGCGGAAAC
+((.(((((((((.(((((((.(...(((((........((((((.....).)))).)........).)))).........[[[[......((((......(((((.....)))))(((((((.....)))))))(((((((.............((((((.((.(((.......(((((......((((.((.((((.(((....))).))))))))))...))))))))..))))))))........))))))))))).................[).))))(((((((.(((.....))))))))))...]....]]]]....)).)))))))))))).&(((.(((..(((..........))).(((((.......))))).....(((((.......)))))))).)))
+
+Interacting substructures
+Chain A 
+AUAGGGCGGAGGGAAGCUCAUCAGUGGGGCCACGAGCUGAGUGCGUCCUGUCACUCCACUCCCAUGUCCCUUGGGAAGGUCUGAGACUAGGGCCAGAGGCGGCCCUAACAGGGCUCUCCCUGAGCUUCGGGGAGGUGAGUUCCCAGAGAACGGGGCUCCGCGCGAGGUCAGACUGGGCAGGAGAUGCCGUGGACCCCGCCCUUCGGGGAGGGGCCCGGCGGAUGCCUCCUUUGCCGGAGCUUGGAACAGACUCACGGCCAGCGAAGUGAGUUCAAUGGCUGAGGUGAGGUACCCCGCAGGGGACCUCAUAACCCAAUUCAGACUACUCUCCUCCGCCCAUU
+((.(((((((((.(((((((.(...(((((........((((((.....).)))).)........).)))).........[[[[......((((......(((((.....)))))(((((((.....)))))))(((((((.............((((((.((.(((.......(((((......((((.((.((((.(((....))).))))))))))...))))))))..))))))))........))))))))))).................[).))))(((((((.(((.....))))))))))...]....]]]]....)).)))))))))))).
+

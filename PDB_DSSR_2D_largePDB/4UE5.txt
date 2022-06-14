@@ -1,0 +1,17 @@
+Title			STRUCTURAL BASIS FOR TARGETING AND ELONGATION ARREST OF BACILLUS SIGNAL RECOGNITION PARTICLE 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA
+Pseudoknot		NO
+
+Whole structure
+>4UE5 nts=299 [whole]
+GCCGGGCGCGGUGGCGCGCGCCUGUAGUCCCAGCUACUCGGGAGGCUGAGGCAGGAGGAUCGCUUGAGCCCAGGAGUUCUGGGCUGCAGUGCGCUAUGCCGAUCGGGUGUCCGCACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGGGAUCGCGCCUGUGAAUAGCCACUGCACUCCAGCCUGUGCAACAUAGCGAGACCCCGUCUCU
+((((((((((......)))))))....((((........))))))).(((((.((....(((((...((.((((....(((((.(((((((.(((((......(((((((((.(((((.(.(((((((((((.(((((..((((((....))))))..))))).))))......(.(((((.....((((....(((....)))....))))...))))))))))))).)..)))))))...)))))))...)))))))))))).))))))))).)).....)))))...)).))))).
+
+Interacting substructures
+Chain A 
+GCCGGGCGCGGUGGCGCGCGCCUGUAGUCCCAGCUACUCGGGAGGCUGAGGCAGGAGGAUCGCUUGAGCCCAGGAGUUCUGGGCUGCAGUGCGCUAUGCCGAUCGGGUGUCCGCACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGGGAUCGCGCCUGUGAAUAGCCACUGCACUCCAGCCUGUGCAACAUAGCGAGACCCCGUCUCU
+((((((((((......)))))))....((((........))))))).(((((.((....(((((...((.((((....(((((.(((((((.(((((......(((((((((.(((((.(.(((((((((((.(((((..((((((....))))))..))))).))))......(.(((((.....((((....(((....)))....))))...))))))))))))).)..)))))))...)))))))...)))))))))))).))))))))).)).....)))))...)).))))).
+

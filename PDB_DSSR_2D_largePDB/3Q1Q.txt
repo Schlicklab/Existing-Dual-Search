@@ -1,0 +1,22 @@
+Title			STRUCTURE OF A BACTERIAL RIBONUCLEASE P HOLOENZYME IN COMPLEX WITH TRNA 
+Chain order		B C 
+Amino acids		YES
+Metal			Mg	4
+Chains			B	DNA[6]/RNA[341]
+			C	DNA[3]/RNA[83]
+Pseudoknot		YES
+
+Whole structure
+>3Q1Q nts=433 [whole]
+GGAGAGGAGCAGGCGGUCGCGGGGGCGCACACCUGCGCUUCCCGAGGAAAGUCCGGACUCUGGAGCGGGGUGCCGGGUAACGCCCGGGAGGGGUGACCCUCGGACAGGGCCAUAGAGAAGAAGACCGCCCGGGGGGAAACUUCCGGGCAAGGGUGGAACGGUGGGGUAAGAGCCCACCAGCGUCGGGGCAACCCGGCGGCUUGGCAACCCCCACCUGGAGCAAGGCCAAGCAGGGGGUUGGGUCGCUCCCCCUAUUCCCCCGGGUUGGCCGCUUGAGGUGUGCGGUAACGCACACCCCAGAUUGAUGACCGCCCACGACAGAAUCCGGCUUAUGCUCCUCUCCCGUG&GGCCAGGUAGCUCAGUUGGUAGAGCACUGGAUAUGGGCACCCCCUAAGUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCACCA
+((((((((((..((((((.((((((((((....))))).))))).<...[[.[[[[[(((([[[[[.((((((((((.....)))))(((((....)))))((...(((((.............(((((((((((....)))))))))..)).......((((((.......))))))(.(((((((....)))))))..).)))..)))))))))))))...((((.....(((((..(((..]]]]].)))...))))).....))))......((((((((....))))))))..........))))))......>....]]]]]]]...))))))))))....&(((((((..((((.....[..)))).((((((..(((....)))...)))))).....(((((..]....))))))))))))....
+
+Interacting substructures
+Chain C 
+GGCCAGGUAGCUCAGUUGGUAGAGCACUGGAUAUGGGCACCCCCUAAGUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCACCA
+(((((((..((((.....[..)))).((((((..(((....)))...)))))).....(((((..]....))))))))))))....
+
+Chain B 
+GGAGAGGAGCAGGCGGUCGCGGGGGCGCACACCUGCGCUUCCCGAGGAAAGUCCGGACUCUGGAGCGGGGUGCCGGGUAACGCCCGGGAGGGGUGACCCUCGGACAGGGCCAUAGAGAAGAAGACCGCCCGGGGGGAAACUUCCGGGCAAGGGUGGAACGGUGGGGUAAGAGCCCACCAGCGUCGGGGCAACCCGGCGGCUUGGCAACCCCCACCUGGAGCAAGGCCAAGCAGGGGGUUGGGUCGCUCCCCCUAUUCCCCCGGGUUGGCCGCUUGAGGUGUGCGGUAACGCACACCCCAGAUUGAUGACCGCCCACGACAGAAUCCGGCUUAUGCUCCUCUCCCGUG
+((((((((((..((((((.((((((((((....))))).))))).<...[[.[[[[[(((([[[[[.((((((((((.....)))))(((((....)))))((...(((((.............(((((((((((....)))))))))..)).......((((((.......))))))(.(((((((....)))))))..).)))..)))))))))))))...((((.....(((((..(((..]]]]].)))...))))).....))))......((((((((....))))))))..........))))))......>....]]]]]]]...))))))))))....
+

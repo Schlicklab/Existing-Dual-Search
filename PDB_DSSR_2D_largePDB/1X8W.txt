@@ -1,0 +1,24 @@
+Title			STRUCTURE OF THE TETRAHYMENA RIBOZYME: BASE TRIPLE SANDWICH AND METAL ION AT THE ACTIVE SITE 
+Chain order		A-1 A-2 B C-1 C-2 C-3 D-1 D-2 
+Amino acids		NO
+Metal			Mg	38
+Chains			A-1	RNA*
+			A-2	RNA*
+			B	RNA
+			C-1	RNA*
+			C-2	RNA*
+			C-3	RNA*
+			D-1	RNA*
+			D-2	RNA*
+Pseudoknot		YES
+
+Whole structure
+>1X8W nts=968 [whole]
+GACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCGCGCAGCCAAGUCCUAAGUCAACAGGAGACUGUUGAUAUGGAUGCAGUACACAGACUAGAUGUCGGCCGGGGAAGA&UCUUCUCAUAAGGUAUAGUCGGACCUCUCCCGAAAGGGAGUUGGAGUACUCG&GACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCGCGCAGCCAAGUCCUAAGUCAACAGGAGACUGUUGAUAUGGAUGCAGUACACAGACUAGAUGUCGGCCGGGGAAGAUGUAUUCUUCUCAUAAGGUAUAGUCGGACCUCUCCCGAAAGGGAGUUGGAGUACUCG&GACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCGCGCAGCCAAGUCCUAAGUCAACAGGAGACUGUUGAUAUGGAUGCAGUACACAGACUAGAUGUCGGCCGGGGAAGA&UCUUCUCAUAAGGUAUAGUCGGACCUCUCCCGAAAGGGAGUUGG&UCG&GACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCGCGCAGCCAAGUCCUAAGUCAACAGGAGACUGUUGAUAUGGAUGCAGUACACAGACUAGAUGUCGGCCGGGGAAGA&UCUUCUCAUAAGGUAUAGUCGGACCUCUCCCGAAAGGGAGUUGGAGUACUCG
+[.[[[.[....((((((....(((((.....(((.((((.(((..(((((((((....)))))))))..((.......))....)))......)))))))....)))))...)).))))((...((((....(((((((....)))))))...))))...)).....(((((...].]]].].((((((.&.))))))........))))).(.((.(((((....)))))..))......).&[.[[[.[....((((((...((((((.....(((.((((.(((..(((((((((....)))))))))..((.......))....)))......)))))))....))))))..)).))))((...((((....(((((((....)))))))...))))...))...(.(((((...].]]].].((((((.......))))))........))))))(.((.(((((....)))))..))......).&[.[[[......((((((...(((.((.....(((.((((.(((..((((((.((....)).))))))..((.......))....)))......)))))))....)).)))..)).))))((...((((..(((((((((....)))))))).)))))...))...(.(((((.....]]].].(.(((((&))))).)........))))))((((.(((((....)))))..))&)).&[.[[[.[....((((((...((((((.....(((.((((.(((..((((((.((....)).))))))..((.......))....)))......)))))))....))))))..)).))))((...((((...((((((((....))))))))..))))...))...(.(((((...].]]].].((((((.&.))))))........))))))(.((.(((((....)))))..))......).
+
+Interacting substructures
+Chain C-1 C-2 C-3 
+GACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCGCGCAGCCAAGUCCUAAGUCAACAGGAGACUGUUGAUAUGGAUGCAGUACACAGACUAGAUGUCGGCCGGGGAAGAUCUUCUCAUAAGGUAUAGUCGGACCUCUCCCGAAAGGGAGUUGGUCG
+[.[[[......((((((...(((.((.....(((.((((.(((..((((((.((....)).))))))..((.......))....)))......)))))))....)).)))..)).))))((...((((..(((((((((....)))))))).)))))...))...(.(((((.....]]].].(.((((())))).)........))))))((((.(((((....)))))..)))).
+

@@ -1,0 +1,16 @@
+Title			STRUCTURE OF THE 30S SMALL RIBOSOMAL SUBUNIT FROM MYCOBACTERIUM SMEGMATIS 
+Chain order		A W X 
+Amino acids		YES
+Metal			Mg	217
+			Zn	2
+Chains			A	RNA
+			W	RNA
+			X	RNA
+Pseudoknot		YES
+
+Whole structure
+>5O5J nts=1536 [whole]
+UUUGGAGAGUUUGAUCCUGGCUCAGGACGAACGCUGGCGGCGUGCUUAACACAUGCAAGUCGAACGGAAAGGCCCUUUCGGGGGUACUCGAGUGGCGAACGGGUGAGUAACACGUGGGUGAUCUGCCCUGCACUUUGGGAUAAGCCUGGGAAACUGGGUCUAAUACCGAAUACACCCUGCUGGUCGCAUGGCCUGGUAGGGGAAAGCUUUUGCGGUGUGGGAUGGGCCCGCGGCCUAUCAGCUUGUUGGUGGGGUGAUGGCCUACCAAGGCGACGACGGGUAGCCGGCCUGAGAGGGUGACCGGCCACACUGGGACUGAGAUACGGCCCAGACUCCUACGGGAGGCAGCAGUGGGGAAUAUUGCACAAUGGGCGCAAGCCUGAUGCAGCGACGCCGCGUGAGGGAUGACGGCCUUCGGGUUGUAAACCUCUUUCAGCACAGACGAAGCGCAAGUGACGGUAUGUGCAGAAGAAGGACCGGCCAACUACGUGCCAGCAGCCGCGGUAAUACGUAGGGUCCGAGCGUUGUCCGGAAUUACUGGGCGUAAAGAGCUCGUAGGUGGUUUGUCGCGUUGUUCGUGAAAACUCACAGCUUAACUGUGGGCGUGCGGGCGAUACGGGCAGACUAGAGUACUGCAGGGGAGACUGGAAUUCCUGGUGUAGCGGUGGAAUGCGCAGAUAUCAGGAGGAACACCGGUGGCGAAGGCGGGUCUCUGGGCAGUAACUGACGCUGAGGAGCGAAAGCGUGGGGAGCGAACAGGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGGUGGGUACUAGGUGUGGGUUUCCUUCCUUGGGAUCCGUGCCGUAGCUAACGCAUUAAGUACCCCGCCUGGGGAGUACGGCCGCAAGGCUAAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGCGGAGCAUGUGGAUUAAUUCGAUGCAACGCGAAGAACCUUACCUGGGUUUGACAUGCACAGGACGCCGGCAGAGAUGUCGGUUCCCUUGUGGCCUGUGUGCAGGUGGUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCUUGUCUCAUGUUGCCAGCACGUUAUGGUGGGGACUCGUGAGAGACUGCCGGGGUCAACUCGGAGGAAGGUGGGGAUGACGUCAAGUCAUCAUGCCCCUUAUGUCCAGGGCUUCACACAUGCUACAAUGGCCGGUACAAAGGGCUGCGAUGCCGUGAGGUGGAGCGAAUCCUUUCAAAGCCGGUCUCAGUUCGGAUCGGGGUCUGCAACUCGACCCCGUGAAGUCGGAGUCGCUAGUAAUCGCAGAUCAGCAACGCUGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGUCAUGAAAGUCGGUAACACCCGAAGCCGGUGGCCUAACCCUUGUGGAGGGAGCCGUCGAAGGUGGGAUCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGGAUC&AGGGGAUUGAAAAUCCCCG&UUUUCU
+......((((..[.[[[..)))).((((.(((((..(((((((((....(((.(((..(((..((.((..((((((....))))).)))..)))))......(((.......(((((((..((...(((((((.((((.....((((((....))))))......)))).....(((((((((((....)))).)))))))....((....)).)))))))..))))))))).(((....(((..((((((((.......)))))))))))......)))..((((((((....))))...))))))).(((((............))))).((((....))))...)))))).).....(.(((...(((((....)))).))))).)).))))))..((((......((((....)))).....))))...(.(((((...(..((....))..)....)))))....)..((((([[[...(((((.....((.]]])).......))))))))))..)))))))))..........((([[...(.((((...(((.(((((((.((((((((((.....(((((((.....)))))))...))))))))..)))))))))..(((((((((...((((((((....(((((((...((........))......)))))))....).......((....)).)))))))..))))).)))..))))...))))....((((((...((...((((.........))))...))))))))......{...((((((..((((((((((.(.......).))))))))))...((..]])).....)))))))))).(((......((((....))))....)))...]]].](((((.(((((((.((..(((((..((((((((((......((........))........(.(((((((..(...(((((((...(((((((....))))))).((.....))).))))))).((.(((...((((((.(....(((((((((....)))...(((......)))...)))))).....((((.(((((.(...((..(((......)))))....).)))))..(..(((((.....))))).....)..)))).....).).)))...)).)))))....)))))))).[)).)))))))).(...(((((((.....(((..((...(((....)))...))....)))......)))))))......(....(((((((........)))))))....)..)..))))).....(((((((......]...)))))))......))...)))))))))).))..(.(..((.(.((((.(((..((((((..((((....(.((((..(((..(((..).)).))).)))).)...))))..))))))..))).))))..).))...)..)..(((((((((....)))))))))}....&.(((((..[.[..))))).&...].]
+
+Interacting substructures

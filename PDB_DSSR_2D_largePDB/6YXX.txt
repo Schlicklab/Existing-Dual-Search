@@ -1,0 +1,28 @@
+Title			? 
+Chain order		AA-1 AA-2 AA-3 AA-4 AA-5 AA-6 AA-7 AA-8 EA EB 
+Amino acids		YES
+Metal			Na	2
+			Mg	17
+			Zn	7
+Chains			AA-1	RNA*
+			AA-2	RNA*
+			AA-3	RNA*
+			AA-4	RNA*
+			AA-5	RNA*
+			AA-6	RNA*
+			AA-7	RNA*
+			AA-8	RNA*
+			EA
+			EB
+Pseudoknot		NO
+
+Whole structure
+>6YXX nts=907 [whole]
+AUUUUACCAAUUAAGAAGAAUAUUAUAAUAAUGGGUGUCUUAUAUUUUAAAUAAAUAUUUAAAUUCCGUGUAGUAAAUUUAUUAUUUGUAUUAUUUAUAUAAUAGGUGUAUUAUAUUUAAAUUUUAAAUUUGUUGUUUUAUAUUUAGAUACAUAUUUAUAGAUUAAUAUAUUUAAAUAAUAUUUUAAAAUUUAUUG&???????????????????????????????????????????????????????????????????????&AAUAAAUAUAGUAAGAUUAUUUUAGUUGAAUUAAUAAAUAAAUAUUUAUUUUUCUUUGUAAAUAUUAUGAACAAUUUAAAAAUUAAUCUGUUUAACUAAAAUGUUAUAUAUAAUAAUC&AGUAUUUUAAUGGUAUAUUUUUAGUAGGUAAAUGAAAAGUAUAAAUGGAUAUAACUUAAUAUUUAAUAUUUGUUUAAUGAAAAGUAUUUUAUUAUUAUAUUGUAUAGUAUUAUUAUAGUGUAUAGUUUUUUAAAAAUAUAAAAAUAUUGUUAA&AACAAAUAAAAUAAAGUAUGAAUUAAUAUCAAAAUUUUAAUAAAAAUUAAAAAAUUAAAAUAGGGCAAGUCCUACUCUCCUUUACAAAGAGAACAUUAUGAUAUGUAAUUGUAUGUUUGAUUGGGGCAAUACUAUAUUUAUUUAUAUAGCAUAAGAACUAUAUUCUUUGAAAUUAUAAAAGGUUCGAGCAGGUUAACAAGCAUUAAAAAUAAAUGUGUUUCAUCGUCUACUUAUUA&uuuuuuuuuuuuuuuuu&GUUGGGU&UCGUUGUAAAGCAGAUUUGUUUAUAUAUUUAAUUUUUAUAAUUAAUAAUAAUUAAUAUAAGUACGCAAGGAUUGAUUAUUGAAAAAAGAAAGAAGAAUAUAAUUUA&g&g&a
+....((.............(.(.((.(..........................................................).....)).))............))..............((((........))))((((.................(......).............(((..(..(((((.&.......................................................................&)))))...)....)))........................((((((((..........))))))))............................((((.............(((..(.&)..)))...............))))................................))))(....................((((.(.................).)))).........................(((.......(((((..&))))).....)))...........).......(((((......)))))....((((((.(((.....(..(((.(((.((((..((...(...(((......)))....)...))................((((((......)))))).............................))))...))).))).......(((((.......)))))..(.((..(...(((((.(.&.................&).)))))&.)..)).)........)........))))))))).............................(....).....................................&.&.&.
+
+Interacting substructures
+Chain AA-1 AA-3 AA-4 AA-5 AA-7 AA-8 
+AUUUUACCAAUUAAGAAGAAUAUUAUAAUAAUGGGUGUCUUAUAUUUUAAAUAAAUAUUUAAAUUCCGUGUAGUAAAUUUAUUAUUUGUAUUAUUUAUAUAAUAGGUGUAUUAUAUUUAAAUUUUAAAUUUGUUGUUUUAUAUUUAGAUACAUAUUUAUAGAUUAAUAUAUUUAAAUAAUAUUUUAAAAUUUAUUGAAUAAAUAUAGUAAGAUUAUUUUAGUUGAAUUAAUAAAUAAAUAUUUAUUUUUCUUUGUAAAUAUUAUGAACAAUUUAAAAAUUAAUCUGUUUAACUAAAAUGUUAUAUAUAAUAAUCAGUAUUUUAAUGGUAUAUUUUUAGUAGGUAAAUGAAAAGUAUAAAUGGAUAUAACUUAAUAUUUAAUAUUUGUUUAAUGAAAAGUAUUUUAUUAUUAUAUUGUAUAGUAUUAUUAUAGUGUAUAGUUUUUUAAAAAUAUAAAAAUAUUGUUAAAACAAAUAAAAUAAAGUAUGAAUUAAUAUCAAAAUUUUAAUAAAAAUUAAAAAAUUAAAAUAGGGCAAGUCCUACUCUCCUUUACAAAGAGAACAUUAUGAUAUGUAAUUGUAUGUUUGAUUGGGGCAAUACUAUAUUUAUUUAUAUAGCAUAAGAACUAUAUUCUUUGAAAUUAUAAAAGGUUCGAGCAGGUUAACAAGCAUUAAAAAUAAAUGUGUUUCAUCGUCUACUUAUUAGUUGGGUUCGUUGUAAAGCAGAUUUGUUUAUAUAUUUAAUUUUUAUAAUUAAUAAUAAUUAAUAUAAGUACGCAAGGAUUGAUUAUUGAAAAAAGAAAGAAGAAUAUAAUUUA
+....((.............(.(.((.(..........................................................).....)).))............))..............((((........))))((((.................(......).............(((..(..(((((.)))))...)....)))........................((((((((..........))))))))............................((((.............(((..(.)..)))...............))))................................))))(....................((((.(.................).)))).........................(((.......(((((..))))).....)))...........).......(((((......)))))....((((((.(((.....(..(((.(((.((((..((...(...(((......)))....)...))................((((((......)))))).............................))))...))).))).......(((((.......)))))..(.((..(...(((((.(.).))))).)..)).)........)........))))))))).............................(....).....................................
+

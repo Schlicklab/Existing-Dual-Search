@@ -1,0 +1,34 @@
+Title			? 
+Chain order		a-1 a-2 a-3 a-4 a-5 a-6 a-7 a-8 a-9 a-10 a-11 a-12 a-13 a-14 a-15 a-16 A 
+Amino acids		YES
+Metal			Mg	1
+			Zn	1
+Chains			a-1	RNA*
+			a-2	RNA*
+			a-3	RNA*
+			a-4	RNA*
+			a-5	RNA*
+			a-6	RNA*
+			a-7	RNA*
+			a-8	RNA*
+			a-9	RNA*
+			a-10	RNA*
+			a-11	RNA*
+			a-12	RNA*
+			a-13	RNA*
+			a-14	RNA*
+			a-15	RNA*
+			a-16	RNA*
+			A	RNA
+Pseudoknot		YES
+
+Whole structure
+>6W2T nts=2036 [whole]
+UACCUGGUUGAUCCUGCCAGUAGCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUACGCACGGCCGGUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUGGUUCCUUUGGUCGCUCG&ACUUGGAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCCGACGGGCGCUGACCCCCUUCGCGGGGGGGAUGCGUGCAUUUAUCAG&UGGUGACUCUAGAUAACCUCGGGCCGAUCGCACGCCC&GGCGGCGACGACCCAUUCGAACGUCUGCCCUAUCAACUUUCGAUGGUAGUCGCCGUGCCUACCAUGGUGACCACGGGUGACGGGGAAUCAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCACUCCCGACCCGGGGAGGUAGUGACGAAAAAUAACAAUACAGGACUCUUUCGAGGCCCUGUAAUUGGAAUGAGUCCACUUUAAAUCCUUUAACGAGGAUCCAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGCUGCAGUUAAAAAGCUCGUAGUUGGAUCUUGGGAGCGG&CCGUCCCC&UGC&UCGGCGCC&GGCCCGAAGCG&UUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCC&GCCUGGAUACCGCAGCUAGGAAUAAUGGAAUAGGACCGCGGUUCUA&UUUUGUUGGUUUUCGG&A&ACUGAGGCCAUGAUUAAGAGGGACGGCCGGGGGCAUUCGUAUUGCGCCGCUAGAGGUGAAAUUCUUGGACCGGCGCAAGACGGACCAGAGCGAAAGCAUUUGCCAAGAAUGUUUUCAUUAAUCAAGAACGAAAGUCGGAGGUUCGAAGACGAUCAGAUACCGUCGUAGUUCCGACCAUAAACGAUGCCGACCGGCGAUGCGGCGGCGUUAUUCCCAUGACCCGCCGGGCAGCUUCCGGGAAACCAAAGUCUUUGGGUUCCGGGGGGAGUAUGGUUGCAAAGCUGAAACUUAAAGGAAUUGACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGAAACCUCACCCGGCCCGGACACGGACAGGAUUGACAGAUUGAUAGCUCUUUCUCGAUUCCGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGCGAUUUGUCUGGUUAAUUCCGAUAACGAACGAGACUCUGGCAUGCUAACUAGUUACGCGACCC&CGGUCGGCGU&AACUUCUUAGAGGGACAAGUGGCGUUCAGCCACCCGAGAUUGAGCAAUAACAGGUCUGUGAUGCCCUUAGAUGUCCGGGGCUGCACGCGCGCUACACUGACUGGCUCAGCGUGUGCCUACCCUACGCCGGCAGGCGCGGGUAACCCGUUGAACCCCAUUCGUGAUGGGGAUCGGGGAUUGCAAUUAUUCCCCAUGAACGAGGAAUUCCCAGUAAGUGCGGGUCAUAAGCUUGCGUUGAUUAAGUCCCUGCCCUUUGUACACACCGCCCGUCGCUACUACCGAUUGGAUGGUUUAGUGAGGCCCUCGGAUCGGCCCCGCCGGGGU&GCCCUGGCGGAGCGCUGAGAAGACGGUCGAACUUGACUAUCUAGAGGAAGUAAAAGUCGUAACAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA&UUCGAUACCAAGAGCUGGUGUCUGAGGGAUUACGACUCGCGUGGUCGGACAGCACAUGUUAGUCAUGUAUUAUGGUGUUUCCCAACACGUAUCUUUGCUCUAGUAUUGAACUUUAGUGAUGAGUGUACUUGGCAUGUACACCUGAUUAGUUAGCCCUUGUGGAUACGCCACUGCCGCUCAGGUACAGUAGGACAUACCCCAAAUAUUGGGUUUUUUUUUUAGAGAAGAAAAUUAGUGGCGAAACGUACGGUUUAUGUCAAAGGAGAAGGUGAUUUUAAUUGCACCUGAAGCAACCCUAGGUCUUCCCUUUGAUGUGAGCUAAUAAGGAGUAACCGAUUC
+...((((..[.[[[..))))(((.((((((...(.((..((.....(((.(((..((....((....((..........))...))[))......(((.......(((.(.(..((....(((.....((&...((.....((.(((.....))).))......))......)).((((...((.((......).)))...))))((..(((((..&.(......)..)))))......)).(.((((...((.&))..)))))...)))...))).).))).(((....(((....(((((((.........))))))))))......)))...(((.((((....))))....)))))).((.(((..........))).)).(.((....)).)...)))))).).....(.(((...((((.]...))).))))).)...)).)......(((.((((.((......))..)))).).)).....(.((..(...........)..))......)..((((([[......((((.....((..]])).......)))).)))))..)))))).)))..[......(.([[...(.(.((...(((..(....(((..(((&)))..)))&.((&((((.(((&))))))).)).&.((((((.(.......((..((.......)).(((.&)))....))......).)))..)))........(.((.(((((((.&..............))&)&)))).)).)....)....(((.((...(...((((..(((.((((((((...((........))......)))))))).))).......((....))...))))..)...))..))..))))...)).)....((((((....(...((((.........))))...).))))))......{...(((.((.(((..(.((((((.(((((....))))))))))).)..)))...((..]]))...))...].))))).).(((......((((....))))....)))...]]].](((((.(((((((..((..(((((..(((.((((((.......(........)...........(((((.(....((((......(..((..((........))..))....)..))))...((.(((...(.((((((....(((.(((((....)))..(.((......)))...)).)))....(((...(...((((..((((((((((((.&.)))).))))&))))..))))..).....(((((.....)))))........)))....))).))).....).))))).....).)))))...)).)))).))).(...((.(((........(.......(((.((((....)))).)))....).........))).))......(.....(((((..........))))).....)..)..))))).....((((((((.......))))))))......))...)))))))))).))..(.(..((.(..((((.((....((((((((.(((..((((.((...(((((..((.(.(((.&.)))..)).)...)))))...)).))))..))).))))))))...)).))))...).))...)..)..(((((((((....)))))))))}........&(((.((......(((.((...(...(((.....(.(......).)...................................))).....)...))..))).....)).))).............(((((.......)))))........................(........((..............))......((((.....)))).....)....................((.....(.....(((((((((.((((...........................(........)......)))))))))))))......)......)).....
+
+Interacting substructures
+Chain A 
+UUCGAUACCAAGAGCUGGUGUCUGAGGGAUUACGACUCGCGUGGUCGGACAGCACAUGUUAGUCAUGUAUUAUGGUGUUUCCCAACACGUAUCUUUGCUCUAGUAUUGAACUUUAGUGAUGAGUGUACUUGGCAUGUACACCUGAUUAGUUAGCCCUUGUGGAUACGCCACUGCCGCUCAGGUACAGUAGGACAUACCCCAAAUAUUGGGUUUUUUUUUUAGAGAAGAAAAUUAGUGGCGAAACGUACGGUUUAUGUCAAAGGAGAAGGUGAUUUUAAUUGCACCUGAAGCAACCCUAGGUCUUCCCUUUGAUGUGAGCUAAUAAGGAGUAACCGAUUC
+(((.((......(((.((...(...(((.....(.(......).)...................................))).....)...))..))).....)).))).............(((((.......)))))........................(........((..............))......((((.....)))).....)....................((.....(.....(((((((((.((((...........................(........)......)))))))))))))......)......)).....
+

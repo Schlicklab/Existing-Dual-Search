@@ -1,0 +1,16 @@
+Title			STRUCTURE OF AN INOSINE-ADENINE WOBBLE BASE PAIR COMPLEX IN THE CONTEXT OF THE DECODING CENTER 
+Chain order		A X W 
+Amino acids		YES
+Metal			Mg	107
+			Zn	2
+Chains			A	RNA
+			X	RNA
+			W	RNA
+Pseudoknot		YES
+
+Whole structure
+>1XNQ nts=1522 [whole]
+UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGGCCGCGGGGUUUUACUCCGUGGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACCCGCCCCUUGGGGUGUGUCCAAAGGGCUUUGCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACCCGGGACGAAACCCCCGACGAGGGGACUGACGGUACCGGGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGGUCUCCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGAACCCGGGUGAAAGCCUGGGGUGCCCCGGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGAGCCUACGGGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGAUCACUUUCU&GGCUgCGAACC&CGAA
+....((((..[.[[[..)))).((((.(((((..(((((((((....(((.(((..(((..((.((((((((((.....)))))))))).)))))......(((......((((((((..((...(((((((.(((((....((((((....)))))).....)))))....((((.(..((....))..).))))...((((...)))).)))))))..))))))))))(((....(((..((((((((.......)))))))))))......)))..((((((((....))))...))))))).(((((............))))).((((....))))...)))))).).....(.(((...(((((....)))).))))).)).))))))..............(......)...............(((((...(...............(..)...)....)))))......((((([[[...(((((.....((.]]])).......))))))))))..)))))))))..........((([[...(.((((...(((.(((((((.((((((((((......((((((.....))))))....))))))))..)))))))))..(((((((((...((((((((....((((((....((........)).......))))))....).......((....)).)))))))..))))).)))..))))...))))....((((((...((...((((.........))))...))))))))......{...((((((..((((((((((...))))))))))...((..]])).....)))))))))).(((......((((....))))....)))...]]].](((((.(((((((.((..(((((..((((((((((......((........))..........(((((((..(...(((((((...((.(((....))).))....(.(..).)...)))))))).((.(((...((((((.(....(((((((((....)))...(((......)))...)))))).....((((.(((((((..(....(((.....)))..)...)))))))..(..(((((....))))).....)..)))).....).).)))...)).)))))....)))))))...)).)))))))).(...(((((((.....(((..((..((((....))))..))....))).....)))))))......(....(((((((........)))))))....)..)..))))).....(((((((.........)))))))......))...)))))))))).))..(.(..((.(.((((.(((..(((((((((((((...(.((((....(((....))).)))).)..)))))))))))))..))).))))..).))...)..)..(((((((((....)))))))))}...........&.[...((..].&))..
+
+Interacting substructures

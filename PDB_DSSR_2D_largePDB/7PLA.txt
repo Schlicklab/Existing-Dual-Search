@@ -1,0 +1,22 @@
+Title			CRYO-EM STRUCTURE OF SHCAS12K IN COMPLEX WITH A SGRNA AND A DSDNA TARGET 
+Chain order		B-1 B-2 B-3 B-4 C D 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*
+			B-2	RNA*
+			B-3	RNA*
+			B-4	RNA*
+			C	DNA
+			D	DNA
+Pseudoknot		YES
+
+Whole structure
+>7PLA nts=244 [whole]
+UAAUAGCGCCGCAAUUCAUGCUGCUUGCAGCCUCUGAAUUUUGUUAAAUGAGGGUUAGUUUGACUGUA&UACAGUCUUGCUUUCUGACCCUGGUAGCUGCUCACCCUGAUGCUGCUGUCAAUAGACAGGAUAGGUGCGCUCCCAGCAAUAAGGGCGC&GCUGUAGUGGCUACUGAAUCACCCCCGAUCAAGGGGGAACCC&GGGUUGAAAGGAGAAGUCA&GACTTCTCAACCTCCTA&TAGGAGGTTG
+.....[[[[((.((((((.(((((..)))))...)))))).))........[[[[......((((((.&.))))))...(((((((]]]]..(((((..((..((((...(((((((((....)))))....((.]]]].))))))....))))...&.....))..))))).....))(((((......)))))(((((&)))))))))).........&........(((((((((&))))))))).
+
+Interacting substructures
+Chain B-1 B-2 B-3 B-4 
+UAAUAGCGCCGCAAUUCAUGCUGCUUGCAGCCUCUGAAUUUUGUUAAAUGAGGGUUAGUUUGACUGUAUACAGUCUUGCUUUCUGACCCUGGUAGCUGCUCACCCUGAUGCUGCUGUCAAUAGACAGGAUAGGUGCGCUCCCAGCAAUAAGGGCGCGCUGUAGUGGCUACUGAAUCACCCCCGAUCAAGGGGGAACCCGGGUUGAAAGGAGAAGUCA
+.....[[[[((.((((((.(((((..)))))...)))))).))........[[[[......((((((..))))))...(((((((]]]]..(((((..((..((((...(((((((((....)))))....((.]]]].))))))....))))........))..))))).....))(((((......)))))((((()))))))))).........
+

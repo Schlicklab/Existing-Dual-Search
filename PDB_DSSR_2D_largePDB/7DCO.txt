@@ -1,0 +1,39 @@
+Title			? 
+Chain order		B-1 B-2 F G-1 G-2 G-3 G-4 G-5 H-1 H-2 H-3 H-4 H-5 H-6 H-7 H-8 C 
+Amino acids		YES
+Metal			Mg	6
+			Ca	1
+			Zn	15
+Chains			B-1	RNA*
+			B-2	RNA*
+			F	RNA
+			G-1	RNA*
+			G-2	RNA*
+			G-3	RNA*
+			G-4	RNA*
+			G-5	RNA*
+			H-1	RNA*
+			H-2	RNA*
+			H-3	RNA*
+			H-4	RNA*
+			H-5	RNA*
+			H-6	RNA*
+			H-7	RNA*
+			H-8	RNA*
+			C
+Pseudoknot		YES
+
+Whole structure
+>7DCO nts=556 [whole]
+AAGCAGCUUUACAGAUCAAUGGCGGAGGGAGGUCAACAUCAAGAACUGUGGGCCU&UUGCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAUAGAAACAGGUAAAGCUGUCCGUUACUGUGGGCUUGCCAUAUUUUUUGGAACUUUUC&GUUCGCGAAGUAACCCUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUUA&AAAAUAAAAAAAAAAAAAUUUGUAAGGUAUGUAUUAUUUUUU&AAAAAAAA&AAAAAA&AAAAACUAGAUACUAACACAUUUAAUUUUUUUUUGUUUUU&UUUUUUUU&ACGAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUUUUCAGUGUAACAACUGAAAUGACCU&AGGCUCAU&ACAUUUUUUGGCAC&GGACGGGAAGAG&GAGACGUCGCGACCCUCG&GAGUCGUUCUUGACUU&GGUCGCUUGAUGUUUCU&UCUUCCCGUUC&g
+...((((.(.((((........(((..(((((.(((((((.....((((((((..&..)))))))).........((...((((((((.(.......).)))))))).))))))))))))))......((((......)))))))...))))).)).)).....................&((((((((((.....)))))))))).............................(((((((..((.((((.....)))..))).........((((((((.(.&..........................................&........&......&........................................&........&..).))))))))........)))..))))....................(((((......)))))..((.(((&)))..)).&..............&..(((((.(((.&(..((((.((((.((...&.(((((....))))).&))))))...))))...)&)).))))))..&.
+
+Interacting substructures
+Chain F H-1 H-2 
+GUUCGCGAAGUAACCCUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUUAACGAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUUUUCAGUGUAACAACUGAAAUGACCUAGGCUCAU
+((((((((((.....)))))))))).............................(((((((..((.((((.....)))..))).........((((((((.(...).))))))))........)))..))))....................(((((......)))))..((.((()))..)).
+
+Chain B-1 B-2 
+AAGCAGCUUUACAGAUCAAUGGCGGAGGGAGGUCAACAUCAAGAACUGUGGGCCUUUGCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAUAGAAACAGGUAAAGCUGUCCGUUACUGUGGGCUUGCCAUAUUUUUUGGAACUUUUC
+...((((.(.((((........(((..(((((.(((((((.....((((((((....)))))))).........((...((((((((.(.......).)))))))).))))))))))))))......((((......)))))))...))))).)).)).....................
+

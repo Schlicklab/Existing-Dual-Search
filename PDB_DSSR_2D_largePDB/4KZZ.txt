@@ -1,0 +1,29 @@
+Title			RABBIT 40S RIBOSOMAL SUBUNIT IN COMPLEX WITH MRNA, INITIATOR TRNA AND EIF1A 
+Chain order		i-1 i-2 i-3 i-4 i-5 i-6 i-7 i-8 i-9 i-10 i-11 i-12 i-13 i-14 i-15 j k 
+Amino acids		YES
+Metal
+Chains			i-1	DNA[62]/RNA[1735]*
+			i-2	DNA[62]/RNA[1735]*
+			i-3	DNA[62]/RNA[1735]*
+			i-4	DNA[62]/RNA[1735]*
+			i-5	DNA[62]/RNA[1735]*
+			i-6	DNA[62]/RNA[1735]*
+			i-7	DNA[62]/RNA[1735]*
+			i-8	DNA[62]/RNA[1735]*
+			i-9	DNA[62]/RNA[1735]*
+			i-10	DNA[62]/RNA[1735]*
+			i-11	DNA[62]/RNA[1735]*
+			i-12	DNA[62]/RNA[1735]*
+			i-13	DNA[62]/RNA[1735]*
+			i-14	DNA[62]/RNA[1735]*
+			i-15	DNA[62]/RNA[1735]*
+			j	RNA
+			k	RNA
+Pseudoknot		YES
+
+Whole structure
+>4KZZ nts=1885 [whole]
+UACCUGGUUGAUCCUGCCAGUAGCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUACGCACGGCCGGUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUGGUUCCUUUGGUCGCUCGCUCCUCUCCUACUUGGAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCCGACG&GCGCUGACUCCCUUUGUGUGGGAUGC&GUGCAUUUAUCAGAUCAAAACCAACCCGGUCAGCCUCCCCGCCGGCCGGGGGGGUGGGGCGGCGGCUUUGGUGACUCUAGAUAACCUCGGGCCGA&UCGCA&GCCCUCCGUGGCGGCGA&CGACCCAUUCGAACGUCUGCCCUAUCAACUUUCGAUGGUAGUCGCCGUGCCUACCAUGGUGACCACGGGUGACGGGGAAUCAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCACUCCCGACCCGGGGAGGUAGUGACGAAAAAUA&ACAAUACAGGACUCUUUCGAGGCCCUGUAAUUGGA&AUGAGUCCACUUUAAAUCCUUUAACGAGGAUCCAUUGGAGGGCAAGUCUGGUCGCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAAAGUUGCUGCAGUUAAAAAGCUCGUAGUUGGAUCUU&GGAGGGUGCGUAGCGGGC&CACCGCCCGUCCCCGCCC&UGCCUC&CGAAGCGUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCCCGAGCCGCCUGGAUACCGCAGCUAGGAAUAAUGGAAUAGGACCGCGGUUCUAUUUUGUUGGUUUUCGGAACUGAGGCCAUGAUUAAGAGGGACGGCCGGGGGCAUUCGUAUUGCGCCGCUAGAGGUGAAAUUCUUGGACCGGCGCAAGACGGACCAGAGCGAAAGCAUUUGCCAAGAAUGUUUUCAUUAAUCAAGAACGAAAGUCGGAGGUUCGAAGACGAUCAGAUACCGUCGUAGUUCCGACCAUAAACGAUGCCGACUGGCGAUGCGGCGGCGUUAUUCCCAUGACCCGCCGGGCAGCUUCCGGGAAACCAAAGUCUUUGGGUUCCGGGGGGAGUAUGGUUGCAAAGCUGAAACUUAAAGGAAUUGACGGAAG&GGCACCACCAGGAGUGGAGCCUGCGGCUUAAUUUGACUCAACACGGGAAACCUCACCCGGCCCGGACACGGACAGGAUUGACAGAUUGAUAGCUCUUUCUCGAUUCUGUGGGUGGUGGUGCAUGGCCGUUCUUAGUUGGUGGAGCGAUUUGUCUGGUUAAUUCCGAUAACGAACGAGACUCUGGCAUGCUAACUAGUUACGCGACCCCCGAGCGGUCGGCGUCCCCCAACUUCUUAGAGGGACAAGUGGCGUUCAGCCACCCGAGAUUGAGCAAUAACAGGUCUGUGAUGCCCUUAGAUGUCGGGGCUGCACGCGCGCUACACUGACUGGCUCAGCGUGUGCCUACCCUACGCCGGCAGGCGCGGGUAACCCGUUGAACCCCAUUCGUGAUGGGGAUCGGGGAUUGCAAUUAUUCCCCAUGAACGAGGAAUUCCCAGUAAGUGCGGGUCAUAAGCUUGCGUUGAUUAAGUCCCUGCCCUUUGUACACACCGC&CCGUCGCUACUACCGAUUGGAUGGUUUAGUGAGGCCCUCGGAUCGGCCCGCCGGGGUCGGCCCACGGCCCUGGCGGAGCGCUGAGAAGACGGUCGAACUUGACUAUCUAGAGGAAGUAAAAGUCGUAA&CAAGGUUUCCGUAGGUGAACCUGCGGAAGGAUCAUUA&AGCAGAGUGGCGCAGCGGAAGCGUGCUGGGCCCAUAACCCAGAGGUCGAUGGAUCGAAACCAUCCUCUGCUACCA&CAACAAAUGUUUC
+...((((..[.[[[..))))(((.((((((...(.((..((.....(((.(((..((....((....((..........))...)){))......(((.......(((.(....((....(((................{...((.....((.(((.....))).))......))........&..((...(..(......)..)...))&..((..(((((.....[[[[[[[[[(((..................................)))....(......)..)))))......)).(}&((((.&(((......))).))))&)...)))...))..).))).(((.<..(((....(((((((.........))))))))))......)))...(((.((((....))))....)))))).((.(((..........))).)).(.((....)).)...)))))).).....(.(((...((((.}...))).))))).)...)).)....&.(((.(((((.(((....))).).))))..)))..&....((..(...........)..)).........((((([[......((((.....((..]])).......)))).)))))..)))))).)))..{......(.({{...(.(.((...(((..(....&(...((...(........&......)...))...)..&.((.(.&..).))..(((((..(.......((..((.......))..((.......)).....))......)..))..))).......((.(..(.((.((.....]]]]]]]]].)).)).)..)))....)....(((.((...(...((((..((..((((((((...((........))......))))))))..)).......((....))...))))..)...))..))..))))...)).)....((((((....(...((((.........))))...).))))))..........(((.((..((..(.((((((.(((........))))))))).)..))....((..}}))...))...}.))))).).(((....>.((((....))))....)))...]]].](((((.(((&((((..((..(((((..(((.((((((......((........))..........(((((.(....(((.(.....(..((.(((........))).))....).).)))...((.(((...(.((((((....(((.(((((....)))..(.((......)))...)).)))....(((...(...((((..((((..(.(((.(.(((....)))).))).)..))))..))))..)..(..(((((.....)))))....)...)))....))).))).....).))))).....))))))...)).)))).))).(...((.(((........(.......(((.(.((....)).).)))....).........))).))......(.....(((((..........))))).....)..)..))))).....((((((.(.......).))))))......))...)))))))))).))..(.(.&.((.(..((((.((..(.((((.(((.(((..(.((..(...((.(..(((..(((...........)))..)).)....).))...)..)).)..))).))).)))))..)).))))...).))...&)..)..(((((((((....))))))))).........&(((((((..((((....{..)))).(((((..[[[..))))).....(((((..}....))))))))))))....&......]]]....
+
+Interacting substructures

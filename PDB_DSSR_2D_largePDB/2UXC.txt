@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF AN EXTENDED TRNA ANTICODON STEM LOOP IN COMPLEX WITH ITS COGNATE MRNA UCGU IN THE CONTEXT OF THE THERMUS THERMOPHILUS 30S SUBUNIT. 
+Chain order		A X Y 
+Amino acids		YES
+Metal			Mg	192
+			K	26
+			Zn	2
+Chains			A	RNA
+			X	RNA
+			Y	RNA
+Pseudoknot		YES
+
+Whole structure
+>2UXC nts=1525 [whole]
+UGGAGAGUUUGAUCCUGGCUCAGGGUGAACGCUGGCGGCGUGCCUAAGACAUGCAAGUCGUGCGGGCCGCGGGGUUUUACUCCGUGGUCAGCGGCGGACGGGUGAGUAACGCGUGGGUGACCUACCCGGAAGAGGGGGACAACCCGGGGAAACUCGGGCUAAUCCCCCAUGUGGACCCGCCCCUUGGGGUGUGUCCAAAGGGCUUUGCCCGCUUCCGGAUGGGCCCGCGUCCCAUCAGCUAGUUGGUGGGGUAAUGGCCCACCAAGGCGACGACGGGUAGCCGGUCUGAGAGGAUGGCCGGCCACAGGGGCACUGAGACACGGGCCCCACUCCUACGGGAGGCAGCAGUUAGGAAUCUUCCGCAAUGGGCGCAAGCCUGACGGAGCGACGCCGCUUGGAGGAAGAAGCCCUUCGGGGUGUAAACUCCUGAACCCGGGACGAAACCCCCGACGAGGGGACUGACGGUACCGGGGUAAUAGCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGCGAGCGUUACCCGGAUUCACUGGGCGUAAAGGGCGUGUAGGCGGCCUGGGGCGUCCCAUGUGAAAGACCACGGCUCAACCGUGGGGGAGCGUGGGAUACGCUCAGGCUAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUGACGCUGAGGCGCGAAAGCGUGGGGAGCAAACCGGAUUAGAUACCCGGGUAGUCCACGCCCUAAACGAUGCGCGCUAGGUCUCUGGGUCUCCUGGGGGCCGAAGCUAACGCGUUAAGCGCGCCGCCUGGGGAGUACGGCCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAAGCAACGCGAAGAACCUUACCAGGCCUUGACAUGCUAGGGAACCCGGGUGAAAGCCUGGGGUGCCCCGCGAGGGGAGCCCUAGCACAGGUGCUGCAUGGCCGUCGUCAGCUCGUGCCGUGAGGUGUUGGGUUAAGUCCCGCAACGAGCGCAACCCCCGCCGUUAGUUGCCAGCGGUUCGGCCGGGCACUCUAACGGGACUGCCCGCGAAAGCGGGAGGAAGGAGGGGACGACGUCUGGUCAGCAUGGCCCUUACGGCCUGGGCGACACACGUGCUACAAUGCCCACUACAAAGCGAUGCCACCCGGCAACGGGGAGCUAAUCGCAAAAAGGUGGGCCCAGUUCGGAUUGGGGUCUGCAACCCGACCCCAUGAAGCCGGAAUCGCUAGUAAUCGCGGAUCAGCCAUGCCGCGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGAGCCUACGGGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUGGAUCACUUUCU&CGAAAUCU&UCGU
+....((((..[.[[[..)))).((((.(((((..(((((((((....(((.(((..(((..((.((((((((((.....)))))))))).)))))......(((......((((((((..((...(((((((.(((((....((((((....)))))).....)))))....((((.(((((....))))).))))...((((...)))).)))))))..))))))))))(((....(((..((((((((.......)))))))))))......)))..((((((((....))))...))))))).(((((............))))).((((....))))...)))))).).....(.(((...(((((....)))).))))).)).))))))..((...........................))....(..((...(....((((.....)))).....)....))..)......((((([[[...(((((.....((.]]])).......))))))))))..)))))))))..........((([[...(.((((...(((.(((((((.((((((((((......((((((.....))))))....))))))))..)))))))))..(((((((((...((((((((....((((((....((........)).......))))))....).......((....)).)))))))..))))).)))..))))...))))....((((((...((...((((.........))))...))))))))......{...((((((..((((((((((...))))))))))...((..]])).....)))))))))).(((......((((....))))....)))...]]].](((((.(((((((.((..(((((..((((((((((......((........))..........(((((((......((((((......(((((....)))))......(((....))).....))))))..((.(((...((((((.(....(((((((((....)))...(((......)))...)))))).....((((.(((((((..((...(((.....)))).)...)))))))..(..(((((....))))).....)..)))).....).).)))...)).)))))....)))))))..[)).)))))))).(...(((((((.....(((..(((.((((....))))).))....))).....)))))))......(....(((((((........)))))))....)..)..))))).....(((((((......]...)))))))......))...)))))))))).))..(.(..((.(.((((.(((..(((((((((((((...(.((((....(((....))).)))).)..)))))))))))))..))).))))..).))...)..)..(((((((((....)))))))))}...........&(((.....&))).
+
+Interacting substructures

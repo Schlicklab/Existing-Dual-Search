@@ -1,0 +1,19 @@
+Title			HOLO L-16 SCAI TETRAHYMENA RIBOZYME 
+Chain order		A B N 
+Amino acids		NO
+Metal			Mg	31
+Chains			A	RNA
+			B	RNA
+			N	RNA
+Pseudoknot		YES
+
+Whole structure
+>7EZ2 nts=406 [whole]
+UCGuAACC&CCCUCU&GGUUUGGAGGGAAAAGUUAUCAGGCAUGCACCUGGUAGCUAGUCUUUAAACCAAUAGAUUGCAUCGGUUUAAAAGGCAAGACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCACAGACUAAAUGUCGGUCGGGGAAGAUGUAUUCUUCUCAUAAGAUAUAGUCGGACCUCUCCUUAAUGGGAGCUAGCGGAUGAAGUGAUGCAACACUGGAGCCGCUGGGAACUAAUUUGUAUGCGAAAGUAUAUUGAUUAGUUUUGGAG
+........&......&..............((((((((((..{{{.)))))))))).(((((.(((((....(.[[[[[[))))))..)))))..(((((.(....((((((...((((((.....(((.((((.(((..(((((((((....)))))))))..((..}}.}.))....)))......)))))))....))))))..)).))))((...((((...(((((((((...)))))))))..))))...))...[.[[[[[...).))))).(((((((.....)))))))........]]]]]]..((.(((((....)))))(((((((.....(((]]]]]]))).....))))))).((((((((.((((((....)))))).))))))))..))..
+
+Interacting substructures
+Chain N 
+GGUUUGGAGGGAAAAGUUAUCAGGCAUGCACCUGGUAGCUAGUCUUUAAACCAAUAGAUUGCAUCGGUUUAAAAGGCAAGACCGUCAAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACCACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCACAGACUAAAUGUCGGUCGGGGAAGAUGUAUUCUUCUCAUAAGAUAUAGUCGGACCUCUCCUUAAUGGGAGCUAGCGGAUGAAGUGAUGCAACACUGGAGCCGCUGGGAACUAAUUUGUAUGCGAAAGUAUAUUGAUUAGUUUUGGAG
+..............((((((((((..{{{.)))))))))).(((((.(((((....(.[[[[[[))))))..)))))..(((((.(....((((((...((((((.....(((.((((.(((..(((((((((....)))))))))..((..}}.}.))....)))......)))))))....))))))..)).))))((...((((...(((((((((...)))))))))..))))...))...[.[[[[[...).))))).(((((((.....)))))))........]]]]]]..((.(((((....)))))(((((((.....(((]]]]]]))).....))))))).((((((((.((((((....)))))).))))))))..))..
+

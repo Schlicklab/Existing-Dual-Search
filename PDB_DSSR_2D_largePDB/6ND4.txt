@@ -1,0 +1,38 @@
+Title			CONFORMATIONAL SWITCHES CONTROL EARLY MATURATION OF THE EUKARYOTIC SMALL RIBOSOMAL SUBUNIT 
+Chain order		0-1 0-2 0-3 0-4 0-5 0-6 0-7 0-8 0-9 0-10 0-11 0-12 1 2-1 2-2 2-3 2-4 2-5 2-6 2-7 2-8 2-9 
+Amino acids		YES
+Metal
+Chains			0-1	RNA*
+			0-2	RNA*
+			0-3	RNA*
+			0-4	RNA*
+			0-5	RNA*
+			0-6	RNA*
+			0-7	RNA*
+			0-8	RNA*
+			0-9	RNA*
+			0-10	RNA*
+			0-11	RNA*
+			0-12	RNA*
+			1	RNA
+			2-1	RNA*
+			2-2	RNA*
+			2-3	RNA*
+			2-4	RNA*
+			2-5	RNA*
+			2-6	RNA*
+			2-7	RNA*
+			2-8	RNA*
+			2-9	RNA*
+Pseudoknot		NO
+
+Whole structure
+>6ND4 nts=567 [whole]
+GAAGACAAGU&GCUUGUCGUUCGUU&AAUGGCCUCGUCAAACGGUGGAGAGAGUCGCUAGGUGAUCGUCAGAUCUGCCUAGUCUCUAUACAGCGUGUUUAAUUGACAUGGGUUGAUGCGUAUUGAGAGAUA&UGUUUCUUUUGCGUUUAACCUGAACAGUCUCAUCGUGGGCAUCUU&CCAUUGGUGAGCAGCGAAGGAUUUGGUGGAUUACUAGCUAAUAGCAAUCUAUUUCAAAGAAUUCAAACUUGGGGGAAUGCCUUGUUGAAU&AUUCUUCAAGUGUAACCUCCUCUCAAAUCAG&CUGAUUAGAGGAAACUCAAAGAGUGCUAUGG&CGGAGUGCGCUGGUCAAGAGUGUAAAAGCUUUUUGAACAGAGAGCAUUUCC&GCAGCAGAGA&UUUCAGCUGUU&????&??????&????????UGAUCCU&AGGAUC&AGGAAUCGUCACUCUUUGACUCUUCAAAAGAGCCACUGAAUCCAACUUGGUUGAUGAGUCCCAUAACCUUUGUACCC&AGUGAGAAA&CCGU&AU&GCGCGAUGAUCU&ACCCA&UGGGUGGGUACAAAUGGCA&UCUGACAAGU
+(..(((((((&)))))))...)...&.........((((((((.((...((((..(((((((.(((....)))..)))))))))))...)).)))......)))))..(((((...(((((..(..(((((&)))))..).)))))..))))).....(.((((((((((.......&)))).)))))))......(((((((((((.......(((...))).........................(((((..(((((((..(((.&.)))..)))).)).)))))).....((((..&..)))).(((((...((((((((((......&.(((.(((.(((.((((...............)))).)))...)))..)))&(((((..(.(&).)..))))).&....&......&.........((((((&))))))&.........)))))))))).))))).......))))))))))).(((((......(..........((((.(((((.&.(...(...&(...&..&)..)......).&(((..&..))).))))).)).))..&.)...)))))
+
+Interacting substructures
+Chain 0-3 0-4 0-5 0-6 0-7 2-2 2-7 2-8 2-9 
+AAUGGCCUCGUCAAACGGUGGAGAGAGUCGCUAGGUGAUCGUCAGAUCUGCCUAGUCUCUAUACAGCGUGUUUAAUUGACAUGGGUUGAUGCGUAUUGAGAGAUAUGUUUCUUUUGCGUUUAACCUGAACAGUCUCAUCGUGGGCAUCUUCCAUUGGUGAGCAGCGAAGGAUUUGGUGGAUUACUAGCUAAUAGCAAUCUAUUUCAAAGAAUUCAAACUUGGGGGAAUGCCUUGUUGAAUAUUCUUCAAGUGUAACCUCCUCUCAAAUCAGCUGAUUAGAGGAAACUCAAAGAGUGCUAUGGAGGAAUCGUCACUCUUUGACUCUUCAAAAGAGCCACUGAAUCCAACUUGGUUGAUGAGUCCCAUAACCUUUGUACCCACCCAUGGGUGGGUACAAAUGGCAUCUGACAAGU
+.........((((((((.((...((((..(((((((.(((....)))..)))))))))))...)).)))......)))))..(((((...(((((..(..((((()))))..).)))))..))))).....(.((((((((((.......)))).)))))))......(((((((((((.......(((...))).........................(((((..(((((((..(((..)))..)))).)).)))))).....((((....)))).(((((...((((((((((...............)))))))))).))))).......))))))))))).(((((......(..........((((.(((((.(((....))).))))).)).))...)...)))))
+

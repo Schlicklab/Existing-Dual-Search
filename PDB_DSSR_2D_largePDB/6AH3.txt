@@ -1,0 +1,15 @@
+Title			CRYO-EM STRUCTURE OF YEAST RIBONUCLEASE P WITH PRE-TRNA SUBSTRATE 
+Chain order		A T 
+Amino acids		YES
+Metal			Mg	2
+			Zn	1
+Chains			A	RNA
+			T	RNA
+Pseudoknot		YES
+
+Whole structure
+>6AH3 nts=449 [whole]
+GUGGAACAGUGGUAAUUCCUACGAUUAAGAAACCUGUUUACAGAAGGAUCCCCACCUAUGGGCGGGUUAUCAGAUAUUAUCAGGUGGGAAAUUCGGUGGAACACAGUGGAGCCUUGUCCUCCGGGUUAAUGUCGCUUUUGGCAUUGGCCCCUGCUCCUGAGAGAAGAAAUAUACUGGGGAACCAGUCUUUACCGACCGUUGUUAUCAGAAAUUCACGGAGUUCGGCCUAGGUCGGACUCCGAUGGGAACGGCAACGGUUGUUCCGUUUGACUUGUCGCCCGCUACGGCGUGAGCGUCAAGGUCUGUUGAGUGCAAUCGUAGGACGUCAUUAGUGGCGAACCCGAUACCGAUUACUGCUGCUGUUCCAGC&AGAAGCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCAUUU
+.(((((((((((.(..(((((((........(((((..........(((.(((.((....)).)))..))).........))))).{...[[.[[[[.....[....(((.((..)......(((..((((.(......).))))..)))...((....))..(........(((((....))))).)........(((((...............(((((.((.(....).)).)))))...........)))))..]).)))....((((((.(((((((....))).).))).))).))).............)))))))((.((....)).))..}.....]]]]]]...).)))))))))))..&....(((((((..((((.....[..)))).((((.........)))).....(((((..]....))))))))))))....
+
+Interacting substructures

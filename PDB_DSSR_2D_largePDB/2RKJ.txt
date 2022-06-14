@@ -1,0 +1,28 @@
+Title			COCRYSTAL STRUCTURE OF A TYROSYL-TRNA SYNTHETASE SPLICING FACTOR WITH A GROUP I INTRON RNA 
+Chain order		C-1 C-2 D G-1 G-2 H K-1 K-2 L O-1 O-2 P 
+Amino acids		YES
+Metal
+Chains			C-1	RNA*
+			C-2	RNA*
+			D	RNA
+			G-1	RNA*
+			G-2	RNA*
+			H	RNA
+			K-1	RNA*
+			K-2	RNA*
+			L	RNA
+			O-1	RNA*
+			O-2	RNA*
+			P	RNA
+Pseudoknot		YES
+
+Whole structure
+>2RKJ nts=968 [whole]
+GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACA&UGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUG&GCUU&GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACA&UGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUG&GCUU&GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACA&UGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUG&GCUU&GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACA&UGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUG&GCUU
+....(..((((((....))))))..)....((((((....((((((.....((...((&)).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).&....&(((((..((((((....))))))..)....((((((....((((((.....((...((&)).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).&))))&(((((..((((((....))))))..)....((((((....((((((.....((...((&)).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).&))))&(((((..((((((....))))))..)....((((((....((((((.....((...((&)).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).&))))
+
+Interacting substructures
+Chain C-1 C-2 
+GAGCCUUUAUACAGUAAUGUAUAUCGAAAAAUCCUCUAAUUCAGGGAACACCUAAACAUGUAGGCAAUCCUGAGCUAAGCUCUGCGGAAACGCAGAGAAAGUGCAACGACUAUUCCGAUAGGAAGUAGGGUCAAGUGACUCGAAAUGGGGAUUACCCUUCUAGGGUAGUGAUAUAGUCUGAACAUAUAUGGAAACAUAUAGAAGGAUAGGAGUAACGAACCUAUCCGUAACAUAAUUG
+....(..((((((....))))))..)....((((((....((((((.....((...(()).))....)))))).((...(((((((....)))))))..))....[.[[[[.((((....))))...(((((....))))).....))))))(((((.....))))).......]]]]].((..((((((....))))))...(((((((.........))))))).........)).
+

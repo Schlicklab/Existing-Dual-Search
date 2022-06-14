@@ -1,0 +1,19 @@
+Title			CRYSTAL STRUCTURE OF MANGANESE BOUND M-BOX RNA 
+Chain order		X A 
+Amino acids		NO
+Metal			K	6
+			Mn	25
+Chains			X	RNA
+			A	RNA
+Pseudoknot		YES
+
+Whole structure
+>3PDR nts=322 [whole]
+GGGCUUCGUUAGGUGAGGCUCCUGUAUGGAGAUACGCUGCUGCCCAAAAAUGUCCAAAGACGCCAAUGGGUCAACAGAAAUCAUCGACAUAAGGUGAUUUUUAAUGCAGCUGGAUGCUUGUCCUAUGCCAUACAGUGCUAAAGCUCUACGAUUGAAGCCCA&GGGCUUCGUUAGGUGAGGCUCCUGUAUGGAGAUACGCUGCUGCCCAAAAAUGUCCAAAGACGCCAAUGGGUCAACAGAAAUCAUCGACAUAAGGUGAUUUUUAAUGCAGCUGGAUGCUUGUCCUAUGCCAUACAGUGCUAAAGCUCUACGAUUGAAGCCCA
+((((((((([.(((..(((..((((((((......(((((((((((....((((....))))....))))).....(((((((((......])))))))))..).))))).((........))....)))))))).)))...)))..))....))))))).&((((((((([.(((..(((..((((((((......(((((((((((.....(((....))).....))))).....(((((((((......])))))))))..).))))).((........))....)))))))).)))...)))..))....))))))).
+
+Interacting substructures
+Chain X 
+GGGCUUCGUUAGGUGAGGCUCCUGUAUGGAGAUACGCUGCUGCCCAAAAAUGUCCAAAGACGCCAAUGGGUCAACAGAAAUCAUCGACAUAAGGUGAUUUUUAAUGCAGCUGGAUGCUUGUCCUAUGCCAUACAGUGCUAAAGCUCUACGAUUGAAGCCCA
+((((((((([.(((..(((..((((((((......(((((((((((....((((....))))....))))).....(((((((((......])))))))))..).))))).((........))....)))))))).)))...)))..))....))))))).
+

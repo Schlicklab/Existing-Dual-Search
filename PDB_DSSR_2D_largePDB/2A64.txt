@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF BACTERIAL RIBONUCLEASE P RNA 
+Chain order		A-1 A-2 A-3 A-4 A-5 A-6 
+Amino acids		NO
+Metal
+Chains			A-1	RNA*
+			A-2	RNA*
+			A-3	RNA*
+			A-4	RNA*
+			A-5	RNA*
+			A-6	RNA*
+Pseudoknot		YES
+
+Whole structure
+>2A64 nts=298 [whole]
+GUUAAUCAUGCUCGGGUAAUCGCUGCGGCCGGUUUCGGCCGUAGAGGAAAGUCCAUGCUCGCACGGUGCUGAGAUGCCCGUAGUGUUCGUGCCUAGCGAAUCCAUAAGCUAGGGCAGCC&GGCUGACGGCGGG&CCCUGAAAGUGCC&GGUAAACCCCACGAGCGAGAAACCCAAA&UAGGGGCACCUUCCCGAAGGAAAUGAACGGAGGGAAGGACAGGCGGCGCAUGCAGCCUGUAGAUAGAUGAUUACCGCCGGAGUAC&GUACGAAGGUACAGAACAUGGCUUAUAGAGCAUGAUUAAC
+..(((((((((((((((((((.(((((((((....))))))))).{...[[.[[[[[(((((((((.((......)))))).....(((((((((((..........))))))((((((&))))).)((.(((&))).....((.((&))...))))))))))))))...(((...&..)))...(((((((...(........)...)))))))((((((..........))))))........))))))).((...(.((&)).)...))..}....]]]]]]]..).)))))))))))..
+
+Interacting substructures
+Chain A-1 A-2 A-3 A-4 A-5 A-6 
+GUUAAUCAUGCUCGGGUAAUCGCUGCGGCCGGUUUCGGCCGUAGAGGAAAGUCCAUGCUCGCACGGUGCUGAGAUGCCCGUAGUGUUCGUGCCUAGCGAAUCCAUAAGCUAGGGCAGCCGGCUGACGGCGGGCCCUGAAAGUGCCGGUAAACCCCACGAGCGAGAAACCCAAAUAGGGGCACCUUCCCGAAGGAAAUGAACGGAGGGAAGGACAGGCGGCGCAUGCAGCCUGUAGAUAGAUGAUUACCGCCGGAGUACGUACGAAGGUACAGAACAUGGCUUAUAGAGCAUGAUUAAC
+..(((((((((((((((((((.(((((((((....))))))))).{...[[.[[[[[(((((((((.((......)))))).....(((((((((((..........))))))(((((())))).)((.((())).....((.(())...))))))))))))))...(((.....)))...(((((((...(........)...)))))))((((((..........))))))........))))))).((...(.(()).)...))..}....]]]]]]]..).)))))))))))..
+

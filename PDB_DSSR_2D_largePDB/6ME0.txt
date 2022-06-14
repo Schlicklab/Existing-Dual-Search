@@ -1,0 +1,20 @@
+Title			STRUCTURE OF A GROUP II INTRON RETROELEMENT PRIOR TO DNA INTEGRATION 
+Chain order		A-1 A-2 B 
+Amino acids		YES
+Metal			Na	1
+			Mg	32
+Chains			A-1	RNA*
+			A-2	RNA*
+			B	DNA
+Pseudoknot		YES
+
+Whole structure
+>6ME0 nts=845 [whole]
+UUGCGACGCGAAAGCUAGCCAGAUGAUUGUCCCACUAGCCCAACAAGCUAGAACGGGACCGGUUGUUCCCCCAACCGUAGCCUAGGGAGGCAUGCGUGACUGGUAACGGUCAGGUGUGAAGCCCUCCCGACAAUGUAGCCCGAACCGCAAGGUUGAAGCUGAAUCCGUGAGGAGGAAGCAACUUCACCAGUGUCAGGUGAUAGGGAACUAGGCUUGAGGGUAUGGUGAGCACAUGCGAAGUGAUGUCAGAAGCCUCGUCACAGACCAACAGGCCAAAGACACUGAUAGGCCUGAGCCAAAACGGCAAAUGGAUAGGCUACAUCGCUCGCUCGUCGGUGUACGGGGACGUCAAUCCAUCGGGGCACAGUCACCACCUAACCCCUCGUGUCAUCUGGUUGGAACGCGGUAAGCCCGUAUCCUCGCCUUGAACACUCAAGGCAGGCAAACCGUAAGGAAUGCUGAUGGGGGUGCGGGUAUGGGAUGCAGGAGAAAGCGAAUGCCGGUCUGUAAUGGACCGGAUAGGGGUUGAGGAGACAAUCCAACAUCACCCCGCCCGAAAGGGAGCAGACUUCCUGCUGGUCUCUCUUUGCGAGAUAGCCUGUAGAACCUCUUGAAUGGAGACAAGGCAAAUGGCAGUGGAACAAACCACUGGUGCGGUCACCAACCAAACGG&CCGUGAGGUAAAGAGGCUGCAAGUGCGUAUCGCAAAGGCGUUCGCGCCGGUUCCUCUUGAAAGAGGGGCUUUGAGAGGCCUGAGCCGGAUGUGGGGAAACUCACAAGUCCGGUUCUUAGGGGGCGGGGAUGGCAGUAAUGCCUCCCUGCUACCCGGC&GGGTTGGCCGAGCGGA
+..[[..((((....((((((((((((..(((((.((.............))...)))))((((((.{{{{{)))))).((((..(((((((((((.((((((....)))))).)))))..]]))))))......((..(((.((.(.....)))(..((....(((....)))....))..)..((((.[[[[[.))))...))).))..))))((((((...((((.((....))...(((((......{((((((...........((((((...]]]]].....)))))).(((.....)))..(((((..((.(((((((.}.......))))))))}}}}}).....)))))))))))...)))))))))....))))))..))))))))))))..))))....((((((((((.(((((((......))))))..((...((....))...))....).))))))))))...(....(((((....((.....(((((((.....)))))))..[(((((...(.........)....].))))).(((....))).)).....)))))..((((((((.((((((....((.(((((..(((((....(((.(((...(((.....((((((......)))))).))).))).)))((...(...&...)...))..)))))))))).)).....)))))).((((....))))((((((((......))))))))..)))))))).((((((((((((((....)))))..)))))))))...((((((((((..((((....)))).))))))).)))..)&................
+
+Interacting substructures
+Chain A-1 A-2 
+UUGCGACGCGAAAGCUAGCCAGAUGAUUGUCCCACUAGCCCAACAAGCUAGAACGGGACCGGUUGUUCCCCCAACCGUAGCCUAGGGAGGCAUGCGUGACUGGUAACGGUCAGGUGUGAAGCCCUCCCGACAAUGUAGCCCGAACCGCAAGGUUGAAGCUGAAUCCGUGAGGAGGAAGCAACUUCACCAGUGUCAGGUGAUAGGGAACUAGGCUUGAGGGUAUGGUGAGCACAUGCGAAGUGAUGUCAGAAGCCUCGUCACAGACCAACAGGCCAAAGACACUGAUAGGCCUGAGCCAAAACGGCAAAUGGAUAGGCUACAUCGCUCGCUCGUCGGUGUACGGGGACGUCAAUCCAUCGGGGCACAGUCACCACCUAACCCCUCGUGUCAUCUGGUUGGAACGCGGUAAGCCCGUAUCCUCGCCUUGAACACUCAAGGCAGGCAAACCGUAAGGAAUGCUGAUGGGGGUGCGGGUAUGGGAUGCAGGAGAAAGCGAAUGCCGGUCUGUAAUGGACCGGAUAGGGGUUGAGGAGACAAUCCAACAUCACCCCGCCCGAAAGGGAGCAGACUUCCUGCUGGUCUCUCUUUGCGAGAUAGCCUGUAGAACCUCUUGAAUGGAGACAAGGCAAAUGGCAGUGGAACAAACCACUGGUGCGGUCACCAACCAAACGGCCGUGAGGUAAAGAGGCUGCAAGUGCGUAUCGCAAAGGCGUUCGCGCCGGUUCCUCUUGAAAGAGGGGCUUUGAGAGGCCUGAGCCGGAUGUGGGGAAACUCACAAGUCCGGUUCUUAGGGGGCGGGGAUGGCAGUAAUGCCUCCCUGCUACCCGGC
+..[[..((((....((((((((((((..(((((.((.............))...)))))((((((.{{{{{)))))).((((..(((((((((((.((((((....)))))).)))))..]]))))))......((..(((.((.(.....)))(..((....(((....)))....))..)..((((.[[[[[.))))...))).))..))))((((((...((((.((....))...(((((......{((((((...........((((((...]]]]].....)))))).(((.....)))..(((((..((.(((((((.}.......))))))))}}}}}).....)))))))))))...)))))))))....))))))..))))))))))))..))))....((((((((((.(((((((......))))))..((...((....))...))....).))))))))))...(....(((((....((.....(((((((.....)))))))..[(((((...(.........)....].))))).(((....))).)).....)))))..((((((((.((((((....((.(((((..(((((....(((.(((...(((.....((((((......)))))).))).))).)))((...(......)...))..)))))))))).)).....)))))).((((....))))((((((((......))))))))..)))))))).((((((((((((((....)))))..)))))))))...((((((((((..((((....)))).))))))).)))..)
+

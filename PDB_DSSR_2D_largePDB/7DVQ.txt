@@ -1,0 +1,29 @@
+Title			CRYO-EM STRUCTURE OF THE ACTIVATED HUMAN MINOR SPLICEOSOME (MINOR BACT COMPLEX) 
+Chain order		B-1 B-2 B-3 F-1 F-2 G-1 G-2 H-1 H-2 C F-3 
+Amino acids		YES
+Metal			Mg	5
+			K	2
+			Zn	7
+Chains			B-1	RNA*
+			B-2	RNA*
+			B-3	RNA*
+			F-1	RNA*
+			F-2	RNA*
+			G-1	RNA*
+			G-2	RNA*
+			H-1	RNA*
+			H-2	RNA*
+			C
+			F-3	RNA*
+Pseudoknot		YES
+
+Whole structure
+>7DVQ nts=278 [whole]
+GGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCCUUUUACUAAAGAUUUCCGUGGAGAGGAACAAC&CCAAUUUUUUGAGGCCUUG&CAAGGCU&UGUUGUAUGAAAGGAGAGAAGGUUAGCACUCCCCUUGACAAGGAUGGAAGAGGCC&GGCCU&UCGGCCUCCGAAAUAUCCUUUUCUAGCAUGU&GUCAUAUCCUUAACUCAUUGUCCCUUUUUUUU&AUGCCUUAAACUUAUGAGUAAGGAAAAUAACGAUUCGGGGUGACGCCCGAA&GAAUUUUUGAGC&g&g
+.(((((((((((...((...((((((((.(..{{{..).)))))))).)))))))))))))...&............(((((((&)))))))&....................[[[[.[[[(((((((.....)))..))).)(((((&)))))&.........}}}...................&................................&.]]]...]].]].....................((((((......))))))&............&.&.
+
+Interacting substructures
+Chain F-1 F-2 H-1 
+UGUUGUAUGAAAGGAGAGAAGGUUAGCACUCCCCUUGACAAGGAUGGAAGAGGCCGGCCUAUGCCUUAAACUUAUGAGUAAGGAAAAUAACGAUUCGGGGUGACGCCCGAA
+....................[[[[.[[[(((((((.....)))..))).)((((())))).]]]...]].]].....................((((((......))))))
+

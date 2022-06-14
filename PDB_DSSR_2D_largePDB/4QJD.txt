@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF TWISTER WITH THE NUCLEOTIDE 5'- TO THE CLEAVAGE SITE DISORDERED AT 3.1 A RESOLUTION 
+Chain order		A B C D E F G H 
+Amino acids		NO
+Metal			Mg	4
+Chains			A	RNA[23]/1
+			B	RNA
+			C	RNA[24]/1
+			D	RNA
+			E	RNA[25]/1
+			F	RNA
+			G	RNA[24]/1
+			H	RNA
+Pseudoknot		YES
+
+Whole structure
+>4QJD nts=288 [whole]
+UGUAACUCCGCCUAUGUCAUCUUA&gUAAAUGAUAUAGCCGGUCCCAAGCCCGGAAAAAGGAGGAGGGUAUA&UAUGUAACUCCGCCUAUGUCAUCUU&gUAAAUGAUAUAGCCGGUCCCAAGCCCGGAAAAAGGAGGAGGGUAUA&UAUGUAACUCCGCCUAUGUCAUCUUA&gUAAAUGAUAUAGCCGGUCCCAAGCCCGGAAAAAGGAGGAGGGUAUA&UAUGUAACUCCGCCUAUGUCAUCUU&gUAAAUGAUAUAGCCGGUCCCAAGCCCGGAAAAAGGAGGAGGGUAUA
+.....(((({{(((((((((....&....)))))))))((((.[[[..}})))).....))))..]]]....&.........................&.............((((.[[[....))))...........]]]....&.......(((({{(((((((((....&....)))))))))((((.[[[..}})))).....))))..]]]((((&.......(((({{(((((((((...&....)))))))))((((.[[[..}})))).....))))..]]]))))
+
+Interacting substructures
+Chain D 
+gUAAAUGAUAUAGCCGGUCCCAAGCCCGGAAAAAGGAGGAGGGUAUA
+.............((((.[[[....))))...........]]]....
+

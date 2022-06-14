@@ -1,0 +1,26 @@
+Title			THE BACTERIOPHAGE PHI-29 VIRAL GENOME PACKAGING MOTOR ASSEMBLY 
+Chain order		K L M N O F G A B C 
+Amino acids		YES
+Metal			Mg	3
+Chains			K	RNA
+			L	RNA
+			M	RNA
+			N	RNA
+			O	RNA
+			F	DNA
+			G	DNA
+			A
+			B
+			C
+Pseudoknot		YES
+
+Whole structure
+>7JQQ nts=708 [whole]
+GGAAUGGUACGGUACUUCCAUUGUCAUGUGUAUGUUGGGGAUUAAACCCUGAUUGAGUUCAGCCCACAUACUUUGUUGAUUGGUUGUCAAUCAUGGCAAAAGUGCACGCUACUUUCC&GGAAUGGUACGGUACUUCCAUUGUCAUGUGUAUGUUGGGGAUUAAACCCUGAUUGAGUUCAGCCCACAUACUUUGUUGAUUGGUUGUCAAUCAUGGCAAAAGUGCACGCUACUUUCC&GGAAUGGUACGGUACUUCCAUUGUCAUGUGUAUGUUGGGGAUUAAACCCUGAUUGAGUUCAGCCCACAUACUUUGUUGAUUGGUUGUCAAUCAUGGCAAAAGUGCACGCUACUUUCC&GGAAUGGUACGGUACUUCCAUUGUCAUGUGUAUGUUGGGGAUUAAACCCUGAUUGAGUUCAGCCCACAUACUUUGUUGAUUGGUUGUCAAUCAUGGCAAAAGUGCACGCUACUUUCC&GGAAUGGUACGGUACUUCCAUUGUCAUGUGUAUGUUGGGGAUUAAACCCUGAUUGAGUUCAGCCCACAUACUUUGUUGAUUGGUUGUCAAUCAUGGCAAAAGUGCACGCUACUUUCC&GTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCAGTCA&TGACTGACTGACTGACTGACTGACTGACTGACTGACTGACTGACTGACTGACTGACTGAC&a&a&a
+((((..((((((.((((...((((((((...(((..(((.....[[[[((.(......).))))).)))........(.(.....).)...)))))))))))).).)).))).))))&(.....((.(((.((.(...(((.((.(...(((.((((......<<<((((......))))))))))).......(((..]]]].)))..).)).))).))).).))..))....)&((((..(((((((((((....((.(.((....((.((((.....{{{{((((......))))))))))........(((..>>>..)))..)).).)).)))))).)).))).))))&((((..((((((.((((...(((.((((...(((.((((.........((((......))))))))))).......((...}}}}..))..)))).))))))).).)).))).))))&((((...(((((.((((....((.((((.....(.((((.........((((......))))))))).........(.((.....)).)..)))).)).)))).).)).))..))))&(((((((((((((((((((((((((((((((((((...(((((.(((.(.(.(((.((((&)))).))).)..)))).)))))...)))))))))))))))))))))))))))))))))))&.&.&.
+
+Interacting substructures
+Chain O 
+GGAAUGGUACGGUACUUCCAUUGUCAUGUGUAUGUUGGGGAUUAAACCCUGAUUGAGUUCAGCCCACAUACUUUGUUGAUUGGUUGUCAAUCAUGGCAAAAGUGCACGCUACUUUCC
+((((...(((((.((((....((.((((.....(.((((.........((((......))))))))).........(.((.....)).)..)))).)).)))).).)).))..))))
+

@@ -1,0 +1,21 @@
+Title			RNA STRUCTURE 
+Chain order		A-1 A-2 A-3 
+Amino acids		NO
+Metal			Mg	2
+			Co	1
+			Ir	7
+Chains			A-1	RNA*
+			A-2	RNA*
+			A-3	RNA*
+Pseudoknot		YES
+
+Whole structure
+>4GXY nts=162 [whole]
+gGCGGCAGGUGCUCCCGAC&GUCGGGAGUUAAAAGGGAAGCCGGUGCAAGUCCGGCACGGUCCCGCCACUGUGACGGGGAGUCGCCCCUCGGGAUGUGCCACUGGCC&GGCCGGGAAGGCGGAGGGGCGGCGAGGAUCCGGAGUCAGGAAACCUGCCUGCCGUc
+((((((((((.(((.(((.&.)).)))).....((....(((((.......)))))[[((.....)).(((...(((...(((((((.((.......(((.((((((&))))))...))).)).)))))))......)))..]]))).....))))))))))))
+
+Interacting substructures
+Chain A-1 A-2 A-3 
+gGCGGCAGGUGCUCCCGACGUCGGGAGUUAAAAGGGAAGCCGGUGCAAGUCCGGCACGGUCCCGCCACUGUGACGGGGAGUCGCCCCUCGGGAUGUGCCACUGGCCGGCCGGGAAGGCGGAGGGGCGGCGAGGAUCCGGAGUCAGGAAACCUGCCUGCCGUc
+((((((((((.(((.(((..)).)))).....((....(((((.......)))))[[((.....)).(((...(((...(((((((.((.......(((.(((((())))))...))).)).)))))))......)))..]]))).....))))))))))))
+

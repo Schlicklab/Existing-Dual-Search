@@ -1,0 +1,20 @@
+Title			CRYO-EM STRUCTURE OF ARCHAEAL RIBONUCLEASE P WITH MATURE TRNA 
+Chain order		U X V Y 
+Amino acids		YES
+Metal			Zn	2
+Chains			U	RNA
+			X	RNA
+			V	RNA
+			Y	RNA
+Pseudoknot		YES
+
+Whole structure
+>6K0B nts=682 [whole]
+GGUGGGGUUCCCGAGCGGCCAAAGGGAGCAGACUCUAAAUCUGCCGUCAUCGACUUCGAAGGUUCGAAUCCUUCCCCCACCAC&GGAGGGGGCUGGUGACUUUCCCCUCUUUAAGAGGGGAGGAAGUUCCGCCCACCCCAUUUAUGGGCAGCGUCCCCUGAGAAGGGGCGGGAGAUGCAGCAGAAACGACACGGCUCCGGAAGAGAUGACGAUGAUAGUGAAAGUUGAGGACUUCCGGAGAACCGGUGAAACGGGCAUCUCCCCUGCCCGGGGUGCAAGCCGGUUUCGGCGCUUAGCCGAAUGUCACCGAAAUUACAGAAGGCGGGCUAUAGCCCCCAUUUU&GGUGGGGUUCCCGAGCGGCCAAAGGGAGCAGACUCUAAAUCUGCCGUCAUCGACUUCGAAGGUUCGAAUCCUUCCCCCACCAC&GGAGGGGGCUGGUGACUUUCCCCUCUUUAAGAGGGGAGGAAGUUCCGCCCACCCCAUUUAUGGGCAGCGUCCCCUGAGAAGGGGCGGGAGAUGCAGCAGAAACGACACGGCUCCGGAAGAGAUGACGAUGAUAGUGAAAGUUGAGGACUUCCGGAGAACCGGUGAAACGGGCAUCUCCCCUGCCCGGGGUGCAAGCCGGUUUCGGCGCUUAGCCGAAUGUCACCGAAAUUACAGAAGGCGGGCUAUAGCCCCCAUUUU
+(((((((..(((...........))).((((.........)))).(((...)))...(((((.......))))))))))))..&...(((((((((((((...(((((((...))))))).....[..[[[[[((.(((......((((((...(((((....))))).(.(((((((.............(((((((((((.....(.(......(.(....).)...).)))))))))..))).........))))))).)))))))))).))...((((....))))............))))))............]]]]].]...))))))).....&(((((((..(((.....[.....))).((((.........)))).(((...)))...(((((..]....))))))))))))..&...(((((((((((((...(((((((...))))))).....[..[[[[[((.(((......((((((...(((((....))))).(.(((((((.............(((((((((((.....(.(......(.(....).)...).)))))))))..))).........))))))).)))))))))).))...((((....))))............))))))............]]]]].]...))))))).....
+
+Interacting substructures
+Chain X 
+GGAGGGGGCUGGUGACUUUCCCCUCUUUAAGAGGGGAGGAAGUUCCGCCCACCCCAUUUAUGGGCAGCGUCCCCUGAGAAGGGGCGGGAGAUGCAGCAGAAACGACACGGCUCCGGAAGAGAUGACGAUGAUAGUGAAAGUUGAGGACUUCCGGAGAACCGGUGAAACGGGCAUCUCCCCUGCCCGGGGUGCAAGCCGGUUUCGGCGCUUAGCCGAAUGUCACCGAAAUUACAGAAGGCGGGCUAUAGCCCCCAUUUU
+...(((((((((((((...(((((((...))))))).....[..[[[[[((.(((......((((((...(((((....))))).(.(((((((.............(((((((((((.....(.(......(.(....).)...).)))))))))..))).........))))))).)))))))))).))...((((....))))............))))))............]]]]].]...))))))).....
+

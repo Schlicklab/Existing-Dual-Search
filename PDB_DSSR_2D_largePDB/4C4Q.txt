@@ -1,0 +1,17 @@
+Title			CRYO-EM MAP OF THE CSFV IRES IN COMPLEX WITH THE SMALL RIBOSOMAL 40S SUBUNIT AND DHX29 
+Chain order		N 
+Amino acids		NO
+Metal
+Chains			N	RNA
+Pseudoknot		YES
+
+Whole structure
+>4C4Q nts=233 [whole]
+GACUAGCCGUAGUGGCGAGCUCCCUGGGUGGUCUAAGUCCUGAGUACAGGACAGUCGUCAGUAGUUCGACGUGAGCACUAGCCCACCUCGAGAUGCUACGUGGACGAGGGCAUGCCCAAGACACACCUUAACCCUGGCGGGGGUCGCUAGGGUGAAAUCACAUUAUGUGAUGGGGGUACGACCUGAUAGGGUGCUGCAGAGGCCCACUAGCAGGCUAGUAUAAAAAUCUCUGC
+.(((((((.((((((((..(((((..((((((((..((((((....))))))..(((((.((((.((((.(((.((....)).))).))))....))))...)))))(((....))).)))).))))...(((((.((((...)))).)))))....(((((...))))).)))))..))((((....))))((..[[[[[))))))))...)))))))........]]]]].
+
+Interacting substructures
+Chain N 
+GACUAGCCGUAGUGGCGAGCUCCCUGGGUGGUCUAAGUCCUGAGUACAGGACAGUCGUCAGUAGUUCGACGUGAGCACUAGCCCACCUCGAGAUGCUACGUGGACGAGGGCAUGCCCAAGACACACCUUAACCCUGGCGGGGGUCGCUAGGGUGAAAUCACAUUAUGUGAUGGGGGUACGACCUGAUAGGGUGCUGCAGAGGCCCACUAGCAGGCUAGUAUAAAAAUCUCUGC
+.(((((((.((((((((..(((((..((((((((..((((((....))))))..(((((.((((.((((.(((.((....)).))).))))....))))...)))))(((....))).)))).))))...(((((.((((...)))).)))))....(((((...))))).)))))..))((((....))))((..[[[[[))))))))...)))))))........]]]]].
+

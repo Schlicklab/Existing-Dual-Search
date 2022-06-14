@@ -1,0 +1,17 @@
+Title			STRUCTURAL BASIS FOR PROMISCUOUS BINDING AND ACTIVATION OF FLUOROGENIC DYES BY DIR2S RNA APTAMER 
+Chain order		R 
+Amino acids		YES
+Metal			Mg	2
+Chains			R	RNA	R 
+Pseudoknot		YES
+
+Whole structure
+>6DB9 nts=60 [whole]
+GGAUGCGCCUUGAAAAGCCUGCGAAACACGCAGCUGGUGAAUGACAGCUAUGGCGCAUCC
+(((((((((........[..(((.....)))(((((......].)))))..)))))))))
+
+Interacting substructures
+Chain R 
+GGAUGCGCCUUGAAAAGCCUGCGAAACACGCAGCUGGUGAAUGACAGCUAUGGCGCAUCC
+(((((((((........[..(((.....)))(((((......].)))))..)))))))))
+

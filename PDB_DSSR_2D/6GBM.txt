@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF FUS-RRM BOUND TO STEM-LOOP RNA 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6GBM nts=23 [whole]
+GGCAGAUUACAAUUCUAUUUGCC
+(((((((.(......))))))))
+
+Interacting substructures
+Chain A 
+GGCAGAUUACAAUUCUAUUUGCC
+(((((((.(......))))))))
+

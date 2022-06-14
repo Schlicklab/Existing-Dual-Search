@@ -1,0 +1,22 @@
+Title			STRUCTURE OF ELIZABETHKINGIA MENINGOSEPTICA CDNE CYCLIC DINUCLEOTIDE SYNTHASE WITH PPPA[3'-5']PA 
+Chain order		C B 
+Amino acids		YES
+Metal			Mg	1
+Chains			C	RNA	
+			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6E0O nts=4 [whole]
+aA&aA
+..&..
+
+Interacting substructures
+Chain C 
+aA
+..
+
+Chain B 
+aA
+..
+

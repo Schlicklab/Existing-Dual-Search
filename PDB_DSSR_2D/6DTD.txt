@@ -1,0 +1,17 @@
+Title			HIGH-RESOLUTION CRYSTAL STRUCTURE OF CAS13B FROM PREVOTELLA BUCCAE 
+Chain order		C 
+Amino acids		YES
+Metal			Na	2
+Chains			C	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>6DTD nts=37 [whole]
+UGUUGCAUCUGCCUUCUUUUUGAAAGGUAAAAACAAC
+.((((..(.(((((((.....).)))))).)..))))
+
+Interacting substructures
+Chain C 
+UGUUGCAUCUGCCUUCUUUUUGAAAGGUAAAAACAAC
+.((((..(.(((((((.....).)))))).)..))))
+

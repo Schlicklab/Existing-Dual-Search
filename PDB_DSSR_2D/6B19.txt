@@ -1,0 +1,18 @@
+Title			ARCHITECTURE OF HIV-1 REVERSE TRANSCRIPTASE INITIATION COMPLEX CORE 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	DNA[2]/RNA[17]	C 
+Pseudoknot		NO
+
+Whole structure
+>6B19 nts=38 [whole]
+GUGGCGCCCGAACAGGGAC&GUCCCUGUUCGGGCGCCAC
+(((((((((((((((((((&)))))))))))))))))))
+
+Interacting substructures
+Chain C D 
+GUGGCGCCCGAACAGGGACGUCCCUGUUCGGGCGCCAC
+((((((((((((((((((()))))))))))))))))))
+

@@ -1,0 +1,28 @@
+Title			PRPP RIBOSWITCH FROM T. MATHRANII BOUND TO PRPP 
+Chain order		A-1 A-2 A-3 B-1 B-2 B-3 
+Amino acids		NO
+Metal			Mg	8
+			K	3
+			Ba	20
+Chains			A-1	RNA*	A-1 A-3 A-2 
+			A-2	RNA*	A-1 
+			A-3	RNA*	A-1 A-3 
+			B-1	RNA*	B-2 B-3 
+			B-2	RNA*	B-3 B-1 
+			B-3	RNA*	B-2 B-3 B-1 
+Pseudoknot		YES
+
+Whole structure
+>6CK5 nts=208 [whole]
+GUGAAAGUGUACCUAGGGUUCCAGCCUAUUUGUAGGUGUUCGGACCGAGCGGUACAGGUAUAUU&AUAUA&CCACACCUUAGGGACAAAAGCCCGGGAGGAUAGGUUUCA&GUGAAAGUGUACCUAGGGUUCCAGCCUAU&GUAGGUGUUCGGACCGAGCGGUACAGGUAUA&CCACACCUUAGGGACAAAAGCCCGGGAGGAUAGGUUUCAC
+.(((((.((((((..((...((((((((....)))))..).)).))....))))))((((((..&.))))&)).[.((((.(((.......))).])))).....)))))&((((((.((((((..((...((((((((.&.)))))..).)).))....))))))((....&)).[.((((.(((.......))).])))).....))))))
+
+Interacting substructures
+Chain A-1 A-2 A-3 
+GUGAAAGUGUACCUAGGGUUCCAGCCUAUUUGUAGGUGUUCGGACCGAGCGGUACAGGUAUAUUAUAUACCACACCUUAGGGACAAAAGCCCGGGAGGAUAGGUUUCA
+.(((((.((((((..((...((((((((....)))))..).)).))....))))))((((((...)))))).[.((((.(((.......))).])))).....)))))
+
+Chain B-1 B-2 B-3 
+GUGAAAGUGUACCUAGGGUUCCAGCCUAUGUAGGUGUUCGGACCGAGCGGUACAGGUAUACCACACCUUAGGGACAAAAGCCCGGGAGGAUAGGUUUCAC
+((((((.((((((..((...((((((((..)))))..).)).))....))))))((....)).[.((((.(((.......))).])))).....))))))
+

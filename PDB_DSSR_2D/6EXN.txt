@@ -1,0 +1,71 @@
+Title			POST-CATALYTIC P COMPLEX SPLICEOSOME WITH 3' SPLICE SITE DOCKED 
+Chain order		2-1 2-2 2-3 2-4 2-5 2-6 2-7 2-8 5-1 5-2 5-3 6 E-1 E-2 I-1 I-2 I-3 C 
+Amino acids		YES
+Metal			Mg	1
+			Zn	7
+Chains			2-1	RNA*	6 I-2 
+			2-2	RNA*	2-3 
+			2-3	RNA*	2-2 
+			2-4	RNA*	
+			2-5	RNA*	2-8 
+			2-6	RNA*	2-7 
+			2-7	RNA*	2-6 
+			2-8	RNA*	2-5 
+			5-1	RNA*	5-2 5-1 E-1 
+			5-2	RNA*	5-2 5-1 
+			5-3	RNA*	
+			6	RNA	6 2-1 I-1 
+			E-1	RNA*	5-1 
+			E-2	RNA*	
+			I-1	RNA*	6 
+			I-2	RNA*	2-1 
+			I-3	RNA*	
+			C			
+Pseudoknot		YES
+
+Whole structure
+>6EXN nts=480 [whole]
+GAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUU&UGUAACA&UGUUACAAUAC&CAUUUUUUGGCA&GGACGGGAAGAG&GAGACGUCGCGACCCUCGCA&GGUCGCUUGAUGUUUCU&UCUUCCCGUUC&AAGCAGCUUUACAGAUCAAUGGCGGAGGGAGGUCAACAUCAAGAACUGUGGGCCUUUUAUUGCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAU&AAACAGGUAAAGCUGUCCGUUACUGUGGGCUUGCC&AUUUUUUGG&GUUCGCGAAGUAACCCUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUU&AGUGAUCUAGAAAGAGAUCCACCUACU&CAUGU&GUAUGUCUAAAGUUA&GCUCUUAUUUACUAACAA&ACUAG&g
+((((((((((........(((..((((...[[[[[[[..[[....[&(((((((&)))))))....&............&(((((((((((.&((((((((((((.((.....&))))))..)))))))).&)))))))))))&..(((((((.((((.......((((..(((((.(((((((.....((((.(((........))).)))).........((...((((((((....[[[[...)))))))).))))))))))))))..&..((((......))))))))..)))))))).))).&.........&((((((((((.....))))))))))...................{.{{{.....))))))).(((.((((.....)))..))))........))))))))))&..........]]]].............&.....&...}}}.}.......&]....]]..]]]]].]].&.....&.
+
+Interacting substructures
+Chain 2-1 6 I-1 I-2 
+GAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUUGUUCGCGAAGUAACCCUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUUGUAUGUCUAAAGUUAGCUCUUAUUUACUAACAA
+((((((((((........(((..((((...[[[[[[[..[[....[((((((((((.....))))))))))...................{.{{{.....))))))).(((.((((.....)))..))))........))))))))))...}}}.}.......]....]]..]]]]].]].
+
+Chain 2-2 2-3 
+UGUAACAUGUUACAAUAC
+((((((()))))))....
+
+Chain 2-4 
+CAUUUUUUGGCA
+............
+
+Chain 2-5 2-8 
+GGACGGGAAGAGUCUUCCCGUUC
+(((((((((((.)))))))))))
+
+Chain 2-6 2-7 
+GAGACGUCGCGACCCUCGCAGGUCGCUUGAUGUUUCU
+((((((((((((.((.....))))))..)))))))).
+
+Chain 5-1 5-2 E-1 
+AAGCAGCUUUACAGAUCAAUGGCGGAGGGAGGUCAACAUCAAGAACUGUGGGCCUUUUAUUGCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAUAAACAGGUAAAGCUGUCCGUUACUGUGGGCUUGCCAGUGAUCUAGAAAGAGAUCCACCUACU
+..(((((((.((((.......((((..(((((.(((((((.....((((.(((........))).)))).........((...((((((((....[[[[...)))))))).))))))))))))))....((((......))))))))..)))))))).)))...........]]]].............
+
+Chain 5-3 
+AUUUUUUGG
+.........
+
+Chain E-2 
+CAUGU
+.....
+
+Chain I-3 
+ACUAG
+.....
+
+Chain C 
+g
+.
+

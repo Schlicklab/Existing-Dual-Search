@@ -1,0 +1,44 @@
+Title			CRYSTAL STRUCTURE OF BAT INFLUENZA A/H17N10 POLYMERASE WITH VIRAL RNA PROMOTER AND CAPPED RNA PRIMER 
+Chain order		N-1 N-2 R S M-1 M-2 U V 
+Amino acids		YES
+Metal
+Chains			N-1	RNA*	
+			N-2	RNA*	
+			R	RNA	V 
+			S	RNA	U 
+			M-1	RNA*	
+			M-2	RNA*	
+			U	RNA	U S 
+			V	RNA	V R 
+Pseudoknot		NO
+
+Whole structure
+>6EVJ nts=62 [whole]
+g&AAU&UAUACCUCUGCU&UAUACCUCUGCU&g&AAU&AGUAGUAACAAGAGG&AGUAGUAACAAGAGG
+.&...&....(((((...&....(((((...&.&...&.((....)).)))))&.((....)).)))))
+
+Interacting substructures
+Chain N-1 
+g
+.
+
+Chain N-2 
+AAU
+...
+
+Chain R V 
+UAUACCUCUGCUAGUAGUAACAAGAGG
+....(((((....((....)).)))))
+
+Chain S U 
+UAUACCUCUGCUAGUAGUAACAAGAGG
+....(((((....((....)).)))))
+
+Chain M-1 
+g
+.
+
+Chain M-2 
+AAU
+...
+

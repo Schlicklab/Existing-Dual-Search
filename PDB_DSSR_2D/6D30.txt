@@ -1,0 +1,17 @@
+Title			STRUCTURE OF HUMAN USB1 WITH URIDINE-URIDINE, INACTIVE H208Q MUTANT 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6D30 nts=2 [whole]
+UU
+..
+
+Interacting substructures
+Chain C 
+UU
+..
+

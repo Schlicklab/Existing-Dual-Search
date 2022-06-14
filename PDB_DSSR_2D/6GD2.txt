@@ -1,0 +1,17 @@
+Title			STRUCTURE OF HUR RRM3 IN COMPLEX WITH RNA 
+Chain order		D 
+Amino acids		YES
+Metal
+Chains			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6GD2 nts=7 [whole]
+UUUAUUU
+.......
+
+Interacting substructures
+Chain D 
+UUUAUUU
+.......
+

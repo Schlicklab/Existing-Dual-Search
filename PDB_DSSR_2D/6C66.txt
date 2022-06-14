@@ -1,0 +1,30 @@
+Title			CRISPR RNA-GUIDED SURVEILLANCE COMPLEX, PRE-NICKING 
+Chain order		J-1 J-2 L N-1 N-2 N-3 
+Amino acids		YES
+Metal			Fe	2
+Chains			J-1	RNA*	L 
+			J-2	RNA*	J-2 
+			L	DNA	J-1 N-3 N-1 
+			N-1	DNA*	L 
+			N-2	DNA*	
+			N-3	DNA*	L 
+Pseudoknot		YES
+
+Whole structure
+>6C66 nts=146 [whole]
+AUGGACCGCCAGUGAUAAGUGGAAUGCCAUGUGGGCUGUC&GAGCCCCACGCACGUGGGG&TCCAGGCGACAGCCCACATGGCATTCCACTTATCACTGGCTTCGTCCGCG&CGCGGACGAAGCCA&TA&CCATGTGGGCTGTCGCCTGGA
+........(..(..(((((.(((((.(((((.(((((.(.&...((((((....))))))&[[[[[[[.).))))).))))).))))).)))))..)..)(((((((((((&)))))))))))...&..&..............]]]]]]]
+
+Interacting substructures
+Chain J-1 L N-1 N-3 
+AUGGACCGCCAGUGAUAAGUGGAAUGCCAUGUGGGCUGUCTCCAGGCGACAGCCCACATGGCATTCCACTTATCACTGGCTTCGTCCGCGCGCGGACGAAGCCACCATGTGGGCTGTCGCCTGGA
+........(..(..(((((.(((((.(((((.(((((.(.[[[[[[[.).))))).))))).))))).)))))..)..)((((((((((())))))))))).................]]]]]]]
+
+Chain J-2 
+GAGCCCCACGCACGUGGGG
+...((((((....))))))
+
+Chain N-2 
+TA
+..
+

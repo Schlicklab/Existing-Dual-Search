@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF DANIO RERIO LIN41 FILAMIN-NHL DOMAINS IN COMPLEX WITH MAB-10 3'UTR 13MER RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6FQL nts=13 [whole]
+UGCAUUUAAUGCA
+(((((...)))))
+
+Interacting substructures
+Chain B 
+UGCAUUUAAUGCA
+(((((...)))))
+

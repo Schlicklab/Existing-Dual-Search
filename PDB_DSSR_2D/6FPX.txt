@@ -1,0 +1,27 @@
+Title			STRUCTURE OF S. POMBE MMI1 IN COMPLEX WITH 11-MER RNA 
+Chain order		B D F 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+			D	RNA	
+			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6FPX nts=28 [whole]
+UUUAAACCUA&CUUUAAACCU&UUAAACCU
+..........&..........&........
+
+Interacting substructures
+Chain B 
+UUUAAACCUA
+..........
+
+Chain D 
+CUUUAAACCU
+..........
+
+Chain F 
+UUAAACCU
+........
+

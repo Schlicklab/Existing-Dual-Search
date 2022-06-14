@@ -1,0 +1,18 @@
+Title			X-RAY STRUCTURE OF THE S. TYPHIMURIUM YRLA EFFECTOR-BINDING MODULE 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal			Mg	1
+Chains			A-1	RNA*	A-2 
+			A-2	RNA*	A-1 A-2 
+Pseudoknot		YES
+
+Whole structure
+>6CU1 nts=80 [whole]
+gGGUGGCUC&ACAUUUGUUGCGGGUUCGAGACCCGUCAGAGCGAAAGCUCUGUAGCUCAAUGGUAGAGCGGUGUAGUCACC
+.(((((((.&(((((....(((((..[....)))))((((((....))))))..((((....]..))))))))))))))))
+
+Interacting substructures
+Chain A-1 A-2 
+gGGUGGCUCACAUUUGUUGCGGGUUCGAGACCCGUCAGAGCGAAAGCUCUGUAGCUCAAUGGUAGAGCGGUGUAGUCACC
+.(((((((.(((((....(((((..[....)))))((((((....))))))..((((....]..))))))))))))))))
+

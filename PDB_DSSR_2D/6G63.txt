@@ -1,0 +1,23 @@
+Title			RNASE E IN COMPLEX WITH SRNA RRPA 
+Chain order		B-1 B-2 N 
+Amino acids		YES
+Metal			Zn	2
+Chains			B-1	RNA*	B-2 
+			B-2	RNA*	B-1 
+			N			
+Pseudoknot		NO
+
+Whole structure
+>6G63 nts=24 [whole]
+AAAAAAAAAAAA&UUUUUUUUUUU&U
+...(((((.(..&...))))))..&.
+
+Interacting substructures
+Chain B-1 B-2 
+AAAAAAAAAAAAUUUUUUUUUUU
+...(((((.(.....))))))..
+
+Chain N 
+U
+.
+

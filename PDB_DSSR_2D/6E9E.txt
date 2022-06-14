@@ -1,0 +1,17 @@
+Title			ESCAS13D-CRRNA BINARY COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal			Mg	1
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6E9E nts=51 [whole]
+CACCCGUGCAAAAAUGCAGGGGUCUAAAACGACCUGAAUAUUUCAGAUCAA
+..(((.............)))..............................
+
+Interacting substructures
+Chain B 
+CACCCGUGCAAAAAUGCAGGGGUCUAAAACGACCUGAAUAUUUCAGAUCAA
+..(((.............)))..............................
+

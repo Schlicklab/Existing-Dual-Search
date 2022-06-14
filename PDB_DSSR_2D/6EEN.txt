@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A DESIGNER PENTATRICO PEPTIDE RNA BINDING PROTEIN, BOUND TO A COMPLEX RNA TARGET AND FEATURING AN INFINITE SUPERHELIX AND MICROHETEROGENEITY. 
+Chain order		F 
+Amino acids		YES
+Metal
+Chains			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6EEN nts=9 [whole]
+GGGGGGGGG
+.........
+
+Interacting substructures
+Chain F 
+GGGGGGGGG
+.........
+

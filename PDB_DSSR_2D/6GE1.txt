@@ -1,0 +1,32 @@
+Title			SOLUTION STRUCTURE OF THE R(UGGUGGU)4 RNA QUADRUPLEX 
+Chain order		A B C D 
+Amino acids		NO
+Metal
+Chains			A	RNA	
+			B	RNA	
+			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6GE1 nts=28 [whole]
+UGGUGGU&UGGUGGU&UGGUGGU&UGGUGGU
+.......&.......&.......&.......
+
+Interacting substructures
+Chain A 
+UGGUGGU
+.......
+
+Chain B 
+UGGUGGU
+.......
+
+Chain C 
+UGGUGGU
+.......
+
+Chain D 
+UGGUGGU
+.......
+

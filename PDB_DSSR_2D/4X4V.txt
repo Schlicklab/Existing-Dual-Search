@@ -1,0 +1,51 @@
+Title			CRYSTAL STRUCTURE OF THE A.FULGIDUS CCA-ADDING ENZYME IN COMPLEX WITH A HUMAN MENBETA MINIHELIX ENDING IN CCACC AND AMPCPP 
+Chain order		B-1 B-2 D-1 D-2 D-3 D-4 A B-3 B-4 C D-5 
+Amino acids		YES
+Metal			Mg	2
+Chains			B-1	RNA*	B-2 B-4 B-1 
+			B-2	RNA*	B-1 
+			D-1	RNA*	D-4 
+			D-2	RNA*	D-3 
+			D-3	RNA*	D-2 
+			D-4	RNA*	D-1 
+			A			
+			B-3	RNA*	
+			B-4	RNA*	B-1 
+			C			
+			D-5	RNA*	
+Pseudoknot		YES
+
+Whole structure
+>4X4V nts=64 [whole]
+GGCGCUGCGGGGUUCGAGUCCCCGCAG&GCCACC&GGCGCU&GGGUUCGA&CCCCGC&GCCACC&a&g&g&a&g
+(((.((((((((..[....))))))))&)))...&(((...&(((.....&)))...&)))...&.&.&]&.&.
+
+Interacting substructures
+Chain B-1 B-2 B-4 
+GGCGCUGCGGGGUUCGAGUCCCCGCAGGCCACCg
+(((.((((((((..[....)))))))))))...]
+
+Chain D-1 D-4 
+GGCGCUGCCACC
+(((...)))...
+
+Chain D-2 D-3 
+GGGUUCGACCCCGC
+(((.....)))...
+
+Chain A 
+a
+.
+
+Chain B-3 
+g
+.
+
+Chain C 
+a
+.
+
+Chain D-5 
+g
+.
+

@@ -1,0 +1,42 @@
+Title			E. COLI TRANSCRIPTION INITIATION COMPLEX - 16-BP SPACER AND 5-NT RNA 
+Chain order		1-1 1-2 2-1 2-2 3 4-1 4-2 5-1 5-2 6 7 8 9 
+Amino acids		YES
+Metal			Mg	3
+			Zn	6
+Chains			1-1	DNA*	2-2 
+			1-2	DNA*	2-1 
+			2-1	DNA*	3 1-2 
+			2-2	DNA*	3 1-1 
+			3	RNA	2-2 2-1 
+			4-1	DNA*	5-2 
+			4-2	DNA*	5-1 
+			5-1	DNA*	4-2 
+			5-2	DNA*	6 4-1 
+			6	RNA	5-2 
+			7	DNA	8 
+			8	DNA	7 9 
+			9	RNA	8 
+Pseudoknot		YES
+
+Whole structure
+>4YLP nts=309 [whole]
+ACTTGACATCCACCTCACGTATGCTATAATGTGTG&CAGTCTGACGCGGC&GCCGCGTCAG&ACTCGTAGGATTATAGCATACGTGAGGTGGATGTCAAGT&gAGUC&ACTTGACATCCACCTCACGTATGCTATAATGTGTG&CAGTCTGACGCGGC&GCCGCGTCA&GACTCGTAGGATTATAGCATACGTGAGGTGGATGTCAAGT&gAGUC&ACTTGACATCCACCTCACGTATGCTATAATGTGTGCAGTCTGACGCGGC&GCCGCGTCAGACTCGTAGGATTATAGCATACGTGAGGTGGATGTCAAGT&gAGUC
+(((((((((((((((((((((((((..........&.....(((((((((&)))))))))[&[[[[..........)))))))))))))))))))))))))&]]]]]&((((((((((.((((((((((((............&.....((.((((((&)))))).))&.[...............)))))))))))).))))))))))&...].&(((((((((((((((((((((((((...............((.((((((&)))))).))[[[[[..........)))))))))))))))))))))))))&]]]]]
+
+Interacting substructures
+Chain 1-1 1-2 2-1 2-2 3 
+ACTTGACATCCACCTCACGTATGCTATAATGTGTGCAGTCTGACGCGGCGCCGCGTCAGACTCGTAGGATTATAGCATACGTGAGGTGGATGTCAAGTgAGUC
+(((((((((((((((((((((((((...............((((((((()))))))))[[[[[..........)))))))))))))))))))))))))]]]]]
+
+Chain 4-1 5-2 6 
+ACTTGACATCCACCTCACGTATGCTATAATGTGTGGACTCGTAGGATTATAGCATACGTGAGGTGGATGTCAAGTgAGUC
+((((((((((.((((((((((((.............[...............)))))))))))).))))))))))...].
+
+Chain 4-2 5-1 
+CAGTCTGACGCGGCGCCGCGTCA
+.....((.(((((()))))).))
+
+Chain 7 8 9 
+ACTTGACATCCACCTCACGTATGCTATAATGTGTGCAGTCTGACGCGGCGCCGCGTCAGACTCGTAGGATTATAGCATACGTGAGGTGGATGTCAAGTgAGUC
+(((((((((((((((((((((((((...............((.(((((()))))).))[[[[[..........)))))))))))))))))))))))))]]]]]
+

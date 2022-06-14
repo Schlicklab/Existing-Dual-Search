@@ -1,0 +1,43 @@
+Title			E. COLI DIHYDROURIDINE SYNTHASE C (DUSC) IN COMPLEX WITH TRNAPHE 
+Chain order		D E F A B C 
+Amino acids		YES
+Metal			Mg	25
+			Mn	3
+Chains			D	RNA	D 
+			E	RNA	E 
+			F	RNA	F 
+			A			
+			B			
+			C			
+Pseudoknot		YES
+
+Whole structure
+>4YCO nts=215 [whole]
+GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCAC&GCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCG&GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCG&?&?&?
+(((((((..((((.....[..)))).(((((.......))))).....(((((..]....))))))))))))..&..(((..((((.....[..)))).(((((.......))))).....(((((..]....)))))))).&..(((((..((((.....[..)))).(((((.......))))).....(((((..]....)))))))))).&.&.&.
+
+Interacting substructures
+Chain D 
+GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCGCAC
+(((((((..((((.....[..)))).(((((.......))))).....(((((..]....))))))))))))..
+
+Chain E 
+GCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCG
+..(((..((((.....[..)))).(((((.......))))).....(((((..]....)))))))).
+
+Chain F 
+GCGCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGCG
+..(((((..((((.....[..)))).(((((.......))))).....(((((..]....)))))))))).
+
+Chain A 
+?
+.
+
+Chain B 
+?
+.
+
+Chain C 
+?
+.
+

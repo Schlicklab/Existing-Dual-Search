@@ -1,0 +1,38 @@
+Title			CRYSTAL STRUCTURE OF THE A.FULGIDUS CCA-ADDING ENZYME IN COMPLEX WITH A G70A ARGINYL-TRNA MINIHELIX 
+Chain order		G-1 G-2 B-1 B-2 D-1 D-2 D-3 I B-3 B-4 
+Amino acids		YES
+Metal
+Chains			G-1	RNA*	G-2 
+			G-2	RNA*	G-1 
+			B-1	RNA*	B-2 
+			B-2	RNA*	B-2 B-3 B-1 
+			D-1	RNA*	D-3 
+			D-2	RNA*	I D-3 
+			D-3	RNA*	D-2 D-1 
+			I	RNA	D-2 
+			B-3	RNA*	B-2 
+			B-4	RNA*	
+Pseudoknot		YES
+
+Whole structure
+>4X4N nts=85 [whole]
+GGCCGCGGC&GCCGCGAUC&G&GCCGCGGCAGGUUCGAAUCCUGCCGCGAUCG&G&GCCGCGGCAGGUUCGA&UCCUGCCGCGAUCG&CG&g&g
+(..((((((&))))))..)&(&..(((((((((..[....)))))))))..).&(&..(((((((((..[[.&.)))))))))..).&]]&]&.
+
+Interacting substructures
+Chain G-1 G-2 
+GGCCGCGGCGCCGCGAUC
+(..(((((())))))..)
+
+Chain B-1 B-2 B-3 
+GGCCGCGGCAGGUUCGAAUCCUGCCGCGAUCGg
+(..(((((((((..[....)))))))))..).]
+
+Chain D-1 D-2 D-3 I 
+GGCCGCGGCAGGUUCGAUCCUGCCGCGAUCGCG
+(..(((((((((..[[..)))))))))..).]]
+
+Chain B-4 
+g
+.
+

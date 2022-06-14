@@ -1,0 +1,22 @@
+Title			THE CRYSTAL STRUCTURE OF HUMAN ARGONAUTE2 BOUND TO A DEFINED GUIDE RNA 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal			Mg	1
+Chains			B-1	RNA*	
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>4W5N nts=17 [whole]
+UUCACAU&CAAGUCUCUU
+.......&..........
+
+Interacting substructures
+Chain B-1 
+UUCACAU
+.......
+
+Chain B-2 
+CAAGUCUCUU
+..........
+

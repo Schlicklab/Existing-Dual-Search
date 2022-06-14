@@ -1,0 +1,24 @@
+Title			YEAST PRP3 (296-469) IN COMPLEX WITH FRAGMENT OF U4/U6 DI-SNRNA 
+Chain order		C D E F 
+Amino acids		YES
+Metal
+Chains			C	RNA	E 
+			D	RNA	F 
+			E	RNA	C 
+			F	RNA	D 
+Pseudoknot		YES
+
+Whole structure
+>4YHW nts=88 [whole]
+AUCCUUAUGCACGGGAA&AUCCUUAUGCACGGGAA&UUCCCCUGCAUAAGGAUGAACCGUUUU&UUCCCCUGCAUAAGGAUGAACCGUUUU
+(((((((((((.(((((&[[[[[[[[[[[.[[[[[&))))).)))))))))))..........&]]]]].]]]]]]]]]]]..........
+
+Interacting substructures
+Chain C E 
+AUCCUUAUGCACGGGAAUUCCCCUGCAUAAGGAUGAACCGUUUU
+(((((((((((.((((())))).)))))))))))..........
+
+Chain D F 
+AUCCUUAUGCACGGGAAUUCCCCUGCAUAAGGAUGAACCGUUUU
+[[[[[[[[[[[.[[[[[]]]]].]]]]]]]]]]]..........
+

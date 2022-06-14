@@ -1,0 +1,26 @@
+Title			THERMUS THERMOPHILUS RNA POLYMERASE BACKTRACKED COMPLEX 
+Chain order		G H I X Y Z 
+Amino acids		YES
+Metal			Zn	4
+Chains			G	DNA	H I 
+			H	RNA	G 
+			I	DNA	G 
+			X	DNA	Y Z 
+			Y	RNA	X 
+			Z	DNA	X 
+Pseudoknot		NO
+
+Whole structure
+>4WQS nts=119 [whole]
+TCACTACCACAAGCTACGCGAGCGCCG&CCAGCCGGCGCUCGCA&GTAGCTTGTGGTAGTGA&TCACTACCACAAGCTACGCGAGCGCCG&CCAGCCGGCGCUCGC&GTAGCTTGTGGTAGTGA
+(((((((((((((((((((((((((((&.....)))))))))).&)))))))))))))))))&(((((((((((((((((((((((((((&.....))))))))))&)))))))))))))))))
+
+Interacting substructures
+Chain G H I 
+TCACTACCACAAGCTACGCGAGCGCCGCCAGCCGGCGCUCGCAGTAGCTTGTGGTAGTGA
+(((((((((((((((((((((((((((.....)))))))))).)))))))))))))))))
+
+Chain X Y Z 
+TCACTACCACAAGCTACGCGAGCGCCGCCAGCCGGCGCUCGCGTAGCTTGTGGTAGTGA
+(((((((((((((((((((((((((((.....)))))))))))))))))))))))))))
+

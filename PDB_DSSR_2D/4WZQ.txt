@@ -1,0 +1,18 @@
+Title			MUTANT K20E OF RNA DEPENDENT RNA POLYMERASE 3D FROM FOOT-AND-MOUTH DISEASE VIRUS COMPLEXED WITH RNA 
+Chain order		B C 
+Amino acids		YES
+Metal			Mn	1
+Chains			B	RNA	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>4WZQ nts=15 [whole]
+AUGGGCCC&UGGGCCC
+..((((((&.))))))
+
+Interacting substructures
+Chain B C 
+AUGGGCCCUGGGCCC
+..((((((.))))))
+

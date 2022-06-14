@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURE OF 5-CARBOXYCYTOSINE RECOGNITION BY RNA POLYMERASE II DURING TRANSCRIPTION ELONGATION. 
+Chain order		T N R 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			T	DNA	R N 
+			N	DNA	T 
+			R	RNA	T 
+Pseudoknot		YES
+
+Whole structure
+>4Y52 nts=52 [whole]
+CTACCGATAAGCAGACGAcCCTCTCCATG&CTGCTTATCGGTAG&AUGGAGAGG
+((((((((((((((.....[[[[[[[[[.&))))))))))))))&]]]]]]]]]
+
+Interacting substructures
+Chain T N R 
+CTACCGATAAGCAGACGAcCCTCTCCATGCTGCTTATCGGTAGAUGGAGAGG
+((((((((((((((.....[[[[[[[[[.))))))))))))))]]]]]]]]]
+

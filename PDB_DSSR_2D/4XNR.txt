@@ -1,0 +1,18 @@
+Title			VIBRIO VULNIFICUS ADENINE RIBOSWITCH APTAMER DOMAIN, SYNTHESIZED BY POSITION-SELECTIVE LABELING OF RNA (PLOR), IN COMPLEX WITH ADENINE 
+Chain order		X-1 X-2 
+Amino acids		NO
+Metal			Mg	6
+Chains			X-1	RNA[71]/1*	X-2 X-1 
+			X-2	RNA[71]/1*	X-1 
+Pseudoknot		YES
+
+Whole structure
+>4XNR nts=72 [whole]
+GGGAAGAUAUAAUCCUAAUGAUAUGGUUUGGGAGUUUCUACCAAGAGCCUUAAACUCUUGAUUAUCUUCCC&A
+((((((((((..((((((......[[.))))))[.....)]((((((]].....)))))).[)))))))))&]
+
+Interacting substructures
+Chain X-1 X-2 
+GGGAAGAUAUAAUCCUAAUGAUAUGGUUUGGGAGUUUCUACCAAGAGCCUUAAACUCUUGAUUAUCUUCCCA
+((((((((((..((((((......[[.))))))[.....)]((((((]].....)))))).[)))))))))]
+

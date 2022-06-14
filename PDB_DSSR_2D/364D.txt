@@ -1,0 +1,19 @@
+Title			3.0 A STRUCTURE OF FRAGMENT I FROM E. COLI 5S RRNA 
+Chain order		A B C 
+Amino acids		NO
+Metal			Mg	12
+Chains			A	RNA	C 
+			B	RNA	C 
+			C	RNA	B A 
+Pseudoknot		NO
+
+Whole structure
+>364D nts=60 [whole]
+UGCcUGGCGGC&CCGAUGGUAGUGUGGGGUC&CCCCAUGCGAGAGUAGGGAACUGCCAGGCA
+((((((((((.&((.......((((((((..&)))))))).......))...))))))))))
+
+Interacting substructures
+Chain A B C 
+UGCcUGGCGGCCCGAUGGUAGUGUGGGGUCCCCCAUGCGAGAGUAGGGAACUGCCAGGCA
+((((((((((.((.......((((((((..)))))))).......))...))))))))))
+

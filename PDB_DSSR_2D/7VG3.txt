@@ -1,0 +1,19 @@
+Title			CRYO-EM STRUCTURE OF ARABIDOPSIS DCL3 IN COMPLEX WITH A 30-BP RNA 
+Chain order		C D 
+Amino acids		YES
+Metal			Ca	2
+			Zn	1
+Chains			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>7VG3 nts=62 [whole]
+UACAAGCGAAUGAGUCAUUCAUCCUAAGUC&GACUUAGGAUGAAUGACUCAUUCGCUUGUAGA
+.((((..((((((((((.(((..(((((((&)))))).).)).)))))))))))..))))...
+
+Interacting substructures
+Chain C D 
+UACAAGCGAAUGAGUCAUUCAUCCUAAGUCGACUUAGGAUGAAUGACUCAUUCGCUUGUAGA
+.((((..((((((((((.(((..((((((()))))).).)).)))))))))))..))))...
+

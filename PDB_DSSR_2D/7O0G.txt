@@ -1,0 +1,18 @@
+Title			STRUCTURE OF THE FOAMY VIRAL PROTEASE-REVERSE TRANSCRIPTASE IN COMPLEX WITH RNA/DNA HYBRID. 
+Chain order		E F 
+Amino acids		YES
+Metal
+Chains			E	RNA	F 
+			F	DNA	E 
+Pseudoknot		NO
+
+Whole structure
+>7O0G nts=32 [whole]
+UUCUUGUCCAGGAGAGG&CCTCTCCTGGACAAG
+..(((((((((((((((&)))))))))))))))
+
+Interacting substructures
+Chain E F 
+UUCUUGUCCAGGAGAGGCCTCTCCTGGACAAG
+..((((((((((((((()))))))))))))))
+

@@ -1,0 +1,17 @@
+Title			A'-FORM RNA DOUBLE HELIX IN THE SINGLE CRYSTAL STRUCTURE OF R(UGAGCUUCGGCUC) 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>413D nts=13 [whole]
+UGAGCUUCGGCUC
+.............
+
+Interacting substructures
+Chain A 
+UGAGCUUCGGCUC
+.............
+

@@ -1,0 +1,17 @@
+Title			CRYOEM STRUCTURE OF THE NIPAH VIRUS NUCLEOCAPSID SINGLE HELICAL TURN ASSEMBLY 
+Chain order		N 
+Amino acids		YES
+Metal
+Chains			N	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7NT5 nts=78 [whole]
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+..............................................................................
+
+Interacting substructures
+Chain N 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+..............................................................................
+

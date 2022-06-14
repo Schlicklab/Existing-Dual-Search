@@ -1,0 +1,24 @@
+Title			5'-R(*CP*GP*UP*AP*CP*DG)-3' 
+Chain order		A B C D 
+Amino acids		NO
+Metal
+Chains			A	RNA[5]/1	B 
+			B	RNA[5]/1	A 
+			C	RNA[5]/1	D 
+			D	RNA[5]/1	C 
+Pseudoknot		NO
+
+Whole structure
+>377D nts=24 [whole]
+CGUACG&CGUACG&CGUACG&CGUACG
+((((((&))))))&((((((&))))))
+
+Interacting substructures
+Chain A B 
+CGUACGCGUACG
+(((((())))))
+
+Chain C D 
+CGUACGCGUACG
+(((((())))))
+

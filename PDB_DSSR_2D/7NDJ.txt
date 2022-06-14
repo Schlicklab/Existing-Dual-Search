@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF ZC3H12C PIN-CCCH ZN FINGER DOMAIN WITH RNA HEPTAMER 
+Chain order		C-1 C-2 
+Amino acids		YES
+Metal			Na	2
+			Zn	1
+Chains			C-1	RNA*	
+			C-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>7NDJ nts=6 [whole]
+UUAU&AU
+....&..
+
+Interacting substructures
+Chain C-1 
+UUAU
+....
+
+Chain C-2 
+AU
+..
+

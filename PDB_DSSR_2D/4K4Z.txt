@@ -1,0 +1,40 @@
+Title			COXSACKIEVIRUS B3 POLYMERASE ELONGATION COMPLEX (R2_MG_FORM) 
+Chain order		B C D F G J K L N H O P 
+Amino acids		YES
+Metal			Mg	4
+Chains			B	RNA	C D 
+			C	RNA	B 
+			D	RNA	B 
+			F	RNA	H G 
+			G	RNA	F 
+			J	RNA	K L 
+			K	RNA	J 
+			L	RNA	J 
+			N	RNA	P O 
+			H	RNA	F 
+			O	RNA	N 
+			P	RNA	N 
+Pseudoknot		YES
+
+Whole structure
+>4K4Z nts=134 [whole]
+CCAGGUCUCUCGUCGAA&GUUCGACGAGAGA&GG&UCCAGGUCUCUCGUCGAA&GUUCGACGAGAGA&UCCAGGUCUCUCGUCGAA&GUUCGACGAGAGA&GGA&CCAGGUCUCUCGUCGAA&GGAG&GUUCGACGAGAGA&GGA
+((...((((((((((((&.))))))))))))&))&[[[...((((((((((((&.))))))))))))&(((...((((((((((.(&.).))))))))))&)))&((...((((((((((((&]]].&.))))))))))))&)).
+
+Interacting substructures
+Chain B C D 
+CCAGGUCUCUCGUCGAAGUUCGACGAGAGAGG
+((...((((((((((((.))))))))))))))
+
+Chain F G H 
+UCCAGGUCUCUCGUCGAAGUUCGACGAGAGAGGAG
+[[[...((((((((((((.))))))))))))]]].
+
+Chain J K L 
+UCCAGGUCUCUCGUCGAAGUUCGACGAGAGAGGA
+(((...((((((((((.(.).)))))))))))))
+
+Chain N O P 
+CCAGGUCUCUCGUCGAAGUUCGACGAGAGAGGA
+((...((((((((((((.)))))))))))))).
+

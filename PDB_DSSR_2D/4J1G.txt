@@ -1,0 +1,17 @@
+Title			LEANYER ORTHOBUNYAVIRUS NUCLEOPROTEIN-SSRNA COMPLEX 
+Chain order		E 
+Amino acids		YES
+Metal
+Chains			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4J1G nts=44 [whole]
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+............................................
+
+Interacting substructures
+Chain E 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+............................................
+

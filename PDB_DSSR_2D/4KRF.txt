@@ -1,0 +1,22 @@
+Title			STRUCTURE OF HUMAN ARGONAUTE-1 LET-7 COMPLEX 
+Chain order		R-1 R-2 
+Amino acids		YES
+Metal
+Chains			R-1	RNA*	
+			R-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>4KRF nts=12 [whole]
+UGAGGUAGUA&UU
+..........&..
+
+Interacting substructures
+Chain R-1 
+UGAGGUAGUA
+..........
+
+Chain R-2 
+UU
+..
+

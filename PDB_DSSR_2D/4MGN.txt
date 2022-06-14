@@ -1,0 +1,24 @@
+Title			CO-CRYSTAL STRUCTURE OF THE G. KAUSTOPHILUS GLYQS T BOX RIBOSWITCH STEM I IN COMPLEX WITH TRNA 
+Chain order		A B C D 
+Amino acids		NO
+Metal			Mg	18
+Chains			A	RNA	B A 
+			B	RNA	B A 
+			C	RNA	C D 
+			D	RNA	C D 
+Pseudoknot		YES
+
+Whole structure
+>4MGN nts=317 [whole]
+gGAAUCAAUAGUAGUUAACCCUCUCUUCCGAAGCGAGCCGGGGGCGGUGGGAGCCCGGUGAAGACGGUUAAUGAAACGGCAGUUCC&gCGGAAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCGCGGGUUCGAGUCCCGUCUUCCGCU&gGAAUCAAUAGUAGUUAACCCUCUCUUCCGAAGCGAGCCGGGGGCGGUGGGAGCCCGGUGAAGACGGUUAAUGAAACGGCAGUUCC&gCGGAAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCGCGGGUUCGAGUCCCGUCUUCCGCUC
+(((((.........((((((...(((((.....[..((((((..........]))))))))))).))))))......[[[.)))))&(((((((..((((....{..)))).(((((..]]]..))))).....(((((..}....)))))))))))).&((((.........(((((((...(((((.....[..((((((..........]))))))))))).))))))).....[[[..))))&(((((((..((((....{..)))).(((((..]]]..))))).....(((((..}....))))))))))))..
+
+Interacting substructures
+Chain A B 
+gGAAUCAAUAGUAGUUAACCCUCUCUUCCGAAGCGAGCCGGGGGCGGUGGGAGCCCGGUGAAGACGGUUAAUGAAACGGCAGUUCCgCGGAAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCGCGGGUUCGAGUCCCGUCUUCCGCU
+(((((.........((((((...(((((.....[..((((((..........]))))))))))).))))))......[[[.)))))(((((((..((((....{..)))).(((((..]]]..))))).....(((((..}....)))))))))))).
+
+Chain C D 
+gGAAUCAAUAGUAGUUAACCCUCUCUUCCGAAGCGAGCCGGGGGCGGUGGGAGCCCGGUGAAGACGGUUAAUGAAACGGCAGUUCCgCGGAAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCGCGGGUUCGAGUCCCGUCUUCCGCUC
+((((.........(((((((...(((((.....[..((((((..........]))))))))))).))))))).....[[[..))))(((((((..((((....{..)))).(((((..]]]..))))).....(((((..}....))))))))))))..
+

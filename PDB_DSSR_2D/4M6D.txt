@@ -1,0 +1,42 @@
+Title			CRYSTAL STRUCTURE OF THE APTAMER MINF-LYSOZYME COMPLEX. 
+Chain order		B D F H J L 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+			D	RNA	D 
+			F	RNA	F 
+			H	RNA	H 
+			J	RNA	J 
+			L	RNA	L 
+Pseudoknot		YES
+
+Whole structure
+>4M6D nts=250 [whole]
+GCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC&GGCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC&GCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC&GGCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC&GCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC&GGCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGCC
+..(.((.......((((.(.[.(..])..).)))))).)..&.(((.((.......((((.(.[.(..])..).)))))).)))&..(.((.......((((.(.[.(..])..).)))))).)..&.(((.((.......((((.(.[.(..])..).)))))).)))&.((.((.......((((.(.[.(..])..).)))))).)).&.(((.((.......((.(.(.[.(..])..).).)))).))).
+
+Interacting substructures
+Chain B 
+GCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC
+..(.((.......((((.(.[.(..])..).)))))).)..
+
+Chain D 
+GGCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC
+.(((.((.......((((.(.[.(..])..).)))))).)))
+
+Chain F 
+GCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC
+..(.((.......((((.(.[.(..])..).)))))).)..
+
+Chain H 
+GGCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC
+.(((.((.......((((.(.[.(..])..).)))))).)))
+
+Chain J 
+GCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGC
+.((.((.......((((.(.[.(..])..).)))))).)).
+
+Chain L 
+GGCGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACGCC
+.(((.((.......((.(.(.[.(..])..).).)))).))).
+

@@ -1,0 +1,22 @@
+Title			X-RAY CRYSTAL STRUCTURE OF THE M6C" RIBOSWITCH APTAMER BOUND TO 2- AMINOPYRIMIDO[4,5-D]PYRIMIDIN-4(3H)-ONE (PPAO) 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal			Mg	5
+Chains			A-1	RNA[71]/1*	A-1 
+			A-2	RNA[71]/1*	
+Pseudoknot		YES
+
+Whole structure
+>4LX6 nts=72 [whole]
+GGCUUCAUAUAAUCCGAAUGAUAUGGUUUCGGAGCUUCCACCAAGAGCCUUAAACUCUUGACUAUGAAGUC&t
+((((((((((..((((((......[[.))))))[.....)]((((((]].....))))))..)))))))))&.
+
+Interacting substructures
+Chain A-1 
+GGCUUCAUAUAAUCCGAAUGAUAUGGUUUCGGAGCUUCCACCAAGAGCCUUAAACUCUUGACUAUGAAGUC
+((((((((((..((((((......[[.))))))[.....)]((((((]].....))))))..)))))))))
+
+Chain A-2 
+t
+.
+

@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF THE VIRUS LIKE PARTICLE OF FLOCK HOUSE VIRUS 
+Chain order		R A B C 
+Amino acids		YES
+Metal			Ca	4
+Chains			R	RNA	
+			A			
+			B			
+			C			
+Pseudoknot		NO
+
+Whole structure
+>4FSJ nts=17 [whole]
+UUCUCUUUUAUCUU&c&c&c
+..............&.&.&.
+
+Interacting substructures
+Chain R 
+UUCUCUUUUAUCUU
+..............
+
+Chain A 
+c
+.
+
+Chain B 
+c
+.
+
+Chain C 
+c
+.
+

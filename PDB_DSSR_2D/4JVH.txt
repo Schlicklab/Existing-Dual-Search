@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE STAR DOMAIN OF QUAKING PROTEIN IN COMPLEX WITH RNA 
+Chain order		D 
+Amino acids		YES
+Metal
+Chains			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4JVH nts=8 [whole]
+ACUAACAA
+........
+
+Interacting substructures
+Chain D 
+ACUAACAA
+........
+

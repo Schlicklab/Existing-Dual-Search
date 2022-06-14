@@ -1,0 +1,30 @@
+Title			CRYSTAL STRUCTURE OF 2-SELENOURIDINE CONTAINING RNA 
+Chain order		A B D E C F 
+Amino acids		NO
+Metal			K	2
+Chains			A	RNA	B 
+			B	RNA	A 
+			D	RNA	C 
+			E	RNA	F 
+			C	RNA	D 
+			F	RNA	E 
+Pseudoknot		YES
+
+Whole structure
+>4JAH nts=48 [whole]
+GUGUAuAC&GUGUAuAC&GUGUAuAC&GUGUAuAC&GUGUAuAC&GUGUAuAC
+..((((((&..))))))&..((((((&..[[[[[[&..))))))&..]]]]]]
+
+Interacting substructures
+Chain A B 
+GUGUAuACGUGUAuAC
+..((((((..))))))
+
+Chain D C 
+GUGUAuACGUGUAuAC
+..((((((..))))))
+
+Chain E F 
+GUGUAuACGUGUAuAC
+..[[[[[[..]]]]]]
+

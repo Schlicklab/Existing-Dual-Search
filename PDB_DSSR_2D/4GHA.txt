@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF MARBURG VIRUS VP35 RNA BINDING DOMAIN BOUND TO 12-BP DSRNA 
+Chain order		I J 
+Amino acids		YES
+Metal
+Chains			I	RNA	J 
+			J	RNA	I 
+Pseudoknot		NO
+
+Whole structure
+>4GHA nts=24 [whole]
+CUAGACGUCUAG&CUAGACGUCUAG
+((((((((((((&))))))))))))
+
+Interacting substructures
+Chain I J 
+CUAGACGUCUAGCUAGACGUCUAG
+(((((((((((())))))))))))
+

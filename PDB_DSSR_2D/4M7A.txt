@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF LSM2-8 COMPLEX BOUND TO THE 3' END SEQUENCE OF U6 SNRNA 
+Chain order		O P 
+Amino acids		YES
+Metal
+Chains			O	RNA	
+			P	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4M7A nts=10 [whole]
+GUUUU&GUUUU
+.....&.....
+
+Interacting substructures
+Chain O 
+GUUUU
+.....
+
+Chain P 
+GUUUU
+.....
+

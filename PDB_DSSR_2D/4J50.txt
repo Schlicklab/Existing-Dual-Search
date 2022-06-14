@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF AN EXPANDED RNA CAG REPEAT 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>4J50 nts=38 [whole]
+UUGGGCCAGCAGCAGGUCC&UUGGGCCAGCAGCAGGUCC
+..(((((.((.((.(((((&..))))).)).)).)))))
+
+Interacting substructures
+Chain A B 
+UUGGGCCAGCAGCAGGUCCUUGGGCCAGCAGCAGGUCC
+..(((((.((.((.(((((..))))).)).)).)))))
+

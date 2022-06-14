@@ -1,0 +1,28 @@
+Title			NAB2 ZN FINGERS COMPLEXED WITH POLYADENOSINE 
+Chain order		C D E 
+Amino acids		YES
+Metal			Mg	4
+			Zn	6
+Chains			C	RNA	
+			D	RNA	
+			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4LJ0 nts=10 [whole]
+AAAA&AAAA&AA
+....&....&..
+
+Interacting substructures
+Chain C 
+AAAA
+....
+
+Chain D 
+AAAA
+....
+
+Chain E 
+AA
+..
+

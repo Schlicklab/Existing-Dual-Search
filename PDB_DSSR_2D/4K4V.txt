@@ -1,0 +1,24 @@
+Title			POLIOVIRUS POLYMERASE ELONGATION COMPLEX (R5+1_FORM) 
+Chain order		B C F G 
+Amino acids		YES
+Metal
+Chains			B	RNA	C 
+			C	RNA[9]/1	B 
+			F	RNA	G 
+			G	RNA[9]/1	F 
+Pseudoknot		NO
+
+Whole structure
+>4K4V nts=46 [whole]
+AGGUCUCUCUCGU&CGAGAGAGAC&AGGUCUCUCUCGU&CGAGAGAGAC
+..((((((((((.&))))))))))&..((((((((((.&))))))))))
+
+Interacting substructures
+Chain B C 
+AGGUCUCUCUCGUCGAGAGAGAC
+..((((((((((.))))))))))
+
+Chain F G 
+AGGUCUCUCUCGUCGAGAGAGAC
+..((((((((((.))))))))))
+

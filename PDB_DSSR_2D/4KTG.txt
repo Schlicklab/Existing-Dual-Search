@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF DOUBLE-HELICAL GGC-REPETITIVE RNA 19MER COMPLEXED WITH RSS P19 
+Chain order		B E 
+Amino acids		YES
+Metal
+Chains			B	RNA	E 
+			E	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>4KTG nts=38 [whole]
+GCGGCGGCGGCGGCGGCGC&GCGGCGGCGGCGGCGGCGC
+(((.((.((.((.((.(((&))).)).)).)).)).)))
+
+Interacting substructures
+Chain B E 
+GCGGCGGCGGCGGCGGCGCGCGGCGGCGGCGGCGGCGC
+(((.((.((.((.((.((())).)).)).)).)).)))
+

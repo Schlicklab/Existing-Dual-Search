@@ -1,0 +1,23 @@
+Title			STRUCTURE OF A CLASS II PREQ1 RIBOSWITCH REVEALS LIGAND RECOGNITION BY A NEW FOLD 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal			Mg	4
+			Cs	15
+Chains			A-1	RNA[77]/1*	A-1 
+			A-2	RNA[77]/1*	
+Pseudoknot		YES
+
+Whole structure
+>4JF2 nts=78 [whole]
+gGAACCGCGAAAGCGGUUCCACGACGAUACUUAUUUCCUUUGAUCGUCGUUAUUACUGGCUUCGGCCACAAAGGAGA&g
+((((((((....))))))))((((((((.......[[[[[..))))))))......((((....))))..]]]]]..&.
+
+Interacting substructures
+Chain A-1 
+gGAACCGCGAAAGCGGUUCCACGACGAUACUUAUUUCCUUUGAUCGUCGUUAUUACUGGCUUCGGCCACAAAGGAGA
+((((((((....))))))))((((((((.......[[[[[..))))))))......((((....))))..]]]]]..
+
+Chain A-2 
+g
+.
+

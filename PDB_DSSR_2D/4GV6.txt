@@ -1,0 +1,19 @@
+Title			STRUCTURES OF LASSA AND TACARIBE VIRAL NUCLEOPROTEINS WITH OR WITHOUT 5 TRIPHOSPHATE DSRNA SUBSTRATE REVEAL A UNIQUE 3 -5 EXORIBONUCLEASE MECHANISM TO SUPPRESS TYPE I INTERFERON PRODUCTION 
+Chain order		B C 
+Amino acids		YES
+Metal			Mn	1
+			Zn	1
+Chains			B	RNA	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>4GV6 nts=8 [whole]
+gGGC&GCCC
+((((&))))
+
+Interacting substructures
+Chain B C 
+gGGCGCCC
+(((())))
+

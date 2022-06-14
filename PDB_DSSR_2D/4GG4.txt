@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE TAL EFFECTOR DHAX3 BOUND TO SPECIFIC DNA-RNA HYBRID 
+Chain order		G H 
+Amino acids		YES
+Metal
+Chains			G	DNA	H 
+			H	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>4GG4 nts=33 [whole]
+TGTCCCTTTATCTCTCT&GAGAGAUAAAGGGACA
+((((((((((((((((.&))))))))))))))))
+
+Interacting substructures
+Chain G H 
+TGTCCCTTTATCTCTCTGAGAGAUAAAGGGACA
+((((((((((((((((.))))))))))))))))
+

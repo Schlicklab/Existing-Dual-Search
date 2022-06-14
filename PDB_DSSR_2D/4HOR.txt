@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF FULL-LENGTH HUMAN IFIT5 WITH 5`-TRIPHOSPHATE OLIGOCYTIDINE 
+Chain order		X 
+Amino acids		YES
+Metal			Mg	1
+Chains			X	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4HOR nts=4 [whole]
+cCCC
+....
+
+Interacting substructures
+Chain X 
+cCCC
+....
+

@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE APTAMER MINE-LYSOZYME COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal			Na	1
+			Mg	2
+Chains			B	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>4M4O nts=59 [whole]
+GGGUUCAUCAGGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACUUGACGAACCC
+((((((.(((((.((.......((((.(.[.(..])..).)))))).))))).))))))
+
+Interacting substructures
+Chain B 
+GGGUUCAUCAGGGCUAAAGAGUGCAGAGUUACUUAGUUCACUGCAGACUUGACGAACCC
+((((((.(((((.((.......((((.(.[.(..])..).)))))).))))).))))))
+

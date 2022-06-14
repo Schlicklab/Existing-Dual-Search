@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF A 4-THIOURIDINE SYNTHETASE - RNA COMPLEX 
+Chain order		C D 
+Amino acids		YES
+Metal			Hg	4
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>4KR6 nts=78 [whole]
+GCCCGGAUAGUGUCCUUGGGAAACCAAGUCCGGGCACCA&GCCCGGAUAGUGUCCUUGGGAAACCAAGUCCGGGCACCA
+((((((((.......((((....))))))))))))....&((((((((.........((....))..))))))))....
+
+Interacting substructures
+Chain C 
+GCCCGGAUAGUGUCCUUGGGAAACCAAGUCCGGGCACCA
+((((((((.......((((....))))))))))))....
+
+Chain D 
+GCCCGGAUAGUGUCCUUGGGAAACCAAGUCCGGGCACCA
+((((((((.........((....))..))))))))....
+

@@ -1,0 +1,199 @@
+Title			? 
+Chain order		P Q R S T V X Y a e g h i m n u y z 1 4 5 6 7-1 7-2 7-3 7-4 7-5 7-6 7-7 7-8 8 QQ RR SS TT UU WW ZZ bb dd hh jj kk ll pp qq yy 
+Amino acids		YES
+Metal
+Chains			P	RNA	e 
+			Q	RNA	
+			R	RNA	g 
+			S	RNA	h 
+			T	RNA	i 
+			V	RNA	
+			X	RNA	m 
+			Y	RNA	n 
+			a	RNA	
+			e	RNA	P 
+			g	RNA	R 
+			h	RNA	S 
+			i	RNA	T 
+			m	RNA	X 
+			n	RNA	Y 
+			u	RNA	
+			y	RNA	
+			z	RNA	
+			1	RNA	
+			4	RNA	
+			5	RNA	
+			6	RNA	
+			7-1	RNA*	
+			7-2	RNA*	
+			7-3	RNA*	
+			7-4	RNA*	
+			7-5	RNA*	
+			7-6	RNA*	
+			7-7	RNA*	
+			7-8	RNA*	
+			8	RNA	
+			QQ	RNA	hh 
+			RR	RNA	
+			SS	RNA	jj 
+			TT	RNA	kk 
+			UU	RNA	ll 
+			WW	RNA	
+			ZZ	RNA	pp 
+			bb	RNA	qq 
+			dd	RNA	
+			hh	RNA	QQ 
+			jj	RNA	SS 
+			kk	RNA	TT 
+			ll	RNA	UU 
+			pp	RNA	ZZ 
+			qq	RNA	bb 
+			yy	RNA	
+Pseudoknot		YES
+
+Whole structure
+>7M57 nts=317 [whole]
+AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&UUUUUUUUUU&UUUUUUUUUU&UUUUUUUUUU&UUUUUUUUUU&UUUUUUUUUU&UUUUUUUUUU&U&U&U&U&U&U&U&U&U&U&U&U&U&U&U&U&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&AAAAAAAAAA&UUUUUUUUUU&UUUUUUUUUU&UUUUUUUUUU&UUUUUUUUUU&UUUUUUUUUU&UUUUUUUUUU&U
+...<<<<<<.&..........&...((((((.&...{{{{{{.&...BBBBB..&..........&...AAAAA..&...[[[[[[.&..........&>>>>>>....&))))))....&}}}}}}....&.bbbbb....&.aaaaa....&]]]]]]....&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&...{{{{{{.&..........&(((((((((.&...<<<<<<.&...AAAAA..&..........&...BBBB.B.&...[[[[[[.&..........&}}}}}}....&))))))))).&>>>>>>....&.aaaaa....&bbb.bb....&]]]]]]....&.
+
+Interacting substructures
+Chain P e 
+AAAAAAAAAAUUUUUUUUUU
+...<<<<<<.>>>>>>....
+
+Chain Q 
+AAAAAAAAAA
+..........
+
+Chain R g 
+AAAAAAAAAAUUUUUUUUUU
+...((((((.))))))....
+
+Chain S h 
+AAAAAAAAAAUUUUUUUUUU
+...{{{{{{.}}}}}}....
+
+Chain T i 
+AAAAAAAAAAUUUUUUUUUU
+...BBBBB...bbbbb....
+
+Chain V 
+AAAAAAAAAA
+..........
+
+Chain X m 
+AAAAAAAAAAUUUUUUUUUU
+...AAAAA...aaaaa....
+
+Chain Y n 
+AAAAAAAAAAUUUUUUUUUU
+...[[[[[[.]]]]]]....
+
+Chain a 
+AAAAAAAAAA
+..........
+
+Chain u 
+U
+.
+
+Chain y 
+U
+.
+
+Chain z 
+U
+.
+
+Chain 1 
+U
+.
+
+Chain 4 
+U
+.
+
+Chain 5 
+U
+.
+
+Chain 6 
+U
+.
+
+Chain 7-1 
+U
+.
+
+Chain 7-2 
+U
+.
+
+Chain 7-3 
+U
+.
+
+Chain 7-4 
+U
+.
+
+Chain 7-5 
+U
+.
+
+Chain 7-6 
+U
+.
+
+Chain 7-7 
+U
+.
+
+Chain 7-8 
+U
+.
+
+Chain 8 
+U
+.
+
+Chain QQ hh 
+AAAAAAAAAAUUUUUUUUUU
+...{{{{{{.}}}}}}....
+
+Chain RR 
+AAAAAAAAAA
+..........
+
+Chain SS jj 
+AAAAAAAAAAUUUUUUUUUU
+(((((((((.))))))))).
+
+Chain TT kk 
+AAAAAAAAAAUUUUUUUUUU
+...<<<<<<.>>>>>>....
+
+Chain UU ll 
+AAAAAAAAAAUUUUUUUUUU
+...AAAAA...aaaaa....
+
+Chain WW 
+AAAAAAAAAA
+..........
+
+Chain ZZ pp 
+AAAAAAAAAAUUUUUUUUUU
+...BBBB.B.bbb.bb....
+
+Chain bb qq 
+AAAAAAAAAAUUUUUUUUUU
+...[[[[[[.]]]]]]....
+
+Chain dd 
+AAAAAAAAAA
+..........
+
+Chain yy 
+U
+.
+

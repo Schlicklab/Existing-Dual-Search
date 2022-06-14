@@ -1,0 +1,27 @@
+Title			STRUCTURE OF HUMAN TRANSFER RNA VISUALIZED IN THE CYTOMEGALOVIRUS, A DNA VIRUS 
+Chain order		A B C 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+			B	RNA	B 
+			C	RNA	C 
+Pseudoknot		YES
+
+Whole structure
+>7LJ3 nts=225 [whole]
+UCCCUGGUGGUCUAGUGGUUAGGAUUCGGCGCUCUCACCGCCGCGGCCCGGGUUCGAUUCCCGGUCAGGGAACCA&UCCCUGGUGGUCUAGUGGUUAGGAUUCGGCGCUCUCACCGCCGCGGCCCGGGUUCGAUUCCCGGUCAGGGAACCA&UCCCUGGUGGUCUAGUGGUUAGGAUUCGGCGCUCUCACCGCCGCGGCCCGGGUUCGAUUCCCGGUCAGGGAACCA
+(((((((..(.((....[...)).).(((((.......)))))....(((((..]....))))))))))))....&(((((((..(.((....[...)).).(((((.......)))))....(((((..]....))))))))))))....&(((((((..(.((....[...)).).(((((.......)))))....(((((..]....))))))))))))....
+
+Interacting substructures
+Chain A 
+UCCCUGGUGGUCUAGUGGUUAGGAUUCGGCGCUCUCACCGCCGCGGCCCGGGUUCGAUUCCCGGUCAGGGAACCA
+(((((((..(.((....[...)).).(((((.......)))))....(((((..]....))))))))))))....
+
+Chain B 
+UCCCUGGUGGUCUAGUGGUUAGGAUUCGGCGCUCUCACCGCCGCGGCCCGGGUUCGAUUCCCGGUCAGGGAACCA
+(((((((..(.((....[...)).).(((((.......)))))....(((((..]....))))))))))))....
+
+Chain C 
+UCCCUGGUGGUCUAGUGGUUAGGAUUCGGCGCUCUCACCGCCGCGGCCCGGGUUCGAUUCCCGGUCAGGGAACCA
+(((((((..(.((....[...)).).(((((.......)))))....(((((..]....))))))))))))....
+

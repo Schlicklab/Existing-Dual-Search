@@ -1,0 +1,22 @@
+Title			CRYO-EM STRUCTURE OF EPHYDATIA FLUVIATILIS PIWIA-PIRNA COMPLEX 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal			Mg	2
+Chains			B-1	RNA*	
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>7KX7 nts=7 [whole]
+UCUC&AGc
+....&...
+
+Interacting substructures
+Chain B-1 
+UCUC
+....
+
+Chain B-2 
+AGc
+...
+

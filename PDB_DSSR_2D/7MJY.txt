@@ -1,0 +1,27 @@
+Title			MIAB IN THE COMPLEX WITH S-ADENOSYL-L-HOMOCYSTEINE AND RNA 
+Chain order		M-1 M-2 A 
+Amino acids		YES
+Metal			Fe	7
+Chains			M-1	RNA*	
+			M-2	RNA*	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>7MJY nts=6 [whole]
+U&AAUC&a
+.&....&.
+
+Interacting substructures
+Chain M-1 
+U
+.
+
+Chain M-2 
+AAUC
+....
+
+Chain A 
+a
+.
+

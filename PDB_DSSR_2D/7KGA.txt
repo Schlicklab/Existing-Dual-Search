@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF A MOSQUITO-BORNE FLAVIVIRUS DUMBBELL RNA 
+Chain order		A B 
+Amino acids		NO
+Metal			Ir	44
+Chains			A	RNA	B A 
+			B	RNA	B A 
+Pseudoknot		YES
+
+Whole structure
+>7KGA nts=179 [whole]
+GGGGGCCAGAUGUCAUGUCUCUCAAGCCUAGGAGACACUAGACACUCUGGACUAUCGGUUAGAGGAAACCCCCCCAAAAAUGUAUAGGC&GGGGGCCAGAUGUCAUGUCUCUCAAGCCUAGGAGACACUAGACACUCUGGACUAUCGGUUAGAGGAAACCCCCCCAAAAAUGUAUAGGCU
+((((((((((((((((((((((...[[[[.))))))).).)))).)))))<((.<.{{{....)).{{{{)))))..........]]]]&((((((((((((((((((((((...[[[[[))))))).).)))).)))))>((.>.}}}}...))..}}}))))).........]]]]].
+
+Interacting substructures
+Chain A B 
+GGGGGCCAGAUGUCAUGUCUCUCAAGCCUAGGAGACACUAGACACUCUGGACUAUCGGUUAGAGGAAACCCCCCCAAAAAUGUAUAGGCGGGGGCCAGAUGUCAUGUCUCUCAAGCCUAGGAGACACUAGACACUCUGGACUAUCGGUUAGAGGAAACCCCCCCAAAAAUGUAUAGGCU
+((((((((((((((((((((((...[[[[.))))))).).)))).)))))<((.<.{{{....)).{{{{)))))..........]]]]((((((((((((((((((((((...[[[[[))))))).).)))).)))))>((.>.}}}}...))..}}}))))).........]]]]].
+

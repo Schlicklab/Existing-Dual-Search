@@ -1,0 +1,22 @@
+Title			INTERACTION BETWEEN A FLUOROQUINOLONE DERIVATIVE AND RNAS WITH A SINGLE BULGE 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal
+Chains			A-1	RNA[20]/1*	A-1 
+			A-2	RNA[20]/1*	
+Pseudoknot		NO
+
+Whole structure
+>7FJ0 nts=21 [whole]
+GGAUGCUUACUCAGCGAUCC&t
+(((((((.....))).))))&.
+
+Interacting substructures
+Chain A-1 
+GGAUGCUUACUCAGCGAUCC
+(((((((.....))).))))
+
+Chain A-2 
+t
+.
+

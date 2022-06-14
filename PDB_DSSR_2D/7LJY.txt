@@ -1,0 +1,18 @@
+Title			CRYO-EM STRUCTURE OF THE B DENE CONSTRUCT COMPLEXED WITH A 28-MER POLY(A) 
+Chain order		B A 
+Amino acids		NO
+Metal
+Chains			B	RNA	B A 
+			A	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>7LJY nts=101 [whole]
+GGGUACUCUUUUCUUUGUCAUGGUUUUCUCAGGCGAAAGUCUGAGUUUUUACAUGACAAAGUUUUUAACGAGGCCC&AAAAAAAAAAAAAAAAAAAAAAAAA
+((((.((([[[[.(((((((((...[[(((((.(....).)))))......))))))))).........)))))))&......]].............]]]]
+
+Interacting substructures
+Chain B A 
+GGGUACUCUUUUCUUUGUCAUGGUUUUCUCAGGCGAAAGUCUGAGUUUUUACAUGACAAAGUUUUUAACGAGGCCCAAAAAAAAAAAAAAAAAAAAAAAAA
+((((.((([[[[.(((((((((...[[(((((.(....).)))))......))))))))).........)))))))......]].............]]]]
+

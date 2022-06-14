@@ -1,0 +1,35 @@
+Title			CRYO-EM STRUCTURE OF RIG-I:DSRNA FILAMENT IN COMPLEX WITH RIPLET PRYSPRY DOMAIN (TRIMER) 
+Chain order		X Y A C E 
+Amino acids		YES
+Metal			Mg	3
+			Al	3
+			Zn	3
+Chains			X	RNA	Y 
+			Y	RNA	X 
+			A			
+			C			
+			E			
+Pseudoknot		NO
+
+Whole structure
+>7JL3 nts=87 [whole]
+GACUGACUGACUGAGACUGACUGACUGAGACUGACUGACUGA&UCAGUCAGUCAGUCUCAGUCAGUCAGUCUCAGUCAGUCAGUC&a&a&a
+((((((((((((((((((((((((((((((((((((((((((&))))))))))))))))))))))))))))))))))))))))))&.&.&.
+
+Interacting substructures
+Chain X Y 
+GACUGACUGACUGAGACUGACUGACUGAGACUGACUGACUGAUCAGUCAGUCAGUCUCAGUCAGUCAGUCUCAGUCAGUCAGUC
+(((((((((((((((((((((((((((((((((((((((((())))))))))))))))))))))))))))))))))))))))))
+
+Chain A 
+a
+.
+
+Chain C 
+a
+.
+
+Chain E 
+a
+.
+

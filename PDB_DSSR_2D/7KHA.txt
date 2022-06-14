@@ -1,0 +1,17 @@
+Title			CRYO-EM STRUCTURE OF THE DESULFOVIBRIO VULGARIS TYPE I-C APO CASCADE 
+Chain order		J 
+Amino acids		YES
+Metal
+Chains			J	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7KHA nts=45 [whole]
+UGGAUUGAAACGCCAUGCUCAGGCUGGCGAGUGCGCCACUCAUCA
+.............................................
+
+Interacting substructures
+Chain J 
+UGGAUUGAAACGCCAUGCUCAGGCUGGCGAGUGCGCCACUCAUCA
+.............................................
+

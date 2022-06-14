@@ -1,0 +1,17 @@
+Title			CRYO-EM STRUCTURE OF THE PRE-MRNA-LOADED DEAH-BOX ATPASE/HELICASE PRP2 IN COMPLEX WITH SPP2 
+Chain order		G 
+Amino acids		YES
+Metal
+Chains			G	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7DD3 nts=8 [whole]
+UUUUUUUU
+........
+
+Interacting substructures
+Chain G 
+UUUUUUUU
+........
+

@@ -1,0 +1,21 @@
+Title			RNA POLYMERASE III EC COMPLEX IN POST-TRANSLOCATION STATE 
+Chain order		X Y R 
+Amino acids		YES
+Metal			Mg	1
+			Fe	4
+			Zn	6
+Chains			X	DNA	Y 
+			Y	DNA	X R 
+			R	RNA	Y 
+Pseudoknot		NO
+
+Whole structure
+>7DU2 nts=36 [whole]
+GTCTGATCTCGGAA&TTCCGAGATCAGACGAGAT&AUC
+(((.((((((((((&)))))))))).)))..(((&)))
+
+Interacting substructures
+Chain X Y R 
+GTCTGATCTCGGAATTCCGAGATCAGACGAGATAUC
+(((.(((((((((()))))))))).)))..((()))
+

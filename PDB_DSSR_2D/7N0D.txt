@@ -1,0 +1,27 @@
+Title			CRYO-EM STRUCTURE OF THE TETRAMERIC FORM OF SARS-COV-2 NSP10-NSP14 (E191A)-RNA COMPLEX 
+Chain order		T K P I L J 
+Amino acids		YES
+Metal			Mg	6
+			Zn	20
+Chains			T	RNA	K P 
+			K	RNA	T 
+			P	RNA	T 
+			I	RNA	J L 
+			L	RNA	I 
+			J	RNA	I 
+Pseudoknot		NO
+
+Whole structure
+>7N0D nts=76 [whole]
+GGGGAUGUGAUUUUAAUAG&CUAUUAAAAUCACC&CCCCC&GGGGAUGUGAUUUUAAUAG&CUAUUAAAAUCACC&CCCCC
+((((..(((((((((((((&))))))))))))).&)))).&((((..(((((((((((((&))))))))))))).&)))).
+
+Interacting substructures
+Chain T K P 
+GGGGAUGUGAUUUUAAUAGCUAUUAAAAUCACCCCCCC
+((((..((((((((((((())))))))))))).)))).
+
+Chain I L J 
+GGGGAUGUGAUUUUAAUAGCUAUUAAAAUCACCCCCCC
+((((..((((((((((((())))))))))))).)))).
+

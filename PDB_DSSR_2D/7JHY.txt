@@ -1,0 +1,17 @@
+Title			TYPE IV-B CRISPR COMPLEX 
+Chain order		z 
+Amino acids		YES
+Metal
+Chains			z	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7JHY nts=31 [whole]
+AUUUUUUUUUAUUAUUUUUAUUUUUUAUUUU
+...............................
+
+Interacting substructures
+Chain z 
+AUUUUUUUUUAUUAUUUUUAUUUUUUAUUUU
+...............................
+

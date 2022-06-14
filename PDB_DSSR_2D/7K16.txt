@@ -1,0 +1,18 @@
+Title			TAMANA BAT VIRUS XRRNA1 
+Chain order		P 
+Amino acids		NO
+Metal			Na	1
+			Mg	5
+Chains			P	RNA	P 
+Pseudoknot		YES
+
+Whole structure
+>7K16 nts=51 [whole]
+gGCAAGGUACGGCGAAAGCCGUAGGGGCUUGAGAACCCCCCCUCCCCACUC
+{{...((((((((....))))))((((...[[[...))))}}.))...]]]
+
+Interacting substructures
+Chain P 
+gGCAAGGUACGGCGAAAGCCGUAGGGGCUUGAGAACCCCCCCUCCCCACUC
+{{...((((((((....))))))((((...[[[...))))}}.))...]]]
+

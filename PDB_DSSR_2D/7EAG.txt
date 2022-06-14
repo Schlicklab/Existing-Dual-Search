@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE RAGATH-18 K-TURN 
+Chain order		C D A B E F 
+Amino acids		NO
+Metal
+Chains			C	RNA	A D 
+			D	RNA	C E 
+			A	RNA	B C 
+			B	RNA	A 
+			E	RNA	F D 
+			F	RNA	E 
+Pseudoknot		YES
+
+Whole structure
+>7EAG nts=95 [whole]
+GUCUAUGAAGGCUGGAGAC&GUCUAUGAAGGCUGGAGAC&GUCUAUGAAGG&CUGGAGAC&GUCUAUGAAGGCUGGAGAC&GUCUAUGAAGGCUGGAGAC
+(((..[...((((...(((&)))..{...))))...)))&(((....].((&))...)))&(((....}.((((...(((&)))......))))...)))
+
+Interacting substructures
+Chain C D A B E F 
+GUCUAUGAAGGCUGGAGACGUCUAUGAAGGCUGGAGACGUCUAUGAAGGCUGGAGACGUCUAUGAAGGCUGGAGACGUCUAUGAAGGCUGGAGAC
+(((..[...((((...((()))..{...))))...)))(((....].(())...)))(((....}.((((...((()))......))))...)))
+

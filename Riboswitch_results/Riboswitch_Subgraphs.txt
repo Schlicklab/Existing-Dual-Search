@@ -1,0 +1,35 @@
+Coenzymes	2GDI	TPP	2_2	3_5	4_16	5_32														
+	4FRN	AqCbl	7_1329																	
+	5FJC	SAM-I	2_2	6_369	7_2019															
+	6UES	SAM-IV	7_2245																	
+	4OQU	SAM-I/IV	7_1219																	
+	2QWY	SAM-II	3_8																	
+	6FZ0	SAM-V	3_6																	
+	3E5C	SAM-III	2_2	3_5	4_16															
+	6HAG	SAM-SAH	2_3																	
+	3NPQ	SAH	3_6																	
+	5C45	FMN	5_49	9_38597																
+	3SUX	THF	4_25																	
+Signaling molecules	4ZNP	ZTP	4_25																	
+	3MXH	C-di-GMP-I	2_2	3_4	3_5	4_16	5_32	5_62	6_263											
+	3Q3Z	C-di-GMP-II	5_68																	
+	4YAZ	C-AMP-GMP	2_2	3_4	3_5	4_16	5_32	5_62	6_109	6_263	7_1119									
+	4QLM	C-di-AMP	6_281																	
+Amino acids	5DDP	Glutamine	3_5																	
+	3OXE	Glycine	2_2	3_4	3_5	4_16	5_62													
+	3D0U	Lysine	7_2329																	
+Nucleotide	6E1S	PreQ1-I	1_1																	
+	4JF2	PreQ1-II	2_1	3_6	4_12															
+	4RZD	preQ1-III	4_20																	
+	4FEN	Guanine	4_27																	
+	1Y26	Adenine	4_27																	
+	3SKI	2'-dG-I	4_27																	
+	6P2H	2'-dG-II	4_27																	
+Ions	4ENC	Fluoride	3_6																	
+	6CB3	Mn2+	2_2	4_19	5_21	6_91														
+	3PDR	Mg2+-I	2_2	3_4	3_5	4_14	4_16	5_62	5_9	5_96	6_372	6_57	7_2141	7_222	7_993	8_3679	8_7722	9_18405	9_30106	
+	4RUM	NiCo	2_2	4_19	5_21															
+Other metabolites	5T83	Guanidine-I	2_1	2_2	3_1	3_2	3_4	4_14	4_2	4_8	5_48	5_78	6_311							
+	5VJ9	Guanidine-II	3_8																	
+	5NWQ	Guanidine-III	2_3																	
+	2Z75	glmS	2_1	2_2	3_6	4_12	4_17	4_25	5_28	5_45	7_730	8_2314								

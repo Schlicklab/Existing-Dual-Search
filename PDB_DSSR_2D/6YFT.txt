@@ -1,0 +1,372 @@
+Title			? 
+Chain order		RA-1 RA-2 RB-1 RB-2 RC-1 RC-2 RD-1 RD-2 RE-1 RE-2 RF-1 RF-2 RG-1 RG-2 RH-1 RH-2 RI-1 RI-2 RJ-1 RJ-2 RK-1 RK-2 RL-1 RL-2 RM-1 RM-2 RN-1 RN-2 RO-1 RO-2 RP-1 RP-2 RQ-1 RQ-2 RR-1 RR-2 RS-1 RS-2 RT-1 RT-2 RU-1 RU-2 RV-1 RV-2 RW-1 RW-2 RX-1 RX-2 RY-1 RY-2 RZ-1 RZ-2 SA-1 SA-2 SB-1 SB-2 SC-1 SC-2 SD-1 SD-2 SE-1 SE-2 SF-1 SF-2 SG-1 SG-2 SH-1 SH-2 SI-1 SI-2 SJ-1 SJ-2 SK-1 SK-2 SL-1 SL-2 SM-1 SM-2 SN-1 SN-2 SO-1 SO-2 SP-1 SP-2 SQ-1 SQ-2 SR-1 SR-2 SS-1 SS-2 ST-1 ST-2 SU-1 SU-2 SV-1 SV-2 SW-1 SW-2 SX-1 SX-2 SY-1 SY-2 SZ-1 SZ-2 TA-1 TA-2 TB-1 TB-2 TC-1 TC-2 TD-1 TD-2 TE-1 TE-2 TF-1 TF-2 TG-1 TG-2 TH-1 TH-2 
+Amino acids		YES
+Metal
+Chains			RA-1	RNA*	RA-2 
+			RA-2	RNA*	RA-1 
+			RB-1	RNA*	RB-2 
+			RB-2	RNA*	RB-1 
+			RC-1	RNA*	RC-2 
+			RC-2	RNA*	RC-1 
+			RD-1	RNA*	RD-2 
+			RD-2	RNA*	RD-1 
+			RE-1	RNA*	RE-2 
+			RE-2	RNA*	RE-1 
+			RF-1	RNA*	RF-2 
+			RF-2	RNA*	RF-1 
+			RG-1	RNA*	RG-2 
+			RG-2	RNA*	RG-1 
+			RH-1	RNA*	RH-2 
+			RH-2	RNA*	RH-1 
+			RI-1	RNA*	RI-2 
+			RI-2	RNA*	RI-1 
+			RJ-1	RNA*	RJ-2 
+			RJ-2	RNA*	RJ-1 
+			RK-1	RNA*	RK-2 
+			RK-2	RNA*	RK-1 
+			RL-1	RNA*	RL-2 
+			RL-2	RNA*	RL-1 
+			RM-1	RNA*	RM-2 
+			RM-2	RNA*	RM-1 
+			RN-1	RNA*	RN-2 
+			RN-2	RNA*	RN-1 
+			RO-1	RNA*	RO-2 
+			RO-2	RNA*	RO-1 
+			RP-1	RNA*	RP-2 
+			RP-2	RNA*	RP-1 
+			RQ-1	RNA*	RQ-2 
+			RQ-2	RNA*	RQ-1 
+			RR-1	RNA*	RR-2 
+			RR-2	RNA*	RR-1 
+			RS-1	RNA*	RS-2 
+			RS-2	RNA*	RS-1 
+			RT-1	RNA*	RT-2 
+			RT-2	RNA*	RT-1 
+			RU-1	RNA*	RU-2 
+			RU-2	RNA*	RU-1 
+			RV-1	RNA*	RV-2 
+			RV-2	RNA*	RV-1 
+			RW-1	RNA*	RW-2 
+			RW-2	RNA*	RW-1 
+			RX-1	RNA*	RX-2 
+			RX-2	RNA*	RX-1 
+			RY-1	RNA*	RY-2 
+			RY-2	RNA*	RY-1 
+			RZ-1	RNA*	RZ-2 
+			RZ-2	RNA*	RZ-1 
+			SA-1	RNA*	SA-2 
+			SA-2	RNA*	SA-1 
+			SB-1	RNA*	SB-2 
+			SB-2	RNA*	SB-1 
+			SC-1	RNA*	SC-2 
+			SC-2	RNA*	SC-1 
+			SD-1	RNA*	SD-2 
+			SD-2	RNA*	SD-1 
+			SE-1	RNA*	SE-2 
+			SE-2	RNA*	SE-1 
+			SF-1	RNA*	SF-2 
+			SF-2	RNA*	SF-1 
+			SG-1	RNA*	SG-2 
+			SG-2	RNA*	SG-1 
+			SH-1	RNA*	SH-2 
+			SH-2	RNA*	SH-1 
+			SI-1	RNA*	SI-2 
+			SI-2	RNA*	SI-1 
+			SJ-1	RNA*	SJ-2 
+			SJ-2	RNA*	SJ-1 
+			SK-1	RNA*	SK-2 
+			SK-2	RNA*	SK-1 
+			SL-1	RNA*	SL-2 
+			SL-2	RNA*	SL-1 
+			SM-1	RNA*	SM-2 
+			SM-2	RNA*	SM-1 
+			SN-1	RNA*	SN-2 
+			SN-2	RNA*	SN-1 
+			SO-1	RNA*	SO-2 
+			SO-2	RNA*	SO-1 
+			SP-1	RNA*	SP-2 
+			SP-2	RNA*	SP-1 
+			SQ-1	RNA*	SQ-2 
+			SQ-2	RNA*	SQ-1 
+			SR-1	RNA*	SR-2 
+			SR-2	RNA*	SR-1 
+			SS-1	RNA*	SS-2 
+			SS-2	RNA*	SS-1 
+			ST-1	RNA*	ST-2 
+			ST-2	RNA*	ST-1 
+			SU-1	RNA*	SU-2 
+			SU-2	RNA*	SU-1 
+			SV-1	RNA*	SV-2 
+			SV-2	RNA*	SV-1 
+			SW-1	RNA*	SW-2 
+			SW-2	RNA*	SW-1 
+			SX-1	RNA*	SX-2 
+			SX-2	RNA*	SX-1 
+			SY-1	RNA*	SY-2 
+			SY-2	RNA*	SY-1 
+			SZ-1	RNA*	SZ-2 
+			SZ-2	RNA*	SZ-1 
+			TA-1	RNA*	TA-2 
+			TA-2	RNA*	TA-1 
+			TB-1	RNA*	TB-2 
+			TB-2	RNA*	TB-1 
+			TC-1	RNA*	TC-2 
+			TC-2	RNA*	TC-1 
+			TD-1	RNA*	TD-2 
+			TD-2	RNA*	TD-1 
+			TE-1	RNA*	TE-2 
+			TE-2	RNA*	TE-1 
+			TF-1	RNA*	TF-2 
+			TF-2	RNA*	TF-1 
+			TG-1	RNA*	TG-2 
+			TG-2	RNA*	TG-1 
+			TH-1	RNA*	TH-2 
+			TH-2	RNA*	TH-1 
+Pseudoknot		NO
+
+Whole structure
+>6YFT nts=1200 [whole]
+AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA&AUAUAUAUAU&UAUAUAUAUA
+(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).&(((((((((.&))))))))).
+
+Interacting substructures
+Chain RA-1 RA-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RB-1 RB-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RC-1 RC-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RD-1 RD-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RE-1 RE-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RF-1 RF-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RG-1 RG-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RH-1 RH-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RI-1 RI-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RJ-1 RJ-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RK-1 RK-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RL-1 RL-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RM-1 RM-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RN-1 RN-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RO-1 RO-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RP-1 RP-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RQ-1 RQ-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RR-1 RR-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RS-1 RS-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RT-1 RT-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RU-1 RU-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RV-1 RV-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RW-1 RW-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RX-1 RX-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RY-1 RY-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain RZ-1 RZ-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SA-1 SA-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SB-1 SB-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SC-1 SC-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SD-1 SD-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SE-1 SE-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SF-1 SF-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SG-1 SG-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SH-1 SH-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SI-1 SI-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SJ-1 SJ-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SK-1 SK-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SL-1 SL-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SM-1 SM-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SN-1 SN-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SO-1 SO-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SP-1 SP-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SQ-1 SQ-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SR-1 SR-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SS-1 SS-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain ST-1 ST-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SU-1 SU-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SV-1 SV-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SW-1 SW-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SX-1 SX-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SY-1 SY-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain SZ-1 SZ-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain TA-1 TA-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain TB-1 TB-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain TC-1 TC-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain TD-1 TD-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain TE-1 TE-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain TF-1 TF-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain TG-1 TG-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+
+Chain TH-1 TH-2 
+AUAUAUAUAUUAUAUAUAUA
+(((((((((.))))))))).
+

@@ -1,0 +1,17 @@
+Title			CRYOEM STRUCTURE OF VCCASCASDE-TNIQ COMPLEX 
+Chain order		M 
+Amino acids		YES
+Metal			Zn	2
+Chains			M	RNA[59]/1	M 
+Pseudoknot		NO
+
+Whole structure
+>6UVN nts=60 [whole]
+CUAAGAAAUUCACGGCGGGCUUGAUGUCCGCGUCUACCUGGUUCACUGCCGUGUAGGCAG
+.............................................(((((.....)))))
+
+Interacting substructures
+Chain M 
+CUAAGAAAUUCACGGCGGGCUUGAUGUCCGCGUCUACCUGGUUCACUGCCGUGUAGGCAG
+.............................................(((((.....)))))
+

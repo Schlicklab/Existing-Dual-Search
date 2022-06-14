@@ -1,0 +1,18 @@
+Title			CO-CRYSTAL STRUCTURE OF THE FLUOROGENIC MANGO-IV HOMODIMER BOUND TO TO1-BIOTIN 
+Chain order		B D 
+Amino acids		NO
+Metal			K	4
+Chains			B	RNA[27]/1	D 
+			D	RNA[25]/1	B 
+Pseudoknot		NO
+
+Whole structure
+>6V9B nts=54 [whole]
+AUCGAGGGAGUGGUGAGGAUGAGGCGAU&AUCGAGGGAGUGGUGAGGAUGAGGCG
+.((((.......................&.)))).....................
+
+Interacting substructures
+Chain B D 
+AUCGAGGGAGUGGUGAGGAUGAGGCGAUAUCGAGGGAGUGGUGAGGAUGAGGCG
+.((((........................)))).....................
+

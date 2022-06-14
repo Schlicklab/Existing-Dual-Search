@@ -1,0 +1,17 @@
+Title			CONSTITUTIVE DECAY ELEMENT CDE1 FROM HUMAN 3'UTR 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6XWW nts=19 [whole]
+GGAAAUUAUAUUAAUUUCC
+((((((((...))))))))
+
+Interacting substructures
+Chain A 
+GGAAAUUAUAUUAAUUUCC
+((((((((...))))))))
+

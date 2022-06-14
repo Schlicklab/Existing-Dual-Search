@@ -1,0 +1,20 @@
+Title			CRYO-EM STRUCTURE OF BACILLUS SUBTILIS RNA POLYMERASE ELONGATION COMPLEX 
+Chain order		T R N 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			T	DNA	R N 
+			R	RNA	T 
+			N	DNA	T 
+Pseudoknot		NO
+
+Whole structure
+>6WVJ nts=37 [whole]
+TGTCGGGCGTCCGCGCGCC&GGCGCGCG&ACGCCCGACA
+((((((((((.((((((((&))))))))&))))))))))
+
+Interacting substructures
+Chain T R N 
+TGTCGGGCGTCCGCGCGCCGGCGCGCGACGCCCGACA
+((((((((((.(((((((())))))))))))))))))
+

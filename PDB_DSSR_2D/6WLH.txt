@@ -1,0 +1,17 @@
+Title			RNA COMPLEX OF WT1 ZINC FINGER TRANSCRIPTION FACTOR 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	4
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6WLH nts=29 [whole]
+GGGCCACCAACGACAUUGAUAUGGUGCCC
+((((.((((............))))))))
+
+Interacting substructures
+Chain B 
+GGGCCACCAACGACAUUGAUAUGGUGCCC
+((((.((((............))))))))
+

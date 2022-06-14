@@ -1,0 +1,27 @@
+Title			CRYSTAL STRUCTURE OF NOP9 IN COMPLEX WITH ITS1 RNA 
+Chain order		B-1 B-2 C 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	
+			B-2	RNA*	B-2 
+			C	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>6WPI nts=66 [whole]
+AA&UUGAAAAUGCUAAGGAUGAAAGUCUAUGCGUUUCAAC&AAUGCUAAGGAUGAAAGUCUAUGCGUU
+..&(((.((((((...((((....))))..))))))))).&(((((...((((....))))..)))))
+
+Interacting substructures
+Chain B-1 
+AA
+..
+
+Chain B-2 
+UUGAAAAUGCUAAGGAUGAAAGUCUAUGCGUUUCAAC
+(((.((((((...((((....))))..))))))))).
+
+Chain C 
+AAUGCUAAGGAUGAAAGUCUAUGCGUU
+(((((...((((....))))..)))))
+

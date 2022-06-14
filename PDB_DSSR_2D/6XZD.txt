@@ -1,0 +1,18 @@
+Title			? 
+Chain order		IN1-1 IN1-2 
+Amino acids		YES
+Metal
+Chains			IN1-1	RNA*	IN1-1 IN1-2 
+			IN1-2	RNA*	IN1-1 
+Pseudoknot		NO
+
+Whole structure
+>6XZD nts=20 [whole]
+AGUAGAAACAAGGG&CCCUGC
+.((....)).((((&))))..
+
+Interacting substructures
+Chain IN1-1 IN1-2 
+AGUAGAAACAAGGGCCCUGC
+.((....)).(((())))..
+

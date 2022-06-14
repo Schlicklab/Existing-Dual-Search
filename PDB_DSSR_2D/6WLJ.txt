@@ -1,0 +1,17 @@
+Title			ATP-TTR-3 WITH AMP MODELS, 9.6 ANGSTROM RESOLUTION 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6WLJ nts=130 [whole]
+GGCGAUAUGGCAUGGAAUCAGCUCAAGGAACUGUGAACGUAUAUCGGGCAACGACUAGGAAACUAGUCGUUGGGAAGAAACUGCCGAUAUACGGGAGUUCCUUGAGCGGGAGAUUCCAUGCCUAAGUCGC
+.(((((.((((((((((((.((((((((((((.....((((((((((.((((((((((....))))))))))..(......).))))))))))..))))))))))))....)))))))))))..))))))
+
+Interacting substructures
+Chain A 
+GGCGAUAUGGCAUGGAAUCAGCUCAAGGAACUGUGAACGUAUAUCGGGCAACGACUAGGAAACUAGUCGUUGGGAAGAAACUGCCGAUAUACGGGAGUUCCUUGAGCGGGAGAUUCCAUGCCUAAGUCGC
+.(((((.((((((((((((.((((((((((((.....((((((((((.((((((((((....))))))))))..(......).))))))))))..))))))))))))....)))))))))))..))))))
+

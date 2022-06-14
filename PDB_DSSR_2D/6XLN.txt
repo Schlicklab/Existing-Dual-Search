@@ -1,0 +1,20 @@
+Title			CRYO-EM STRUCTURE OF E. COLI RNAP-DNA ELONGATION COMPLEX 2 (RDE2) IN ECMRR-DEPENDENT TRANSCRIPTION 
+Chain order		N T R 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			N	DNA	T 
+			T	DNA	R N 
+			R	RNA	T 
+Pseudoknot		NO
+
+Whole structure
+>6XLN nts=40 [whole]
+AGTCTGACGCGGCG&CGCCGCGTCAGACTGCA&GCAGUCUGA
+........((((((&)))))).(((((((((.&)))))))))
+
+Interacting substructures
+Chain N T R 
+AGTCTGACGCGGCGCGCCGCGTCAGACTGCAGCAGUCUGA
+........(((((()))))).(((((((((.)))))))))
+

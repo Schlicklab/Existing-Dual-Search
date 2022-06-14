@@ -1,0 +1,17 @@
+Title			STRUCTURAL BASIS OF THE NON-CODING RNA RSMZ ACTING AS PROTEIN SPONGE: CONFORMER L OF RSMZ(1-72)/RSME(DIMER) 1TO3 COMPLEX 
+Chain order		G 
+Amino acids		YES
+Metal
+Chains			G	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>2MF0 nts=72 [whole]
+UGUCGACGGAUAGACACAGCCAUCAAGGACGAUGGUCAGGACAUCGCAGGAAGCGAUUCAUCAGGACGAUGA
+((((........))))..((((((......)))))).......((((.....))))..((((.....)))).
+
+Interacting substructures
+Chain G 
+UGUCGACGGAUAGACACAGCCAUCAAGGACGAUGGUCAGGACAUCGCAGGAAGCGAUUCAUCAGGACGAUGA
+((((........))))..((((((......)))))).......((((.....))))..((((.....)))).
+

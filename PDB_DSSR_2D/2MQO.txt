@@ -1,0 +1,17 @@
+Title			STRUCTURAL INVESTIGATION OF HNRNP L BOUND TO RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2MQO nts=6 [whole]
+CACACA
+......
+
+Interacting substructures
+Chain B 
+CACACA
+......
+

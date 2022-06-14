@@ -1,0 +1,17 @@
+Title			D LOOP OF TRNA(MET) 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2MN0 nts=15 [whole]
+GGAGAGuGGAACUCC
+((((.......))))
+
+Interacting substructures
+Chain A 
+GGAGAGuGGAACUCC
+((((.......))))
+

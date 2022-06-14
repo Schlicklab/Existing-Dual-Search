@@ -1,0 +1,18 @@
+Title			NMR STRUCTURE OF THE I-V KISSING-LOOP INTERACTION OF THE NEUROSPORA VS RIBOZYME 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	B A 
+Pseudoknot		YES
+
+Whole structure
+>2MI0 nts=43 [whole]
+GAGCAGCAUCGUCGGCUGCUCA&GCGGCAGUUGACUACUGUCGC
+(((((((...[[[).)))))).&(((((((..]]]..)))))))
+
+Interacting substructures
+Chain A B 
+GAGCAGCAUCGUCGGCUGCUCAGCGGCAGUUGACUACUGUCGC
+(((((((...[[[).)))))).(((((((..]]]..)))))))
+

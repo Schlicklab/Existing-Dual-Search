@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF E. COLI RIBOSOMELA DECODING SITE WITH APRAMYCIN 
+Chain order		1 
+Amino acids		NO
+Metal
+Chains			1	RNA	1 
+Pseudoknot		NO
+
+Whole structure
+>2M4Q nts=27 [whole]
+GGCGUCACACCUUCGGGUGAAGUCGCC
+((((.(.((((....))))..).))))
+
+Interacting substructures
+Chain 1 
+GGCGUCACACCUUCGGGUGAAGUCGCC
+((((.(.((((....))))..).))))
+

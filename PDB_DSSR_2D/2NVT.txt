@@ -1,0 +1,25 @@
+Title			RNA POLYMERASE II ELONGATION COMPLEX IN 150 MM MG+2 WITH GMPCPP 
+Chain order		R T-1 N T-2 
+Amino acids		YES
+Metal			Mg	2
+			Zn	8
+Chains			R	RNA	T-1 
+			T-1	DNA[21]/1*	N R 
+			N	DNA	T-1 
+			T-2	DNA[21]/1*	
+Pseudoknot		YES
+
+Whole structure
+>2NVT nts=39 [whole]
+AAGACCAGGC&CAAGTACTTACGCCTGGTCTT&GTACTTG&g
+.(((((((((&[[[........))))))))).&....]]]&.
+
+Interacting substructures
+Chain R T-1 N 
+AAGACCAGGCCAAGTACTTACGCCTGGTCTTGTACTTG
+.((((((((([[[........))))))))).....]]]
+
+Chain T-2 
+g
+.
+

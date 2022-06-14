@@ -1,0 +1,17 @@
+Title			HIV-1 CORE PACKAGING SIGNAL 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2N1Q nts=155 [whole]
+GGUGCCCGUCUGUUGUGUGACUCUGGUGAGAGCCAGAGGAGAUCUCUCGACGCAGGACUCGGCUUGCUGGAGACGGCAAGAGGCGAGGGGCGGCGACUGGUGAGUACGCCAAAAAUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGCCC
+(((((((((((.(((((((.(((((((....)))))))...(((..(((.(((....((((.(((((((....)))))))...))))..))).)))..)))...))))).).....(((..(((((....)))))..))).).))))))))))).
+
+Interacting substructures
+Chain A 
+GGUGCCCGUCUGUUGUGUGACUCUGGUGAGAGCCAGAGGAGAUCUCUCGACGCAGGACUCGGCUUGCUGGAGACGGCAAGAGGCGAGGGGCGGCGACUGGUGAGUACGCCAAAAAUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGCCC
+(((((((((((.(((((((.(((((((....)))))))...(((..(((.(((....((((.(((((((....)))))))...))))..))).)))..)))...))))).).....(((..(((((....)))))..))).).))))))))))).
+

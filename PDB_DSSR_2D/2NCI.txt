@@ -1,0 +1,17 @@
+Title			RNA BULGE LOOP THAT SPECIFICALLY BINDS METAL IONS 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2NCI nts=28 [whole]
+GGACGUUAAAAGGCUUCGGCCUACGUCC
+(((((......(((....)))..)))))
+
+Interacting substructures
+Chain A 
+GGACGUUAAAAGGCUUCGGCCUACGUCC
+(((((......(((....)))..)))))
+

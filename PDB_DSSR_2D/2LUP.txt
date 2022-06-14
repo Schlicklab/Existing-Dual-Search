@@ -1,0 +1,17 @@
+Title			RDC REFINED SOLUTION STRUCTURE OF DOUBLE-STRANDED RNA BINDING DOMAIN OF S. CEREVISIAE RNASE III (RNT1P) IN COMPLEX WITH THE TERMINAL RNA HAIRPIN OF SNR47 PRECURSOR 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2LUP nts=32 [whole]
+GGGAUACCAUGUUCAGAAGAACGUGGUAUCUC
+((((((((((((((....))))))))))))))
+
+Interacting substructures
+Chain A 
+GGGAUACCAUGUUCAGAAGAACGUGGUAUCUC
+((((((((((((((....))))))))))))))
+

@@ -1,0 +1,17 @@
+Title			NMR ASSIGNMENT AND STRUCTURE OF CSSA5 (MIDDLE REGION) OF CSSA THERMOMETER FROM NEISSERIA MENINGITIDIS 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2N6X nts=43 [whole]
+GGUGAGUACGUAGAGUAUACUUCGGUAUACUUAUAUACUUACC
+((((((((.....(((((((....)))))))....))))))))
+
+Interacting substructures
+Chain A 
+GGUGAGUACGUAGAGUAUACUUCGGUAUACUUAUAUACUUACC
+((((((((.....(((((((....)))))))....))))))))
+

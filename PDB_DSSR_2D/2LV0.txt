@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF HELIX-35 STEM-LOOP FROM E. COLI 23S RRNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2LV0 nts=24 [whole]
+GGGCUAAUGUUGAAAAAUUAGCCC
+((((((((........))))))))
+
+Interacting substructures
+Chain A 
+GGGCUAAUGUUGAAAAAUUAGCCC
+((((((((........))))))))
+

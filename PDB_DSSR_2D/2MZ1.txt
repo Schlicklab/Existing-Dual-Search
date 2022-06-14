@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF HNRNP C RRM IN COMPLEX WITH 5'-UUUUC-3' RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2MZ1 nts=5 [whole]
+UUUUC
+.....
+
+Interacting substructures
+Chain B 
+UUUUC
+.....
+

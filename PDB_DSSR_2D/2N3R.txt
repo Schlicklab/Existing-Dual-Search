@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE II-III-VI THREE-WAY JUNCTION FROM THE VS RIBOZYME AND IDENTIFICATION OF MAGNESIUM-BINDING SITES USING PARAMAGNETIC RELAXATION ENHANCEMENT 
+Chain order		A 
+Amino acids		NO
+Metal			Mg	8
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2N3R nts=62 [whole]
+GCAGCAGGGAACUCACGCUUGCGUAGAGGCUAAGUGCUUCGGCACAGCACAAGCCCGCUGCG
+(((((.(((..(((.(((..)))..)))(((..((((....))))))).....)))))))).
+
+Interacting substructures
+Chain A 
+GCAGCAGGGAACUCACGCUUGCGUAGAGGCUAAGUGCUUCGGCACAGCACAAGCCCGCUGCG
+(((((.(((..(((.(((..)))..)))(((..((((....))))))).....)))))))).
+

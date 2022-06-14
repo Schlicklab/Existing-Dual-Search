@@ -1,0 +1,17 @@
+Title			AN NMR/SAXS STRUCTURE OF THE PKI DOMAIN OF THE HONEYBEE DICISTROVIRUS, ISRAELI ACUTE PARALYSIS VIRUS (IAPV) IRES 
+Chain order		X 
+Amino acids		NO
+Metal
+Chains			X	RNA	X 
+Pseudoknot		YES
+
+Whole structure
+>2N8V nts=70 [whole]
+GGAACAGCUGUACUGGGCAGUUACAGCAGUCGUAUGGUAACACAUGCGGCGUUCCGAAAUACCAUGCCUG
+(((((.(((((((.[[[[[).)))))).((((((((......))))))))))))).........]]]]].
+
+Interacting substructures
+Chain X 
+GGAACAGCUGUACUGGGCAGUUACAGCAGUCGUAUGGUAACACAUGCGGCGUUCCGAAAUACCAUGCCUG
+(((((.(((((((.[[[[[).)))))).((((((((......))))))))))))).........]]]]].
+

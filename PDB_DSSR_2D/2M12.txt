@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE ID3 STEM LOOP OF DOMAIN 1 OF THE AI5GAMMA GROUP II INTRON 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2M12 nts=23 [whole]
+GGGUGUAUUGGAAAUGAGCACCC
+((((((..(.......)))))))
+
+Interacting substructures
+Chain A 
+GGGUGUAUUGGAAAUGAGCACCC
+((((((..(.......)))))))
+

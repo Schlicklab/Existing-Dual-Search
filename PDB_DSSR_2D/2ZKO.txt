@@ -1,0 +1,18 @@
+Title			STRUCTURAL BASIS FOR DSRNA RECOGNITION BY NS1 PROTEIN OF HUMAN INFLUENZA VIRUS A 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>2ZKO nts=42 [whole]
+AGACAGCAUUAUGCUGUCUUU&AGACAGCAUUAUGCUGUCUUU
+(((((((((.(((((((((..&))))))))).)))))))))..
+
+Interacting substructures
+Chain C D 
+AGACAGCAUUAUGCUGUCUUUAGACAGCAUUAUGCUGUCUUU
+(((((((((.(((((((((..))))))))).)))))))))..
+

@@ -1,0 +1,22 @@
+Title			PUF4 T650C/C724R MUTANT BOUND TO COX17 RNA 3' UTR RECOGNITION SEQUENCE 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3BX3 nts=16 [whole]
+UGUAUAUA&UGUAUAUA
+........&........
+
+Interacting substructures
+Chain C 
+UGUAUAUA
+........
+
+Chain D 
+UGUAUAUA
+........
+

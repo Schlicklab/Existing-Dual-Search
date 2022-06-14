@@ -1,0 +1,29 @@
+Title			1.23 A RESOLUTION X-RAY STRUCTURE OF (GCUGCUGC)2 
+Chain order		A B C D E 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	D 
+			D	RNA	C 
+			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3GLP nts=40 [whole]
+GCUGCUGC&GCUGCUGC&GCUGCUGC&GCUGCUGC&GCUGCUGC
+((.((.((&)).)).))&((.((.((&)).)).))&........
+
+Interacting substructures
+Chain A B 
+GCUGCUGCGCUGCUGC
+((.((.(()).)).))
+
+Chain C D 
+GCUGCUGCGCUGCUGC
+((.((.(()).)).))
+
+Chain E 
+GCUGCUGC
+........
+

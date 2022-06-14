@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF PYROCOCCUS HORIKOSHII ARGINYL-TRNA SYNTHETASE COMPLEXED WITH TRNA(ARG) AND AN ATP ANALOG (ANP) 
+Chain order		B A 
+Amino acids		YES
+Metal			Mg	1
+Chains			B	RNA	B 
+			A			
+Pseudoknot		YES
+
+Whole structure
+>2ZUE nts=76 [whole]
+GGACCGGUAGCCUAGCCAGGACAGGGCGGCGGCCUCCUAAGCCGCAGGUCCGGGGUUCAAAUCCCCGCCGGUCCG&a
+(((((((..((((......[...)))).(((((.......))))).....(((((..]....)))))))))))).&.
+
+Interacting substructures
+Chain B 
+GGACCGGUAGCCUAGCCAGGACAGGGCGGCGGCCUCCUAAGCCGCAGGUCCGGGGUUCAAAUCCCCGCCGGUCCG
+(((((((..((((......[...)))).(((((.......))))).....(((((..]....)))))))))))).
+
+Chain A 
+a
+.
+

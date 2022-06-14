@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE SECOND ZINC FINGER FROM ZRANB2/ZNF265 BOUND TO 6 NT SSRNA SEQUENCE AGGUAA 
+Chain order		C 
+Amino acids		YES
+Metal			Zn	1
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3G9Y nts=6 [whole]
+AGGUAA
+......
+
+Interacting substructures
+Chain C 
+AGGUAA
+......
+

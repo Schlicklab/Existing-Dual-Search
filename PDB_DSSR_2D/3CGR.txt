@@ -1,0 +1,18 @@
+Title			X-RAY STRUCTURE CONTAINING THE PSEUDOURIDYLATED U2 SNRNA AND INTRON BRANCH SITE CONSENSUS SEQUENCES 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>3CGR nts=25 [whole]
+GCGCGGPAGUGC&CGCACUAACCGCG
+.(((((.(((((&.)))))..)))))
+
+Interacting substructures
+Chain A B 
+GCGCGGPAGUGCCGCACUAACCGCG
+.(((((.(((((.)))))..)))))
+

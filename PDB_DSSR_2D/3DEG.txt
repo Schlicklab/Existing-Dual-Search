@@ -1,0 +1,53 @@
+Title			COMPLEX OF ELONGATING ESCHERICHIA COLI 70S RIBOSOME AND EF4(LEPA)- GMPPNP 
+Chain order		A-1 A-2 B E F G I J K 
+Amino acids		YES
+Metal
+Chains			A-1	RNA*	A-1 A-2 
+			A-2	RNA*	A-1 A-2 
+			B	RNA	B 
+			E	RNA	E 
+			F	RNA	F 
+			G	RNA	G 
+			I	RNA	I 
+			J	RNA	J 
+			K	RNA	K 
+Pseudoknot		YES
+
+Whole structure
+>3DEG nts=313 [whole]
+GCGGAUUUAgCUCAGuuGGGAGAGCgCCAGAcUgAAgAPcUGGA&GgUCcUGUGtPCGaUCCACAGAAUUCGCACCA&CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGtUCAAAUCCGGCCCCCGCAACCA&CUACUGGAAACGGUAG&CUCCUACGGGAG&CCCAGACAGCCAGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAAAGCGUAAUAGCUCACUGGUCGAG&CUGCUCCUAGUACGAGAGGACCGGAGUGG&UGUCGGGUAAGUUCCGAC&AUGGCUGUUCGCCAU
+(((((((..((((.....[..)))).((((.........)))).&....(((((..]....))))))))))))....&.((((((..((((......[..)))).(((((.......))))).....(((((..]....))))))))))).....&((((((....))))))&((((....))))&(.......(((((.(((..(((.........)))..))).....(..(((......)))).)))))...)&(((((((.....(....)....)))))))&.(((((.......)))))&(((((.....)))))
+
+Interacting substructures
+Chain A-1 A-2 
+GCGGAUUUAgCUCAGuuGGGAGAGCgCCAGAcUgAAgAPcUGGAGgUCcUGUGtPCGaUCCACAGAAUUCGCACCA
+(((((((..((((.....[..)))).((((.........)))).....(((((..]....))))))))))))....
+
+Chain B 
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGtUCAAAUCCGGCCCCCGCAACCA
+.((((((..((((......[..)))).(((((.......))))).....(((((..]....))))))))))).....
+
+Chain E 
+CUACUGGAAACGGUAG
+((((((....))))))
+
+Chain F 
+CUCCUACGGGAG
+((((....))))
+
+Chain G 
+CCCAGACAGCCAGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAAAGCGUAAUAGCUCACUGGUCGAG
+(.......(((((.(((..(((.........)))..))).....(..(((......)))).)))))...)
+
+Chain I 
+CUGCUCCUAGUACGAGAGGACCGGAGUGG
+(((((((.....(....)....)))))))
+
+Chain J 
+UGUCGGGUAAGUUCCGAC
+.(((((.......)))))
+
+Chain K 
+AUGGCUGUUCGCCAU
+(((((.....)))))
+

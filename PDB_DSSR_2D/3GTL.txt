@@ -1,0 +1,20 @@
+Title			BACKTRACKED RNA POLYMERASE II COMPLEX WITH 13MER WITH G<>U MISMATCH 
+Chain order		R T N 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			R	RNA	T 
+			T	DNA	N R 
+			N	DNA	T 
+Pseudoknot		YES
+
+Whole structure
+>3GTL nts=54 [whole]
+AUCGAGAGGAUU&CTACCGATAAGCAGACGATCCTCTCGAT&CTGCTTATCGGTAG
+..(((((((((.&.[.[[[...[.[.....)))))))))..&..].]...]]].].
+
+Interacting substructures
+Chain R T N 
+AUCGAGAGGAUUCTACCGATAAGCAGACGATCCTCTCGATCTGCTTATCGGTAG
+..(((((((((..[.[[[...[.[.....)))))))))....].]...]]].].
+

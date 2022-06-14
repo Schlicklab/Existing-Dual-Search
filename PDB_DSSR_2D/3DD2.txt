@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF AN RNA APTAMER BOUND TO HUMAN THROMBIN 
+Chain order		B 
+Amino acids		YES
+Metal			Mg	2
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>3DD2 nts=25 [whole]
+GGGAAcAAAGcuGAAGuAcuuAccc
+(((....((((....)..))).)))
+
+Interacting substructures
+Chain B 
+GGGAAcAAAGcuGAAGuAcuuAccc
+(((....((((....)..))).)))
+

@@ -1,0 +1,42 @@
+Title			CRYSTAL STRUCTURE OF THE HETERODIMERIC VACCINIA VIRUS MRNA POLYADENYLATE POLYMERASE WITH THREE FRAGMENTS OF RNA AND 3'-DEOXY ATP 
+Chain order		E F G I C D 
+Amino acids		YES
+Metal			Ca	4
+Chains			E	DNA[3]/RNA[2]	
+			F	DNA[3]/RNA[2]	
+			G	DNA[2]/RNA[2]	
+			I	DNA[3]/RNA[2]	
+			C			
+			D			
+Pseudoknot		NO
+
+Whole structure
+>3ERC nts=23 [whole]
+CUUCC&CUUCC&CUUC&CCUUC&U&a&U&a
+.....&.....&....&.....&.&.&.&.
+
+Interacting substructures
+Chain E 
+CUUCC
+.....
+
+Chain F 
+CUUCC
+.....
+
+Chain G 
+CUUC
+....
+
+Chain I 
+CCUUC
+.....
+
+Chain C 
+Ua
+..
+
+Chain D 
+Ua
+..
+

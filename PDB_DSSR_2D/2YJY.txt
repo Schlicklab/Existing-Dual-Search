@@ -1,0 +1,22 @@
+Title			A SPECIFIC AND MODULAR BINDING CODE FOR CYTOSINE RECOGNITION IN PUF DOMAINS 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2YJY nts=20 [whole]
+AUUGCAUAUA&AUUGCAUAUA
+..........&..........
+
+Interacting substructures
+Chain C 
+AUUGCAUAUA
+..........
+
+Chain D 
+AUUGCAUAUA
+..........
+

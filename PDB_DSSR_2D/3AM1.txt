@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF O-PHOSPHOSERYL-TRNA KINASE COMPLEXED WITH ANTICODON-STEM/LOOP TRUNCATED TRNA(SEC) 
+Chain order		B A 
+Amino acids		YES
+Metal			Mg	1
+Chains			B	RNA	B 
+			A			
+Pseudoknot		YES
+
+Whole structure
+>3AM1 nts=82 [whole]
+GGCGCGGGGUACCGGGCUUGGUAGCCCGGGGCUUCGGCCGAGGGCGAGAGCCCUCGGGGUUCGAUUCCCCCCCUGCGCCGC&a
+(((((((((..(((((((..[.)))))))(((....)))((((((....))))))((((..]....)))))))))))))..&.
+
+Interacting substructures
+Chain B 
+GGCGCGGGGUACCGGGCUUGGUAGCCCGGGGCUUCGGCCGAGGGCGAGAGCCCUCGGGGUUCGAUUCCCCCCCUGCGCCGC
+(((((((((..(((((((..[.)))))))(((....)))((((((....))))))((((..]....)))))))))))))..
+
+Chain A 
+a
+.
+

@@ -1,0 +1,31 @@
+Title			RNA POLYMERASE-GFH1 COMPLEX (CRYSTAL TYPE 2) 
+Chain order		P Q R S T U 
+Amino acids		YES
+Metal			Mg	3
+			Zn	3
+Chains			P	DNA	Q 
+			Q	RNA	P 
+			R	DNA	S 
+			S	RNA	R 
+			T	DNA	U 
+			U	RNA	T 
+Pseudoknot		NO
+
+Whole structure
+>3AOI nts=40 [whole]
+CCGCCGC&GCGGCGG&GCCGCA&UGCGGCGG&GCCGC&GCGGCGG
+(((((((&)))))))&.(((..&..)))...&((.((&)).))..
+
+Interacting substructures
+Chain P Q 
+CCGCCGCGCGGCGG
+((((((()))))))
+
+Chain R S 
+GCCGCAUGCGGCGG
+.(((....)))...
+
+Chain T U 
+GCCGCGCGGCGG
+((.(()).))..
+

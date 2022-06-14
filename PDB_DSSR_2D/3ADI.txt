@@ -1,0 +1,18 @@
+Title			STRUCTURE OF ARABIDOPSIS HYL1 AND ITS MOLECULAR IMPLICATIONS FOR MIRNA PROCESSING 
+Chain order		D E 
+Amino acids		YES
+Metal
+Chains			D	RNA	E 
+			E	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>3ADI nts=20 [whole]
+CUCGAUAACC&GGUUAUCGAG
+((((((((((&))))))))))
+
+Interacting substructures
+Chain D E 
+CUCGAUAACCGGUUAUCGAG
+(((((((((())))))))))
+

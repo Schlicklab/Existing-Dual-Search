@@ -1,0 +1,32 @@
+Title			TRNA-DIHYDROURIDINE SYNTHASE FROM THERMUS THERMOPHILUS IN COMPLEX WITH TRNA FRAGMENT 
+Chain order		A B X Y 
+Amino acids		YES
+Metal
+Chains			A	RNA	
+			B	RNA	
+			X			
+			Y			
+Pseudoknot		NO
+
+Whole structure
+>3B0U nts=10 [whole]
+GGuA&GGuA&?&?
+....&....&.&.
+
+Interacting substructures
+Chain A 
+GGuA
+....
+
+Chain B 
+GGuA
+....
+
+Chain X 
+?
+.
+
+Chain Y 
+?
+.
+

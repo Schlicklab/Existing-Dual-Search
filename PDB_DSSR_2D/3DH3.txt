@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF RLUF IN COMPLEX WITH A 22 NUCLEOTIDE RNA SUBSTRATE 
+Chain order		E F G H 
+Amino acids		YES
+Metal
+Chains			E	RNA	E F 
+			F	RNA	F E 
+			G	RNA	H G 
+			H	RNA	H G 
+Pseudoknot		NO
+
+Whole structure
+>3DH3 nts=88 [whole]
+AGAACGUCGUGAGACAGpUCGG&AGAACGUCGUGAGACAGpUCGG&AGAACGUCGUGAGACAGpUCGG&AGAACGUCGUGAGACAGpUCGG
+.(...(((....)))....(..&.)...(((....)))....)..&.(...(((....)))....(..&.)...(((....)))....)..
+
+Interacting substructures
+Chain E F 
+AGAACGUCGUGAGACAGpUCGGAGAACGUCGUGAGACAGpUCGG
+.(...(((....)))....(...)...(((....)))....)..
+
+Chain G H 
+AGAACGUCGUGAGACAGpUCGGAGAACGUCGUGAGACAGpUCGG
+.(...(((....)))....(...)...(((....)))....)..
+

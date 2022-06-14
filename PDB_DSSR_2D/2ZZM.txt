@@ -1,0 +1,22 @@
+Title			THE COMPLEX STRUCTURE OF ATRM5 AND TRNALEU 
+Chain order		B A 
+Amino acids		YES
+Metal			Mg	5
+Chains			B	RNA	B 
+			A			
+Pseudoknot		YES
+
+Whole structure
+>2ZZM nts=85 [whole]
+GCAGGGGUCGCCAAGCCUGGCCAAAGGCGCUGGGCCUAGGACCCAGUCCCGUAGGGGUUCCAGGGUUCAAAUCCCUGCCCCUGC&a
+....(((..(((.......[.....)))((((((.......))))))(((....)))...(.(((..]....))).))))....&.
+
+Interacting substructures
+Chain B 
+GCAGGGGUCGCCAAGCCUGGCCAAAGGCGCUGGGCCUAGGACCCAGUCCCGUAGGGGUUCCAGGGUUCAAAUCCCUGCCCCUGC
+....(((..(((.......[.....)))((((((.......))))))(((....)))...(.(((..]....))).))))....
+
+Chain A 
+a
+.
+

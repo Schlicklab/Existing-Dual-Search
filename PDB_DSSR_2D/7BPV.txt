@@ -1,0 +1,18 @@
+Title			R(GUGGGCCGAC)/D(GTCGGCCCAC) HYBRID DUPLEX STRUCTURE 
+Chain order		S A 
+Amino acids		NO
+Metal
+Chains			S	RNA	A 
+			A	DNA	S 
+Pseudoknot		NO
+
+Whole structure
+>7BPV nts=20 [whole]
+GUGGGCCGAC&GTCGGCCCAC
+((((((((((&))))))))))
+
+Interacting substructures
+Chain S A 
+GUGGGCCGACGTCGGCCCAC
+(((((((((())))))))))
+

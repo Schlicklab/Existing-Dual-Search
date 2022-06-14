@@ -1,0 +1,20 @@
+Title			STRUCTURE OF TELOMERASE FROM CANDIDA ALBICANS IN COMPLEXE WITH TWJ FRAGMENT OF TELOMERIC RNA 
+Chain order		C D-1 D-2 D-3 
+Amino acids		YES
+Metal
+Chains			C	RNA[64]/1	D-2 C D-1 
+			D-1	RNA[64]/1*	D-2 C D-3 D-1 
+			D-2	RNA[64]/1*	C D-1 
+			D-3	RNA[64]/1*	D-1 
+Pseudoknot		YES
+
+Whole structure
+>6ZDU nts=130 [whole]
+GGCAAGGGCUUCCCGAAUUGUGGAUAGUUCAAUACUCGAAAAAAUUGGAAGUAGGGUAUGUUGCC&GGCAAGGGCUUCCCGAAUUGUGGAUAGUUCAAUACUCGAAAAAAU&UGGAAGUAGGGUAUG&UUGCC
+.(.(.((((.(((........)))..)))).((((((.....[[[[.......))))))..)..)&.(...((((.................)))).((((((.....]]]&].......)))))).&...).
+
+Interacting substructures
+Chain C D-1 D-2 D-3 
+GGCAAGGGCUUCCCGAAUUGUGGAUAGUUCAAUACUCGAAAAAAUUGGAAGUAGGGUAUGUUGCCGGCAAGGGCUUCCCGAAUUGUGGAUAGUUCAAUACUCGAAAAAAUUGGAAGUAGGGUAUGUUGCC
+.(.(.((((.(((........)))..)))).((((((.....[[[[.......))))))..)..).(...((((.................)))).((((((.....]]]].......))))))....).
+

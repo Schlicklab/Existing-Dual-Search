@@ -1,0 +1,17 @@
+Title			HRV14 NATIVE PARTICLE SOLVED BY CRYOEM 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7BG6 nts=8 [whole]
+UGUUUUUA
+........
+
+Interacting substructures
+Chain C 
+UGUUUUUA
+........
+

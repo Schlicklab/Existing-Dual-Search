@@ -1,0 +1,57 @@
+Title			TRANSCRIPTION TERMINATION INTERMEDIATE COMPLEX 5 
+Chain order		L K-1 K-2 R-1 R-2 a b c d e Y 
+Amino acids		YES
+Metal			Be	5
+			Mg	6
+			Zn	2
+Chains			L	DNA	K-1 K-2 R-2 
+			K-1	DNA*	L 
+			K-2	DNA*	L 
+			R-1	RNA*	
+			R-2	RNA*	L 
+			a			
+			b			
+			c			
+			d			
+			e			
+			Y			
+Pseudoknot		YES
+
+Whole structure
+>6Z9T nts=90 [whole]
+TCCGCTCACAATGCCACACGCGCTGCTCGGCCG&GCCGAGCAGC&TTGTGAGCGGA&CACAUUCC&AACCACACCUGGCGUGUGGC&a&a&a&a&a&TA&T
+(((((((((((.[[[[[[[[[.((((((((...&.)))))))).&)))))))))))&........&...........]]]]]]]]]&.&.&.&.&.&..&.
+
+Interacting substructures
+Chain L K-1 K-2 R-2 
+TCCGCTCACAATGCCACACGCGCTGCTCGGCCGTGCCGAGCAGCTTGTGAGCGGAAACCACACCUGGCGUGUGGC
+(((((((((((.[[[[[[[[[.((((((((.....)))))))).)))))))))))...........]]]]]]]]]
+
+Chain R-1 
+CACAUUCC
+........
+
+Chain a 
+a
+.
+
+Chain b 
+a
+.
+
+Chain c 
+a
+.
+
+Chain d 
+a
+.
+
+Chain e 
+a
+.
+
+Chain Y 
+TA
+..
+

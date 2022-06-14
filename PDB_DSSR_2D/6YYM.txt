@@ -1,0 +1,17 @@
+Title			STRUCTURE OF S. POMBE MEI2 RRM3 DOMAIN BOUND TO RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6YYM nts=12 [whole]
+GCUUUUUGUUCG
+............
+
+Interacting substructures
+Chain B 
+GCUUUUUGUUCG
+............
+

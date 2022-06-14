@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE CAS12I1-CRRNA BINARY COMPLEX 
+Chain order		B C 
+Amino acids		YES
+Metal
+Chains			B	RNA	C B 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>7D8C nts=41 [whole]
+AUUUUUGUGCCCAUCGUUGGCACUAUUAAGGAAUGGAA&AAU
+......((((((...)..))))).(.............&..)
+
+Interacting substructures
+Chain B C 
+AUUUUUGUGCCCAUCGUUGGCACUAUUAAGGAAUGGAAAAU
+......((((((...)..))))).(...............)
+

@@ -1,0 +1,57 @@
+Title			? 
+Chain order		5 2-1 2-2 2-3 2-4 2-5 2-6 Z-1 Z-2 6-1 6-2 6-3 r 
+Amino acids		YES
+Metal			Mg	1
+Chains			5	RNA	Z-1 5 
+			2-1	RNA*	6-3 
+			2-2	RNA*	Z-2 
+			2-3	RNA*	2-3 
+			2-4	RNA*	2-5 
+			2-5	RNA*	2-4 
+			2-6	RNA*	2-6 
+			Z-1	RNA*	6-1 5 
+			Z-2	RNA*	2-2 
+			6-1	RNA*	6-1 Z-1 
+			6-2	RNA*	6-2 
+			6-3	RNA*	2-1 
+			r			
+Pseudoknot		YES
+
+Whole structure
+>7ABG nts=385 [whole]
+ACUCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCCUUUUACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAGUCUUAACCCAAUUUUUUGAGCCUUGCCUUGGCAAGGCUA&CGCUUCUCGGCCU&UGUAGUAUCUGUUC&AUCAGUUUAAUAUCUGA&GUCCUC&GAGGACA&GGAUUUUUGGAGCAGGGAGAUGGAAUAGGAGCUUGCUCCGUCCACUCCACGCAUCGACCUGGUAUUGCAGUACCUCCAGGAACGGUGC&CUCCGAACGGUAAGAGCCUAGCAUGUAGA&AUGAUGUCAUACUUAUCC&GUGCUCGCUUCGGCAGCACAUAUACUAAAAUUGGAACGAUACAGAG&GGCCCCUGCGCAAGGAUGA&AAUUCGUGAAGCG&g
+.(((....(.((..(((...((...((((((((.(....[[.).)))))))).)))))..)).)........)))..................((((((((....)))))))).&((((((.(((...&...((((.....((&...(..........)..&((((((&)))))).&...............(((..(((....((((....))))..))).)))..(((.((..((((.............))))...)).)))&.....]]......[...[...........&..)).....)))).....&(((((.((....)))))))..................]...]....&..(.(((.....)))..).&...))).))))))&.
+
+Interacting substructures
+Chain 5 Z-1 6-1 
+ACUCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCCUUUUACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAGUCUUAACCCAAUUUUUUGAGCCUUGCCUUGGCAAGGCUACUCCGAACGGUAAGAGCCUAGCAUGUAGAGUGCUCGCUUCGGCAGCACAUAUACUAAAAUUGGAACGAUACAGAG
+.(((....(.((..(((...((...((((((((.(....[[.).)))))))).)))))..)).)........)))..................((((((((....))))))))......]]......[...[...........(((((.((....)))))))..................]...]....
+
+Chain 2-1 6-3 
+CGCUUCUCGGCCUAAUUCGUGAAGCG
+((((((.(((......))).))))))
+
+Chain 2-2 Z-2 
+UGUAGUAUCUGUUCAUGAUGUCAUACUUAUCC
+...((((.....((..)).....)))).....
+
+Chain 2-3 
+AUCAGUUUAAUAUCUGA
+...(..........)..
+
+Chain 2-4 2-5 
+GUCCUCGAGGACA
+(((((()))))).
+
+Chain 2-6 
+GGAUUUUUGGAGCAGGGAGAUGGAAUAGGAGCUUGCUCCGUCCACUCCACGCAUCGACCUGGUAUUGCAGUACCUCCAGGAACGGUGC
+...............(((..(((....((((....))))..))).)))..(((.((..((((.............))))...)).)))
+
+Chain 6-2 
+GGCCCCUGCGCAAGGAUGA
+..(.(((.....)))..).
+
+Chain r 
+g
+.
+

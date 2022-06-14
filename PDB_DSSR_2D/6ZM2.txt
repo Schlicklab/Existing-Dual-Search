@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF THE DEAH-BOX ATPASE PRP2 IN COMPLEX WITH ADP-BEF3 AND SSRNA 
+Chain order		B A 
+Amino acids		YES
+Metal			Be	1
+			Mg	1
+Chains			B	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>6ZM2 nts=8 [whole]
+UUUUUUU&a
+.......&.
+
+Interacting substructures
+Chain B 
+UUUUUUU
+.......
+
+Chain A 
+a
+.
+

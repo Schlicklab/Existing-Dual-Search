@@ -1,0 +1,34 @@
+Title			? 
+Chain order		A 2-1 2-2 r aj 
+Amino acids		YES
+Metal			Mg	1
+			Zn	4
+Chains			A	RNA	A 
+			2-1	RNA*	2-2 2-1 
+			2-2	RNA*	2-2 2-1 
+			r			
+			aj			
+Pseudoknot		YES
+
+Whole structure
+>7AOR nts=615 [whole]
+UAUUAUAUUUAUUCAUAUAAUUAAUAGGAUAAUAUUUGUAGUUUUUGAUACCAUGAUAAGGAUUAUAAAUUGAAAGUGUUAAUAUCAUAAUCAAAAUUUAUUAUUUAUAUUAAAUAUGUAUGUGUAGAUAAAAUAAGAAAUUA&UAAAUUAUGGUCAAUUGUUAGUAUUCAUAUUAAUUUUUUUAAAUGUUUUAUCAUUUUAUAAAGGUUUAUUUUUGAAAGAUUUUUUGUAUAAAAUUUUAGGAAUAGUUAAUAAUAAUUUAUAAUUUUGAUUAGAUUGUUUUGUUAAUGCUAUUAGAUGGGUGUGGAAAAAUAAAAAAAAUAAUUAAUAUAUAUCAAUAAUAAAUUAAAUUAAUCUAUUAGUCAGAAAUGGAUGCCAGCCGUUGCGGUAAUUUCUAUGCUUUUAAAUAUUAUACAAUUAUCAUAUUAAAUUGUUAAGUGCUGAUUUAACCAAUAAAAAUAUAAAUAAUUUUUAUUUGUUUUUAAACACCAUUAGGUAUAUGCAAAUAUAAAAUUAUAGUAAUUAUAAAUUAUAUUA&AAAAGGUAUUGUUGCCCACCAAUUUUUAUAAUAAAAAUAACGUGCAGUAAUUAAUAUAUUUAUAAAAAUAUAUUUU&g&u
+.......(((((...................................................................................................................)))))...........&....................(((.......((((..........................................................(..((....((...((((...)..)))..)).......))....)...(......)...........................................................(..)......((..[...(((((.....((..].)).......))))).)).......))))............(.................................................).............((....)).................(......)..)))...(.......&.......)...(..(.(((...((((.......))))....)))..)..)..(((((((((....)))))))))..&.&.
+
+Interacting substructures
+Chain A 
+UAUUAUAUUUAUUCAUAUAAUUAAUAGGAUAAUAUUUGUAGUUUUUGAUACCAUGAUAAGGAUUAUAAAUUGAAAGUGUUAAUAUCAUAAUCAAAAUUUAUUAUUUAUAUUAAAUAUGUAUGUGUAGAUAAAAUAAGAAAUUA
+.......(((((...................................................................................................................)))))...........
+
+Chain 2-1 2-2 
+UAAAUUAUGGUCAAUUGUUAGUAUUCAUAUUAAUUUUUUUAAAUGUUUUAUCAUUUUAUAAAGGUUUAUUUUUGAAAGAUUUUUUGUAUAAAAUUUUAGGAAUAGUUAAUAAUAAUUUAUAAUUUUGAUUAGAUUGUUUUGUUAAUGCUAUUAGAUGGGUGUGGAAAAAUAAAAAAAAUAAUUAAUAUAUAUCAAUAAUAAAUUAAAUUAAUCUAUUAGUCAGAAAUGGAUGCCAGCCGUUGCGGUAAUUUCUAUGCUUUUAAAUAUUAUACAAUUAUCAUAUUAAAUUGUUAAGUGCUGAUUUAACCAAUAAAAAUAUAAAUAAUUUUUAUUUGUUUUUAAACACCAUUAGGUAUAUGCAAAUAUAAAAUUAUAGUAAUUAUAAAUUAUAUUAAAAAGGUAUUGUUGCCCACCAAUUUUUAUAAUAAAAAUAACGUGCAGUAAUUAAUAUAUUUAUAAAAAUAUAUUUU
+....................(((.......((((..........................................................(..((....((...((((...)..)))..)).......))....)...(......)...........................................................(..)......((..[...(((((.....((..].)).......))))).)).......))))............(.................................................).............((....)).................(......)..)))...(..............)...(..(.(((...((((.......))))....)))..)..)..(((((((((....)))))))))..
+
+Chain r 
+g
+.
+
+Chain aj 
+u
+.
+

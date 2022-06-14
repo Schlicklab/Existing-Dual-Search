@@ -1,0 +1,20 @@
+Title			STRUCTURE OF REPLICATING SARS-COV-2 POLYMERASE 
+Chain order		P Q T U 
+Amino acids		YES
+Metal			Zn	2
+Chains			P	RNA	U T 
+			Q	RNA	U 
+			T	RNA	P 
+			U	RNA	Q P 
+Pseudoknot		YES
+
+Whole structure
+>6YYT nts=54 [whole]
+CAUGCUACGCGUAG&CAUGCUACGCGUAG&UGCUACGCGUAG&CAUGCUACGCGUAG
+[[[[[[[[[[[[[[&....((((((((((&..]]]]]]]]]]&]]]]))))))))))
+
+Interacting substructures
+Chain P Q T U 
+CAUGCUACGCGUAGCAUGCUACGCGUAGUGCUACGCGUAGCAUGCUACGCGUAG
+[[[[[[[[[[[[[[....((((((((((..]]]]]]]]]]]]]]))))))))))
+

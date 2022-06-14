@@ -1,0 +1,44 @@
+Title			? 
+Chain order		D3-1 D3-2 D3-3 D3-4 D3-5 D3-6 D3-7 D4-1 D4-2 D5 CL 
+Amino acids		YES
+Metal			Mg	39
+			Zn	1
+Chains			D3-1	RNA*	D3-3 D3-1 D4-2 
+			D3-2	RNA*	D3-3 
+			D3-3	RNA*	D3-1 D3-3 D3-7 D4-2 D3-2 
+			D3-4	RNA*	D3-5 
+			D3-5	RNA*	D3-4 D3-6 D3-5 
+			D3-6	RNA*	D3-5 
+			D3-7	RNA*	D3-7 D3-3 
+			D4-1	RNA*	
+			D4-2	RNA*	D3-1 D3-3 
+			D5	RNA	
+			CL			
+Pseudoknot		YES
+
+Whole structure
+>6ZQG nts=1420 [whole]
+UAUCUGGUUGAUCCUGCCAGUAGUCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUAUAAGCAAUUUAUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUCGUUUAUUUGAUAGUUCCUUUACUACAUGGUAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCUUAAAAUCUCGACCCUUUGGAAGAGAUGUAUUUAUUAGAUAAAAAAUCAAUGUCUUCGGACUCUUUGAUGAUUCAUAAUAACUUUUCGAAUCGCAUGGCCUUGUGCUGGCGAUGGUUCAUUCAAAUUUCUGCCCUAUCAACUUUCGAUGGUAGGAUAGUGGCCUACCAUGGUUUCAACGGGUAACGGGGAAUAAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCAAUCCUAAUUCAGGGAGGUAGUGACAAUAAAUAACGAUACAGGGCCCAUUCGGGUCUUGUAAUUGGAAUGAGUACAAUGUAAAUACCUUAACGAGGAACAAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUA&UGUUGCAGUUAAAAAGCUCGUAGUUGAACUUUGGGCCCGGUUGGCCGGUC&GGAUUUCCAACGGGGCCUUUCCUUCUGGCUAACCUUGAGUCCUUGUGGCUCUUGGCGAACCAGGACUUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCGUAUUGCUCGAAUAUAUUAGCAUGGAAUAAUAGAAUAGGACGUUUGGUUCUAUUUUGUUGGUUUCUAGGACCAUCGUAAUGAUUAAUAGGGACGGUCGGGGGCAUCAGUAUUCAAUUGUCAGAGGUGAAAUUCUUGGAUUUAUUGAAGACUAACUACUGCGAAAGCAUUUGCCAAGGACGUUUUCAUUAAUCAAGAACGAAAGUUAGGGGAUCGAAGAUGAUCAGAUACCGUCGUAGUCUUAACCAUAAACUAUGCCGACUAGGGAUCGGGUGGUGUUUUUUUAAUGACCCACUCGGCACCUUACGAGAAAUCAAAGUCUUUGGGUUCUGGGGGGAGUAUGGUCGCAAGGCUAAA&GACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUA&CACGCGCGCUACACUGACGGAGCCAGCGAGUCUAACCUUGGCCGAGAGGUCUUGGUAAUCUUGUGAAACUCCGUCGUGCUGGGGAUAGAGCAUUGUAAUUAUUGCUCUUCAACGAGGAAUUCCUAGUAAGCGCAAGUCAUCAGCUUGCGUUGAUUACGUCCCUGCCCUUUGUACACACCGCCCGUCGCUAGUACC&GGAACUAA&UUCCGUAGGUGAACCUGCGGAAGGAUCAUUAAAGA&g&GUCGACGUACUUCAUAGGAUCA&UUUUUUUUU&g
+...[[[[[.((((((]]]]].(...((((((...(.(...(......(((.(((..((....((....((..........))...)){))......(((.......(((..((..((....(((..................((....((.(((.....))).)).....)).........(((((..((....))..)))))(.(.((((((......[[[[[[[.(((....))).....(......).)))))).)...).(.((((..((((..).))).)))))...)))...))))..))).(((....(((....((((((((.......)))))))))))......)))...(((.((((....))))....)))))).((.(((..........))).)).(.((....)).)...)))))).......(.(((...((((.}...))).))))).)....).).....((......(.(.(....).).).......))....(.(((.(...........)).))......)..(((((((......(((....)))...............)..))))))..))))))..).&.....((({{...(.(.((...(((.((....((((((.(((((.....(&).....))))).))))))....(.(..(....(...((((.(....)))))...)....)..).)...(((((.((.......((..((.......)).(((.....)))....))......)).))..))).........(....(.((.(((.....]]]]]]].))).).))...).....))...(((.(((.((...((((..((..((((((.....((...[....))........))))))..)).......((....))...))))..)).)))..))..))))...)).)....((((((....(...((((..]......))))...).))))))......[...(((.((.(((..((((((((.(((........)))))))))))..)))...((..}}))...)).....)))))))...(((((((.(((((.........&((((((((((((..((.((((((..(((.(((((....&).)))).))).(...(((((((......((.....((...(((....)).)..))....)).......)))))))......(....((((((..........))))))....)..)..))))))....(.((((((.......)))))).)......))...))))))).(.......)..)))))..((((..(&.).)))).&(((((((((....)))))))))]............&.&).)))))))))))..)))))).&.........&.
+
+Interacting substructures
+Chain D3-1 D3-2 D3-3 D3-7 D4-2 
+UAUCUGGUUGAUCCUGCCAGUAGUCAUAUGCUUGUCUCAAAGAUUAAGCCAUGCAUGUCUAAGUAUAAGCAAUUUAUACAGUGAAACUGCGAAUGGCUCAUUAAAUCAGUUAUCGUUUAUUUGAUAGUUCCUUUACUACAUGGUAUAACUGUGGUAAUUCUAGAGCUAAUACAUGCUUAAAAUCUCGACCCUUUGGAAGAGAUGUAUUUAUUAGAUAAAAAAUCAAUGUCUUCGGACUCUUUGAUGAUUCAUAAUAACUUUUCGAAUCGCAUGGCCUUGUGCUGGCGAUGGUUCAUUCAAAUUUCUGCCCUAUCAACUUUCGAUGGUAGGAUAGUGGCCUACCAUGGUUUCAACGGGUAACGGGGAAUAAGGGUUCGAUUCCGGAGAGGGAGCCUGAGAAACGGCUACCACAUCCAAGGAAGGCAGCAGGCGCGCAAAUUACCCAAUCCUAAUUCAGGGAGGUAGUGACAAUAAAUAACGAUACAGGGCCCAUUCGGGUCUUGUAAUUGGAAUGAGUACAAUGUAAAUACCUUAACGAGGAACAAUUGGAGGGCAAGUCUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUAGCGUAUAUUAUGUUGCAGUUAAAAAGCUCGUAGUUGAACUUUGGGCCCGGUUGGCCGGUCGGAUUUCCAACGGGGCCUUUCCUUCUGGCUAACCUUGAGUCCUUGUGGCUCUUGGCGAACCAGGACUUUUACUUUGAAAAAAUUAGAGUGUUCAAAGCAGGCGUAUUGCUCGAAUAUAUUAGCAUGGAAUAAUAGAAUAGGACGUUUGGUUCUAUUUUGUUGGUUUCUAGGACCAUCGUAAUGAUUAAUAGGGACGGUCGGGGGCAUCAGUAUUCAAUUGUCAGAGGUGAAAUUCUUGGAUUUAUUGAAGACUAACUACUGCGAAAGCAUUUGCCAAGGACGUUUUCAUUAAUCAAGAACGAAAGUUAGGGGAUCGAAGAUGAUCAGAUACCGUCGUAGUCUUAACCAUAAACUAUGCCGACUAGGGAUCGGGUGGUGUUUUUUUAAUGACCCACUCGGCACCUUACGAGAAAUCAAAGUCUUUGGGUUCUGGGGGGAGUAUGGUCGCAAGGCUAAAUUCCGUAGGUGAACCUGCGGAAGGAUCAUUAAAGAGUCGACGUACUUCAUAGGAUCA
+...[[[[[.((((((]]]]].(...((((((...(.(...(......(((.(((..((....((....((..........))...)){))......(((.......(((..((..((....(((..................((....((.(((.....))).)).....)).........(((((..((....))..)))))(.(.((((((......[[[[[[[.(((....))).....(......).)))))).)...).(.((((..((((..).))).)))))...)))...))))..))).(((....(((....((((((((.......)))))))))))......)))...(((.((((....))))....)))))).((.(((..........))).)).(.((....)).)...)))))).......(.(((...((((.}...))).))))).)....).).....((......(.(.(....).).).......))....(.(((.(...........)).))......)..(((((((......(((....)))...............)..))))))..))))))..)......((({{...(.(.((...(((.((....((((((.(((((.....().....))))).))))))....(.(..(....(...((((.(....)))))...)....)..).)...(((((.((.......((..((.......)).(((.....)))....))......)).))..))).........(....(.((.(((.....]]]]]]].))).).))...).....))...(((.(((.((...((((..((..((((((.....((...[....))........))))))..)).......((....))...))))..)).)))..))..))))...)).)....((((((....(...((((..]......))))...).))))))......[...(((.((.(((..((((((((.(((........)))))))))))..)))...((..}}))...)).....)))))))...(((((((.(((((.........(((((((((....)))))))))]............).)))))))))))..)))))).
+
+Chain D3-4 D3-5 D3-6 
+GACGGAAGGGCACCACCAGGAGUGGAGCCUGCGGCUUACACGCGCGCUACACUGACGGAGCCAGCGAGUCUAACCUUGGCCGAGAGGUCUUGGUAAUCUUGUGAAACUCCGUCGUGCUGGGGAUAGAGCAUUGUAAUUAUUGCUCUUCAACGAGGAAUUCCUAGUAAGCGCAAGUCAUCAGCUUGCGUUGAUUACGUCCCUGCCCUUUGUACACACCGCCCGUCGCUAGUACCGGAACUAA
+((((((((((((..((.((((((..(((.(((((....).)))).))).(...(((((((......((.....((...(((....)).)..))....)).......)))))))......(....((((((..........))))))....)..)..))))))....(.((((((.......)))))).)......))...))))))).(.......)..)))))..((((..(.).)))).
+
+Chain D4-1 
+g
+.
+
+Chain D5 
+UUUUUUUUU
+.........
+
+Chain CL 
+g
+.
+

@@ -1,0 +1,43 @@
+Title			HUMAN C COMPLEX SPLICEOSOME - MEDIUM-RESOLUTION PERIPHERY 
+Chain order		2-1 2-2 5-1 5-2 6 Y-1 Y-2 
+Amino acids		YES
+Metal
+Chains			2-1	RNA*	6 
+			2-2	RNA*	2-2 
+			5-1	RNA*	
+			5-2	RNA*	5-2 
+			6	RNA	2-1 
+			Y-1	RNA*	
+			Y-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>7A5P nts=240 [whole]
+CGCUUCUCGGCCUUU&CUUAUCAGUUUAAUAUCUGAUACGUCCUCUAUCCGAGGACAAUAUAUUAAAUGGAUUUUUGGAGCAGGGAGAUGGAAUAGGAGCUUGCUCCGUCCACUCCACGCAUCGACCUGGUAUUGCAGUACCUCCAGGAACGGUGC&A&UCUUAACCCAAUUUUUUGAGCCUUGCCUUGGCAAGGCUA&GCAAAUUCGUGAAGCG&CUGGUUACCUGCAGC&CCAGGGUUUCCUUG
+((((((.(((.....&........((((((((.......((((((.....))))))...)))))))).................(((.((((................)))))))....(((((.(((((.............)))))..))))).&.&..................((((((((....)))))))).&......))).))))))&...............&..............
+
+Interacting substructures
+Chain 2-1 6 
+CGCUUCUCGGCCUUUGCAAAUUCGUGAAGCG
+((((((.(((...........))).))))))
+
+Chain 2-2 
+CUUAUCAGUUUAAUAUCUGAUACGUCCUCUAUCCGAGGACAAUAUAUUAAAUGGAUUUUUGGAGCAGGGAGAUGGAAUAGGAGCUUGCUCCGUCCACUCCACGCAUCGACCUGGUAUUGCAGUACCUCCAGGAACGGUGC
+........((((((((.......((((((.....))))))...)))))))).................(((.((((................)))))))....(((((.(((((.............)))))..))))).
+
+Chain 5-1 
+A
+.
+
+Chain 5-2 
+UCUUAACCCAAUUUUUUGAGCCUUGCCUUGGCAAGGCUA
+..................((((((((....)))))))).
+
+Chain Y-1 
+CUGGUUACCUGCAGC
+...............
+
+Chain Y-2 
+CCAGGGUUUCCUUG
+..............
+

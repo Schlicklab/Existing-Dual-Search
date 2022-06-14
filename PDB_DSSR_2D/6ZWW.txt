@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF E. COLI RNA HELICASE HRPA IN COMPLEX WITH RNA 
+Chain order		B D F H 
+Amino acids		YES
+Metal			Ca	2
+Chains			B	RNA	
+			D	RNA	
+			F	RNA	
+			H	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6ZWW nts=44 [whole]
+UUUUUUUUUUUU&UUUUUUUUUUUU&UUUUUUUUUU&UUUUUUUUUU
+............&............&..........&..........
+
+Interacting substructures
+Chain B 
+UUUUUUUUUUUU
+............
+
+Chain D 
+UUUUUUUUUUUU
+............
+
+Chain F 
+UUUUUUUUUU
+..........
+
+Chain H 
+UUUUUUUUUU
+..........
+

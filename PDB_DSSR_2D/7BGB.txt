@@ -1,0 +1,19 @@
+Title			THE H/ACA RNP LOBE OF HUMAN TELOMERASE 
+Chain order		B-1 B-2 B-3 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	B-2 
+			B-2	RNA*	B-3 B-1 
+			B-3	RNA*	B-2 B-3 
+Pseudoknot		NO
+
+Whole structure
+>7BGB nts=92 [whole]
+CCUGCGGC&GGCCGCAGGAAGAGGAACGGAGCGAGUCCCC&GCGGCGCGAUUCCCUGAGCUGUGGGACGUGCACCCAGGACUCGGCUCACACAU
+((((((((&.))))))))..........((((((((((..&(..(((((...(((........))).))))).)...)))))).))))......
+
+Interacting substructures
+Chain B-1 B-2 B-3 
+CCUGCGGCGGCCGCAGGAAGAGGAACGGAGCGAGUCCCCGCGGCGCGAUUCCCUGAGCUGUGGGACGUGCACCCAGGACUCGGCUCACACAU
+((((((((.))))))))..........((((((((((..(..(((((...(((........))).))))).)...)))))).))))......
+

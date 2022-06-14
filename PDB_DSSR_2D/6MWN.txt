@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF HEPATITIS A VIRUS IRES DOMAIN V IN COMPLEX WITH FAB HAVX 
+Chain order		A B 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6MWN nts=184 [whole]
+gGCAAACAUCAUUUGGCCUUAAAUGGGAUUCUGUGAGAGGGGAUCCCUCCAUUGACAGCUGGACUGUUCUUUGGGGCCUUAUGUGGUGUUUG&gGCAAACAUCAUUUGGCCUUAAAUGGGAUUCUGUGAGAGGGGAUCCCUCCAUUGACAGCUGGACUGUUCUUUGGGGCCUUAUGUGGUGUUUG
+..((((((((((..((((......((((((((.......)))))))).(((..(((((.....))).))..)))))))....))))))))))&..((((((((((..((((......((((((((.......)))))))).(((..(((((.....)))).)..)))))))....))))))))))
+
+Interacting substructures
+Chain A 
+gGCAAACAUCAUUUGGCCUUAAAUGGGAUUCUGUGAGAGGGGAUCCCUCCAUUGACAGCUGGACUGUUCUUUGGGGCCUUAUGUGGUGUUUG
+..((((((((((..((((......((((((((.......)))))))).(((..(((((.....))).))..)))))))....))))))))))
+
+Chain B 
+gGCAAACAUCAUUUGGCCUUAAAUGGGAUUCUGUGAGAGGGGAUCCCUCCAUUGACAGCUGGACUGUUCUUUGGGGCCUUAUGUGGUGUUUG
+..((((((((((..((((......((((((((.......)))))))).(((..(((((.....)))).)..)))))))....))))))))))
+

@@ -1,0 +1,22 @@
+Title			STRUCTURE OF UNMODIFIED E. COLI TRNA(ASP) 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+			B	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>6UGG nts=154 [whole]
+GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUUCGAGUCCCGUCCGUUCCGCCA&GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUUCGAGUCCCGUCCGUUCCGCCA
+(((((((..((((.....[...)))).(((((.......))))).....(((((..]....))))))))))))....&(((((((..((((.....[...)))).(((((.......))))).....(((((..]....))))))))))))....
+
+Interacting substructures
+Chain A 
+GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUUCGAGUCCCGUCCGUUCCGCCA
+(((((((..((((.....[...)))).(((((.......))))).....(((((..]....))))))))))))....
+
+Chain B 
+GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUUCGAGUCCCGUCCGUUCCGCCA
+(((((((..((((.....[...)))).(((((.......))))).....(((((..]....))))))))))))....
+

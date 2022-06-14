@@ -1,0 +1,18 @@
+Title			RNA DUPLEX CONTAINING THE INTERNAL LOOP 5'-GCUU/3'-UUCG 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6N8F nts=24 [whole]
+CGCAGCUUACGC&GCGUGCUUUGCG
+((((...(((((&)))))...))))
+
+Interacting substructures
+Chain A B 
+CGCAGCUUACGCGCGUGCUUUGCG
+((((...((((()))))...))))
+

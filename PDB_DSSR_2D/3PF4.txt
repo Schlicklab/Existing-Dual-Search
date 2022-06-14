@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF BS-CSPB IN COMPLEX WITH R(GUCUUUA) 
+Chain order		R 
+Amino acids		YES
+Metal			Na	1
+			Mg	1
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3PF4 nts=5 [whole]
+UCUUU
+.....
+
+Interacting substructures
+Chain R 
+UCUUU
+.....
+

@@ -1,0 +1,24 @@
+Title			STRUCTURE-BASED INSIGHTS INTO SELF-CLEAVAGE BY A FOUR-WAY JUNCTIONAL TWISTER-SISTER RIBOZYME 
+Chain order		A B C D 
+Amino acids		NO
+Metal			Mg	26
+Chains			A	RNA	B 
+			B	RNA[49]/1	B A 
+			C	RNA	D 
+			D	RNA[49]/1	C D 
+Pseudoknot		NO
+
+Whole structure
+>5Y85 nts=136 [whole]
+ACCCGCAAGGCCGACGGC&GCCGCCGCUGGUGCAAGUCCAGCCACGCUUCGGCGUGGGCGCUCAUGGGU&ACCCGCAAGGCCGACGGC&GCCGCCGCUGGUGCAAGUCCAGCCACGCUUCGGCGUGGGCGCUCAUGGGU
+((((...((((((.((((&)))).)(((((.......)))))(((((....)))))))).))...))))&((((...((((((.((((&)))).)(((((.......)))))(((((....)))))))).))...))))
+
+Interacting substructures
+Chain A B 
+ACCCGCAAGGCCGACGGCGCCGCCGCUGGUGCAAGUCCAGCCACGCUUCGGCGUGGGCGCUCAUGGGU
+((((...((((((.(((()))).)(((((.......)))))(((((....)))))))).))...))))
+
+Chain C D 
+ACCCGCAAGGCCGACGGCGCCGCCGCUGGUGCAAGUCCAGCCACGCUUCGGCGUGGGCGCUCAUGGGU
+((((...((((((.(((()))).)(((((.......)))))(((((....)))))))).))...))))
+

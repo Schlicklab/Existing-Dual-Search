@@ -1,0 +1,24 @@
+Title			THE STRUCTURE OF A PIWI PROTEIN FROM ARCHAEOGLOBUS FULGIDUS COMPLEXED WITH A 16NT SIRNA DUPLEX. 
+Chain order		P Q R S 
+Amino acids		YES
+Metal			Mn	2
+Chains			P	RNA	Q 
+			Q	RNA	P 
+			R	RNA	S 
+			S	RNA	R 
+Pseudoknot		NO
+
+Whole structure
+>2BGG nts=29 [whole]
+UUCGACGC&GUCGAAUU&UUCGACGC&GUCGA
+.(((((..&)))))...&.(((((..&)))))
+
+Interacting substructures
+Chain P Q 
+UUCGACGCGUCGAAUU
+.(((((..)))))...
+
+Chain R S 
+UUCGACGCGUCGA
+.(((((..)))))
+

@@ -1,0 +1,40 @@
+Title			COOPERATIVITY AND DOWNSTREAM BINDING IN RNA REPLICATION 
+Chain order		A-1 B-1 C-1 D-1 A-2 A-3 B-2 B-3 C-2 C-3 D-2 D-3 
+Amino acids		NO
+Metal			Mg	15
+Chains			A-1	RNA*	B-1 A-2 
+			B-1	RNA*	A-1 B-2 B-3 
+			C-1	RNA*	C-2 D-1 
+			D-1	RNA*	D-2 C-1 D-3 
+			A-2	RNA*	A-1 
+			A-3	RNA*	
+			B-2	RNA*	B-1 
+			B-3	RNA*	B-1 
+			C-2	RNA*	C-1 
+			C-3	RNA*	
+			D-2	RNA*	D-1 
+			D-3	RNA*	D-1 
+Pseudoknot		YES
+
+Whole structure
+>5DHC nts=64 [whole]
+ccagACUUAAGUCU&ccagACUUAAGUCU&ccagACUUAAGUCU&ccagACUUAAGUCU&g&g&g&g&g&g&g&g
+.<((((((((((((&{{))))))))))))&.(((((((((((((&[[))))))))))))&>&.&}&}&)&.&]&]
+
+Interacting substructures
+Chain A-1 B-1 A-2 B-2 B-3 
+ccagACUUAAGUCUccagACUUAAGUCUggg
+.<(((((((((((({{))))))))))))>}}
+
+Chain C-1 D-1 C-2 D-2 D-3 
+ccagACUUAAGUCUccagACUUAAGUCUggg
+.((((((((((((([[)))))))))))))]]
+
+Chain A-3 
+g
+.
+
+Chain C-3 
+g
+.
+

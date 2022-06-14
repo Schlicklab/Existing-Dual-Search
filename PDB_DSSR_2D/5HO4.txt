@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF HNRNPA2B1 IN COMPLEX WITH 10-MER RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5HO4 nts=9 [whole]
+AAGGACUAG
+.........
+
+Interacting substructures
+Chain B 
+AAGGACUAG
+.........
+

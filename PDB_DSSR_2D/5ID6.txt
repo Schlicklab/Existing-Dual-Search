@@ -1,0 +1,17 @@
+Title			STRUCTURE OF CPF1/RNA COMPLEX 
+Chain order		G 
+Amino acids		YES
+Metal			Mg	2
+Chains			G	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>5ID6 nts=21 [whole]
+AAUUUCUACUAAGUGUAGAUC
+....(((((.....)))))..
+
+Interacting substructures
+Chain G 
+AAUUUCUACUAAGUGUAGAUC
+....(((((.....)))))..
+

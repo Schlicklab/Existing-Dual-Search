@@ -1,0 +1,22 @@
+Title			INHIBITOR INDUCED STRUCTURAL CHANGE IN THE HCV IRES DOMAIN IIA RNA 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal
+Chains			A-1	RNA[38]/1*	A-1 
+			A-2	RNA[38]/1*	
+Pseudoknot		NO
+
+Whole structure
+>2KU0 nts=39 [whole]
+GGAGGAACUACUGUCUUCCUUCGGGUCGUGCAGCCUCC&t
+(((((.....(((((..((....))..).)))))))))&.
+
+Interacting substructures
+Chain A-1 
+GGAGGAACUACUGUCUUCCUUCGGGUCGUGCAGCCUCC
+(((((.....(((((..((....))..).)))))))))
+
+Chain A-2 
+t
+.
+

@@ -1,0 +1,27 @@
+Title			VACCINIA METHYLTRANSFERASE VP39 COMPLEXED WITH M7G CAPPED RNA HEXAMER AND S-ADENOSYLHOMOCYSTEINE 
+Chain order		B-1 B-2 A 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	
+			B-2	RNA*	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>1AV6 nts=8 [whole]
+GAAAAA&g&a
+......&.&.
+
+Interacting substructures
+Chain B-1 
+GAAAAA
+......
+
+Chain B-2 
+g
+.
+
+Chain A 
+a
+.
+

@@ -1,0 +1,18 @@
+Title			ALTERNATINGLY MODIFIED 2'FLUORO RNA OCTAMER F/RC4G4 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>3P4D nts=16 [whole]
+cCcCgGgG&cCcCgGgG
+((((((((&))))))))
+
+Interacting substructures
+Chain A B 
+cCcCgGgGcCcCgGgG
+(((((((())))))))
+

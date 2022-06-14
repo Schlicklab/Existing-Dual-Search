@@ -1,0 +1,22 @@
+Title			HUMAN ARGONAUTE-2 - MIR-20A COMPLEX 
+Chain order		R-1 R-2 
+Amino acids		YES
+Metal
+Chains			R-1	RNA*	
+			R-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>4F3T nts=14 [whole]
+UAAAGUGCUU&CAGG
+..........&....
+
+Interacting substructures
+Chain R-1 
+UAAAGUGCUU
+..........
+
+Chain R-2 
+CAGG
+....
+

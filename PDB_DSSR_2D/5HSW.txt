@@ -1,0 +1,19 @@
+Title			KSHV SOX RNA COMPLEX 
+Chain order		B-1 B-2 B-3 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	B-3 
+			B-2	RNA*	B-3 
+			B-3	RNA*	B-2 B-1 
+Pseudoknot		NO
+
+Whole structure
+>5HSW nts=18 [whole]
+UCU&UGAAGC&AGCUUCCAG
+.((&.(((((&.))))).))
+
+Interacting substructures
+Chain B-1 B-2 B-3 
+UCUUGAAGCAGCUUCCAG
+.((.(((((.))))).))
+

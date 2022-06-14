@@ -1,0 +1,22 @@
+Title			STRUCTURE OF THE QUA1-KH DOMAIN OF T-STAR IN COMPLEX WITH UAAU RNA 
+Chain order		E F 
+Amino acids		YES
+Metal
+Chains			E	RNA	
+			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5ELT nts=8 [whole]
+UAAU&UAAU
+....&....
+
+Interacting substructures
+Chain E 
+UAAU
+....
+
+Chain F 
+UAAU
+....
+

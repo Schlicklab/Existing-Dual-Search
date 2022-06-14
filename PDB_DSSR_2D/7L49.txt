@@ -1,0 +1,26 @@
+Title			CRYO-EM STRUCTURE OF CRISPR-CAS12F TERNARY COMPLEX 
+Chain order		C D E-1 E-2 E-3 F 
+Amino acids		YES
+Metal			Zn	4
+Chains			C	DNA	E-3 D 
+			D	DNA	C 
+			E-1	RNA*	E-2 
+			E-2	RNA*	E-2 E-3 E-1 
+			E-3	RNA*	C E-2 
+			F	DNA	
+Pseudoknot		YES
+
+Whole structure
+>7L49 nts=190 [whole]
+CGGCGACGTTGGGTCAACTTAAATACGTA&TACGTATTTAAGTTGACCCAA&CCGCUUCACCAA&UUGAGUGAAGGUGGGCUGCUUGCAUCAGCCUAAUGUCGAGAAGUGCUUUCUUCGGAAAGUAACCCUCGAAACAAAUUCAUUU&AGACGAAUGAAGGAAUGCAACAGUUGACCCAACGUCGCCGG&CCCCC
+(((((((((((((((((((((((((((((&))))))))))...........&((.(((((((..&..).))))))).)(((((.[[[[[.))))).....(((((..((((((((....)))))).)).)))))..(...(.(.(.(&).).).).....)..]]]]].))))))))))))))))))).&.....
+
+Interacting substructures
+Chain C D E-1 E-2 E-3 
+CGGCGACGTTGGGTCAACTTAAATACGTATACGTATTTAAGTTGACCCAACCGCUUCACCAAUUGAGUGAAGGUGGGCUGCUUGCAUCAGCCUAAUGUCGAGAAGUGCUUUCUUCGGAAAGUAACCCUCGAAACAAAUUCAUUUAGACGAAUGAAGGAAUGCAACAGUUGACCCAACGUCGCCGG
+((((((((((((((((((((((((((((())))))))))...........((.(((((((....).))))))).)(((((.[[[[[.))))).....(((((..((((((((....)))))).)).)))))..(...(.(.(.().).).).....)..]]]]].))))))))))))))))))).
+
+Chain F 
+CCCCC
+.....
+

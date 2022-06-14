@@ -1,0 +1,17 @@
+Title			WILD-TYPE YEAST PSEUDOURIDINE SYNTHASE, PUS1, BOUND TO 5-FLUOROURACIL RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7R9F nts=13 [whole]
+uAAUCGGGAUUCC
+.............
+
+Interacting substructures
+Chain B 
+uAAUCGGGAUUCC
+.............
+

@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF AN IN VITRO EVOLVED TETRACYCLINE APTAMER AND ARTIFICIAL RIBOSWITCH 
+Chain order		B 
+Amino acids		YES
+Metal			Mg	12
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>3EGZ nts=65 [whole]
+GAGGGAGAGGUGAAGAAUACGACCACCUAGGUACCAUUGCACUCCGGUACCUAAAACAUACCCUC
+(((((...((((...........))))((((((((..........)))))))).......)))))
+
+Interacting substructures
+Chain B 
+GAGGGAGAGGUGAAGAAUACGACCACCUAGGUACCAUUGCACUCCGGUACCUAAAACAUACCCUC
+(((((...((((...........))))((((((((..........)))))))).......)))))
+

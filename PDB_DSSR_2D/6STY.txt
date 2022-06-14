@@ -1,0 +1,22 @@
+Title			HUMAN REXO2 EXONUCLEASE IN COMPLEX WITH RNA. 
+Chain order		C F 
+Amino acids		YES
+Metal			Ca	1
+Chains			C	RNA	
+			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6STY nts=5 [whole]
+AUC&UC
+...&..
+
+Interacting substructures
+Chain C 
+AUC
+...
+
+Chain F 
+UC
+..
+

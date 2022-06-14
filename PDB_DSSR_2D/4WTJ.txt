@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF HCV NS5B GENOTYPE 2A JFH-1 ISOLATE WITH S15G E86Q E87Q C223H V321I MUTATIONS IN COMPLEX WITH RNA TEMPLATE 5'-AUCC, RNA PRIMER 5'-PGG, MN2+, AND ADP 
+Chain order		T P A 
+Amino acids		YES
+Metal			Mn	2
+Chains			T	RNA	P 
+			P	RNA	T 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>4WTJ nts=7 [whole]
+AUCC&GG&a
+..((&))&.
+
+Interacting substructures
+Chain T P 
+AUCCGG
+..(())
+
+Chain A 
+a
+.
+

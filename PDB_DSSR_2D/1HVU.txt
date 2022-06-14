@@ -1,0 +1,32 @@
+Title			HUMAN IMMUNODEFICIENCY VIRUS TYPE 1 REVERSE TRANSCRIPTASE COMPLEXED WITH A 33-BASE NUCLEOTIDE RNA PSEUDOKNOT 
+Chain order		C F I L 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+			F	RNA	F 
+			I	RNA	I 
+			L	RNA	L 
+Pseudoknot		YES
+
+Whole structure
+>1HVU nts=120 [whole]
+AGAUUCCGUUUUCAGUCGGGAAAAACUGAA&AGAUUCCGUUUUCAGUCGGGAAAAACUGAA&AGAUUCCGUUUUCAGUCGGGAAAAACUGAA&AGAUUCCGUUUUCAGUCGGGAAAAACUGAA
+...[.[[[..((((((]]].]...))))))&...[.[[[..((((((]]].]...))))))&...[.[[[..((((((]]].]...))))))&...[.[[[..((((((]]].]...))))))
+
+Interacting substructures
+Chain C 
+AGAUUCCGUUUUCAGUCGGGAAAAACUGAA
+...[.[[[..((((((]]].]...))))))
+
+Chain F 
+AGAUUCCGUUUUCAGUCGGGAAAAACUGAA
+...[.[[[..((((((]]].]...))))))
+
+Chain I 
+AGAUUCCGUUUUCAGUCGGGAAAAACUGAA
+...[.[[[..((((((]]].]...))))))
+
+Chain L 
+AGAUUCCGUUUUCAGUCGGGAAAAACUGAA
+...[.[[[..((((((]]].]...))))))
+

@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE KH-QUA2 DOMAIN OF T-STAR IN COMPLEX WITH AAUAAU RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5ELR nts=5 [whole]
+AUAAU
+.....
+
+Interacting substructures
+Chain B 
+AUAAU
+.....
+

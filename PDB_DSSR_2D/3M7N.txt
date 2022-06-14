@@ -1,0 +1,27 @@
+Title			ARCHAEOGLOBUS FULGIDUS EXOSOME WITH RNA BOUND TO THE ACTIVE SITE 
+Chain order		X Y Z 
+Amino acids		YES
+Metal			Zn	3
+Chains			X	RNA	
+			Y	RNA	
+			Z	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3M7N nts=14 [whole]
+UCCCC&UCCCC&CCCC
+.....&.....&....
+
+Interacting substructures
+Chain X 
+UCCCC
+.....
+
+Chain Y 
+UCCCC
+.....
+
+Chain Z 
+CCCC
+....
+

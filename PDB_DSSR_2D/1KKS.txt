@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE HISTONE MRNA HAIRPIN REQUIRED FOR CELL CYCLE REGULATION OF HISTONE GENE EXPRESSION 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1KKS nts=24 [whole]
+GGAAGGCCCUUUUCAGGGCCACCC
+.(..((((((....))))))..).
+
+Interacting substructures
+Chain A 
+GGAAGGCCCUUUUCAGGGCCACCC
+.(..((((((....))))))..).
+

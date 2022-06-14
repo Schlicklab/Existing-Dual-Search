@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE TOXOPLASMA CPSF4 YTH-DOMAIN IN COMPLEX WITH A 7 MER M6A-MODIFIED RNA 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>7NJC nts=3 [whole]
+CA&a
+..&.
+
+Interacting substructures
+Chain B-1 
+CA
+..
+
+Chain B-2 
+a
+.
+

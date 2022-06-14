@@ -1,0 +1,31 @@
+Title			AN ESCHERICHIA COLI YYBP-YKOY MN RIBOSWITCH IN THE MN2+-FREE STATE 
+Chain order		B-1 A-1 A-2 A-3 B-2 A-4 
+Amino acids		NO
+Metal			Mg	9
+			Sr	58
+Chains			B-1	RNA*	B-2 B-1 
+			A-1	RNA*	A-3 
+			A-2	RNA*	A-2 
+			A-3	RNA*	A-1 A-4 
+			B-2	RNA*	B-1 
+			A-4	RNA*	A-3 
+Pseudoknot		YES
+
+Whole structure
+>4Y1M nts=185 [whole]
+GAUUUGGGGAGUAGCCGAUUUCCGAAAGGAAAUGUACGUGUCAACAUUUUCGUUGAAAAACGUGGCACGUACGGACUGAAGAAAUUCAGUCAGGCGAGACCAUAUCC&GAUUUGGGGAGUAGCCGAUU&UGUACGUGUCAACAUUUUCGUUGAAAAACGUGGCACGUAC&AGGCGAGACCAUAUCC&g&g
+(((.(((......(((.((((((....))))))((((((((((.......((((....)))))))))))))).(((((((....))))))).)))....))).)))[&((..(((......(((....&....(((((((.......(((......))))))))))...&.)))....)))..))(&]&)
+
+Interacting substructures
+Chain B-1 B-2 
+GAUUUGGGGAGUAGCCGAUUUCCGAAAGGAAAUGUACGUGUCAACAUUUUCGUUGAAAAACGUGGCACGUACGGACUGAAGAAAUUCAGUCAGGCGAGACCAUAUCCg
+(((.(((......(((.((((((....))))))((((((((((.......((((....)))))))))))))).(((((((....))))))).)))....))).)))[]
+
+Chain A-1 A-3 A-4 
+GAUUUGGGGAGUAGCCGAUUAGGCGAGACCAUAUCCg
+((..(((......(((.....)))....)))..))()
+
+Chain A-2 
+UGUACGUGUCAACAUUUUCGUUGAAAAACGUGGCACGUAC
+....(((((((.......(((......))))))))))...
+

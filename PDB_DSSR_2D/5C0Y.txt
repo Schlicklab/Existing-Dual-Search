@@ -1,0 +1,27 @@
+Title			CRYSTAL STRUCTURE OF THE RRP6 CATALYTIC DOMAIN BOUND TO POLY(U) RNA 
+Chain order		D-1 D-2 C 
+Amino acids		YES
+Metal			Mg	1
+Chains			D-1	RNA*	
+			D-2	RNA*	
+			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5C0Y nts=8 [whole]
+UU&UUUU&UU
+..&....&..
+
+Interacting substructures
+Chain D-1 
+UU
+..
+
+Chain D-2 
+UUUU
+....
+
+Chain C 
+UU
+..
+

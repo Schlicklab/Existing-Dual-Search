@@ -1,0 +1,22 @@
+Title			STRUCTURE OF NOP9 RNA COMPLEX 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5WTY nts=22 [whole]
+GGAAUUGACGG&GGAAUUGACGG
+...........&...........
+
+Interacting substructures
+Chain C 
+GGAAUUGACGG
+...........
+
+Chain D 
+GGAAUUGACGG
+...........
+

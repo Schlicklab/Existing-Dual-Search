@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF RNA-BINDING DOMAIN 3 OF CUGBP1 IN COMPLEX WITH RNA (UG)3 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2RQC nts=6 [whole]
+UGUGUG
+......
+
+Interacting substructures
+Chain B 
+UGUGUG
+......
+

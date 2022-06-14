@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A VESICULAR STOMATITIS VIRUS NUCLEOCAPSID-POLYA COMPLEX 
+Chain order		R 
+Amino acids		YES
+Metal			U	20
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3PTX nts=45 [whole]
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+.............................................
+
+Interacting substructures
+Chain R 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+.............................................
+

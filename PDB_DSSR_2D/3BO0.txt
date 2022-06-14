@@ -1,0 +1,32 @@
+Title			RIBOSOME-SECY COMPLEX 
+Chain order		D E F G 
+Amino acids		YES
+Metal
+Chains			D	RNA	D 
+			E	RNA	E 
+			F	RNA	F 
+			G	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>3BO0 nts=105 [whole]
+CGGUAAGGUGAUAUGAACCGUUAUAAC&AAAGAACCCCGGCGAGGGGAGUGAAAA&ACAGGUUAAUAUUCCUGUA&CGUGAUGACGAGGCACUACGGUGCUGAAGCAA
+..(...(((.......))).......)&......((((.....))))........&(((((........))))).&........(..(((((....)))))...)...
+
+Interacting substructures
+Chain D 
+CGGUAAGGUGAUAUGAACCGUUAUAAC
+..(...(((.......))).......)
+
+Chain E 
+AAAGAACCCCGGCGAGGGGAGUGAAAA
+......((((.....))))........
+
+Chain F 
+ACAGGUUAAUAUUCCUGUA
+(((((........))))).
+
+Chain G 
+CGUGAUGACGAGGCACUACGGUGCUGAAGCAA
+........(..(((((....)))))...)...
+

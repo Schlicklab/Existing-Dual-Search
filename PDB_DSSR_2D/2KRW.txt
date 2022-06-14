@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE E COLI TRNA-ARG1 (ACG) CONTAINING THE 2- THIOCYTIDINE MODIFICATION IN POSITION 32 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KRW nts=17 [whole]
+CUCGGcUACGAACCGAG
+(((((.......)))))
+
+Interacting substructures
+Chain A 
+CUCGGcUACGAACCGAG
+(((((.......)))))
+

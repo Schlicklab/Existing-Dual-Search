@@ -1,0 +1,18 @@
+Title			PRE-CATALYTIC COMPLEX OF 10-23 DNAZYME WITH RNA TARGET 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	DNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>7PDU nts=52 [whole]
+TTGGGGTAAGGCTCGCTACAACGAGGTGCATGT&ACAUGCACCGUUACCCCAA
+.((((((((................((((((((&))))))))..)))))))).
+
+Interacting substructures
+Chain A B 
+TTGGGGTAAGGCTCGCTACAACGAGGTGCATGTACAUGCACCGUUACCCCAA
+.((((((((................(((((((())))))))..)))))))).
+

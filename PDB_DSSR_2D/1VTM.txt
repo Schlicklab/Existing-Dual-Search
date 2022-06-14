@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE U2 STRAIN OF TOBACCO MOSAIC VIRUS REFINED AT 3.5 ANGSTROMS RESOLUTION USING X-RAY FIBER DIFFRACTION 
+Chain order		R 
+Amino acids		YES
+Metal
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1VTM nts=3 [whole]
+GAA
+...
+
+Interacting substructures
+Chain R 
+GAA
+...
+

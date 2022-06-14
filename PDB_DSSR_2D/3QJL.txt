@@ -1,0 +1,22 @@
+Title			ONE RAMP PROTEIN BINDING DIFFERENT RNA SUBSTRATES 
+Chain order		X R 
+Amino acids		YES
+Metal
+Chains			X	RNA	
+			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3QJL nts=24 [whole]
+GUUACAAUAAGA&GUUACAAUAAGA
+............&............
+
+Interacting substructures
+Chain X 
+GUUACAAUAAGA
+............
+
+Chain R 
+GUUACAAUAAGA
+............
+

@@ -1,0 +1,22 @@
+Title			CAS6 (TTHB231) PRODUCT COMPLEX 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>4C9D nts=25 [whole]
+GCCUCGUAGAGg&AGCCUCGUAGAGg
+.((((...))))&..((((...))))
+
+Interacting substructures
+Chain C 
+GCCUCGUAGAGg
+.((((...))))
+
+Chain D 
+AGCCUCGUAGAGg
+..((((...))))
+

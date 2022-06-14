@@ -1,0 +1,18 @@
+Title			SOLUTION RNA STRUCTURE OF LOOP REGION OF THE HIV-1 DIMERIZATION INITIATION SITE IN THE EXTENDED-DUPLEX DIMER 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2D18 nts=34 [whole]
+GCUGAAGUGCACACGGC&GCUGAAGUGCACACGGC
+((((..((((((.((((&))))..)))))).))))
+
+Interacting substructures
+Chain A B 
+GCUGAAGUGCACACGGCGCUGAAGUGCACACGGC
+((((..((((((.(((())))..)))))).))))
+

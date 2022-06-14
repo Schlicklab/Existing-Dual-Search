@@ -1,0 +1,17 @@
+Title			THE CRYSTAL STRUCTURE OF AN RNA OLIGOMER INCORPORATING TANDEM ADENOSINE-INOSINE MISMATCHES 
+Chain order		A 
+Amino acids		NO
+Metal			Ca	1
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>333D nts=8 [whole]
+CGCAgGCG
+........
+
+Interacting substructures
+Chain A 
+CGCAgGCG
+........
+

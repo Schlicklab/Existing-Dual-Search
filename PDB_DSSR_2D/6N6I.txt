@@ -1,0 +1,22 @@
+Title			HUMAN REXO2 BOUND TO PGG 
+Chain order		D C 
+Amino acids		YES
+Metal			Na	2
+Chains			D	RNA	
+			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6N6I nts=4 [whole]
+GG&GG
+..&..
+
+Interacting substructures
+Chain D 
+GG
+..
+
+Chain C 
+GG
+..
+

@@ -1,0 +1,21 @@
+Title			CRYO-EM STRUCTURE OF XANTHOMONOS ORYZAE TRANSCRIPTION ELONGATION COMPLEX WITH NUSA AND THE BACTERIOPHAGE PROTEIN P7 
+Chain order		G H-1 H-2 I 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			G	DNA	H-1 I H-2 
+			H-1	DNA*	G 
+			H-2	DNA*	G 
+			I	RNA	G 
+Pseudoknot		YES
+
+Whole structure
+>6J9E nts=63 [whole]
+GGGTATTCGCCGTGTACCTCTCCTAGCCC&GGGCTA&ATGACGGCGAATACCC&AGCGGAGAGGUA
+[[[[[.[[[[[[[.(((((((((((((((&))))))&...]]]]]]].]]]]]&...)))))))))
+
+Interacting substructures
+Chain G H-1 H-2 I 
+GGGTATTCGCCGTGTACCTCTCCTAGCCCGGGCTAATGACGGCGAATACCCAGCGGAGAGGUA
+[[[[[.[[[[[[[.((((((((((((((())))))...]]]]]]].]]]]]...)))))))))
+

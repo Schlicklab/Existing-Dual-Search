@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE FOR HELIX 45 IN 3' END OF 12S RRNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6AAS nts=28 [whole]
+GGUAAGUGUACUGGAAAGUGCACUUGCC
+((((((((((((....))))))))))))
+
+Interacting substructures
+Chain A 
+GGUAAGUGUACUGGAAAGUGCACUUGCC
+((((((((((((....))))))))))))
+

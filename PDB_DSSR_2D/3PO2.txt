@@ -1,0 +1,25 @@
+Title			ARRESTED RNA POLYMERASE II ELONGATION COMPLEX 
+Chain order		N P T D 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			N	DNA	T 
+			P	RNA	T 
+			T	DNA	P N 
+			D			
+Pseudoknot		YES
+
+Whole structure
+>3PO2 nts=49 [whole]
+AAGGTAAGCTAGCT&CCCCCCCCCCCCCCC&AGCTAGCTTACCTGGTGuT&c
+.(((((((((((..&..[.[[.........&..)))))))))))]].]..&.
+
+Interacting substructures
+Chain N P T 
+AAGGTAAGCTAGCTCCCCCCCCCCCCCCCAGCTAGCTTACCTGGTGuT
+.(((((((((((....[.[[...........)))))))))))]].]..
+
+Chain D 
+c
+.
+

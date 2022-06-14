@@ -1,0 +1,28 @@
+Title			CRYSTAL STRUCTURE OF SARS-COV-2 NSP16/10 HETERODIMER IN COMPLEX WITH (M7GPPPA2M)PUPUPAPAPA (CAP-1), S-ADENOSYL-L-HOMOCYSTEINE (SAH) AND TWO MAGNESIUM (MG) IONS. 
+Chain order		C-1 C-2 A 
+Amino acids		YES
+Metal			Mg	2
+			Zn	2
+Chains			C-1	RNA*	
+			C-2	RNA*	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>7L6T nts=5 [whole]
+g&aUU&a
+.&...&.
+
+Interacting substructures
+Chain C-1 
+g
+.
+
+Chain C-2 
+aUU
+...
+
+Chain A 
+a
+.
+

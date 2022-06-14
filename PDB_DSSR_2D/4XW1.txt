@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF (GCCU(G-LNA)CCUG)2 DUPLEX 
+Chain order		C 
+Amino acids		NO
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4XW1 nts=9 [whole]
+GCCUgCCUG
+.........
+
+Interacting substructures
+Chain C 
+GCCUgCCUG
+.........
+

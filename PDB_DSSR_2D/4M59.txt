@@ -1,0 +1,27 @@
+Title			CRYSTAL STRUCTURE OF THE PENTATRICOPEPTIDE REPEAT PROTEIN PPR10 IN COMPLEX WITH AN 18-NT PSAJ RNA ELEMENT 
+Chain order		D C-1 C-2 
+Amino acids		YES
+Metal
+Chains			D	RNA	
+			C-1	RNA*	
+			C-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>4M59 nts=32 [whole]
+GUAUUCUUUAAUUAUUUC&GUAUUC&AUUAUUUC
+..................&......&........
+
+Interacting substructures
+Chain D 
+GUAUUCUUUAAUUAUUUC
+..................
+
+Chain C-1 
+GUAUUC
+......
+
+Chain C-2 
+AUUAUUUC
+........
+

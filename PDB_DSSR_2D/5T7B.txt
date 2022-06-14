@@ -1,0 +1,22 @@
+Title			ARGONAUTE-2 - 5'-(E)-VINYLPHOSPHONATE 2'-O-METHYL-URIDINE MODIFIED MRTTR GUIDE RNA COMPLEX 
+Chain order		R-1 R-2 
+Amino acids		YES
+Metal
+Chains			R-1	RNA*	
+			R-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>5T7B nts=11 [whole]
+uUAUAGAGCA&U
+..........&.
+
+Interacting substructures
+Chain R-1 
+uUAUAGAGCA
+..........
+
+Chain R-2 
+U
+.
+

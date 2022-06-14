@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE TRNA BINDING DOMAIN OF PYRROLYSYL-TRNA SYNTHETASE BOUND TO TRNA(PYL) 
+Chain order		C D 
+Amino acids		YES
+Metal			Zn	2
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		YES
+
+Whole structure
+>5UD5 nts=142 [whole]
+GGAAACCUGAUCAUGUAGAUCGAAUGGACUCUAAAUCCGUUCAGCCGGGUUAGAUUCCCGGGGUUUCCGC&GGAAACCUGAUCAUGUAGAUCGAAUGGACUCUAAAUCCGUUCAGCCGGGUUAGAUUCCCGGGGUUUCCGCCA
+(((((((.((((...[.))))(((((((.......)))))))..(((((..]....))))))))))))..&(((((((.((((...[.))))(((((((.......)))))))..(((((..]....))))))))))))....
+
+Interacting substructures
+Chain C 
+GGAAACCUGAUCAUGUAGAUCGAAUGGACUCUAAAUCCGUUCAGCCGGGUUAGAUUCCCGGGGUUUCCGC
+(((((((.((((...[.))))(((((((.......)))))))..(((((..]....))))))))))))..
+
+Chain D 
+GGAAACCUGAUCAUGUAGAUCGAAUGGACUCUAAAUCCGUUCAGCCGGGUUAGAUUCCCGGGGUUUCCGCCA
+(((((((.((((...[.))))(((((((.......)))))))..(((((..]....))))))))))))....
+

@@ -1,0 +1,22 @@
+Title			HUMAN ARGONAUTE2 BOUND TO AN SIRNA 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal			Mg	1
+Chains			B-1	RNA*	
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>5JS1 nts=10 [whole]
+UUAUCUAUA&A
+.........&.
+
+Interacting substructures
+Chain B-1 
+UUAUCUAUA
+.........
+
+Chain B-2 
+A
+.
+

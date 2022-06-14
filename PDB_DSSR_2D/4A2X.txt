@@ -1,0 +1,24 @@
+Title			STRUCTURE OF DUCK RIG-I C-TERMINAL DOMAIN (CTD) WITH 14-MER DSRNA 
+Chain order		L M N O 
+Amino acids		YES
+Metal			Zn	4
+Chains			L	RNA	M 
+			M	RNA	L 
+			N	RNA	O 
+			O	RNA	N 
+Pseudoknot		NO
+
+Whole structure
+>4A2X nts=56 [whole]
+GGGAGAACAACGCG&CGCGUUGUUCUCCC&GGGAGAACAACGCG&CGCGUUGUUCUCCC
+((((((((((((((&))))))))))))))&((((((((((.(((&))).))))))))))
+
+Interacting substructures
+Chain L M 
+GGGAGAACAACGCGCGCGUUGUUCUCCC
+(((((((((((((())))))))))))))
+
+Chain N O 
+GGGAGAACAACGCGCGCGUUGUUCUCCC
+((((((((((.((())).))))))))))
+

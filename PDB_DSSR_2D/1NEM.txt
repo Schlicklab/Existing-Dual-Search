@@ -1,0 +1,17 @@
+Title			SACCHARIDE-RNA RECOGNITION IN THE NEOMYCIN B / RNA APTAMER COMPLEX 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1NEM nts=23 [whole]
+GGACUGGGCGAGAAGUUUAGUCC
+(((((((((.....)))))))))
+
+Interacting substructures
+Chain A 
+GGACUGGGCGAGAAGUUUAGUCC
+(((((((((.....)))))))))
+

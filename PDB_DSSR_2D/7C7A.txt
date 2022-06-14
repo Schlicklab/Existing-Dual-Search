@@ -1,0 +1,24 @@
+Title			CRYO-EM STRUCTURE OF YEAST RIBONUCLEASE MRP WITH SUBSTRATE ITS1 
+Chain order		A-1 A-2 R 
+Amino acids		YES
+Metal			Mg	3
+			Zn	1
+Chains			A-1	RNA*	A-1 A-2 
+			A-2	RNA*	A-1 A-2 
+			R	RNA	
+Pseudoknot		YES
+
+Whole structure
+>7C7A nts=339 [whole]
+AAUCCAUGACCAAAGAAUCGUCACAAAUCGAAGCUUACAAAAUGGAGUAAAAUUUUGUUUACUCAGUAAUAUGCUUUGGGUUGAAAGUCUCCCACCAAUUCGUAUGCGGAAAACGUAAUGAGAUUUAAAAA&AAUUGUUUAAAUCAACUCAUUAAGGAGGAUGCCCUUGGGUAUUCUGCUUCUUGACCUGGUACCUCUAUUGCAGGGUACUGGUGUUUUCUUCGGUACUGGAUUCCGUUUGUAUGGAAUCUAAACCAUAGUUAUGACGAUUGCUCUUUCCCGUGCUGGAUCGAGUAACCCAAUGGAGCUUACUAUUCUUGGUCCAUGGAUU&AAACACAAA
+((((((((((((((((((((((......(.((((..........(((((.(.......))))))........)))).).{.....[..[[[[.(((.(.......(((.....)))((((((.........&...............)))))).((.((.((.((....)).)).)).))..)..(((..(((((..........)))))..).).)......)))...((((((((......)))))))).............))))))).(((..(((......)))..)))...}.....]]]].]..))....)))))).)))))))&.........
+
+Interacting substructures
+Chain A-1 A-2 
+AAUCCAUGACCAAAGAAUCGUCACAAAUCGAAGCUUACAAAAUGGAGUAAAAUUUUGUUUACUCAGUAAUAUGCUUUGGGUUGAAAGUCUCCCACCAAUUCGUAUGCGGAAAACGUAAUGAGAUUUAAAAAAAUUGUUUAAAUCAACUCAUUAAGGAGGAUGCCCUUGGGUAUUCUGCUUCUUGACCUGGUACCUCUAUUGCAGGGUACUGGUGUUUUCUUCGGUACUGGAUUCCGUUUGUAUGGAAUCUAAACCAUAGUUAUGACGAUUGCUCUUUCCCGUGCUGGAUCGAGUAACCCAAUGGAGCUUACUAUUCUUGGUCCAUGGAUU
+((((((((((((((((((((((......(.((((..........(((((.(.......))))))........)))).).{.....[..[[[[.(((.(.......(((.....)))((((((........................)))))).((.((.((.((....)).)).)).))..)..(((..(((((..........)))))..).).)......)))...((((((((......)))))))).............))))))).(((..(((......)))..)))...}.....]]]].]..))....)))))).)))))))
+
+Chain R 
+AAACACAAA
+.........
+

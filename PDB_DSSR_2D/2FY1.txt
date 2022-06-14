@@ -1,0 +1,17 @@
+Title			A DUAL MODE OF RNA RECOGNITION BY THE RBMY PROTEIN 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2FY1 nts=21 [whole]
+GGACUGUCCACAAGACAGUCC
+((((((((.....))))))))
+
+Interacting substructures
+Chain B 
+GGACUGUCCACAAGACAGUCC
+((((((((.....))))))))
+

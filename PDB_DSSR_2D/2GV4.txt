@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE POLIOVIRUS 3'-UTR Y-STEM 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2GV4 nts=22 [whole]
+GGACCUCUCGAAAGAGUGGUCC
+(((((.(((....))).)))))
+
+Interacting substructures
+Chain A 
+GGACCUCUCGAAAGAGUGGUCC
+(((((.(((....))).)))))
+

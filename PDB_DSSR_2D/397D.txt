@@ -1,0 +1,18 @@
+Title			A 1.3 A RESOLUTION CRYSTAL STRUCTURE OF THE HIV-1 TRANS- ACTIVATION RESPONSE REGION RNA STEM REVEALS A METAL ION- DEPENDENT BULGE CONFORMATION 
+Chain order		A B 
+Amino acids		NO
+Metal			Ca	4
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>397D nts=27 [whole]
+GGCCAGAUCUGAGCG&GCUCUCUGGCCC
+(((((((...((((.&))))))))))).
+
+Interacting substructures
+Chain A B 
+GGCCAGAUCUGAGCGGCUCUCUGGCCC
+(((((((...((((.))))))))))).
+

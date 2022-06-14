@@ -1,0 +1,19 @@
+Title			CRYSTAL STRUCTURE OF THE BACTERIAL A1408U-MUTANT RIBOSOMAL DECODING SITE (C2 FORM 2) 
+Chain order		A B 
+Amino acids		NO
+Metal			Na	2
+			Ca	2
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>4P43 nts=44 [whole]
+GCGUCUCGUCGACGAAGUCGC&UUGCGUCUCGUCGACGAAGUCGC
+(((.(((((((((((.(.(((&..))).))))))))))).).)))
+
+Interacting substructures
+Chain A B 
+GCGUCUCGUCGACGAAGUCGCUUGCGUCUCGUCGACGAAGUCGC
+(((.(((((((((((.(.(((..))).))))))))))).).)))
+

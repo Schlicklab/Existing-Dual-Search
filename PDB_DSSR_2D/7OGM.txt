@@ -1,0 +1,18 @@
+Title			A COOPERATIVE PNPASE-HFQ-RNA CARRIER COMPLEX FACILITATES BACTERIAL RIBOREGULATION. PNPASE-3'ETS(LEUZ)-HFQ 
+Chain order		P-1 P-2 
+Amino acids		YES
+Metal
+Chains			P-1	RNA*	P-1 P-2 
+			P-2	RNA*	P-1 
+Pseudoknot		NO
+
+Whole structure
+>7OGM nts=49 [whole]
+AGAUAAGAAUAAAAUCAAUUUAAAAAAAAAAAAAAAAAAA&UUUUUUUUU
+..................(((...)))........((((.&)))).....
+
+Interacting substructures
+Chain P-1 P-2 
+AGAUAAGAAUAAAAUCAAUUUAAAAAAAAAAAAAAAAAAAUUUUUUUUU
+..................(((...)))........((((.)))).....
+

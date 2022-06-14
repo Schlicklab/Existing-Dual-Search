@@ -1,0 +1,52 @@
+Title			CRISPR RNA PROCESSING ENDORIBONUCLEASE 
+Chain order		R C E G I K M O 
+Amino acids		YES
+Metal
+Chains			R	RNA	R 
+			C	RNA	C 
+			E	RNA	E 
+			G	RNA	G 
+			I	RNA	I 
+			K	RNA	K 
+			M	RNA	M 
+			O	RNA	O 
+Pseudoknot		NO
+
+Whole structure
+>4ILM nts=128 [whole]
+GCUAAUCUACUAUAGA&GCUAAUCUACUAUAGA&GCUAAUCUACUAUAGA&GCUAAUCUACUAUAGA&GCUAAUCUACUAUAGA&GCUAAUCUACUAUAGA&GCUAAUCUACUAUAGA&GCUAAUCUACUAUAGA
+.....(((.....)))&.....(((.....)))&......((.....)).&.....(((.....)))&......((.....)).&.....(((.....)))&.....(((.....)))&.....(((.....)))
+
+Interacting substructures
+Chain R 
+GCUAAUCUACUAUAGA
+.....(((.....)))
+
+Chain C 
+GCUAAUCUACUAUAGA
+.....(((.....)))
+
+Chain E 
+GCUAAUCUACUAUAGA
+......((.....)).
+
+Chain G 
+GCUAAUCUACUAUAGA
+.....(((.....)))
+
+Chain I 
+GCUAAUCUACUAUAGA
+......((.....)).
+
+Chain K 
+GCUAAUCUACUAUAGA
+.....(((.....)))
+
+Chain M 
+GCUAAUCUACUAUAGA
+.....(((.....)))
+
+Chain O 
+GCUAAUCUACUAUAGA
+.....(((.....)))
+

@@ -1,0 +1,24 @@
+Title			SAM-I RIBOSWITCH CONTAINING THE T. SOLENOPSAE KT-23 IN COMPLEX WITH S-ADENOSYL METHIONINE 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal			Na	4
+			K	8
+			Ba	15
+Chains			A-1	RNA*	A-1 
+			A-2	RNA*	
+Pseudoknot		YES
+
+Whole structure
+>4AOB nts=95 [whole]
+GGCUUAUCAAGAGAGGGCAAGAGACUGGCUUGAUGACCCCCGGCAACCAAAAAUGGUGCCAAUUCCUGCAGAGGAAACGUUGAAAGAUGAGCCA&a
+((((((((....(.(((...(((.[.[[)))......))))(((..(((....))).)))...(]].](((.(....).)))..))))))))).&.
+
+Interacting substructures
+Chain A-1 
+GGCUUAUCAAGAGAGGGCAAGAGACUGGCUUGAUGACCCCCGGCAACCAAAAAUGGUGCCAAUUCCUGCAGAGGAAACGUUGAAAGAUGAGCCA
+((((((((....(.(((...(((.[.[[)))......))))(((..(((....))).)))...(]].](((.(....).)))..))))))))).
+
+Chain A-2 
+a
+.
+

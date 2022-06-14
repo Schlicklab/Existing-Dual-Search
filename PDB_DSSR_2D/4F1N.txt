@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF KLUYVEROMYCES POLYSPORUS ARGONAUTE WITH A GUIDE RNA 
+Chain order		E F 
+Amino acids		YES
+Metal
+Chains			E	RNA	
+			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4F1N nts=16 [whole]
+UAAAAAAA&UAAAAAAA
+........&........
+
+Interacting substructures
+Chain E 
+UAAAAAAA
+........
+
+Chain F 
+UAAAAAAA
+........
+

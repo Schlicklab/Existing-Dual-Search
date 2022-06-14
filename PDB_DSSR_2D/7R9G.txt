@@ -1,0 +1,17 @@
+Title			CATALYTICALLY INACTIVE YEAST PSEUDOURIDINE SYNTHASE, PUS1, BOUND TO RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7R9G nts=12 [whole]
+AAAUCGGGAUUC
+............
+
+Interacting substructures
+Chain B 
+AAAUCGGGAUUC
+............
+

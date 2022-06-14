@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF FBF-2 REPEAT 5 MUTANT (C363S, R364Y, Q367S) IN COMPLEX WITH 8-NT RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6NOH nts=7 [whole]
+UGUAAAU
+.......
+
+Interacting substructures
+Chain B 
+UGUAAAU
+.......
+

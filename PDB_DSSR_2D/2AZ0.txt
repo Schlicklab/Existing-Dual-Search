@@ -1,0 +1,18 @@
+Title			FLOCK HOUSE VIRUS B2-DSRNA COMPLEX (P212121) 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>2AZ0 nts=36 [whole]
+GCAuGGACGCGuCCAuGC&GCAuGGACGCGuCCAuGC
+((((((((((((((((((&))))))))))))))))))
+
+Interacting substructures
+Chain C D 
+GCAuGGACGCGuCCAuGCGCAuGGACGCGuCCAuGC
+(((((((((((((((((())))))))))))))))))
+

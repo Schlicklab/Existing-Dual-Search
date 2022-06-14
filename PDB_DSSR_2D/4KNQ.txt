@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF 1NT-5'-OVERHANGING DOUBLE-HELICAL CCG-REPETITIVE RNA 20MER COMPLEXED WITH RSS P19 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4KNQ nts=20 [whole]
+CCGCCGCCGCCGCCGCCGCG
+....................
+
+Interacting substructures
+Chain B 
+CCGCCGCCGCCGCCGCCGCG
+....................
+

@@ -1,0 +1,22 @@
+Title			THE CAS13B BINARY COMPLEX 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	
+			B-2	RNA*	B-2 
+Pseudoknot		NO
+
+Whole structure
+>6AAY nts=52 [whole]
+AAAAAGG&AAAUGAAAGUUGGAACUGCUCUCAUUUUGGAGGGUAAUCACAACA
+.......&........((((.....((((((......)))))).....)))).
+
+Interacting substructures
+Chain B-1 
+AAAAAGG
+.......
+
+Chain B-2 
+AAAUGAAAGUUGGAACUGCUCUCAUUUUGGAGGGUAAUCACAACA
+........((((.....((((((......)))))).....)))).
+

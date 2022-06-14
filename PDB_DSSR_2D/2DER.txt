@@ -1,0 +1,22 @@
+Title			COCRYSTAL STRUCTURE OF AN RNA SULFURATION ENZYME MNMA AND TRNA-GLU IN THE INITIAL TRNA BINDING STATE 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		YES
+
+Whole structure
+>2DER nts=145 [whole]
+GUCCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGACGC&CCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGACG
+....(.(..((((....[....))))((((((.......))))))...(((((..]....)))))).)......&.((((..((((....[....))))((((((.......))))))...(((((..]....)))))))))....
+
+Interacting substructures
+Chain C 
+GUCCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGACGC
+....(.(..((((....[....))))((((((.......))))))...(((((..]....)))))).)......
+
+Chain D 
+CCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGACG
+.((((..((((....[....))))((((((.......))))))...(((((..]....)))))))))....
+

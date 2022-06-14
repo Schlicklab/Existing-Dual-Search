@@ -1,0 +1,23 @@
+Title			THE STRUCTURE OF A PFI RIBOSWITCH BOUND TO ZMP 
+Chain order		A B-1 B-2 
+Amino acids		NO
+Metal			Mg	3
+Chains			A	RNA	A 
+			B-1	RNA*	B-2 B-1 
+			B-2	RNA*	B-2 B-1 
+Pseudoknot		YES
+
+Whole structure
+>4ZNP nts=139 [whole]
+GGGAUACAGGACUGGCGGAUUAGUGGGAAACCACGUGGACUGUAUCCGAAAAAAAGCCGACCGCCUGGGCAUC&GGGAUACAGGACUGGCGGAUUAGUGGGAAACCACGUGGACUGUAUCCG&GCCGACCGCCUGGGCAUC
+.((((((((..(.[[[[[....((((....))))..)..))))))))........(((..]]]]]..)))...&...((.(((..(.[[[[[....((((....))))..)..))).))...&(((..]]]]]..)))...
+
+Interacting substructures
+Chain A 
+GGGAUACAGGACUGGCGGAUUAGUGGGAAACCACGUGGACUGUAUCCGAAAAAAAGCCGACCGCCUGGGCAUC
+.((((((((..(.[[[[[....((((....))))..)..))))))))........(((..]]]]]..)))...
+
+Chain B-1 B-2 
+GGGAUACAGGACUGGCGGAUUAGUGGGAAACCACGUGGACUGUAUCCGGCCGACCGCCUGGGCAUC
+...((.(((..(.[[[[[....((((....))))..)..))).))...(((..]]]]]..)))...
+

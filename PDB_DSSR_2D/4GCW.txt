@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF RNASE Z IN COMPLEX WITH PRECURSOR TRNA(THR) 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal			Zn	2
+Chains			B-1	RNA*	B-2 B-1 
+			B-2	RNA*	B-2 B-1 
+Pseudoknot		YES
+
+Whole structure
+>4GCW nts=55 [whole]
+GCUUCCAUAGCUCAGCAGGUAGAGCA&GUCAGCGGUUCGAGCCCGCUUGGAAGCuu
+(((((((...(.......[....)..&...(((((..]....))))))))))))..
+
+Interacting substructures
+Chain B-1 B-2 
+GCUUCCAUAGCUCAGCAGGUAGAGCAGUCAGCGGUUCGAGCCCGCUUGGAAGCuu
+(((((((...(.......[....).....(((((..]....))))))))))))..
+

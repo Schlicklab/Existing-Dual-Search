@@ -1,0 +1,27 @@
+Title			CRYSTAL STRUCTURE OF KU70/80 AND TLC1 
+Chain order		X Y Z 
+Amino acids		YES
+Metal
+Chains			X	RNA	X 
+			Y	RNA	Y 
+			Z	RNA	Z 
+Pseudoknot		NO
+
+Whole structure
+>5Y58 nts=90 [whole]
+GGACUUAUAGAUGGCUAAAAUCUGAGUCCA&GGACUUAUAGAUGGCUAAAAUCUGAGUCCA&GGACUUAUAGAUGGCUAAAAUCUGAGUCCA
+((((((..((((.......)))))))))).&((((((..((((.......)))))))))).&((((((..((((.......)))))))))).
+
+Interacting substructures
+Chain X 
+GGACUUAUAGAUGGCUAAAAUCUGAGUCCA
+((((((..((((.......)))))))))).
+
+Chain Y 
+GGACUUAUAGAUGGCUAAAAUCUGAGUCCA
+((((((..((((.......)))))))))).
+
+Chain Z 
+GGACUUAUAGAUGGCUAAAAUCUGAGUCCA
+((((((..((((.......)))))))))).
+

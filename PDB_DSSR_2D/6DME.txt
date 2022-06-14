@@ -1,0 +1,19 @@
+Title			PPGPP RIBOSWITCH BOUND TO PPGPP, THALLIUM ACETATE STRUCTURE 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal			Mg	13
+			Tl	1
+Chains			A-1	RNA*	A-1 A-2 
+			A-2	RNA*	A-1 
+Pseudoknot		YES
+
+Whole structure
+>6DME nts=103 [whole]
+gGAAGUGUACCUAGGGAUCCACCUCGAGAGAGGAAGGACCAAGCGGUACAGGCCUACUUCGGUAGGUUACACCGUGGGGAUAAAAGACCCGUGGCAAGUUUc&g
+((((.((((((..((...((.((((....))))..)).))....))))))(((((((....))))))).[.(((((((.........)))))))....))))&]
+
+Interacting substructures
+Chain A-1 A-2 
+gGAAGUGUACCUAGGGAUCCACCUCGAGAGAGGAAGGACCAAGCGGUACAGGCCUACUUCGGUAGGUUACACCGUGGGGAUAAAAGACCCGUGGCAAGUUUcg
+((((.((((((..((...((.((((....))))..)).))....))))))(((((((....))))))).[.(((((((.........)))))))....))))]
+

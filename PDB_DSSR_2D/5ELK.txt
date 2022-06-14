@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF MOUSE UNKEMPT ZINC FINGERS 4-6 (ZNF4-6), BOUND TO RNA 
+Chain order		R 
+Amino acids		YES
+Metal			Zn	3
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5ELK nts=4 [whole]
+UUAG
+....
+
+Interacting substructures
+Chain R 
+UUAG
+....
+

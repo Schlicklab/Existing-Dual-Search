@@ -1,0 +1,22 @@
+Title			STRUCTURE OF BACTERIOPHAGE COAT PROTEIN-LOOP RNA COMPLEX 
+Chain order		R S 
+Amino acids		YES
+Metal
+Chains			R	RNA	R 
+			S	RNA	S 
+Pseudoknot		NO
+
+Whole structure
+>1ZDJ nts=16 [whole]
+GGAUCACC&GGAUCACC
+((....))&((....))
+
+Interacting substructures
+Chain R 
+GGAUCACC
+((....))
+
+Chain S 
+GGAUCACC
+((....))
+

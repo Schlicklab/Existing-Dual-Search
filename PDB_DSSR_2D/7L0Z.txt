@@ -1,0 +1,19 @@
+Title			SPINACH VARIANT BOUND TO DFHBI-1T 
+Chain order		G 
+Amino acids		NO
+Metal			Na	2
+			Mg	1
+			K	2
+Chains			G	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>7L0Z nts=69 [whole]
+GGGAGUACGGUGAGGGUCGGGUCCAGUAGGUACGCCUACUGUUGAGUAGAGUGUGGGCUCCGUACUCCC
+((((((((((.(.....(...(((((((((....)))))))..)).........)..).))))))))))
+
+Interacting substructures
+Chain G 
+GGGAGUACGGUGAGGGUCGGGUCCAGUAGGUACGCCUACUGUUGAGUAGAGUGUGGGCUCCGUACUCCC
+((((((((((.(.....(...(((((((((....)))))))..)).........)..).))))))))))
+

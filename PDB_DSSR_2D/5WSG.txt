@@ -1,0 +1,53 @@
+Title			CRYO-EM STRUCTURE OF THE CATALYTIC STEP II SPLICEOSOME (C* COMPLEX) AT 4.0 ANGSTROM RESOLUTION 
+Chain order		B N D-1 D-2 D-3 E L-1 L-2 L-3 M b C 
+Amino acids		YES
+Metal			Mg	6
+			Zn	6
+Chains			B	RNA	D-2 
+			N	RNA	E 
+			D-1	RNA*	D-2 
+			D-2	RNA*	D-2 B D-1 
+			D-3	RNA*	
+			E	RNA	L-1 E N 
+			L-1	RNA*	M E 
+			L-2	RNA*	
+			L-3	RNA*	L-3 
+			M	RNA	L-1 
+			b	RNA[13]/1	
+			C			
+Pseudoknot		YES
+
+Whole structure
+>5WSG nts=377 [whole]
+AUAAAUUUUUAAG&GUAUGUAUUUAUUUU&GGAGGUCAACAUCAAGAACUGUGGGCCU&UUGCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAU&CCAUAUUUUUUGGAACUUUUC&GUUCGCGAAGUAACCCUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUUA&ACGAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUUUUCA&ACAUUUUUUGGCAC&CGCGACCCUCGCACUUGUGGAGUCG&UUUUAAGAACUAGAUACUAACAC&UUAUAGUUUUUUUA&g
+..........[[.&...(((((.......&(((((.(((((((.....((((((((..&..)))))))).........((...((((((((.(...]]..).)))))))).))))))))))))))..&.....................&((((.(((((.....))))).))))...................))))).....(((((((.(((.((((.....)))..))))........((((((((((.&..))))))))))........)))..))))..((((.(((((((((((.....&..............&((...(.............)...))&.....))))).)))))).).)))&..............&.
+
+Interacting substructures
+Chain B D-1 D-2 
+AUAAAUUUUUAAGGGAGGUCAACAUCAAGAACUGUGGGCCUUUGCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAU
+..........[[.(((((.(((((((.....((((((((....)))))))).........((...((((((((.(...]]..).)))))))).))))))))))))))..
+
+Chain N E L-1 M 
+GUAUGUAUUUAUUUUGUUCGCGAAGUAACCCUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUUAACGAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUUUUCAUUUUAAGAACUAGAUACUAACAC
+...(((((.......((((.(((((.....))))).))))...................))))).....(((((((.(((.((((.....)))..))))........((((((((((...))))))))))........)))..))))..((((.(((((((((((..........))))).)))))).).)))
+
+Chain D-3 
+CCAUAUUUUUUGGAACUUUUC
+.....................
+
+Chain L-2 
+ACAUUUUUUGGCAC
+..............
+
+Chain L-3 
+CGCGACCCUCGCACUUGUGGAGUCG
+((...(.............)...))
+
+Chain b 
+UUAUAGUUUUUUUA
+..............
+
+Chain C 
+g
+.
+

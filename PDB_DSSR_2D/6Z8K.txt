@@ -1,0 +1,30 @@
+Title			LA CROSSE VIRUS POLYMERASE AT ELONGATION MIMICKING STAGE 
+Chain order		C X H T P 
+Amino acids		YES
+Metal			Mg	1
+			Zn	1
+Chains			C	RNA	C 
+			X	RNA	H 
+			H	RNA	X 
+			T	RNA	P 
+			P	RNA	T 
+Pseudoknot		NO
+
+Whole structure
+>6Z8K nts=45 [whole]
+AGUAGUGUGC&GCUA&AGUACACUACU&AGUAGUGUGC&GUACACUACU
+.((.....))&(((.&)))........&((((((((.(&).))))))))
+
+Interacting substructures
+Chain C 
+AGUAGUGUGC
+.((.....))
+
+Chain X H 
+GCUAAGUACACUACU
+(((.)))........
+
+Chain T P 
+AGUAGUGUGCGUACACUACU
+((((((((.().))))))))
+

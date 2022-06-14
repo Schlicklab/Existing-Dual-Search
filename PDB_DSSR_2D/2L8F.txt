@@ -1,0 +1,18 @@
+Title			STRUCTURE OF A 4X4 NUCLEOTIDE RNA INTERNAL LOOP FROM AN R2 RETROTRANSPOSON 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2L8F nts=22 [whole]
+GUGAAGCCCGU&CGGAGGACACU
+(((....(((.&)))....))).
+
+Interacting substructures
+Chain A B 
+GUGAAGCCCGUCGGAGGACACU
+(((....(((.)))....))).
+

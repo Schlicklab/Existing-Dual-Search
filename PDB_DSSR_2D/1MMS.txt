@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF THE RIBOSOMAL PROTEIN L11-RNA COMPLEX 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	19
+			Cd	8
+			Hg	8
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>1MMS nts=116 [whole]
+GCUGGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAGUGCGUAACAGCUCACCAGC&GCUGGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAGUGCGUAACAGCUCACCAGC
+(((((.(((..(((.........)))..))).....(...((......)).).)))))&(((((.(((..(((.........)))..))).....(...((......)).).)))))
+
+Interacting substructures
+Chain C 
+GCUGGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAGUGCGUAACAGCUCACCAGC
+(((((.(((..(((.........)))..))).....(...((......)).).)))))
+
+Chain D 
+GCUGGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAGUGCGUAACAGCUCACCAGC
+(((((.(((..(((.........)))..))).....(...((......)).).)))))
+

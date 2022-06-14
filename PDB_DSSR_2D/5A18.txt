@@ -1,0 +1,17 @@
+Title			THE STRUCTURE OF THE SOLE ELEMENT OF OSKAR MRNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>5A18 nts=32 [whole]
+GACGAUAUCGAGCAUCAAGAGUGAAUAUCGUC
+((((((((((..(.....)..)).))))))))
+
+Interacting substructures
+Chain A 
+GACGAUAUCGAGCAUCAAGAGUGAAUAUCGUC
+((((((((((..(.....)..)).))))))))
+

@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE ZA DOMAIN BOUND TO Z-RNA 
+Chain order		E F 
+Amino acids		YES
+Metal			Na	3
+Chains			E	RNA[6]/1	F 
+			F	RNA	E 
+Pseudoknot		NO
+
+Whole structure
+>2GXB nts=13 [whole]
+UCGCGCG&CGCGCG
+.((((((&))))))
+
+Interacting substructures
+Chain E F 
+UCGCGCGCGCGCG
+.(((((())))))
+

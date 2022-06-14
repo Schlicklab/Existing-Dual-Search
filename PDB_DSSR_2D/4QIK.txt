@@ -1,0 +1,19 @@
+Title			CRYSTAL STRUCTURE OF THE ROQ DOMAIN OF HUMAN ROQUIN IN COMPLEX WITH THE TNF23 RNA DUPLEX 
+Chain order		C-1 C-2 D 
+Amino acids		YES
+Metal
+Chains			C-1	RNA*	D 
+			C-2	RNA*	D 
+			D	RNA	C-1 C-2 
+Pseudoknot		NO
+
+Whole structure
+>4QIK nts=36 [whole]
+AUGUUUUCUG&GAAAACGG&GUUUUCUGUGAAAACGGA
+..((((((.(&((((((..&)))))))..))))))...
+
+Interacting substructures
+Chain C-1 C-2 D 
+AUGUUUUCUGGAAAACGGGUUUUCUGUGAAAACGGA
+..((((((.(((((((..)))))))..))))))...
+

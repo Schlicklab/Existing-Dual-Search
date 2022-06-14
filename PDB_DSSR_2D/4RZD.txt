@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF A PREQ1 RIBOSWITCH 
+Chain order		A-1 A-2 A-3 
+Amino acids		NO
+Metal
+Chains			A-1	RNA[99]/1*	A-1 A-2 
+			A-2	RNA[99]/1*	A-1 A-2 
+			A-3	RNA[99]/1*	
+Pseudoknot		YES
+
+Whole structure
+>4RZD nts=100 [whole]
+gAGCAACUUAGGAUUUUAGGCUCCCCGGCGUGU&CGAACCAUGCCGGGCCAAACCCAUAGGGCUGGCGGUCCCUGUGCGGUCAAAAUUCAUCCGCCGGAG&g
+[[[[......((((((...]]]](((((((((.&.....)))))))))....((((((((((........))))))).)))..))))))...........&.
+
+Interacting substructures
+Chain A-1 A-2 
+gAGCAACUUAGGAUUUUAGGCUCCCCGGCGUGUCGAACCAUGCCGGGCCAAACCCAUAGGGCUGGCGGUCCCUGUGCGGUCAAAAUUCAUCCGCCGGAG
+[[[[......((((((...]]]](((((((((......)))))))))....((((((((((........))))))).)))..))))))...........
+
+Chain A-3 
+g
+.
+

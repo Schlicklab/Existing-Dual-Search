@@ -1,0 +1,17 @@
+Title			MAMMALIAN MITOCHONDRIAL TRANSLATION INITIATION FACTOR 2 
+Chain order		N 
+Amino acids		YES
+Metal
+Chains			N	RNA	N 
+Pseudoknot		NO
+
+Whole structure
+>3IZY nts=76 [whole]
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+...........(...........)....................................................
+
+Interacting substructures
+Chain N 
+GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGAGGUCCUGUGUUCGAUCCACAGAAUUCGCACCA
+...........(...........)....................................................
+

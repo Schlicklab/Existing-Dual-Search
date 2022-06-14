@@ -1,0 +1,17 @@
+Title			CRYOEM HELICAL RECONSTRUCTION OF TMV 
+Chain order		R 
+Amino acids		YES
+Metal
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3J06 nts=3 [whole]
+AUG
+...
+
+Interacting substructures
+Chain R 
+AUG
+...
+

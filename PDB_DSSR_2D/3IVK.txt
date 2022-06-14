@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF THE CATALYTIC CORE OF AN RNA POLYMERASE RIBOZYME COMPLEXED WITH AN ANTIGEN BINDING ANTIBODY FRAGMENT 
+Chain order		M C 
+Amino acids		YES
+Metal			Mg	33
+			Cd	2
+Chains			M	RNA	M 
+			C	RNA	C 
+Pseudoknot		YES
+
+Whole structure
+>3IVK nts=256 [whole]
+UCCAGUAGGAACACUAUACUACUGGAUAAUCAAAGACAAAUCUGCCCGAAGGGCUUGAGAACAUCGAAACACGAUGCAGAGGUGGCAGCCUCCGGUGGGUUAAAACCCAACGUUCUCAACAAUAGUGA&UCCAGUAGGAACACUAUACUACUGGAUAAUCAAAGACAAAUCUGCCCGAAGGGCUUGAGAACAUCGAAACACGAUGCAGAGGUGGCAGCCUCCGGUGGGUUAAAACCCAACGUUCUCAACAAUAGUGA
+((((((((...[[[[[[.))))))))...............[[[[[(...).(.((((((((((((.....)))))..((((.]]]]]))))((.((((......)))).)))))))))).]]]]]].&((((((((...[[[[[[.))))))))...............[[[[[(...).(.((((((((((((.....)))))..((((.]]]]]))))((.((((......)))).)))))))))).]]]]]].
+
+Interacting substructures
+Chain M 
+UCCAGUAGGAACACUAUACUACUGGAUAAUCAAAGACAAAUCUGCCCGAAGGGCUUGAGAACAUCGAAACACGAUGCAGAGGUGGCAGCCUCCGGUGGGUUAAAACCCAACGUUCUCAACAAUAGUGA
+((((((((...[[[[[[.))))))))...............[[[[[(...).(.((((((((((((.....)))))..((((.]]]]]))))((.((((......)))).)))))))))).]]]]]].
+
+Chain C 
+UCCAGUAGGAACACUAUACUACUGGAUAAUCAAAGACAAAUCUGCCCGAAGGGCUUGAGAACAUCGAAACACGAUGCAGAGGUGGCAGCCUCCGGUGGGUUAAAACCCAACGUUCUCAACAAUAGUGA
+((((((((...[[[[[[.))))))))...............[[[[[(...).(.((((((((((((.....)))))..((((.]]]]]))))((.((((......)))).)))))))))).]]]]]].
+

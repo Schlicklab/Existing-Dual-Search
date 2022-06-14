@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE ANALYSIS OF IRON REGULATORY PROTEIN 1 IN COMPLEX WITH TRANSFERRIN RECEPTOR IRE B RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>3SN2 nts=29 [whole]
+GAUUAUCGGAAGCAGUGCCUUCCAUAAUC
+((((((.((((((...).)))))))))))
+
+Interacting substructures
+Chain B 
+GAUUAUCGGAAGCAGUGCCUUCCAUAAUC
+((((((.((((((...).)))))))))))
+

@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE PARALLEL DOUBLE-STRANDED HELIX OF POLY(A) RNA 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	
+			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4JRD nts=22 [whole]
+AAAAAAAAAAA&AAAAAAAAAAA
+...........&...........
+
+Interacting substructures
+Chain A 
+AAAAAAAAAAA
+...........
+
+Chain B 
+AAAAAAAAAAA
+...........
+

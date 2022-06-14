@@ -1,0 +1,35 @@
+Title			SARS-COV-2 REPLICATION-TRANSCRIPTION COMPLEX BOUND TO NSP13 HELICASE - NSP13(2)-RTC (COMPOSITE) 
+Chain order		P T A E F 
+Amino acids		YES
+Metal			Mg	3
+			Al	2
+			Zn	8
+Chains			P	RNA	T 
+			T	RNA	P 
+			A			
+			E			
+			F			
+Pseudoknot		NO
+
+Whole structure
+>7RE1 nts=74 [whole]
+GCGUAGCAUGCUACGUCAUUCUCCUAAGAAGCUA&UAAUAGCUUCUUAGGAGAAUGACGUAGCAUGCUACGC&a&a&a
+((((((((((((((((((((((((((((((((((&...))))))))))))))))))))))))))))))))))&.&.&.
+
+Interacting substructures
+Chain P T 
+GCGUAGCAUGCUACGUCAUUCUCCUAAGAAGCUAUAAUAGCUUCUUAGGAGAAUGACGUAGCAUGCUACGC
+((((((((((((((((((((((((((((((((((...))))))))))))))))))))))))))))))))))
+
+Chain A 
+a
+.
+
+Chain E 
+a
+.
+
+Chain F 
+a
+.
+

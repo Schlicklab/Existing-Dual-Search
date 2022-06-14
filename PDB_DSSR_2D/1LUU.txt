@@ -1,0 +1,17 @@
+Title			NMR SOLUTION STRUCTURE OF THE ANTICODON OF YEAST TRNA-PHE WITH 4 MODIFICATIONS (OMC32 OMG34 1MG37 5MC40) 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1LUU nts=17 [whole]
+CCAGAcUgAAgAUcUGG
+(((((.......)))))
+
+Interacting substructures
+Chain A 
+CCAGAcUgAAgAUcUGG
+(((((.......)))))
+

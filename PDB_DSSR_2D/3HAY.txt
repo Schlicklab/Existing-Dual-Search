@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF A SUBSTRATE-BOUND FULL H/ACA RNP FROM PYROCOCCUS FURIOSUS 
+Chain order		E F 
+Amino acids		YES
+Metal			Zn	1
+Chains			E	RNA	F E 
+			F	RNA	E 
+Pseudoknot		YES
+
+Whole structure
+>3HAY nts=82 [whole]
+GGCUGCCUGGGUCCGCCUUGAGUGCCCGGGUGAGAAGCAUGAUCCCGGGUAAUUAUGGCGGACCCACA&AUAAUUpGACUCAA
+........[[[[[[[[[(((((((((((((.............)))))))((((((]]]]]]]]]...&))))))..))))))
+
+Interacting substructures
+Chain E F 
+GGCUGCCUGGGUCCGCCUUGAGUGCCCGGGUGAGAAGCAUGAUCCCGGGUAAUUAUGGCGGACCCACAAUAAUUpGACUCAA
+........[[[[[[[[[(((((((((((((.............)))))))((((((]]]]]]]]]...))))))..))))))
+

@@ -1,0 +1,25 @@
+Title			STRUCTURAL BASIS FOR RNA RECOGNITION AND ACTIVATION OF RIG-I 
+Chain order		B C A 
+Amino acids		YES
+Metal			Be	1
+			Mg	3
+			Zn	1
+Chains			B	RNA	C 
+			C	RNA	B 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>5E3H nts=25 [whole]
+CGACGCUAGCGU&ACGCUAGCGUCG&a
+(((((((((((.&.)))))))))))&.
+
+Interacting substructures
+Chain B C 
+CGACGCUAGCGUACGCUAGCGUCG
+(((((((((((..)))))))))))
+
+Chain A 
+a
+.
+

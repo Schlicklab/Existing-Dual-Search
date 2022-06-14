@@ -1,0 +1,18 @@
+Title			HUMAN ARGONAUTE-2 PAZ DOMAIN (214-347) IN COMPLEX WITH CGUGACUCU 
+Chain order		L M 
+Amino acids		YES
+Metal
+Chains			L	RNA	M 
+			M	RNA	L 
+Pseudoknot		NO
+
+Whole structure
+>6RA4 nts=18 [whole]
+CGUGACUCU&CGUGACUCU
+.((.((...&.)).))...
+
+Interacting substructures
+Chain L M 
+CGUGACUCUCGUGACUCU
+.((.((....)).))...
+

@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF SRP RNA DOMAIN IV 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1CQL nts=43 [whole]
+GGCGUUUACCAGGUCAGGUCCGGAAGGAAGCAGCCAAGGCGCC
+((((((.....(((....(((....)))....)))..))))))
+
+Interacting substructures
+Chain A 
+GGCGUUUACCAGGUCAGGUCCGGAAGGAAGCAGCCAAGGCGCC
+((((((.....(((....(((....)))....)))..))))))
+

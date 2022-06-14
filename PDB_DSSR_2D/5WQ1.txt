@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE FIRST STEM-LOOP OF ESCHERICHIA COLI DSRA RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>5WQ1 nts=23 [whole]
+GGACAUCAGAUUUCCUGGUGUCC
+(((((((((.....)))))))))
+
+Interacting substructures
+Chain A 
+GGACAUCAGAUUUCCUGGUGUCC
+(((((((((.....)))))))))
+

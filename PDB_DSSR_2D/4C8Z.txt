@@ -1,0 +1,17 @@
+Title			CAS6 (TTHA0078) PRODUCT COMPLEX 
+Chain order		C 
+Amino acids		YES
+Metal			K	1
+Chains			C	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>4C8Z nts=14 [whole]
+AGCCCCGUAAGGGg
+..((((....))))
+
+Interacting substructures
+Chain C 
+AGCCCCGUAAGGGg
+..((((....))))
+

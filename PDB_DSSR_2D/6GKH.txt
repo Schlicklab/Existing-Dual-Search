@@ -1,0 +1,25 @@
+Title			CRYOEM STRUCTURE OF THE MDA5-DSRNA FILAMENT IN COMPLEX WITH ADP-ALF4 
+Chain order		X Y A 
+Amino acids		YES
+Metal			Mg	1
+			Al	1
+			Zn	1
+Chains			X	RNA	Y 
+			Y	RNA	X 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>6GKH nts=31 [whole]
+GUCAAGCCGAGGAGA&UCUCCUCGGCUUGAC&a
+(((((((((((((((&)))))))))))))))&.
+
+Interacting substructures
+Chain X Y 
+GUCAAGCCGAGGAGAUCUCCUCGGCUUGAC
+((((((((((((((()))))))))))))))
+
+Chain A 
+a
+.
+

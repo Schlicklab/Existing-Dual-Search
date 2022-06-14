@@ -1,0 +1,17 @@
+Title			STRUCTURE OF HUMAN DICER PLATFORM-PAZ-CONNECTOR HELIX CASSETTE IN COMPLEX WITH 15-MER SIRNA HAVING 5'-PUUU AND UU-3' ENDS (2.55 ANGSTROM RESOLUTION) 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4NH6 nts=15 [whole]
+UUUGCGAAUUCGCUU
+...............
+
+Interacting substructures
+Chain B 
+UUUGCGAAUUCGCUU
+...............
+

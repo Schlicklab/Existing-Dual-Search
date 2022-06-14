@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE HIV-1 NUCLEOCAPSID PROTEIN BOUND TO STEM-LOOP SL2 OF THE PSI-RNA PACKAGING SIGNAL. IMPLICATIONS FOR GENOME RECOGNITION 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	2
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>1F6U nts=19 [whole]
+gGCGACUGGUGAGUACGCC
+((((.((....))..))))
+
+Interacting substructures
+Chain B 
+gGCGACUGGUGAGUACGCC
+((((.((....))..))))
+

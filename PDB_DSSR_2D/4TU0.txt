@@ -1,0 +1,42 @@
+Title			CRYSTAL STRUCTURE OF CHIKUNGUNYA VIRUS NSP3 MACRO DOMAIN IN COMPLEX WITH A 2'-5' OLIGOADENYLATE TRIMER 
+Chain order		F-1 F-2 F-3 G-1 G-2 G-3 
+Amino acids		YES
+Metal
+Chains			F-1	RNA*	
+			F-2	RNA*	
+			F-3	RNA*	
+			G-1	RNA*	
+			G-2	RNA*	
+			G-3	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>4TU0 nts=6 [whole]
+A&A&a&A&A&a
+.&.&.&.&.&.
+
+Interacting substructures
+Chain F-1 
+A
+.
+
+Chain F-2 
+A
+.
+
+Chain F-3 
+a
+.
+
+Chain G-1 
+A
+.
+
+Chain G-2 
+A
+.
+
+Chain G-3 
+a
+.
+

@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE RRM OF SRP20 BOUND TO THE RNA CAUC 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2I2Y nts=4 [whole]
+CAUC
+....
+
+Interacting substructures
+Chain B 
+CAUC
+....
+

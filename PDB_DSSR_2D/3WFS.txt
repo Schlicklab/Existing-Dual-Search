@@ -1,0 +1,22 @@
+Title			TRNA PROCESSING ENZYME COMPLEX 3 
+Chain order		A B 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+			B	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>3WFS nts=148 [whole]
+GGCCAGGUAGCUCAGUUGGUAGAGCACUGGACUGAAAAUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCAC&GGCCAGGUAGCUCAGUUGGUAGAGCACUGGACUGAAAAUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCAC
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))..&(((((((..((((.....[..)))).((((.........)))).....(((((..]....))))))))))))..
+
+Interacting substructures
+Chain A 
+GGCCAGGUAGCUCAGUUGGUAGAGCACUGGACUGAAAAUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCAC
+(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))..
+
+Chain B 
+GGCCAGGUAGCUCAGUUGGUAGAGCACUGGACUGAAAAUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCAC
+(((((((..((((.....[..)))).((((.........)))).....(((((..]....))))))))))))..
+

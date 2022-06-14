@@ -1,0 +1,24 @@
+Title			UPF1-RNA COMPLEX 
+Chain order		B A 
+Amino acids		YES
+Metal			Mg	1
+			Al	1
+			Zn	3
+Chains			B	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>2XZL nts=9 [whole]
+UUUUUUUU&a
+........&.
+
+Interacting substructures
+Chain B 
+UUUUUUUU
+........
+
+Chain A 
+a
+.
+

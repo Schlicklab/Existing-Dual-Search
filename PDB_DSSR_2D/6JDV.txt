@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURE OF NME1CAS9 IN COMPLEX WITH SGRNA AND TARGET DNA (ATATGATT PAM) IN CATALYTIC STATE 
+Chain order		B-1 B-2 C D 
+Amino acids		YES
+Metal			Mg	1
+Chains			B-1	RNA*	C B-2 B-1 
+			B-2	RNA*	B-1 
+			C	DNA	D B-1 
+			D	DNA	C 
+Pseudoknot		YES
+
+Whole structure
+>6JDV nts=189 [whole]
+GGUCACUCUGCUAUUUAACUUUACGUUGUAGCUCCCUUUCUCAUUUCGGAAACGAAAUGAGAACCGUUGCUACAAUAAGGCCGUCUGAAAAGAUGUGCCGCAACGCUCUGCCCCUUAAAGCU&GCUUUAAGGGGCAUCGUUUAU&TAAAATCATATGTAAAGTTAAATAGCAGAGTGACC&ATATGATTTTA
+((((((((((((((((((((((((((((((((..(..(((((((((((....)))))))))))..)..))))))))..((((((((....))))).)))..((((...(((((((((((((.&))))))))))))).))))...&[[[[[[[[[[[))))))))))))))))))))))))&]]]]]]]]]]]
+
+Interacting substructures
+Chain B-1 B-2 C D 
+GGUCACUCUGCUAUUUAACUUUACGUUGUAGCUCCCUUUCUCAUUUCGGAAACGAAAUGAGAACCGUUGCUACAAUAAGGCCGUCUGAAAAGAUGUGCCGCAACGCUCUGCCCCUUAAAGCUGCUUUAAGGGGCAUCGUUUAUTAAAATCATATGTAAAGTTAAATAGCAGAGTGACCATATGATTTTA
+((((((((((((((((((((((((((((((((..(..(((((((((((....)))))))))))..)..))))))))..((((((((....))))).)))..((((...(((((((((((((.))))))))))))).))))...[[[[[[[[[[[))))))))))))))))))))))))]]]]]]]]]]]
+

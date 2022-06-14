@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE RNA BINDING DOMAIN OF HUMAN FOX-1 IN COMPLEX WITH UGCAUGU 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2ERR nts=7 [whole]
+UGCAUGU
+.......
+
+Interacting substructures
+Chain B 
+UGCAUGU
+.......
+

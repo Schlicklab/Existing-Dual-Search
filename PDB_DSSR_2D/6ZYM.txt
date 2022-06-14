@@ -1,0 +1,32 @@
+Title			HUMAN C COMPLEX SPLICEOSOME - HIGH-RESOLUTION CORE 
+Chain order		2 5 6 Y-1 Y-2 Z B 
+Amino acids		YES
+Metal			Mg	5
+			Zn	7
+Chains			2	RNA	6 Y-2 
+			5	RNA	Z 5 
+			6	RNA	Y-1 6 2 
+			Y-1	RNA*	6 
+			Y-2	RNA*	2 
+			Z	RNA	5 
+			B			
+Pseudoknot		YES
+
+Whole structure
+>6ZYM nts=235 [whole]
+UGGCUAAGAUCAAGUGUAGUAUCUGUU&CUCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCCUUUUACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAG&GUGCUCGCUUCGGCAGCACAUAUACUAAAAUUGGAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCGCAAGGAUGACAC&GUAAGAGCCUAGCAUGUAGAA&AUGAUGUCAUACUUAUCCUG&CGGCCUCCGAACG&g
+..[[[..[[[[..(.(.(((((.....&(((....(((((((((....(...((((((((.(....{{.).)))))))).).)))))))))........)))&(((((.((....)))))))...........(......(.(.(......]]]]]]].((..((((.....)))..).)).&....).)).....).......&........)))))..).)..&.........}}..&.
+
+Interacting substructures
+Chain 2 6 Y-1 Y-2 
+UGGCUAAGAUCAAGUGUAGUAUCUGUUGUGCUCGCUUCGGCAGCACAUAUACUAAAAUUGGAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCGCAAGGAUGACACGUAAGAGCCUAGCAUGUAGAAAUGAUGUCAUACUUAUCCUG
+..[[[..[[[[..(.(.(((((.....(((((.((....)))))))...........(......(.(.(......]]]]]]].((..((((.....)))..).)).....).)).....)...............)))))..).)..
+
+Chain 5 Z 
+CUCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCCUUUUACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAGCGGCCUCCGAACG
+(((....(((((((((....(...((((((((.(....{{.).)))))))).).)))))))))........))).........}}..
+
+Chain B 
+g
+.
+

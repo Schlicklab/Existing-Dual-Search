@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF C. CRESCENTUS PNPASE BOUND TO RNA 
+Chain order		D E H I 
+Amino acids		YES
+Metal
+Chains			D	DNA	
+			E	RNA	
+			H	DNA	
+			I	DNA	
+Pseudoknot		NO
+
+Whole structure
+>4AM3 nts=12 [whole]
+U&UAACUUUGG&A&U
+.&.........&.&.
+
+Interacting substructures
+Chain D 
+U
+.
+
+Chain E 
+UAACUUUGG
+.........
+
+Chain H 
+A
+.
+
+Chain I 
+U
+.
+

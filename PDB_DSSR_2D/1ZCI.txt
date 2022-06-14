@@ -1,0 +1,24 @@
+Title			HIV-1 DIS RNA SUBTYPE F- MONOCLINIC FORM 
+Chain order		A B C D 
+Amino acids		NO
+Metal			K	4
+Chains			A	RNA	B A 
+			B	RNA	B A 
+			C	RNA	C D 
+			D	RNA	C D 
+Pseudoknot		YES
+
+Whole structure
+>1ZCI nts=92 [whole]
+CuUGCUGAAGUGCACACAGCAAG&CuUGCUGAAGUGCACACAGCAAG&CuUGCUGAAGUGCACACAGCAAG&CuUGCUGAAGUGCACACAGCAAG
+(((((((..[[[[[[.)))))))&(((((((..]]]]]].)))))))&(((((((..[[[[[[.)))))))&(((((((..]]]]]].)))))))
+
+Interacting substructures
+Chain A B 
+CuUGCUGAAGUGCACACAGCAAGCuUGCUGAAGUGCACACAGCAAG
+(((((((..[[[[[[.)))))))(((((((..]]]]]].)))))))
+
+Chain C D 
+CuUGCUGAAGUGCACACAGCAAGCuUGCUGAAGUGCACACAGCAAG
+(((((((..[[[[[[.)))))))(((((((..]]]]]].)))))))
+

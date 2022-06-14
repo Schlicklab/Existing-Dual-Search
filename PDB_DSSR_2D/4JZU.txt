@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE BACILLUS SUBTILIS PYROPHOSPHOHYDROLASE BSRPPH BOUND TO A NON-HYDROLYSABLE TRIPHOSPHORYLATED DINUCLEOTIDE RNA (PCP- PGPG) - FIRST GUANOSINE RESIDUE IN GUANOSINE BINDING POCKET 
+Chain order		C B 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			B			
+Pseudoknot		NO
+
+Whole structure
+>4JZU nts=2 [whole]
+g&c
+.&.
+
+Interacting substructures
+Chain C 
+g
+.
+
+Chain B 
+c
+.
+

@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE HIV-1 INTRON SPLICING SILENCER AND ITS INTERACTIONS WITH THE UP1 DOMAIN OF HNRNP A1 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2N4L nts=53 [whole]
+GGAAUAUUUUUGCUGUACUUUCUAUAGUGAAUAGAGUUAGGCAGGGAUAUUCC
+((((((((((((((..(((..((((.....)))))))..))))))))))))))
+
+Interacting substructures
+Chain A 
+GGAAUAUUUUUGCUGUACUUUCUAUAGUGAAUAGAGUUAGGCAGGGAUAUUCC
+((((((((((((((..(((..((((.....)))))))..))))))))))))))
+

@@ -1,0 +1,17 @@
+Title			NMR-BASED MODEL OF THE COMPLEX OF THE TOXIN KID AND A 5-NUCLEOTIDE SUBSTRATE RNA FRAGMENT (AUACA) 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2C06 nts=5 [whole]
+AUACA
+.....
+
+Interacting substructures
+Chain C 
+AUACA
+.....
+

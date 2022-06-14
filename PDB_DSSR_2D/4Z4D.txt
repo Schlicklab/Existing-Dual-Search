@@ -1,0 +1,23 @@
+Title			HUMAN ARGONAUTE2 BOUND TO T1-G TARGET RNA 
+Chain order		B-1 B-2 D 
+Amino acids		YES
+Metal			Mg	3
+Chains			B-1	RNA*	D 
+			B-2	RNA*	
+			D	RNA	B-1 
+Pseudoknot		NO
+
+Whole structure
+>4Z4D nts=28 [whole]
+UUCACAUUGCCCAAGUCU&UU&CAAUGUGA
+.((((((((.........&..&))))))))
+
+Interacting substructures
+Chain B-1 D 
+UUCACAUUGCCCAAGUCUCAAUGUGA
+.((((((((.........))))))))
+
+Chain B-2 
+UU
+..
+

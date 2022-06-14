@@ -1,0 +1,17 @@
+Title			STRUCTURE OF CSSA4 (BOTTOM STEM) OF CSSA THERMOMETER 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2N6S nts=36 [whole]
+GGAAUUUAUGAGUACCUUCGGAUACUUAUAGAUUCC
+((((((((((((((.(....).))))))))))))))
+
+Interacting substructures
+Chain A 
+GGAAUUUAUGAGUACCUUCGGAUACUUAUAGAUUCC
+((((((((((((((.(....).))))))))))))))
+

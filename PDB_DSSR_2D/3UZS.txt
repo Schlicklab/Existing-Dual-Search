@@ -1,0 +1,18 @@
+Title			STRUCTURE OF THE C13.28 RNA APTAMER BOUND TO THE G PROTEIN-COUPLED RECEPTOR KINASE 2-HETEROTRIMERIC G PROTEIN BETA 1 AND GAMMA 2 SUBUNIT COMPLEX 
+Chain order		C-1 C-2 
+Amino acids		YES
+Metal			Mg	1
+Chains			C-1	RNA*	C-1 C-2 
+			C-2	RNA*	C-1 
+Pseudoknot		NO
+
+Whole structure
+>3UZS nts=20 [whole]
+GGCAGACCAUACGGG&UUGCC
+(((((.((.....))&)))))
+
+Interacting substructures
+Chain C-1 C-2 
+GGCAGACCAUACGGGUUGCC
+(((((.((.....)))))))
+

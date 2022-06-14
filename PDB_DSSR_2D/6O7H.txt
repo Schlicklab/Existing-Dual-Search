@@ -1,0 +1,23 @@
+Title			CRYO-EM STRUCTURE OF CSM-CRRNA-TARGET RNA TERNARY COMPLEX IN COMPLEX WITH CA4 IN TYPE III-A CRISPR-CAS SYSTEM 
+Chain order		G H K 
+Amino acids		YES
+Metal			Zn	3
+Chains			G	RNA	H 
+			H	RNA	G 
+			K	RNAo	
+Pseudoknot		NO
+
+Whole structure
+>6O7H nts=51 [whole]
+GUGGAAAGGCGGGCAGAGGCGGUUUGC&GCAAACCGCCUCUGCCCGC&AAAA&G
+........(((((.(((((..((((((&))))))..))))).)))))&....&.
+
+Interacting substructures
+Chain G H 
+GUGGAAAGGCGGGCAGAGGCGGUUUGCGCAAACCGCCUCUGCCCGCG
+........(((((.(((((..(((((())))))..))))).))))).
+
+Chain K 
+AAAA
+....
+

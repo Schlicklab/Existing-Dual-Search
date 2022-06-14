@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THA8 IN COMPLEX WITH ZM4 RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4N2Q nts=5 [whole]
+AGAAA
+.....
+
+Interacting substructures
+Chain B 
+AGAAA
+.....
+

@@ -1,0 +1,17 @@
+Title			RNA APTAMER COMPLEXED WITH HIV-1 REV PEPTIDE, NMR, 7 STRUCTURES 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1ULL nts=35 [whole]
+GGCUGGACUCGUACUUCGGUACUGGAGAAACAGCC
+(((((..(((((((....))))..)))...)))))
+
+Interacting substructures
+Chain A 
+GGCUGGACUCGUACUUCGGUACUGGAGAAACAGCC
+(((((..(((((((....))))..)))...)))))
+

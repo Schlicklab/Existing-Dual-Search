@@ -1,0 +1,26 @@
+Title			? 
+Chain order		N-1 N-2 P T 
+Amino acids		YES
+Metal			Mg	1
+			Mn	2
+			Zn	10
+Chains			N-1	DNA*	
+			N-2	DNA*	T 
+			P	RNA	T 
+			T	DNA	P N-2 
+Pseudoknot		YES
+
+Whole structure
+>7PKS nts=74 [whole]
+AGTACCT&AGCTTAAGCCTCAATAA&UAACUAGGGAACCCACU&TTATTGAGGCTTAAGCAGTGGGTTCCAGGTACT
+.......&..(((((((((((((((&.......[[[[[[[[[[&))))))))))))))).]]]]]]]]]].......
+
+Interacting substructures
+Chain N-1 
+AGTACCT
+.......
+
+Chain N-2 P T 
+AGCTTAAGCCTCAATAAUAACUAGGGAACCCACUTTATTGAGGCTTAAGCAGTGGGTTCCAGGTACT
+..(((((((((((((((.......[[[[[[[[[[))))))))))))))).]]]]]]]]]].......
+

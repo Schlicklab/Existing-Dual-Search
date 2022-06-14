@@ -1,0 +1,17 @@
+Title			X-RAY STRUCTURE OF RNA CONTAINING ADENOSINE PHOSPHORODITHIOATE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4RBZ nts=12 [whole]
+CGCGaaUUAGCG
+............
+
+Interacting substructures
+Chain A 
+CGCGaaUUAGCG
+............
+

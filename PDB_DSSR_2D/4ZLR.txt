@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE BRAT-NHL DOMAIN BOUND TO CONSENSUS RNA MOTIF 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4ZLR nts=14 [whole]
+UUGUUGUUUUUUUU
+..............
+
+Interacting substructures
+Chain C 
+UUGUUGUUUUUUUU
+..............
+

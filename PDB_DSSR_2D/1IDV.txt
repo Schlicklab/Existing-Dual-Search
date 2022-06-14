@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF HCV IRES RNA DOMAIN IIIC 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1IDV nts=10 [whole]
+GGGCGUGCCC
+(((....)))
+
+Interacting substructures
+Chain A 
+GGGCGUGCCC
+(((....)))
+

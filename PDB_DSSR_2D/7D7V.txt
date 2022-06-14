@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE DOMAIN1 OF NAD+ RIBOSWITCH WITH NICOTINAMIDE ADENINE DINUCLEOTIDE (NAD+) AND U1A PROTEIN 
+Chain order		A-1 A-2 
+Amino acids		YES
+Metal			Mg	8
+Chains			A-1	RNA*	A-1 A-2 
+			A-2	RNA*	A-1 
+Pseudoknot		YES
+
+Whole structure
+>7D7V nts=58 [whole]
+GCGCAACAUCCCCGCCGGUUGGGCGCAUUGCACUCCGCGCAGUGAACCGGCUGCGCC&g
+(((((.....[[.((((((((.((((..........)))).])]))))))))))))(&)
+
+Interacting substructures
+Chain A-1 A-2 
+GCGCAACAUCCCCGCCGGUUGGGCGCAUUGCACUCCGCGCAGUGAACCGGCUGCGCCg
+(((((.....[[.((((((((.((((..........)))).])]))))))))))))()
+

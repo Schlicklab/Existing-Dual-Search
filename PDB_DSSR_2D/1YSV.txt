@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE CENTRAL REGION OF THE HUMAN GLUR- B R/G PRE-MRNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1YSV nts=27 [whole]
+GGUAACAAUAUGCUAAAUGUUGUUACC
+(((((((((((.....)))))))))))
+
+Interacting substructures
+Chain A 
+GGUAACAAUAUGCUAAAUGUUGUUACC
+(((((((((((.....)))))))))))
+

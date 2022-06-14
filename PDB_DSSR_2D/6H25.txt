@@ -1,0 +1,17 @@
+Title			HUMAN NUCLEAR RNA EXOSOME EXO-10-MPP6 COMPLEX 
+Chain order		R 
+Amino acids		YES
+Metal
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6H25 nts=6 [whole]
+UUUUUU
+......
+
+Interacting substructures
+Chain R 
+UUUUUU
+......
+

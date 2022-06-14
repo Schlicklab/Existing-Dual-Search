@@ -1,0 +1,22 @@
+Title			IFIT1 MONOMERIC MUTANT (L457E/L464E) WITH M7GPPP-AAAA (SYN AND ANTI CONFORMATIONS OF CAP) 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal			Ca	2
+Chains			B-1	RNA[3]/1*	
+			B-2	RNA[3]/1*	
+Pseudoknot		NO
+
+Whole structure
+>5UDI nts=4 [whole]
+g&AAA
+.&...
+
+Interacting substructures
+Chain B-1 
+g
+.
+
+Chain B-2 
+AAA
+...
+

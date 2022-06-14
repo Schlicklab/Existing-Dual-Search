@@ -1,0 +1,17 @@
+Title			EBOLA VIRUS MATRIX PROTEIN VP40 N-TERMINAL DOMAIN IN COMPLEX WITH RNA (HIGH-RESOLUTION VP40[55-194] VARIANT). 
+Chain order		R 
+Amino acids		YES
+Metal
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1H2C nts=3 [whole]
+UGA
+...
+
+Interacting substructures
+Chain R 
+UGA
+...
+

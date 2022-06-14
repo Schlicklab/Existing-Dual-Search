@@ -1,0 +1,22 @@
+Title			RIGID-BODY REFINEMENT OF THE TETRALOOP-RECEPTOR RNA COMPLEX 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2JYH nts=86 [whole]
+GGGAUAUGGAAGAACCGGGGAAACUUGGUUCUUCCUAAGUCCU&GGGAUAUGGAAGAACCGGGGAAACUUGGUUCUUCCUAAGUCCU
+(((((..((((((((((((....))))))))))))...)))))&(((((..((((((((((((....))))))))))))...)))))
+
+Interacting substructures
+Chain A 
+GGGAUAUGGAAGAACCGGGGAAACUUGGUUCUUCCUAAGUCCU
+(((((..((((((((((((....))))))))))))...)))))
+
+Chain B 
+GGGAUAUGGAAGAACCGGGGAAACUUGGUUCUUCCUAAGUCCU
+(((((..((((((((((((....))))))))))))...)))))
+

@@ -1,0 +1,17 @@
+Title			NONTYPEABLE HAEMOPHILLUS INFLUENZAE SAPA IN COMPLEX WITH HEME 
+Chain order		C 
+Amino acids		YES
+Metal			Fe	1
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7OFW nts=18 [whole]
+CCCCCCCCCGGGGGGGGG
+..................
+
+Interacting substructures
+Chain C 
+CCCCCCCCCGGGGGGGGG
+..................
+

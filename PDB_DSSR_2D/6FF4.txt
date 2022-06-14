@@ -1,0 +1,33 @@
+Title			HUMAN BACT SPLICEOSOME CORE STRUCTURE 
+Chain order		2-1 2-2 2-3 5 6 Z-1 Z-2 B 
+Amino acids		YES
+Metal			Mg	4
+			Zn	10
+Chains			2-1	RNA*	6 Z-2 
+			2-2	RNA*	2-3 
+			2-3	RNA*	2-2 
+			5	RNA	Z-1 5 
+			6	RNA	6 Z-1 2-1 
+			Z-1	RNA*	6 5 
+			Z-2	RNA*	2-1 
+			B			
+Pseudoknot		YES
+
+Whole structure
+>6FF4 nts=274 [whole]
+CGCUUCUCGGCCUUUUGGCUAAGAUCAAGUGUAGUAUCUGUUC&AUCAGUUUAAUA&UCUGA&UCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCCUUUUACUAAAGAUUUCCGUGGAGAGGAACAACUCU&GUGCUCGCUUCGGCAGCACAUAUACUAAAAUUGGAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCGCAAGGAUGACACGCAAAUUCGUGAAGCG&CGCCGCCAAGGUAUGUAUCAAGCUUACAAG&UUAUGUAUUUACUGACCU&g
+((((((.((........(((..((((....[[[[[[..[....&....(.......&.)...&.....(((((...((...((...((((((((.(...{{..).)))))))).))))...))))).......&.((((.((....))))))..............[[...[..[[[.....))))))).((..((((.....)))..).))........)).))))))&.......}}....]]]..]...]]......&......]..]]]]].]..&.
+
+Interacting substructures
+Chain 2-1 5 6 Z-1 Z-2 
+CGCUUCUCGGCCUUUUGGCUAAGAUCAAGUGUAGUAUCUGUUCUCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCCUUUUACUAAAGAUUUCCGUGGAGAGGAACAACUCUGUGCUCGCUUCGGCAGCACAUAUACUAAAAUUGGAACGAUACAGAGAAGAUUAGCAUGGCCCCUGCGCAAGGAUGACACGCAAAUUCGUGAAGCGCGCCGCCAAGGUAUGUAUCAAGCUUACAAGUUAUGUAUUUACUGACCU
+((((((.((........(((..((((....[[[[[[..[.........(((((...((...((...((((((((.(...{{..).)))))))).))))...)))))........((((.((....))))))..............[[...[..[[[.....))))))).((..((((.....)))..).))........)).)))))).......}}....]]]..]...]]............]..]]]]].]..
+
+Chain 2-2 2-3 
+AUCAGUUUAAUAUCUGA
+....(........)...
+
+Chain B 
+g
+.
+

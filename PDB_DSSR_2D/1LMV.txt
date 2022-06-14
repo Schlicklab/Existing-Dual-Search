@@ -1,0 +1,18 @@
+Title			SOLUTION STRUCTURE OF THE UNMODIFIED U2 SNRNA-INTRON BRANCH SITE HELIX FROM S. CEREVISIAE 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1LMV nts=19 [whole]
+GGUGUAGUA&UACUAACACC
+(((((((((&)))).)))))
+
+Interacting substructures
+Chain A B 
+GGUGUAGUAUACUAACACC
+((((((((()))).)))))
+

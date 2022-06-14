@@ -1,0 +1,23 @@
+Title			KLENTAQ MUTANT IN COMPLEX WITH A RNA/DNA HYBRID 
+Chain order		B G A 
+Amino acids		YES
+Metal			Mg	3
+Chains			B	DNA	G 
+			G	RNA	B 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>4BWM nts=25 [whole]
+CCACGGCGCc&AAAGGGCGCCGUGG&c
+((((((((((&....))))))))))&.
+
+Interacting substructures
+Chain B G 
+CCACGGCGCcAAAGGGCGCCGUGG
+((((((((((....))))))))))
+
+Chain A 
+c
+.
+

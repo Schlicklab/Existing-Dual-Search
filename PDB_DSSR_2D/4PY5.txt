@@ -1,0 +1,18 @@
+Title			THERMOVIBRIO AMMONIFICANS RNASE H3 IN COMPLEX WITH 19-MER RNA/DNA 
+Chain order		B C 
+Amino acids		YES
+Metal			Mg	1
+Chains			B	RNA	C 
+			C	DNA	B 
+Pseudoknot		NO
+
+Whole structure
+>4PY5 nts=38 [whole]
+GAGUGCGACACCUGAUUCC&GGAATCAGGTGTCGCACTC
+(((((((((((((((((((&)))))))))))))))))))
+
+Interacting substructures
+Chain B C 
+GAGUGCGACACCUGAUUCCGGAATCAGGTGTCGCACTC
+((((((((((((((((((()))))))))))))))))))
+

@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE DROSOPHILA PUMILIO RNA-BINDING DOMAIN IN COMPLEX WITH HUNCHBACK RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5KLA nts=8 [whole]
+UGUACAUA
+........
+
+Interacting substructures
+Chain B 
+UGUACAUA
+........
+

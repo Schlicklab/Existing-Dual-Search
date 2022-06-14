@@ -1,0 +1,23 @@
+Title			STRUCTURE OF YEAST U6 SNRNP WITH 2'-PHOSPHATE TERMINATED U6 RNA 
+Chain order		I-1 I-2 I-3 
+Amino acids		YES
+Metal
+Chains			I-1	RNA*	I-1 I-2 
+			I-2	RNA*	I-1 
+			I-3	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>5VSU nts=73 [whole]
+AAUUUGAAACAAUACAGAGAUGAUCAGCGGUUCCCCUGCAUAAGGA&GAACCGUUUUACAAAGAGAUUU&GUUUu
+..((((...................((((((((.(((....).)).&))))))))...)))).......&.....
+
+Interacting substructures
+Chain I-1 I-2 
+AAUUUGAAACAAUACAGAGAUGAUCAGCGGUUCCCCUGCAUAAGGAGAACCGUUUUACAAAGAGAUUU
+..((((...................((((((((.(((....).)).))))))))...)))).......
+
+Chain I-3 
+GUUUu
+.....
+

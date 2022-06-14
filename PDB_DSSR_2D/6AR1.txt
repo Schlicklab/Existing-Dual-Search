@@ -1,0 +1,34 @@
+Title			STRUCTURE OF A THERMOSTABLE GROUP II INTRON REVERSE TRANSCRIPTASE WITH TEMPLATE-PRIMER AND ITS FUNCTIONAL AND EVOLUTIONARY IMPLICATIONS (RT/DUPLEX (NAT)) 
+Chain order		B C E F A D 
+Amino acids		YES
+Metal			Mg	2
+Chains			B	DNA	C 
+			C	RNA	B 
+			E	DNA	F 
+			F	RNA	E 
+			A			
+			D			
+Pseudoknot		NO
+
+Whole structure
+>6AR1 nts=51 [whole]
+CTCCAGGCAAC&UUUGUUGCCUGGAG&TCCAGGCAAC&UUUGUUGCCUGGAG&a&a
+(((((((((((&...)))))))))))&((((((((((&...)))))))))).&.&.
+
+Interacting substructures
+Chain B C 
+CTCCAGGCAACUUUGUUGCCUGGAG
+(((((((((((...)))))))))))
+
+Chain E F 
+TCCAGGCAACUUUGUUGCCUGGAG
+((((((((((...)))))))))).
+
+Chain A 
+a
+.
+
+Chain D 
+a
+.
+

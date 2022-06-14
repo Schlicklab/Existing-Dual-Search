@@ -1,0 +1,23 @@
+Title			STRUCTURE OF 20MER DOUBLE-HELICAL RNA COMPOSED OF CUG/CUG-REPEATS 
+Chain order		A B D 
+Amino acids		NO
+Metal			K	2
+Chains			A	RNA	B 
+			B	RNA	A 
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4E48 nts=60 [whole]
+GCUGCUGCUGCUGCUGCUGC&GCUGCUGCUGCUGCUGCUGC&GCUGCUGCUGCUGCUGCUGC
+((.((.((.((.((.((.((&)).)).)).)).)).)).))&....................
+
+Interacting substructures
+Chain A B 
+GCUGCUGCUGCUGCUGCUGCGCUGCUGCUGCUGCUGCUGC
+((.((.((.((.((.((.(()).)).)).)).)).)).))
+
+Chain D 
+GCUGCUGCUGCUGCUGCUGC
+....................
+

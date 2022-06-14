@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF DNA/RNA DUPLEX CONTAINING 2'-4'-BNA-NC 
+Chain order		A B C D 
+Amino acids		NO
+Metal			Co	3
+Chains			A	RNA	B 
+			B	DNA[5]/RNA[4]	A 
+			C	RNA	D 
+			D	DNA[5]/RNA[4]	C 
+Pseudoknot		NO
+
+Whole structure
+>4U6K nts=36 [whole]
+GAAGAAGAG&ctCTTCTtc&GAAGAAGAG&ctCTTCTtc
+(((((((((&)))))))))&(((((((((&)))))))))
+
+Interacting substructures
+Chain A B 
+GAAGAAGAGctCTTCTtc
+((((((((()))))))))
+
+Chain C D 
+GAAGAAGAGctCTTCTtc
+((((((((()))))))))
+

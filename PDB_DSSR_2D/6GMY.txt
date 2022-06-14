@@ -1,0 +1,18 @@
+Title			TC-DNA/RNA DUPLEX 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	DNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6GMY nts=20 [whole]
+ctcggcttac&GUAAGCCGAG
+.((((((((.&.)))))))).
+
+Interacting substructures
+Chain A B 
+ctcggcttacGUAAGCCGAG
+.((((((((..)))))))).
+

@@ -1,0 +1,17 @@
+Title			STRUCTURE OF MOUSE RECON (AKR1C13) IN COMPLEX WITH CYCLIC AMP-AMP-GMP (CAAG) 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNAo	
+Pseudoknot		NO
+
+Whole structure
+>6M7K nts=3 [whole]
+AAG
+...
+
+Interacting substructures
+Chain B 
+AAG
+...
+

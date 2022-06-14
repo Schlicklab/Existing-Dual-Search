@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF HIV-1 REV (RESIDUES 1-93)-RNA APTAMER COMPLEX 
+Chain order		G 
+Amino acids		YES
+Metal
+Chains			G	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>6CF2 nts=35 [whole]
+GGCUGGACUCGUACUUCGGUACUGGAGAAACAGCC
+(((((..(((((((....))))..)))...)))))
+
+Interacting substructures
+Chain G 
+GGCUGGACUCGUACUUCGGUACUGGAGAAACAGCC
+(((((..(((((((....))))..)))...)))))
+

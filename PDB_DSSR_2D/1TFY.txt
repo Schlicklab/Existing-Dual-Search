@@ -1,0 +1,50 @@
+Title			HOW CCA IS ADDED TO THE 3' END OF IMMATURE TRNA WITHOUT THE USE OF AN OLIGONUCLEOTIDE TEMPLATE 
+Chain order		E H F I G J A B C D 
+Amino acids		YES
+Metal			Mg	4
+Chains			E	RNA	H 
+			H	RNA	E 
+			F	RNA	I 
+			I	RNA	F 
+			G	RNA	J 
+			J	RNA	G 
+			A			
+			B			
+			C			
+			D			
+Pseudoknot		NO
+
+Whole structure
+>1TFY nts=77 [whole]
+GCGGAUAUCCGCG&GCGGAUAUCCGCAC&GCGGAUAUCCGCG&GCGGAUAUCCGCAC&CGGAUCCGCAC&CGCGGAUC&c&c&c&c
+(((((((((((..&.)))))))))))..&(((((((((((..&.)))))))))))..&..(((((((..&.)))))))&.&.&.&.
+
+Interacting substructures
+Chain E H 
+GCGGAUAUCCGCGGCGGAUAUCCGCAC
+(((((((((((...)))))))))))..
+
+Chain F I 
+GCGGAUAUCCGCGGCGGAUAUCCGCAC
+(((((((((((...)))))))))))..
+
+Chain G J 
+CGGAUCCGCACCGCGGAUC
+..(((((((...)))))))
+
+Chain A 
+c
+.
+
+Chain B 
+c
+.
+
+Chain C 
+c
+.
+
+Chain D 
+c
+.
+

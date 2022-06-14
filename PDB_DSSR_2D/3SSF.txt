@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF RNA:DNA DODECAMER CORRESPONDING TO HIV-1 POLYPURINE TRACT, AT 1.6 A RESOLUTION. 
+Chain order		A B 
+Amino acids		NO
+Metal			Mg	3
+Chains			A	RNA	B 
+			B	DNA	A 
+Pseudoknot		NO
+
+Whole structure
+>3SSF nts=24 [whole]
+UAAAAGAAAAGG&CCTTTTCTTTTA
+.(((((((((((&))))))))))).
+
+Interacting substructures
+Chain A B 
+UAAAAGAAAAGGCCTTTTCTTTTA
+.((((((((((())))))))))).
+

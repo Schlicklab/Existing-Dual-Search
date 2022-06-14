@@ -1,0 +1,17 @@
+Title			CRYO-EM STRUCTURE OF CAS12I-CRRNA COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6W62 nts=24 [whole]
+GUGCCCAUCGUUGGCACGCGUGCA
+(((((.......))))).......
+
+Interacting substructures
+Chain B 
+GUGCCCAUCGUUGGCACGCGUGCA
+(((((.......))))).......
+

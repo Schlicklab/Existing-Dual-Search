@@ -1,0 +1,20 @@
+Title			TARGET-BOUND SPCAS9 COMPLEX WITH TRAC FULL RNA GUIDE 
+Chain order		A C D 
+Amino acids		YES
+Metal			Mg	2
+			K	12
+Chains			A	RNA	C A 
+			C	DNA	A D 
+			D	DNA	C 
+Pseudoknot		YES
+
+Whole structure
+>7OX8 nts=120 [whole]
+GAGAGUCUCUCAGCUGGUACAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUG&CAATACCGTGTACCAGCTGAGAGACTCT&CACGGTATTG
+.((((((((((((((((((((((((((..((((....))))....))))))..(((..).)).......((((....)))).&[[[[[[[[))))))))))))))))))))&..]]]]]]]]
+
+Interacting substructures
+Chain A C D 
+GAGAGUCUCUCAGCUGGUACAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGCAATACCGTGTACCAGCTGAGAGACTCTCACGGTATTG
+.((((((((((((((((((((((((((..((((....))))....))))))..(((..).)).......((((....)))).[[[[[[[[))))))))))))))))))))..]]]]]]]]
+

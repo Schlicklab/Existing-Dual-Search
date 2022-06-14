@@ -1,0 +1,18 @@
+Title			STRUCTURE OF THE DICKEYA DADANTII YKKC RIBOSWITCH BOUND TO GUANIDINIUM 
+Chain order		B 
+Amino acids		NO
+Metal			Mg	24
+			K	1
+Chains			B	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>5U3G nts=85 [whole]
+gGUGACUAGGGUUCCGGCGAAAGCCGGUCCGAGAGUUACCGACCGCCGAAAGGCGGUUACACGGCGGGAAAAAAGCCCGGGAGGA
+((((((..((...(((((....))))).))....))))))(((((((....))))))).(.[...(((.......))).)..]..
+
+Interacting substructures
+Chain B 
+gGUGACUAGGGUUCCGGCGAAAGCCGGUCCGAGAGUUACCGACCGCCGAAAGGCGGUUACACGGCGGGAAAAAAGCCCGGGAGGA
+((((((..((...(((((....))))).))....))))))(((((((....))))))).(.[...(((.......))).)..]..
+

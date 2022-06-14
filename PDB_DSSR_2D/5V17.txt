@@ -1,0 +1,17 @@
+Title			HNRNP A1 ALTERS THE CONFORMATION OF A CONSERVED ENTEROVIRUS IRES DOMAIN TO STIMULATE VIRAL TRANSLATION 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>5V17 nts=41 [whole]
+GGAUCAACCCCAGGUGUGGCACACCAGUCAUACCUUGAUCC
+((((((.....(((((((((......)))))))))))))))
+
+Interacting substructures
+Chain A 
+GGAUCAACCCCAGGUGUGGCACACCAGUCAUACCUUGAUCC
+((((((.....(((((((((......)))))))))))))))
+

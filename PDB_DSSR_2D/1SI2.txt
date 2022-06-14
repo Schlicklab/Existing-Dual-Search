@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE PAZ DOMAIN OF HUMAN EIF2C1 IN COMPLEX WITH A 9-MER SIRNA-LIKE DUPLEX OF DEOXYNUCLEOTIDE OVERHANG 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	DNA[2]/RNA[7]	
+Pseudoknot		NO
+
+Whole structure
+>1SI2 nts=9 [whole]
+CGUGACUCT
+.........
+
+Interacting substructures
+Chain B 
+CGUGACUCT
+.........
+

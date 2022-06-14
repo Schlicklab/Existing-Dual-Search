@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF MOUSE DXO IN COMPLEX WITH PRODUCT RNA AND TWO MAGNESIUM IONS 
+Chain order		B A 
+Amino acids		YES
+Metal			Mg	2
+Chains			B	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>4J7L nts=6 [whole]
+UUUUU&u
+.....&.
+
+Interacting substructures
+Chain B 
+UUUUU
+.....
+
+Chain A 
+u
+.
+

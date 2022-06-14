@@ -1,0 +1,24 @@
+Title			CRYO-EM STRUCTURE OF TYPE III-A CSM-CTR1 COMPLEX, AMPPNP BOUND 
+Chain order		N J A 
+Amino acids		YES
+Metal			Mg	2
+			Zn	1
+Chains			N	RNA	J 
+			J	RNA	N 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>6IFK nts=69 [whole]
+ACGGAAACGCUUUCUAGCUCGCUAUAAUUACCCA&AAUGGGUAAUUAUAGCGAGCUAGAAAGCCAAAG&a&a
+........(((((.(((((.(((((.((((((((&..)))))))).))))).))))).))))).....&.&.
+
+Interacting substructures
+Chain N J 
+ACGGAAACGCUUUCUAGCUCGCUAUAAUUACCCAAAUGGGUAAUUAUAGCGAGCUAGAAAGCCAAAG
+........(((((.(((((.(((((.((((((((..)))))))).))))).))))).))))).....
+
+Chain A 
+aa
+..
+

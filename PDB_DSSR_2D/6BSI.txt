@@ -1,0 +1,19 @@
+Title			STRUCTURE OF HIV-1 RT COMPLEXED WITH AN RNA/DNA HYBRID CONTAINING THE POLYPURINE-TRACT SEQUENCE 
+Chain order		D R-1 R-2 
+Amino acids		YES
+Metal			Ca	2
+Chains			D	DNA	R-2 R-1 
+			R-1	RNA[24]/1*	D 
+			R-2	RNA[24]/1*	D 
+Pseudoknot		NO
+
+Whole structure
+>6BSI nts=48 [whole]
+GTTTTTCTTTTGTTATTGTGGCC&GA?GGCCACAAUAAC&AAAAGAAAAA
+.(((((((...((((((((((((&...))))))))))))&...)))))))
+
+Interacting substructures
+Chain D R-1 R-2 
+GTTTTTCTTTTGTTATTGTGGCCGA?GGCCACAAUAACAAAAGAAAAA
+.(((((((...((((((((((((...))))))))))))...)))))))
+

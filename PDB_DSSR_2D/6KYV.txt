@@ -1,0 +1,42 @@
+Title			CRYSTAL STRUCTURE OF RIG-I AND HAIRPIN RNA WITH G-U WOBBLE BASE PAIRS 
+Chain order		A C E G I K 
+Amino acids		YES
+Metal			Zn	6
+Chains			A	RNA	A 
+			C	RNA	C 
+			E	RNA	E 
+			G	RNA	G 
+			I	RNA	I 
+			K	RNA	K 
+Pseudoknot		NO
+
+Whole structure
+>6KYV nts=132 [whole]
+GGUAGACGCUUCGGCGUUUGCC&GGUAGACGCUUCGGCGUUUGCC&GGUAGACGCUUCGGCGUUUGCC&GGUAGACGCUUCGGCGUUUGCC&GGUAGACGCUUCGGCGUUUGCC&GGUAGACGCUUCGGCGUUUGCC
+(((((((((....)))))))))&(((((((((....)))))))))&(((((((((....)))))))))&(((((((((....)))))))))&(((((((((....)))))))))&(((((((((....)))))))))
+
+Interacting substructures
+Chain A 
+GGUAGACGCUUCGGCGUUUGCC
+(((((((((....)))))))))
+
+Chain C 
+GGUAGACGCUUCGGCGUUUGCC
+(((((((((....)))))))))
+
+Chain E 
+GGUAGACGCUUCGGCGUUUGCC
+(((((((((....)))))))))
+
+Chain G 
+GGUAGACGCUUCGGCGUUUGCC
+(((((((((....)))))))))
+
+Chain I 
+GGUAGACGCUUCGGCGUUUGCC
+(((((((((....)))))))))
+
+Chain K 
+GGUAGACGCUUCGGCGUUUGCC
+(((((((((....)))))))))
+

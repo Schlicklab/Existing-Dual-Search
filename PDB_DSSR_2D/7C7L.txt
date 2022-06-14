@@ -1,0 +1,21 @@
+Title			CRYO-EM STRUCTURE OF THE CAS12F1-SGRNA-TARGET DNA COMPLEX 
+Chain order		C-1 C-2 C-3 D E 
+Amino acids		YES
+Metal			Zn	3
+Chains			C-1	RNA*	C-2 
+			C-2	RNA*	C-3 C-1 C-2 
+			C-3	RNA*	C-2 D 
+			D	DNA	C-3 E 
+			E	DNA	D 
+Pseudoknot		YES
+
+Whole structure
+>7C7L nts=157 [whole]
+CCGCUUCACCA&UGAGUGAAGGUGGGCUGCUUGCAUCAGCCUAAUGUCGAGAAGUGCUUUCUUCGGAAAGUAACCCUCGAAACAA&AAGGAAUGCAACGGAAAUUAGGUGCGCUUGGC&GCCAAGCGCACCTAATTTCCCAAATTA&TAATTTGGGAAATT
+((.((((((((&)).))))))).)[[[[[.((((((]]]]].....(((((..((((((((....)))))).)).)))))..(..&...).)))))).((((((((((((((((((((&))))))))))))))))))))(((((((&))))))).......
+
+Interacting substructures
+Chain C-1 C-2 C-3 D E 
+CCGCUUCACCAUGAGUGAAGGUGGGCUGCUUGCAUCAGCCUAAUGUCGAGAAGUGCUUUCUUCGGAAAGUAACCCUCGAAACAAAAGGAAUGCAACGGAAAUUAGGUGCGCUUGGCGCCAAGCGCACCTAATTTCCCAAATTATAATTTGGGAAATT
+((.(((((((()).))))))).)[[[[[.((((((]]]]].....(((((..((((((((....)))))).)).)))))..(.....).)))))).(((((((((((((((((((())))))))))))))))))))((((((())))))).......
+

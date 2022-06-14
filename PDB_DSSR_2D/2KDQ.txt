@@ -1,0 +1,17 @@
+Title			SIMULTANEOUS RECOGNITION OF HIV-1 TAR RNA BULGE AND LOOP SEQUENCES BY CYCLIC PEPTIDE MIMIC OF TAT PROTEIN 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2KDQ nts=29 [whole]
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...((((......))))))))))
+
+Interacting substructures
+Chain B 
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...((((......))))))))))
+

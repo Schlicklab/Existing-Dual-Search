@@ -1,0 +1,22 @@
+Title			STRUCTURAL BASIS OF TRANSCRIPTION ACTIVATION BY THE CYCLIN T1-TAT-TAR RNA COMPLEX FROM EIAV 
+Chain order		R S 
+Amino acids		YES
+Metal			Mn	2
+Chains			R	RNA	R 
+			S	RNA	S 
+Pseudoknot		NO
+
+Whole structure
+>2W2H nts=44 [whole]
+GCUCAGAUUCUGCGGUCUGAGC&GCUCAGAUUCUGCGGUCUGAGC
+..((((.(......).))))..&..((((.(......).))))..
+
+Interacting substructures
+Chain R 
+GCUCAGAUUCUGCGGUCUGAGC
+..((((.(......).))))..
+
+Chain S 
+GCUCAGAUUCUGCGGUCUGAGC
+..((((.(......).))))..
+

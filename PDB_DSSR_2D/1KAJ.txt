@@ -1,0 +1,17 @@
+Title			CONFORMATION OF AN RNA PSEUDOKNOT FROM MOUSE MAMMARY TUMOR VIRUS, NMR, 1 STRUCTURE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>1KAJ nts=32 [whole]
+GGCGCAGUGGGCUAGCGCCACUCAAAAGCCCG
+(((((...[[[[..)))))........]]]].
+
+Interacting substructures
+Chain A 
+GGCGCAGUGGGCUAGCGCCACUCAAAAGCCCG
+(((((...[[[[..)))))........]]]].
+

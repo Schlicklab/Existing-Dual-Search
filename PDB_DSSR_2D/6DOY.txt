@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF BACILLUS HALODURANS RIBONUCLEASE H1 IN COMPLEX WITH AN RNA/DNA HYBRID: REACTION IN 2 MM MG2+ AND 200 MM LI+ FOR 120 S AT 21 C 
+Chain order		B C 
+Amino acids		YES
+Metal			Li	2
+Chains			B	DNA[2]/RNA[4]	C 
+			C	DNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6DOY nts=12 [whole]
+ACAUCG&CGATGT
+((((((&))))))
+
+Interacting substructures
+Chain B C 
+ACAUCGCGATGT
+(((((())))))
+

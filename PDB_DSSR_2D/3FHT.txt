@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF HUMAN DBP5 IN COMPLEX WITH AMPPNP AND RNA 
+Chain order		C D A B 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	
+			D	RNA	
+			A			
+			B			
+Pseudoknot		NO
+
+Whole structure
+>3FHT nts=14 [whole]
+UUUUUU&UUUUUU&a&a
+......&......&.&.
+
+Interacting substructures
+Chain C 
+UUUUUU
+......
+
+Chain D 
+UUUUUU
+......
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+

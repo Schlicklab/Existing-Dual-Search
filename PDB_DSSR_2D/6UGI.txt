@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A FRAGMENT OF E. COLI TRNA(ASP) CONSISTING OF ITS ACCEPTOR STEM/T STEM-LOOP. LONG UNIT CELL. 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6UGI nts=31 [whole]
+GGAGCGGGCGGGUUCGAGUCCCGUCCGUUCC
+((((((((((((.......))))))))))))
+
+Interacting substructures
+Chain A 
+GGAGCGGGCGGGUUCGAGUCCCGUCCGUUCC
+((((((((((((.......))))))))))))
+

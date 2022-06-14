@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF DSS1 EXORIBONUCLEASE ACTIVE SITE MUTANT D477N FROM CANDIDA GLABRATA 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6F3H nts=12 [whole]
+AGAUAC&CACUGA
+......&......
+
+Interacting substructures
+Chain C 
+AGAUAC
+......
+
+Chain D 
+CACUGA
+......
+

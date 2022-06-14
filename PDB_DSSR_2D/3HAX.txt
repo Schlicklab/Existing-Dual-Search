@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURE OF A SUBSTRATE-BOUND GAR1-MINUS H/ACA RNP FROM PYROCOCCUS FURIOSUS 
+Chain order		E-1 E-2 F 
+Amino acids		YES
+Metal			Mg	5
+			Zn	1
+Chains			E-1	RNA*	F E-2 
+			E-2	RNA*	F E-1 
+			F	RNA	E-2 E-1 
+Pseudoknot		YES
+
+Whole structure
+>3HAX nts=72 [whole]
+GGGUCCGCCUUGAGUGCCCGGGUGA&AGCAUGAUCCCGGGUAAUUAUGGCGGACCCACA&AUAAUUpGACUCAA
+[[[[[[[[[(((((((((((((...&........)))))))((((((]]]]]]]]]...&))))))..))))))
+
+Interacting substructures
+Chain E-1 E-2 F 
+GGGUCCGCCUUGAGUGCCCGGGUGAAGCAUGAUCCCGGGUAAUUAUGGCGGACCCACAAUAAUUpGACUCAA
+[[[[[[[[[(((((((((((((...........)))))))((((((]]]]]]]]]...))))))..))))))
+

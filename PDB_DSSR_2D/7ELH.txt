@@ -1,0 +1,41 @@
+Title			? 
+Chain order		C N O P Q R S T U 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			N	RNA	O 
+			O	RNA	N 
+			P	RNA	Q 
+			Q	RNA	P 
+			R	RNA	S 
+			S	RNA	R 
+			T	RNA	U 
+			U	RNA	T 
+Pseudoknot		NO
+
+Whole structure
+>7ELH nts=310 [whole]
+AAGC&AUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAU&AUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAU&AUAUAUAUAUAUAUAUAUAUAUAUAUAUAU&AUAUAUAUAUAUAUAUAUAUAUAUAUAUAU&AUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAU&AUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAU&AUAUAUAUAUAUAUAUAUAUAUAUAUAUAUA&UAUAUAUAUAUAUAUAUAUAUAUAUAUAUAU
+....&((((((((...((((.((((((((((((((((&)))))))))))))))).))))...))))))))&((((((((((((((((((((((((((((((&))))))))))))))))))))))))))))))&((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((&))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))&(((((((((((((((((((((((((((((((&)))))))))))))))))))))))))))))))
+
+Interacting substructures
+Chain C 
+AAGC
+....
+
+Chain N O 
+AUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAU
+((((((((...((((.(((((((((((((((()))))))))))))))).))))...))))))))
+
+Chain P Q 
+AUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAU
+(((((((((((((((((((((((((((((())))))))))))))))))))))))))))))
+
+Chain R S 
+AUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAU
+(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((())))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+
+Chain T U 
+AUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAUAU
+((((((((((((((((((((((((((((((()))))))))))))))))))))))))))))))
+

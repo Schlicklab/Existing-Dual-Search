@@ -1,0 +1,17 @@
+Title			STRUCTURAL INSIGHTS INTO CIS ELEMENT RECOGNITION OF NON- POLYADENYLATED RNAS BY THE NAB3-RRM 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2XNR nts=3 [whole]
+UCU
+...
+
+Interacting substructures
+Chain C 
+UCU
+...
+

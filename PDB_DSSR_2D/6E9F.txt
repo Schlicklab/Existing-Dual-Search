@@ -1,0 +1,18 @@
+Title			ESCAS13D-CRRNA-TARGET RNA TERNARY COMPLEX 
+Chain order		B C 
+Amino acids		YES
+Metal			Mg	1
+Chains			B	RNA	C B 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6E9F nts=79 [whole]
+CACCCGUGCAAAAAUGCAGGGGUCUAAAACGACCUGAAUAUUUCAGAUCAAA&ACGUUUUGAUCUGAAAUAUUCAGGUCU
+..(((.............))).........((((((((((((((((((((((&....)))))))))))))))))))))).
+
+Interacting substructures
+Chain B C 
+CACCCGUGCAAAAAUGCAGGGGUCUAAAACGACCUGAAUAUUUCAGAUCAAAACGUUUUGAUCUGAAAUAUUCAGGUCU
+..(((.............))).........((((((((((((((((((((((....)))))))))))))))))))))).
+

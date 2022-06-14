@@ -1,0 +1,23 @@
+Title			DIMERIC STRUCTURE OF MACHUPO VIRUS POLYMERASE BOUND TO VRNA PROMOTER 
+Chain order		B D 
+Amino acids		YES
+Metal			Mn	2
+			Zn	2
+Chains			B	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6KLH nts=14 [whole]
+CUGUGCG&CUGUGCG
+.......&.......
+
+Interacting substructures
+Chain B 
+CUGUGCG
+.......
+
+Chain D 
+CUGUGCG
+.......
+

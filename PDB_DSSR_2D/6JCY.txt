@@ -1,0 +1,20 @@
+Title			MYCOBACTERIUM TUBERCULOSIS RNA POLYMERASE TRANSCRIPTION INITIATION OPEN COMPLEX WITH A CHIMERIC ECF SIGMA FACTOR SIGH/E 
+Chain order		G H I 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			G	DNA	H 
+			H	DNA	G I 
+			I	RNA	H 
+Pseudoknot		NO
+
+Whole structure
+>6JCY nts=49 [whole]
+TTGTGGGAGCTGTCACGGATGCA&TGCATCCGTGAGTCGAGGGT&CCUCGA
+............(((((((((((&))))))))))).((((((..&))))))
+
+Interacting substructures
+Chain G H I 
+TTGTGGGAGCTGTCACGGATGCATGCATCCGTGAGTCGAGGGTCCUCGA
+............((((((((((())))))))))).((((((..))))))
+

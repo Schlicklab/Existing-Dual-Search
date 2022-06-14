@@ -1,0 +1,22 @@
+Title			LARP7 WRAPPING UP THE 3' HAIRPIN OF 7SK NON-CODING RNA (302-332) 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4WKR nts=8 [whole]
+UUU&CUUUU
+...&.....
+
+Interacting substructures
+Chain C 
+UUU
+...
+
+Chain D 
+CUUUU
+.....
+

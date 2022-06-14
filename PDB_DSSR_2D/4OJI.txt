@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF TWISTER RIBOZYME 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal			Mg	5
+Chains			A-1	RNA[51]/1*	A-2 
+			A-2	RNA[51]/1*	A-1 A-2 
+Pseudoknot		YES
+
+Whole structure
+>4OJI nts=52 [whole]
+CCGCCUAACACUGCCA&GCCGGUCCCAAGCCCGGAUAAAAGUGGAGGGGGCGG
+(((((...(((({{(.&)((((.[[[..}})))).....))))..]]])))))
+
+Interacting substructures
+Chain A-1 A-2 
+CCGCCUAACACUGCCAGCCGGUCCCAAGCCCGGAUAAAAGUGGAGGGGGCGG
+(((((...(((({{(.)((((.[[[..}})))).....))))..]]])))))
+

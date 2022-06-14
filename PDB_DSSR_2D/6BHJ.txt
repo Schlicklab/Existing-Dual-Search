@@ -1,0 +1,22 @@
+Title			STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE BOUND TO A 38-MER HAIRPIN TEMPLATE-PRIMER RNA-DNA APTAMER 
+Chain order		E F 
+Amino acids		YES
+Metal			Mg	2
+Chains			E	DNA[18]/RNA[17]	E 
+			F	DNA[18]/RNA[17]	F 
+Pseudoknot		NO
+
+Whole structure
+>6BHJ nts=70 [whole]
+UACCCCCCCUUCGGUGCUUUGCACCGAAGGGGGGG&UACCCCCCCUUCGGUGCUUUGCACCGAAGGGGGGG
+..(((((((((((((.(...).)))))))))))))&..(((((((((((((((...)))))))))))))))
+
+Interacting substructures
+Chain E 
+UACCCCCCCUUCGGUGCUUUGCACCGAAGGGGGGG
+..(((((((((((((.(...).)))))))))))))
+
+Chain F 
+UACCCCCCCUUCGGUGCUUUGCACCGAAGGGGGGG
+..(((((((((((((((...)))))))))))))))
+

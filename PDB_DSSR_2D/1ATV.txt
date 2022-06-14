@@ -1,0 +1,17 @@
+Title			HAIRPIN WITH AGAA TETRALOOP, NMR, 4 STRUCTURES 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1ATV nts=17 [whole]
+GGGACCAGAAGGUCCCG
+((((((....)))))).
+
+Interacting substructures
+Chain A 
+GGGACCAGAAGGUCCCG
+((((((....)))))).
+

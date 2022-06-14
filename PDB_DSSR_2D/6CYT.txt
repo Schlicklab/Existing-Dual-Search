@@ -1,0 +1,17 @@
+Title			HIV-1 TAR LOOP IN COMPLEX WITH TAT:AFF4:P-TEFB 
+Chain order		N 
+Amino acids		YES
+Metal			Zn	2
+Chains			N	RNA	N 
+Pseudoknot		NO
+
+Whole structure
+>6CYT nts=17 [whole]
+AUCUGAGCCUGGGAGCU
+......(((...).)).
+
+Interacting substructures
+Chain N 
+AUCUGAGCCUGGGAGCU
+......(((...).)).
+

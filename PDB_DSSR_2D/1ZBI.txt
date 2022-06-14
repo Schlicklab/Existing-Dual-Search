@@ -1,0 +1,18 @@
+Title			BACILLUS HALODURANS RNASE H CATALYTIC DOMAIN MUTANT D132N IN COMPLEX WITH 12-MER RNA/DNA HYBRID 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	4
+Chains			C	RNA	D 
+			D	DNA	C 
+Pseudoknot		NO
+
+Whole structure
+>1ZBI nts=24 [whole]
+GACACCUGAUUC&GAATCAGGTGTC
+((((((((((((&))))))))))))
+
+Interacting substructures
+Chain C D 
+GACACCUGAUUCGAATCAGGTGTC
+(((((((((((())))))))))))
+

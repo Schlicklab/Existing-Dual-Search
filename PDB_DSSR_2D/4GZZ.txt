@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURES OF BACTERIAL RNA POLYMERASE PAUSED ELONGATION COMPLEXES 
+Chain order		N R T 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			N	DNA	T 
+			R	RNA	T 
+			T	DNA	R N 
+Pseudoknot		YES
+
+Whole structure
+>4GZZ nts=42 [whole]
+AAGAGATTCCC&AUGUGUGCU&GGGAATCTCTTCCAGCACACAT
+(((((((((((&[[[[[[[[[&)))))))))))..]]]]]]]]]
+
+Interacting substructures
+Chain N R T 
+AAGAGATTCCCAUGUGUGCUGGGAATCTCTTCCAGCACACAT
+((((((((((([[[[[[[[[)))))))))))..]]]]]]]]]
+

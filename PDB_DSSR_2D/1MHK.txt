@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE ANALYSIS OF A 26MER RNA MOLECULE, REPRESENTING A NEW RNA MOTIF, THE HOOK-TURN 
+Chain order		S L 
+Amino acids		NO
+Metal
+Chains			S	RNA	L 
+			L	RNA	S 
+Pseudoknot		NO
+
+Whole structure
+>1MHK nts=26 [whole]
+CCAUGCGAACCG&CGAUCCUAGUGUGG
+((((((......&........))))))
+
+Interacting substructures
+Chain S L 
+CCAUGCGAACCGCGAUCCUAGUGUGG
+((((((..............))))))
+

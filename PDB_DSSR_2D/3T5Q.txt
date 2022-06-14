@@ -1,0 +1,42 @@
+Title			3A STRUCTURE OF LASSA VIRUS NUCLEOPROTEIN IN COMPLEX WITH SSRNA 
+Chain order		C D F H J L 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			D	RNA	
+			F	RNA	
+			H	RNA	
+			J	RNA	
+			L	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3T5Q nts=43 [whole]
+UUAUCUCA&UAUCUCA&UUAUCUCA&UAUCUC&UUAUCUCC&UAUCUC
+........&.......&........&......&........&......
+
+Interacting substructures
+Chain C 
+UUAUCUCA
+........
+
+Chain D 
+UAUCUCA
+.......
+
+Chain F 
+UUAUCUCA
+........
+
+Chain H 
+UAUCUC
+......
+
+Chain J 
+UUAUCUCC
+........
+
+Chain L 
+UAUCUC
+......
+

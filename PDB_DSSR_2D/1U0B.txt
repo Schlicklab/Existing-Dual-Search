@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF CYSTEINYL-TRNA SYNTHETASE BINARY COMPLEX WITH TRNACYS 
+Chain order		A 
+Amino acids		YES
+Metal			Zn	1
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1U0B nts=74 [whole]
+GGCGCGUUAACAAAGCGGUUAUGUAGCGGAUUGCAAAUCCGUCUAGUCCGGUUCGACUCCGGAACGCGCCUCCA
+(((((((..(((.........))).(((((.......)))))....(((((.......))))))))))))....
+
+Interacting substructures
+Chain A 
+GGCGCGUUAACAAAGCGGUUAUGUAGCGGAUUGCAAAUCCGUCUAGUCCGGUUCGACUCCGGAACGCGCCUCCA
+(((((((..(((.........))).(((((.......)))))....(((((.......))))))))))))....
+

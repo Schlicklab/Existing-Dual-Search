@@ -1,0 +1,24 @@
+Title			STRUCTURAL BASIS OF TEMPLATE BOUNDARY DEFINITION IN TETRAHYMENA TELOMERASE 
+Chain order		D C E G 
+Amino acids		YES
+Metal			Mg	2
+Chains			D	RNA	C 
+			C	RNA	D 
+			E	RNA	G 
+			G	RNA	E 
+Pseudoknot		NO
+
+Whole structure
+>5C9H nts=42 [whole]
+AGAACUGUC&UCAUUCAGUUCU&GAACUGUCAU&CAUUCAGUUCU
+.((((((..&.....)))))).&((((((....&....)))))).
+
+Interacting substructures
+Chain D C 
+AGAACUGUCUCAUUCAGUUCU
+.((((((.......)))))).
+
+Chain E G 
+GAACUGUCAUCAUUCAGUUCU
+((((((........)))))).
+

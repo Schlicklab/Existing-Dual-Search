@@ -1,0 +1,17 @@
+Title			MYCOPLASMA GENITALIUM RNASE R IN COMPLEX WITH SINGLE-STRANDED RNA 
+Chain order		C 
+Amino acids		YES
+Metal			Mg	1
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7DIC nts=9 [whole]
+AAAAAAAAA
+.........
+
+Interacting substructures
+Chain C 
+AAAAAAAAA
+.........
+

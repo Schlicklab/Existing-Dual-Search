@@ -1,0 +1,18 @@
+Title			DNA/RNA HYBRID DUPLEX (5'-D(*GP*CP*TP*AP*TP*AP*APS*TP*GP*G)- 3')(DOT) (5'-R(*CP*CP*AP*UP*UP*AP*UP*AP*GP*C)-3') WITH A PHOSPHOROTHIOATE MOIETY 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	DNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>219D nts=20 [whole]
+GCTATAAtGG&CCAUUAUAGC
+((((((((((&))))))))))
+
+Interacting substructures
+Chain A B 
+GCTATAAtGGCCAUUAUAGC
+(((((((((())))))))))
+

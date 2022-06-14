@@ -1,0 +1,19 @@
+Title			ASCPF1(E993A)-CRRNA-DNA TERNARY COMPLEX 
+Chain order		B C D 
+Amino acids		YES
+Metal
+Chains			B	RNA	C B 
+			C	DNA	B D 
+			D	DNA	C 
+Pseudoknot		NO
+
+Whole structure
+>5KK5 nts=75 [whole]
+AAUUUCUACUCUUGUAGAUGAGAAGUCAUUUAAUAAGGC&GCCTTATTAAATGACTTCTCGAAACATG&CATGTTTC
+....(((((....))))).((((((((((((((((((((&))))))))))))))))))))((((((((&))))))))
+
+Interacting substructures
+Chain B C D 
+AAUUUCUACUCUUGUAGAUGAGAAGUCAUUUAAUAAGGCGCCTTATTAAATGACTTCTCGAAACATGCATGTTTC
+....(((((....))))).(((((((((((((((((((())))))))))))))))))))(((((((())))))))
+

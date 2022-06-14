@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE RNA ELEMENT THAT RECRUITS EIF3 TO THE 5'-UTR OF C-JUN AND REGULATES SPECIALIZED TRANSLATION INITIATION (APICAL LOOP) 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6NOA nts=56 [whole]
+GGCAGUAUAGUCCGAACUGCAAAUCUUAUUUUCUUUUCACCUUCUCUCUAACUGCC
+((((((.(((...(((.((.(((...........)))))..)))...)))))))))
+
+Interacting substructures
+Chain A 
+GGCAGUAUAGUCCGAACUGCAAAUCUUAUUUUCUUUUCACCUUCUCUCUAACUGCC
+((((((.(((...(((.((.(((...........)))))..)))...)))))))))
+

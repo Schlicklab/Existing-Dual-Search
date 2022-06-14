@@ -1,0 +1,32 @@
+Title			HOW THE CCA-ADDING ENZYME SELECTS ADENINE OVER CYTOSINE IN POSITION 76 OF TRNA 
+Chain order		C-1 D A C-2 
+Amino acids		YES
+Metal			Mg	2
+Chains			C-1	RNA*	C-1 
+			D	RNA	D 
+			A			
+			C-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>3OVB nts=71 [whole]
+GGAAGUAGAUGGUUCAAGUCCAUUUACUUCCACC&GGAAGUAGAUGGUUCAAGUCCAUUUACUUCCACCA&a&a
+((((((((((((.......))))))))))))...&((((((((((((.......))))))))))))....&.&.
+
+Interacting substructures
+Chain C-1 
+GGAAGUAGAUGGUUCAAGUCCAUUUACUUCCACC
+((((((((((((.......))))))))))))...
+
+Chain D 
+GGAAGUAGAUGGUUCAAGUCCAUUUACUUCCACCA
+((((((((((((.......))))))))))))....
+
+Chain A 
+a
+.
+
+Chain C-2 
+a
+.
+

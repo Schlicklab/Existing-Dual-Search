@@ -1,0 +1,17 @@
+Title			THE SOLUTION STRUCTURE OF A SUBSTRATE OF ARCHAEAL PRE-TRNA SPLICING ENDONUCLEASES 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1U3K nts=38 [whole]
+GGGUGACUCCAGAGGUCGAGAGACCGGAGAUAUCACCC
+((((((((((...((((....))))))))...))))))
+
+Interacting substructures
+Chain A 
+GGGUGACUCCAGAGGUCGAGAGACCGGAGAUAUCACCC
+((((((((((...((((....))))))))...))))))
+

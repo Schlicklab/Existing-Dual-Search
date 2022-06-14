@@ -1,0 +1,55 @@
+Title			? 
+Chain order		4-1 4-2 4-3 4-4 4-5 4-6 4-7 5-1 5-2 5-3 6-1 6-2 6-3 5C 
+Amino acids		YES
+Metal			Mg	1
+			Zn	1
+Chains			4-1	RNA*	4-1 4-2 6-2 
+			4-2	RNA*	4-1 
+			4-3	RNA*	6-2 
+			4-4	RNA*	6-1 
+			4-5	RNA*	4-6 
+			4-6	RNA*	4-7 4-5 
+			4-7	RNA*	4-6 
+			5-1	RNA*	5-2 
+			5-2	RNA*	5-1 
+			5-3	RNA*	5-3 
+			6-1	RNA*	4-4 
+			6-2	RNA*	4-1 4-3 
+			6-3	RNA*	
+			5C			
+Pseudoknot		NO
+
+Whole structure
+>6QW6 nts=272 [whole]
+AGCUUUGCGCAGUGGCAGUAUCGUAGCCAAUGAGGUUUAUCCGAGGCGCGA&U&UUGCUAAUUGAAAACU&UCCCAAUA&GCCGUGACGACU&AGUCGGCAUUGGCAAUUUUUGACAGUCUC&GAGACUGG&ACUCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGC&ACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAGU&CCAAUUUUUUGAGGCCUUGCUUUGGCAAGGCUA&UUGGAA&AAGAUUAGCAUGGCCCCUGCGCAAGGAUGAC&AUUUU&g
+(.((((((((((.(((...(((((.(((.....((.....))..)))))))&)&.(((((((........&(.((((..&((((((.(((((&))))).))).))).........(((((((&))))))).&((((.((((((((((((...((...((((((((...&...)))))))).)))))))))))))....).))))&............((((((((....)))))))).&)))).)&...)))))))..))).)))))))))).)...&.....&.
+
+Interacting substructures
+Chain 4-1 4-2 4-3 6-2 
+AGCUUUGCGCAGUGGCAGUAUCGUAGCCAAUGAGGUUUAUCCGAGGCGCGAUUUGCUAAUUGAAAACUAAGAUUAGCAUGGCCCCUGCGCAAGGAUGAC
+(.((((((((((.(((...(((((.(((.....((.....))..)))))))).(((((((...........)))))))..))).)))))))))).)...
+
+Chain 4-4 6-1 
+UCCCAAUAUUGGAA
+(.((((..)))).)
+
+Chain 4-5 4-6 4-7 
+GCCGUGACGACUAGUCGGCAUUGGCAAUUUUUGACAGUCUCGAGACUGG
+((((((.((((())))).))).))).........((((((())))))).
+
+Chain 5-1 5-2 
+ACUCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAGU
+((((.((((((((((((...((...((((((((......)))))))).)))))))))))))....).))))
+
+Chain 5-3 
+CCAAUUUUUUGAGGCCUUGCUUUGGCAAGGCUA
+............((((((((....)))))))).
+
+Chain 6-3 
+AUUUU
+.....
+
+Chain 5C 
+g
+.
+

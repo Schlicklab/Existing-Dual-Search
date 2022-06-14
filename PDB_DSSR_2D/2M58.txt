@@ -1,0 +1,17 @@
+Title			STRUCTURE OF 2'-5' AG1 LARIAT FORMING RIBOZYME IN ITS INACTIVE STATE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>2M58 nts=59 [whole]
+gGAAGAAAGGGCUUCGGCCACUCAAACUACAGAGACGCCAGUCACUCAGAUAUCCUGGU
+(...((...(((....)))..))...)....[[[...((((...]]].......)))).
+
+Interacting substructures
+Chain A 
+gGAAGAAAGGGCUUCGGCCACUCAAACUACAGAGACGCCAGUCACUCAGAUAUCCUGGU
+(...((...(((....)))..))...)....[[[...((((...]]].......)))).
+

@@ -1,0 +1,17 @@
+Title			VIBRIO CHOLERAE OLIGORIBONUCLEASE BOUND TO PAA 
+Chain order		D 
+Amino acids		YES
+Metal			Na	1
+Chains			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6N6C nts=2 [whole]
+AA
+..
+
+Interacting substructures
+Chain D 
+AA
+..
+

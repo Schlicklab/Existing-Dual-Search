@@ -1,0 +1,18 @@
+Title			MUTANT M16A OF RNA DEPENDENT RNA POLYMERASE 3D FROM FOOT-AND-MOUTH DISEASE VIRUS COMPLEXED WITH AN TEMPLATE -PRIMER RNA 
+Chain order		B C 
+Amino acids		YES
+Metal
+Chains			B	RNA	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6GVY nts=12 [whole]
+CCGGG&UCCCGGG
+(((((&.))))).
+
+Interacting substructures
+Chain B C 
+CCGGGUCCCGGG
+(((((.))))).
+

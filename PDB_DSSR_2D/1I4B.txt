@@ -1,0 +1,17 @@
+Title			THE SOLUTION STRUCTURE OF THE MAJOR FAMILY OF THE MUTANT STEM LOOP C 5'UUA3' TRILOOP OF BROME MOSAIC VIRUS (+) STRAND RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1I4B nts=13 [whole]
+GGUGCUUAGCACC
+(((((...)))))
+
+Interacting substructures
+Chain A 
+GGUGCUUAGCACC
+(((((...)))))
+

@@ -1,0 +1,24 @@
+Title			HYBRID-BINDING DOMAIN OF HUMAN RNASE H1 IN COMPLEX WITH 12- MER RNA/DNA 
+Chain order		D E I J 
+Amino acids		YES
+Metal			Mg	2
+Chains			D	RNA	E 
+			E	DNA	D 
+			I	RNA	J 
+			J	DNA	I 
+Pseudoknot		NO
+
+Whole structure
+>3BSU nts=48 [whole]
+GACACCUGAUUC&GAATCAGGuGTC&GACACCUGAUUC&GAATCAGGuGTC
+((((((((((((&))))))))))))&((((((((((((&))))))))))))
+
+Interacting substructures
+Chain D E 
+GACACCUGAUUCGAATCAGGuGTC
+(((((((((((())))))))))))
+
+Chain I J 
+GACACCUGAUUCGAATCAGGuGTC
+(((((((((((())))))))))))
+

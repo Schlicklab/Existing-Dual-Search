@@ -1,0 +1,24 @@
+Title			STRUCTURE OF THE IMANGO-III APTAMER BOUND TO TO1-BIOTIN 
+Chain order		A B 
+Amino acids		NO
+Metal			Na	4
+			Mg	2
+			K	2
+Chains			A	RNA	A 
+			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6E8S nts=76 [whole]
+GCUACGAAGGAAGGAUUGGUAUGUGGUAUAUUCGUAGC&GCUACGAAGGAAGGAUUGGUAUGUGGUAUAUUCGUAGC
+((((((((......................))))))))&((((((((......................))))))))
+
+Interacting substructures
+Chain A 
+GCUACGAAGGAAGGAUUGGUAUGUGGUAUAUUCGUAGC
+((((((((......................))))))))
+
+Chain B 
+GCUACGAAGGAAGGAUUGGUAUGUGGUAUAUUCGUAGC
+((((((((......................))))))))
+

@@ -1,0 +1,22 @@
+Title			DEOXYGUANOSINETRIPHOSPHATE TRIPHOSPHOHYDROLASE FROM ESCHERICHIA COLI WITH TWO DNA EFFECTOR MOLECULES 
+Chain order		G H 
+Amino acids		YES
+Metal			Mg	2
+Chains			G	DNA	
+			H	DNA	
+Pseudoknot		NO
+
+Whole structure
+>4X9E nts=6 [whole]
+CCC&CCC
+...&...
+
+Interacting substructures
+Chain G 
+CCC
+...
+
+Chain H 
+CCC
+...
+

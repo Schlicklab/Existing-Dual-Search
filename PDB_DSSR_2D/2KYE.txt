@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE PSEUDOURIDINE MODIFIED P6.1 HAIRPIN OF HUMAN TELOMERASE RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KYE nts=15 [whole]
+GAGAGPPGGGCPCPC
+(.(.(.....).).)
+
+Interacting substructures
+Chain A 
+GAGAGPPGGGCPCPC
+(.(.(.....).).)
+

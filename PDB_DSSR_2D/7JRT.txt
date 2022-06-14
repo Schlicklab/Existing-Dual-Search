@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURES OF ARTIFICIALLY DESIGNED HOMOMERIC RNA NANOARCHITECTURES 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	B A 
+Pseudoknot		YES
+
+Whole structure
+>7JRT nts=268 [whole]
+GGAUAUUCGACGGAGGCACCCAGGAACUACCGUUGAAGCUCGCACGACGGCCUGGGGUCGAGUAUCCCGGUAUUUGUCGCGAGCACUGAGGAACUACUGCUGAAGCCUCCACGGCAGCCUCAGGACAAGUACCG&GGAUAUUCGACGGAGGCACCCAGGAACUACCGUUGAAGCUCGCACGACGGCCUGGGGUCGAGUAUCCCGGUAUUUGUCGCGAGCACUGAGGAACUACUGCUGAAGCCUCCACGGCAGCCUCAGGACAAGUACCG
+((((((((((([[[[[[.((((((.....((((((..[[[[[[.)))))))))))))))))))))))((((((((((.]]]]]].((((((.....((((((..[[[[[[.)))))))))))).))))))))))&(((((((((((]]]]]].((((((.....((((((..[[[.[[.)))))))))))))))))))))))((((((((((.]].]]].((((((.....((((((..]]]]]].)))))))))))).))))))))))
+
+Interacting substructures
+Chain A B 
+GGAUAUUCGACGGAGGCACCCAGGAACUACCGUUGAAGCUCGCACGACGGCCUGGGGUCGAGUAUCCCGGUAUUUGUCGCGAGCACUGAGGAACUACUGCUGAAGCCUCCACGGCAGCCUCAGGACAAGUACCGGGAUAUUCGACGGAGGCACCCAGGAACUACCGUUGAAGCUCGCACGACGGCCUGGGGUCGAGUAUCCCGGUAUUUGUCGCGAGCACUGAGGAACUACUGCUGAAGCCUCCACGGCAGCCUCAGGACAAGUACCG
+((((((((((([[[[[[.((((((.....((((((..[[[[[[.)))))))))))))))))))))))((((((((((.]]]]]].((((((.....((((((..[[[[[[.)))))))))))).))))))))))(((((((((((]]]]]].((((((.....((((((..[[[.[[.)))))))))))))))))))))))((((((((((.]].]]].((((((.....((((((..]]]]]].)))))))))))).))))))))))
+

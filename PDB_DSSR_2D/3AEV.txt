@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A/EIF2ALPHA-ADIM2P-RRNA COMPLEX FROM PYROCOCCUS HORIKOSHII OT3 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3AEV nts=11 [whole]
+GGAUCACCUCC
+...........
+
+Interacting substructures
+Chain C 
+GGAUCACCUCC
+...........
+

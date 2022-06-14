@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE EXTENDED U6 ISL AS OBSERVED IN THE U2/U6 COMPLEX FROM SACCHAROMYCES CEREVISIAE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1XHP nts=32 [whole]
+GAGCAGUUCCCCUGCAUAAGGAUGAACCGUUC
+((((.((((.(((.....)))..)))).))))
+
+Interacting substructures
+Chain A 
+GAGCAGUUCCCCUGCAUAAGGAUGAACCGUUC
+((((.((((.(((.....)))..)))).))))
+

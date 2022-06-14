@@ -1,0 +1,18 @@
+Title			THE STRUCTURE OF TANDEM GA RNA PAIRS WHEN FLANKING PAIRS ARE ISOG-ISOC PAIRS 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2O83 nts=18 [whole]
+GGuGAaCCA&GGuGAaCCA
+(((..(((.&)))..))).
+
+Interacting substructures
+Chain A B 
+GGuGAaCCAGGuGAaCCA
+(((..(((.)))..))).
+

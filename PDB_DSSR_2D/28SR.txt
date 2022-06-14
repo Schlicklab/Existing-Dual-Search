@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE MOST CONSERVED RNA MOTIF IN SRP RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>28SR nts=28 [whole]
+GGCGUCAGGUCCGGAAGGAAGCAGCGCC
+(((((....(((....)))....)))))
+
+Interacting substructures
+Chain A 
+GGCGUCAGGUCCGGAAGGAAGCAGCGCC
+(((((....(((....)))....)))))
+

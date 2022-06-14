@@ -1,0 +1,36 @@
+Title			YEAST ACTIVATED SPLICEOSOME 
+Chain order		2 5-1 5-2 5-3 5-4 6 9-1 9-2 
+Amino acids		YES
+Metal
+Chains			2	RNA	9-2 6 2 
+			5-1	RNA*	5-2 
+			5-2	RNA*	5-2 5-1 
+			5-3	RNA*	
+			5-4	RNA*	
+			6	RNA	6 2 9-1 
+			9-1	RNA*	6 
+			9-2	RNA*	2 
+Pseudoknot		YES
+
+Whole structure
+>5LQW nts=378 [whole]
+GAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUUUUCAGUGUAACAACUGAAAUGACCUCAAUGAGGCU&CAGCUUUACAGAUCAAUGGCGGAGGGAGGUCAACAUCAAGAACUGUGGGC&GCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAUAGAAACAGGUAAAGCUG&U&AUUUUUU&GUUCGCGAAGUAACCCUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUU&CUGAAUUAACAAUGGAUUCUGGUAUGUUC&UGUACUAACAUCGAUUGCUUCAUUC
+((((((((((........(((..((((....[[[[[[..........(((((......))))).....(((.....)))..&(((((((((.......(.......(((((.(((((.((((..((((.(((&))).))))..))).....(...((((((((...........)))))))).).).))))))))))......)...)))))))))&.&.......&...(((((((.....))))))).........................[[.....)))))))..(..(.((.....).)..).).........))))))))))&........................]]...&..]]]]].]................
+
+Interacting substructures
+Chain 2 6 9-1 9-2 
+GAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUUUUCAGUGUAACAACUGAAAUGACCUCAAUGAGGCUGUUCGCGAAGUAACCCUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUUCUGAAUUAACAAUGGAUUCUGGUAUGUUCUGUACUAACAUCGAUUGCUUCAUUC
+((((((((((........(((..((((....[[[[[[..........(((((......))))).....(((.....))).....(((((((.....))))))).........................[[.....)))))))..(..(.((.....).)..).).........))))))))))........................]].....]]]]].]................
+
+Chain 5-1 5-2 
+CAGCUUUACAGAUCAAUGGCGGAGGGAGGUCAACAUCAAGAACUGUGGGCGCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAUAGAAACAGGUAAAGCUG
+(((((((((.......(.......(((((.(((((.((((..((((.((())).))))..))).....(...((((((((...........)))))))).).).))))))))))......)...)))))))))
+
+Chain 5-3 
+U
+.
+
+Chain 5-4 
+AUUUUUU
+.......
+

@@ -1,0 +1,24 @@
+Title			60KDA RO AUTOANTIGEN IN COMPLEX WITH A FRAGMENT OF MISFOLDED RNA 
+Chain order		C D E F 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	D 
+			D	RNA	C 
+			E	RNA	F 
+			F	RNA	E 
+Pseudoknot		NO
+
+Whole structure
+>2I91 nts=45 [whole]
+GCCUACCC&GGUAGGCUUUUCAA&GCCUACCC&CGGUAGGCUUUUCAA
+(((((((.&))))))).......&(((((((.&.))))))).......
+
+Interacting substructures
+Chain C D 
+GCCUACCCGGUAGGCUUUUCAA
+(((((((.))))))).......
+
+Chain E F 
+GCCUACCCCGGUAGGCUUUUCAA
+(((((((..))))))).......
+

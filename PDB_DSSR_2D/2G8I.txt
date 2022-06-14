@@ -1,0 +1,18 @@
+Title			B. HALODURANS RNASE H CATALYTIC DOMAIN D192N MUTANT IN COMPLEX WITH MN2+ AND RNA/DNA HYBRID (NON-P NICK AT THE ACTIVE SITE) 
+Chain order		B C 
+Amino acids		YES
+Metal			Mn	4
+Chains			B	RNA	C 
+			C	DNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2G8I nts=12 [whole]
+UCGACA&ATGTCG
+.(((((&.)))))
+
+Interacting substructures
+Chain B C 
+UCGACAATGTCG
+.(((((.)))))
+

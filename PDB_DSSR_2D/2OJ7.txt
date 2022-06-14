@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE UGUU TETRALOOP OF DUCK EPSILON APICAL STEM LOOP 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2OJ7 nts=8 [whole]
+GCUGUUGU
+((....))
+
+Interacting substructures
+Chain A 
+GCUGUUGU
+((....))
+

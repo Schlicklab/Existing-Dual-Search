@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE HELIX II TEMPLATE BOUNDARY ELEMENT FROM TETRAHYMENA TELOMERASE RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2M22 nts=23 [whole]
+GGCAGAUCUGUAAUAGAACUGCC
+(((((.(((.....))).)))))
+
+Interacting substructures
+Chain A 
+GGCAGAUCUGUAAUAGAACUGCC
+(((((.(((.....))).)))))
+

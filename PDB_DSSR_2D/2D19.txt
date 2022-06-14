@@ -1,0 +1,18 @@
+Title			SOLUTION RNA STRUCTURE OF LOOP REGION OF THE HIV-1 DIMERIZATION INITIATION SITE IN THE KISSING-LOOP DIMER 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	B A 
+Pseudoknot		YES
+
+Whole structure
+>2D19 nts=34 [whole]
+GCUGAAGUGCACACGGC&GCUGAAGUGCACACGGC
+((((..[[[[[[.))))&((((..]]]]]].))))
+
+Interacting substructures
+Chain A B 
+GCUGAAGUGCACACGGCGCUGAAGUGCACACGGC
+((((..[[[[[[.))))((((..]]]]]].))))
+

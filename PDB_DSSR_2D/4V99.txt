@@ -1,0 +1,612 @@
+Title			
+Chain order		AD AI AN AS AX Ac Ah Am Ar Aw A2 A7 BD BI BN BS BX Bc Bh Bm Br Bw B2 B7 CD CI CN CS CX Cc Ch Cm Cr Cw C2 C7 DD DI DN DS DX Dc Dh Dm Dr Dw D2 D7 ED EI EN ES EX Ec Eh Em Er Ew E2 E7 FD FI FN FS FX Fc Fh Fm Fr Fw F2 F7 GD GI GN GS GX Gc Gh Gm Gr Gw G2 G7 HD HI HN HS HX Hc Hh Hm Hr Hw H2 H7 ID II IN IS IX Ic Ih Im Ir Iw I2 I7 JD JI JN JS JX Jc Jh Jm Jr Jw J2 J7 
+Amino acids		YES
+Metal			Ca	120
+Chains			AD	RNA	AD 
+			AI	RNA	AI 
+			AN	RNA	AN 
+			AS	RNA	AS 
+			AX	RNA	AX 
+			Ac	RNA	Ac 
+			Ah	RNA	Ah 
+			Am	RNA	Am 
+			Ar	RNA	Ar 
+			Aw	RNA	Aw 
+			A2	RNA	A2 
+			A7	RNA	A7 
+			BD	RNA	BD 
+			BI	RNA	BI 
+			BN	RNA	BN 
+			BS	RNA	BS 
+			BX	RNA	BX 
+			Bc	RNA	Bc 
+			Bh	RNA	Bh 
+			Bm	RNA	Bm 
+			Br	RNA	Br 
+			Bw	RNA	Bw 
+			B2	RNA	B2 
+			B7	RNA	B7 
+			CD	RNA	CD 
+			CI	RNA	CI 
+			CN	RNA	CN 
+			CS	RNA	CS 
+			CX	RNA	CX 
+			Cc	RNA	Cc 
+			Ch	RNA	Ch 
+			Cm	RNA	Cm 
+			Cr	RNA	Cr 
+			Cw	RNA	Cw 
+			C2	RNA	C2 
+			C7	RNA	C7 
+			DD	RNA	DD 
+			DI	RNA	DI 
+			DN	RNA	DN 
+			DS	RNA	DS 
+			DX	RNA	DX 
+			Dc	RNA	Dc 
+			Dh	RNA	Dh 
+			Dm	RNA	Dm 
+			Dr	RNA	Dr 
+			Dw	RNA	Dw 
+			D2	RNA	D2 
+			D7	RNA	D7 
+			ED	RNA	ED 
+			EI	RNA	EI 
+			EN	RNA	EN 
+			ES	RNA	ES 
+			EX	RNA	EX 
+			Ec	RNA	Ec 
+			Eh	RNA	Eh 
+			Em	RNA	Em 
+			Er	RNA	Er 
+			Ew	RNA	Ew 
+			E2	RNA	E2 
+			E7	RNA	E7 
+			FD	RNA	FD 
+			FI	RNA	FI 
+			FN	RNA	FN 
+			FS	RNA	FS 
+			FX	RNA	FX 
+			Fc	RNA	Fc 
+			Fh	RNA	Fh 
+			Fm	RNA	Fm 
+			Fr	RNA	Fr 
+			Fw	RNA	Fw 
+			F2	RNA	F2 
+			F7	RNA	F7 
+			GD	RNA	GD 
+			GI	RNA	GI 
+			GN	RNA	GN 
+			GS	RNA	GS 
+			GX	RNA	GX 
+			Gc	RNA	Gc 
+			Gh	RNA	Gh 
+			Gm	RNA	Gm 
+			Gr	RNA	Gr 
+			Gw	RNA	Gw 
+			G2	RNA	G2 
+			G7	RNA	G7 
+			HD	RNA	HD 
+			HI	RNA	HI 
+			HN	RNA	HN 
+			HS	RNA	HS 
+			HX	RNA	HX 
+			Hc	RNA	Hc 
+			Hh	RNA	Hh 
+			Hm	RNA	Hm 
+			Hr	RNA	Hr 
+			Hw	RNA	Hw 
+			H2	RNA	H2 
+			H7	RNA	H7 
+			ID	RNA	ID 
+			II	RNA	II 
+			IN	RNA	IN 
+			IS	RNA	IS 
+			IX	RNA	IX 
+			Ic	RNA	Ic 
+			Ih	RNA	Ih 
+			Im	RNA	Im 
+			Ir	RNA	Ir 
+			Iw	RNA	Iw 
+			I2	RNA	I2 
+			I7	RNA	I7 
+			JD	RNA	JD 
+			JI	RNA	JI 
+			JN	RNA	JN 
+			JS	RNA	JS 
+			JX	RNA	JX 
+			Jc	RNA	Jc 
+			Jh	RNA	Jh 
+			Jm	RNA	Jm 
+			Jr	RNA	Jr 
+			Jw	RNA	Jw 
+			J2	RNA	J2 
+			J7	RNA	J7 
+Pseudoknot		NO
+
+Whole structure
+>4V99 nts=2040 [whole]
+UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU&UUAAUAUUUUUAUUUUU
+..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...&..((((....))))...
+
+Interacting substructures
+Chain AD 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain AI 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain AN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain AS 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain AX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Ac 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Ah 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Am 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Ar 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Aw 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain A2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain A7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain BD 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain BI 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain BN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain BS 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain BX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Bc 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Bh 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Bm 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Br 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Bw 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain B2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain B7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain CD 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain CI 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain CN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain CS 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain CX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Cc 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Ch 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Cm 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Cr 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Cw 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain C2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain C7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain DD 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain DI 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain DN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain DS 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain DX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Dc 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Dh 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Dm 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Dr 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Dw 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain D2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain D7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain ED 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain EI 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain EN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain ES 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain EX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Ec 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Eh 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Em 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Er 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Ew 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain E2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain E7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain FD 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain FI 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain FN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain FS 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain FX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Fc 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Fh 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Fm 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Fr 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Fw 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain F2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain F7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain GD 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain GI 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain GN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain GS 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain GX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Gc 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Gh 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Gm 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Gr 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Gw 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain G2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain G7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain HD 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain HI 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain HN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain HS 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain HX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Hc 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Hh 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Hm 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Hr 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Hw 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain H2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain H7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain ID 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain II 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain IN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain IS 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain IX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Ic 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Ih 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Im 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Ir 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Iw 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain I2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain I7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain JD 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain JI 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain JN 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain JS 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain JX 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Jc 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Jh 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Jm 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Jr 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain Jw 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain J2 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+
+Chain J7 
+UUAAUAUUUUUAUUUUU
+..((((....))))...
+

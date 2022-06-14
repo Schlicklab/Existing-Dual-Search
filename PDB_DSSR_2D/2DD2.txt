@@ -1,0 +1,18 @@
+Title			AN ALTERNATING SHEARED AA PAIR IN 5'GGUGAAGGCU/3'PCCGAAGCCG: I. THE MAJOR CONFORMATION WITH A6/A15/A16 STACK 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2DD2 nts=20 [whole]
+GGUGAAGGCU&GCCGAAGCCa
+(((...(((.&)))...))).
+
+Interacting substructures
+Chain A B 
+GGUGAAGGCUGCCGAAGCCa
+(((...(((.)))...))).
+

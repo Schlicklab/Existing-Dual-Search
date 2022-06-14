@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF T. THERMOPHILUS ARGONAUTE E546 MUTANT PROTEIN COMPLEXED WITH DNA GUIDE STRAND AND 15-NT RNA TARGET STRAND 
+Chain order		X Y 
+Amino acids		YES
+Metal			Mg	1
+Chains			X	DNA	Y 
+			Y	RNA	X 
+Pseudoknot		NO
+
+Whole structure
+>3HJF nts=30 [whole]
+TGAGGTAGTAGGTTGT&CAACCUACUACCUC
+.((((((((((((((.&))))))))))))))
+
+Interacting substructures
+Chain X Y 
+TGAGGTAGTAGGTTGTCAACCUACUACCUC
+.((((((((((((((.))))))))))))))
+

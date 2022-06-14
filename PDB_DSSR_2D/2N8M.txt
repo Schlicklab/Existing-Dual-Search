@@ -1,0 +1,17 @@
+Title			ZIPCODE-BINDING-PROTEIN-1 KH3(DD)KH4 DOMAINS IN COMPLEX WITH THE KH4 RNA TARGET 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2N8M nts=7 [whole]
+UCGGACU
+.......
+
+Interacting substructures
+Chain B 
+UCGGACU
+.......
+

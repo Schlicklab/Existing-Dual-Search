@@ -1,0 +1,17 @@
+Title			DESIGNED HIV-1 TAR BINDING LIGAND 
+Chain order		B 
+Amino acids		NO
+Metal
+Chains			B	RNA*	B 
+Pseudoknot		NO
+
+Whole structure
+>1UTS nts=29 [whole]
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...((((......))))))))))
+
+Interacting substructures
+Chain B 
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...((((......))))))))))
+

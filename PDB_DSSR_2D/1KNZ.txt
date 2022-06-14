@@ -1,0 +1,32 @@
+Title			RECOGNITION OF THE ROTAVIRUS MRNA 3' CONSENSUS BY AN ASYMMETRIC NSP3 HOMODIMER 
+Chain order		W X Y Z 
+Amino acids		YES
+Metal
+Chains			W	RNA	
+			X	RNA	
+			Y	RNA	
+			Z	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1KNZ nts=20 [whole]
+UGACC&UGACC&UGACC&UGACC
+.....&.....&.....&.....
+
+Interacting substructures
+Chain W 
+UGACC
+.....
+
+Chain X 
+UGACC
+.....
+
+Chain Y 
+UGACC
+.....
+
+Chain Z 
+UGACC
+.....
+

@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE ROUS SARCOMA VIRUS NUCLEOCAPSID PROTEIN:UPSI RNA PACKAGING SIGNAL COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	2
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2IHX nts=75 [whole]
+CUGCCCUCAUCCGUCUCGCUUAUUCGGGGAGCGGACGAUGACCCUAGUAGAGGGGGCUGCGGCUUAGGAGGGCAG
+((((((((...((((.(((((.......)))))))))....((((.....))))(((....)))...))))))))
+
+Interacting substructures
+Chain B 
+CUGCCCUCAUCCGUCUCGCUUAUUCGGGGAGCGGACGAUGACCCUAGUAGAGGGGGCUGCGGCUUAGGAGGGCAG
+((((((((...((((.(((((.......)))))))))....((((.....))))(((....)))...))))))))
+

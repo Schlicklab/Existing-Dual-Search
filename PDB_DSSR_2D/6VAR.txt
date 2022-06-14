@@ -1,0 +1,17 @@
+Title			61 NT HUMAN HEPATITIS B VIRUS EPSILON PRE-GENOMIC RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6VAR nts=61 [whole]
+GGUUCAUGUCCUACUGUUCAAGCCUCCAAGCUGUGCCUUGGGUGGCUUUGGGGCAUGGACC
+((((((((((((........(((((((((((...).)))))).))))..))))))))))))
+
+Interacting substructures
+Chain A 
+GGUUCAUGUCCUACUGUUCAAGCCUCCAAGCUGUGCCUUGGGUGGCUUUGGGGCAUGGACC
+((((((((((((........(((((((((((...).)))))).))))..))))))))))))
+

@@ -1,0 +1,33 @@
+Title			X-RAY CRYSTAL STRUCTURE OF C118A RLMN FROM ESCHERICHIA COLI WITH CROSS-LINKED IN VITRO TRANSCRIBED TRNA 
+Chain order		D C B A 
+Amino acids		YES
+Metal			Mg	7
+			Fe	8
+Chains			D	RNA	D 
+			C	RNA	C 
+			B			
+			A			
+Pseudoknot		YES
+
+Whole structure
+>5HR7 nts=142 [whole]
+CCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGAC&CCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGAC&a&a
+(((((..((((....[....))))((((((.......))))))...(((((..]....))))))))))..&(((((..((((....[....))))((((((.......))))))...(((((..]....))))))))))..&.&.
+
+Interacting substructures
+Chain D 
+CCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGAC
+(((((..((((....[....))))((((((.......))))))...(((((..]....))))))))))..
+
+Chain C 
+CCCCUUCGUCUAGAGGCCCAGGACACCGCCCUUUCACGGCGGUAACAGGGGUUCGAAUCCCCUAGGGGAC
+(((((..((((....[....))))((((((.......))))))...(((((..]....))))))))))..
+
+Chain B 
+a
+.
+
+Chain A 
+a
+.
+

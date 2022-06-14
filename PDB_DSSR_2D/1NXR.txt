@@ -1,0 +1,18 @@
+Title			HIV-1 POLYPURINE HYBRID, R(GAGGACUG):D(CAGTCCTC), NMR, 18 STRUCTURES 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	DNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1NXR nts=16 [whole]
+CAGTCCTC&GAGGACUG
+((((((((&))))))))
+
+Interacting substructures
+Chain A B 
+CAGTCCTCGAGGACUG
+(((((((())))))))
+

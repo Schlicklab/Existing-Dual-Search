@@ -1,0 +1,36 @@
+Title			CRYSTAL STRUCTURE OF RNASE III FROM AQUIFEX AEOLICUS COMPLEXED WITH DOUBLE STRANDED RNA AT 2.8-ANGSTROM RESOLUTION 
+Chain order		E F G H I J K L 
+Amino acids		YES
+Metal
+Chains			E	RNA	F 
+			F	RNA	E 
+			G	RNA	H 
+			H	RNA	G 
+			I	RNA	J 
+			J	RNA	I 
+			K	RNA	L 
+			L	RNA	K 
+Pseudoknot		NO
+
+Whole structure
+>1YYW nts=96 [whole]
+AAAUAUAUAUUU&AAAUAUAUAUUU&AAAUAUAUAUUU&AAAUAUAUAUUU&AAAUAUAUAUUU&AAAUAUAUAUUU&AAAUAUAUAUUU&AAAUAUAUAUUU
+((((((((((((&))))))))))))&((((((((((((&))))))))))))&((((((((((((&))))))))))))&((((((((((((&))))))))))))
+
+Interacting substructures
+Chain E F 
+AAAUAUAUAUUUAAAUAUAUAUUU
+(((((((((((())))))))))))
+
+Chain G H 
+AAAUAUAUAUUUAAAUAUAUAUUU
+(((((((((((())))))))))))
+
+Chain I J 
+AAAUAUAUAUUUAAAUAUAUAUUU
+(((((((((((())))))))))))
+
+Chain K L 
+AAAUAUAUAUUUAAAUAUAUAUUU
+(((((((((((())))))))))))
+

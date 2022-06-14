@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF TOMATO ASPERMY VIRUS 2B IN COMPLEX WITH SIRNA 
+Chain order		E F G H 
+Amino acids		YES
+Metal
+Chains			E	RNA	F 
+			F	RNA	E 
+			G	RNA	H 
+			H	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>3CZ3 nts=76 [whole]
+CGUACGCGGAAUACUUCGA&UCGAAGUAUUCCGCGUACG&CGUACGCGGAAUACUUCGA&UCGAAGUAUUCCGCGUACG
+(((((((((((((((((((&)))))))))))))))))))&(((((((((((((((((((&)))))))))))))))))))
+
+Interacting substructures
+Chain E F 
+CGUACGCGGAAUACUUCGAUCGAAGUAUUCCGCGUACG
+((((((((((((((((((()))))))))))))))))))
+
+Chain G H 
+CGUACGCGGAAUACUUCGAUCGAAGUAUUCCGCGUACG
+((((((((((((((((((()))))))))))))))))))
+

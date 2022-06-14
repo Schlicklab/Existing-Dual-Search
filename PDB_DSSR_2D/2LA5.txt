@@ -1,0 +1,17 @@
+Title			RNA DUPLEX-QUADRUPLEX JUNCTION COMPLEX WITH FMRP RGG PEPTIDE 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2LA5 nts=36 [whole]
+GCUGCGGUGUGGAAGGAGUGGCUGGGUUGCGCAGCG
+(((((.((....................))))))).
+
+Interacting substructures
+Chain A 
+GCUGCGGUGUGGAAGGAGUGGCUGGGUUGCGCAGCG
+(((((.((....................))))))).
+

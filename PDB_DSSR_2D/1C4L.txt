@@ -1,0 +1,18 @@
+Title			SOLUTION STRUCTURE OF AN RNA DUPLEX INCLUDING A C-U BASE- PAIR 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1C4L nts=18 [whole]
+CGACUCAGG&CCUGCGUCG
+((((.((((&)))).))))
+
+Interacting substructures
+Chain A B 
+CGACUCAGGCCUGCGUCG
+((((.(((()))).))))
+

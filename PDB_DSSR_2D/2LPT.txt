@@ -1,0 +1,17 @@
+Title			MOLECULAR DYNAMICS RE-REFINEMENT OF DOMAIN 5 OF THE PYLAIELLA LITTORALIS GROUP II INTRON 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2LPT nts=34 [whole]
+GAGCCGUGUGCGAUGAAAGUCGCAAGCACGGUUC
+((((((((((((((....))))).).))))))))
+
+Interacting substructures
+Chain A 
+GAGCCGUGUGCGAUGAAAGUCGCAAGCACGGUUC
+((((((((((((((....))))).).))))))))
+

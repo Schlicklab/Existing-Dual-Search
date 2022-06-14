@@ -1,0 +1,19 @@
+Title			ESCHERICHIA COLI 6S RNA DERIVATIVE IN COMPLEX WITH ESCHERICHIA COLI RNA POLYMERASE SIGMA70-HOLOENZYME 
+Chain order		R-1 R-2 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			R-1	RNA*	R-2 
+			R-2	RNA*	R-2 R-1 
+Pseudoknot		NO
+
+Whole structure
+>5VT0 nts=112 [whole]
+CGGCACAUGCGAUAUU&AGAAUGUGGCGCUCCGCGGUUGGUGAGCAUGCUCGGUCCGUCCGAGAAGCCUUAAAACUGCGACGACACAUUCACCUUGAACCAAGGCGUGUACCG
+(((.((((((......&.(((((((.((.(.(((.(((.....(....(((((.....)))))...).....))).)))))).))))))).............)))))).)))
+
+Interacting substructures
+Chain R-1 R-2 
+CGGCACAUGCGAUAUUAGAAUGUGGCGCUCCGCGGUUGGUGAGCAUGCUCGGUCCGUCCGAGAAGCCUUAAAACUGCGACGACACAUUCACCUUGAACCAAGGCGUGUACCG
+(((.((((((.......(((((((.((.(.(((.(((.....(....(((((.....)))))...).....))).)))))).))))))).............)))))).)))
+

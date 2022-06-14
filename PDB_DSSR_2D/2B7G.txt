@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE SMAUG RECOGNITION RNA ELEMENT 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2B7G nts=19 [whole]
+GGAGGCUCUGGCAGCUUUC
+(((((((.....)))))))
+
+Interacting substructures
+Chain A 
+GGAGGCUCUGGCAGCUUUC
+(((((((.....)))))))
+

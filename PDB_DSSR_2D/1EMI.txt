@@ -1,0 +1,817 @@
+Title			STRUCTURE OF 16S RRNA IN THE REGION AROUND RIBOSOMAL PROTEIN S8. 
+Chain order		B-1 B-2 B-3 B-4 B-5 B-6 B-7 B-8 B-9 B-10 B-11 B-12 B-13 B-14 B-15 B-16 B-17 B-18 B-19 B-20 B-21 B-22 B-23 B-24 B-25 B-26 B-27 B-28 B-29 B-30 B-31 B-32 B-33 B-34 B-35 B-36 B-37 B-38 B-39 B-40 B-41 B-42 B-43 B-44 B-45 B-46 B-47 B-48 B-49 B-50 B-51 B-52 B-53 B-54 B-55 B-56 B-57 B-58 B-59 B-60 B-61 B-62 B-63 B-64 B-65 B-66 B-67 B-68 B-69 B-70 B-71 B-72 B-73 B-74 B-75 B-76 B-77 B-78 B-79 B-80 B-81 B-82 B-83 B-84 B-85 B-86 B-87 B-88 B-89 B-90 B-91 B-92 B-93 B-94 B-95 B-96 B-97 B-98 B-99 B-100 B-101 B-102 B-103 B-104 B-105 B-106 B-107 B-108 B-109 B-110 B-111 B-112 B-113 B-114 B-115 B-116 B-117 B-118 B-119 B-120 B-121 B-122 B-123 B-124 B-125 B-126 B-127 B-128 B-129 B-130 B-131 B-132 B-133 B-134 B-135 B-136 B-137 B-138 B-139 B-140 B-141 B-142 B-143 B-144 B-145 B-146 B-147 B-148 B-149 B-150 B-151 B-152 B-153 B-154 B-155 B-156 B-157 B-158 B-159 B-160 B-161 
+Amino acids		YES
+Metal
+Chains			B-1	DNA*	
+			B-2	DNA*	
+			B-3	DNA*	
+			B-4	DNA*	
+			B-5	DNA*	
+			B-6	DNA*	
+			B-7	DNA*	
+			B-8	DNA*	
+			B-9	DNA*	
+			B-10	DNA*	
+			B-11	DNA*	
+			B-12	DNA*	
+			B-13	DNA*	
+			B-14	DNA*	
+			B-15	DNA*	
+			B-16	DNA*	
+			B-17	DNA*	
+			B-18	DNA*	
+			B-19	DNA*	
+			B-20	DNA*	
+			B-21	DNA*	
+			B-22	DNA*	
+			B-23	DNA*	
+			B-24	DNA*	
+			B-25	DNA*	
+			B-26	DNA*	
+			B-27	DNA*	
+			B-28	DNA*	
+			B-29	DNA*	
+			B-30	DNA*	
+			B-31	DNA*	
+			B-32	DNA*	
+			B-33	DNA*	
+			B-34	DNA*	
+			B-35	DNA*	
+			B-36	DNA*	
+			B-37	DNA*	
+			B-38	DNA*	
+			B-39	DNA*	
+			B-40	DNA*	
+			B-41	DNA*	
+			B-42	DNA*	
+			B-43	DNA*	
+			B-44	DNA*	
+			B-45	DNA*	
+			B-46	DNA*	
+			B-47	DNA*	
+			B-48	DNA*	
+			B-49	DNA*	
+			B-50	DNA*	
+			B-51	DNA*	
+			B-52	DNA*	
+			B-53	DNA*	
+			B-54	DNA*	
+			B-55	DNA*	
+			B-56	DNA*	
+			B-57	DNA*	
+			B-58	DNA*	
+			B-59	DNA*	
+			B-60	DNA*	
+			B-61	DNA*	
+			B-62	DNA*	
+			B-63	DNA*	
+			B-64	DNA*	
+			B-65	DNA*	
+			B-66	DNA*	
+			B-67	DNA*	
+			B-68	DNA*	
+			B-69	DNA*	
+			B-70	DNA*	
+			B-71	DNA*	
+			B-72	DNA*	
+			B-73	DNA*	
+			B-74	DNA*	
+			B-75	DNA*	
+			B-76	DNA*	
+			B-77	DNA*	
+			B-78	DNA*	
+			B-79	DNA*	
+			B-80	DNA*	
+			B-81	DNA*	
+			B-82	DNA*	
+			B-83	DNA*	
+			B-84	DNA*	
+			B-85	DNA*	
+			B-86	DNA*	
+			B-87	DNA*	
+			B-88	DNA*	
+			B-89	DNA*	
+			B-90	DNA*	
+			B-91	DNA*	
+			B-92	DNA*	
+			B-93	DNA*	
+			B-94	DNA*	
+			B-95	DNA*	
+			B-96	DNA*	
+			B-97	DNA*	
+			B-98	DNA*	
+			B-99	DNA*	
+			B-100	DNA*	
+			B-101	DNA*	
+			B-102	DNA*	
+			B-103	DNA*	
+			B-104	DNA*	
+			B-105	DNA*	
+			B-106	DNA*	
+			B-107	DNA*	
+			B-108	DNA*	
+			B-109	DNA*	
+			B-110	DNA*	
+			B-111	DNA*	
+			B-112	DNA*	
+			B-113	DNA*	
+			B-114	DNA*	
+			B-115	DNA*	
+			B-116	DNA*	
+			B-117	DNA*	
+			B-118	DNA*	
+			B-119	DNA*	
+			B-120	DNA*	
+			B-121	DNA*	
+			B-122	DNA*	
+			B-123	DNA*	
+			B-124	DNA*	
+			B-125	DNA*	
+			B-126	DNA*	
+			B-127	DNA*	
+			B-128	DNA*	
+			B-129	DNA*	
+			B-130	DNA*	
+			B-131	DNA*	
+			B-132	DNA*	
+			B-133	DNA*	
+			B-134	DNA*	
+			B-135	DNA*	
+			B-136	DNA*	
+			B-137	DNA*	
+			B-138	DNA*	
+			B-139	DNA*	
+			B-140	DNA*	
+			B-141	DNA*	
+			B-142	DNA*	
+			B-143	DNA*	
+			B-144	DNA*	
+			B-145	DNA*	
+			B-146	DNA*	
+			B-147	DNA*	
+			B-148	DNA*	
+			B-149	DNA*	
+			B-150	DNA*	
+			B-151	DNA*	
+			B-152	DNA*	
+			B-153	DNA*	
+			B-154	DNA*	
+			B-155	DNA*	
+			B-156	DNA*	
+			B-157	DNA*	
+			B-158	DNA*	
+			B-159	DNA*	
+			B-160	DNA*	
+			B-161	DNA*	
+Pseudoknot		NO
+
+Whole structure
+>1EMI nts=161 [whole]
+G&C&A&C&G&C&A&G&G&C&G&G&U&U&U&G&U&U&A&A&G&U&C&A&G&A&U&G&U&G&A&A&A&U&C&C&C&C&G&G&G&C&U&C&A&A&C&C&U&G&G&G&A&A&C&U&G&C&A&U&C&U&G&A&U&A&C&U&G&G&C&A&A&G&C&U&U&G&A&G&U&C&U&C&G&U&A&C&G&A&A&G&A&C&U&G&A&C&G&C&U&C&A&G&G&U&G&C&G&U&C&G&A&C&U&U&G&G&A&G&G&U&U&G&U&G&C&U&U&C&G&U&G&G&C&U&U&C&C&G&G&A&G&C&U&A&A&C&G&C&G&U&U&A&A&G&U&C&G&A&C
+.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.
+
+Interacting substructures
+Chain B-1 
+G
+.
+
+Chain B-2 
+C
+.
+
+Chain B-3 
+A
+.
+
+Chain B-4 
+C
+.
+
+Chain B-5 
+G
+.
+
+Chain B-6 
+C
+.
+
+Chain B-7 
+A
+.
+
+Chain B-8 
+G
+.
+
+Chain B-9 
+G
+.
+
+Chain B-10 
+C
+.
+
+Chain B-11 
+G
+.
+
+Chain B-12 
+G
+.
+
+Chain B-13 
+U
+.
+
+Chain B-14 
+U
+.
+
+Chain B-15 
+U
+.
+
+Chain B-16 
+G
+.
+
+Chain B-17 
+U
+.
+
+Chain B-18 
+U
+.
+
+Chain B-19 
+A
+.
+
+Chain B-20 
+A
+.
+
+Chain B-21 
+G
+.
+
+Chain B-22 
+U
+.
+
+Chain B-23 
+C
+.
+
+Chain B-24 
+A
+.
+
+Chain B-25 
+G
+.
+
+Chain B-26 
+A
+.
+
+Chain B-27 
+U
+.
+
+Chain B-28 
+G
+.
+
+Chain B-29 
+U
+.
+
+Chain B-30 
+G
+.
+
+Chain B-31 
+A
+.
+
+Chain B-32 
+A
+.
+
+Chain B-33 
+A
+.
+
+Chain B-34 
+U
+.
+
+Chain B-35 
+C
+.
+
+Chain B-36 
+C
+.
+
+Chain B-37 
+C
+.
+
+Chain B-38 
+C
+.
+
+Chain B-39 
+G
+.
+
+Chain B-40 
+G
+.
+
+Chain B-41 
+G
+.
+
+Chain B-42 
+C
+.
+
+Chain B-43 
+U
+.
+
+Chain B-44 
+C
+.
+
+Chain B-45 
+A
+.
+
+Chain B-46 
+A
+.
+
+Chain B-47 
+C
+.
+
+Chain B-48 
+C
+.
+
+Chain B-49 
+U
+.
+
+Chain B-50 
+G
+.
+
+Chain B-51 
+G
+.
+
+Chain B-52 
+G
+.
+
+Chain B-53 
+A
+.
+
+Chain B-54 
+A
+.
+
+Chain B-55 
+C
+.
+
+Chain B-56 
+U
+.
+
+Chain B-57 
+G
+.
+
+Chain B-58 
+C
+.
+
+Chain B-59 
+A
+.
+
+Chain B-60 
+U
+.
+
+Chain B-61 
+C
+.
+
+Chain B-62 
+U
+.
+
+Chain B-63 
+G
+.
+
+Chain B-64 
+A
+.
+
+Chain B-65 
+U
+.
+
+Chain B-66 
+A
+.
+
+Chain B-67 
+C
+.
+
+Chain B-68 
+U
+.
+
+Chain B-69 
+G
+.
+
+Chain B-70 
+G
+.
+
+Chain B-71 
+C
+.
+
+Chain B-72 
+A
+.
+
+Chain B-73 
+A
+.
+
+Chain B-74 
+G
+.
+
+Chain B-75 
+C
+.
+
+Chain B-76 
+U
+.
+
+Chain B-77 
+U
+.
+
+Chain B-78 
+G
+.
+
+Chain B-79 
+A
+.
+
+Chain B-80 
+G
+.
+
+Chain B-81 
+U
+.
+
+Chain B-82 
+C
+.
+
+Chain B-83 
+U
+.
+
+Chain B-84 
+C
+.
+
+Chain B-85 
+G
+.
+
+Chain B-86 
+U
+.
+
+Chain B-87 
+A
+.
+
+Chain B-88 
+C
+.
+
+Chain B-89 
+G
+.
+
+Chain B-90 
+A
+.
+
+Chain B-91 
+A
+.
+
+Chain B-92 
+G
+.
+
+Chain B-93 
+A
+.
+
+Chain B-94 
+C
+.
+
+Chain B-95 
+U
+.
+
+Chain B-96 
+G
+.
+
+Chain B-97 
+A
+.
+
+Chain B-98 
+C
+.
+
+Chain B-99 
+G
+.
+
+Chain B-100 
+C
+.
+
+Chain B-101 
+U
+.
+
+Chain B-102 
+C
+.
+
+Chain B-103 
+A
+.
+
+Chain B-104 
+G
+.
+
+Chain B-105 
+G
+.
+
+Chain B-106 
+U
+.
+
+Chain B-107 
+G
+.
+
+Chain B-108 
+C
+.
+
+Chain B-109 
+G
+.
+
+Chain B-110 
+U
+.
+
+Chain B-111 
+C
+.
+
+Chain B-112 
+G
+.
+
+Chain B-113 
+A
+.
+
+Chain B-114 
+C
+.
+
+Chain B-115 
+U
+.
+
+Chain B-116 
+U
+.
+
+Chain B-117 
+G
+.
+
+Chain B-118 
+G
+.
+
+Chain B-119 
+A
+.
+
+Chain B-120 
+G
+.
+
+Chain B-121 
+G
+.
+
+Chain B-122 
+U
+.
+
+Chain B-123 
+U
+.
+
+Chain B-124 
+G
+.
+
+Chain B-125 
+U
+.
+
+Chain B-126 
+G
+.
+
+Chain B-127 
+C
+.
+
+Chain B-128 
+U
+.
+
+Chain B-129 
+U
+.
+
+Chain B-130 
+C
+.
+
+Chain B-131 
+G
+.
+
+Chain B-132 
+U
+.
+
+Chain B-133 
+G
+.
+
+Chain B-134 
+G
+.
+
+Chain B-135 
+C
+.
+
+Chain B-136 
+U
+.
+
+Chain B-137 
+U
+.
+
+Chain B-138 
+C
+.
+
+Chain B-139 
+C
+.
+
+Chain B-140 
+G
+.
+
+Chain B-141 
+G
+.
+
+Chain B-142 
+A
+.
+
+Chain B-143 
+G
+.
+
+Chain B-144 
+C
+.
+
+Chain B-145 
+U
+.
+
+Chain B-146 
+A
+.
+
+Chain B-147 
+A
+.
+
+Chain B-148 
+C
+.
+
+Chain B-149 
+G
+.
+
+Chain B-150 
+C
+.
+
+Chain B-151 
+G
+.
+
+Chain B-152 
+U
+.
+
+Chain B-153 
+U
+.
+
+Chain B-154 
+A
+.
+
+Chain B-155 
+A
+.
+
+Chain B-156 
+G
+.
+
+Chain B-157 
+U
+.
+
+Chain B-158 
+C
+.
+
+Chain B-159 
+G
+.
+
+Chain B-160 
+A
+.
+
+Chain B-161 
+C
+.
+

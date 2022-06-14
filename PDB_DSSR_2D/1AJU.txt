@@ -1,0 +1,17 @@
+Title			HIV-2 TAR-ARGININAMIDE COMPLEX, NMR, 20 STRUCTURES 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA*	A 
+Pseudoknot		NO
+
+Whole structure
+>1AJU nts=30 [whole]
+GGCCAGAUUGAGCCUGGGAGCUCUCUGGCC
+(((((((..((((......)))))))))))
+
+Interacting substructures
+Chain A 
+GGCCAGAUUGAGCCUGGGAGCUCUCUGGCC
+(((((((..((((......)))))))))))
+

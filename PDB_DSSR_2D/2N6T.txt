@@ -1,0 +1,17 @@
+Title			NMR ASSIGNMENT AND NMR STRUCTURE OF CSSA3 (TOP STEM) OF CSSA THERMOMETER 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2N6T nts=42 [whole]
+GGGUAGAGUAUAAUUAGUCUUCGGACUUCCUUAUACUUAUCC
+((((...(((((...((((....))))....)))))..))))
+
+Interacting substructures
+Chain A 
+GGGUAGAGUAUAAUUAGUCUUCGGACUUCCUUAUACUUAUCC
+((((...(((((...((((....))))....)))))..))))
+

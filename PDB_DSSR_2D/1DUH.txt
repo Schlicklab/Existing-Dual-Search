@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE CONSERVED DOMAIN IV OF E. COLI 4.5S RNA 
+Chain order		A 
+Amino acids		NO
+Metal			Mg	1
+			Lu	1
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1DUH nts=45 [whole]
+CUCUGUUUACCAGGUCAGGUCCGGAAGGAAGCAGCCAAGGCAGAg
+.............................................
+
+Interacting substructures
+Chain A 
+CUCUGUUUACCAGGUCAGGUCCGGAAGGAAGCAGCCAAGGCAGAg
+.............................................
+

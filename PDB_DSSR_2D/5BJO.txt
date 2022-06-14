@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF THE CORN RNA APTAMER IN COMPLEX WITH DFHO, SITE- SPECIFIC 5-IODO-U 
+Chain order		E Y 
+Amino acids		NO
+Metal			Mg	4
+			K	4
+Chains			E	RNA	E 
+			Y	RNA	Y 
+Pseudoknot		NO
+
+Whole structure
+>5BJO nts=72 [whole]
+GGCGCGAGGAAGGAGGuCUGAGGAGGUCACUGCGCC&GGCGCGAGGAAGGAGGuCUGAGGAGGUCACUGCGCC
+(((((...(........).((.....))...)))))&(((((...(........).(.......)...)))))
+
+Interacting substructures
+Chain E 
+GGCGCGAGGAAGGAGGuCUGAGGAGGUCACUGCGCC
+(((((...(........).((.....))...)))))
+
+Chain Y 
+GGCGCGAGGAAGGAGGuCUGAGGAGGUCACUGCGCC
+(((((...(........).(.......)...)))))
+

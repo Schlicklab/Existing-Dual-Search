@@ -1,0 +1,19 @@
+Title			STRUCTURE OF COVID-19 RNA-DEPENDENT RNA POLYMERASE BOUND TO PENCICLOVIR. 
+Chain order		P T 
+Amino acids		YES
+Metal			Mg	4
+			Zn	2
+Chains			P	RNA	T 
+			T	RNA	P 
+Pseudoknot		NO
+
+Whole structure
+>7DOI nts=27 [whole]
+AGAUUAAGUUAU&CCUAUAACUUAAUCU
+((((((((((((&...))))))))))))
+
+Interacting substructures
+Chain P T 
+AGAUUAAGUUAUCCUAUAACUUAAUCU
+((((((((((((...))))))))))))
+

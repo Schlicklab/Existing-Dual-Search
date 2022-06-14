@@ -1,0 +1,22 @@
+Title			CHARGED AND UNCHARGED TRNAS ADOPT DISTINCT CONFORMATIONS WHEN COMPLEXED WITH HUMAN TRYPTOPHANYL-TRNA SYNTHETASE 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	1
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		YES
+
+Whole structure
+>2AZX nts=144 [whole]
+GACCUCGUGGCGCAAUGGUAGCGCGUCUGACUCCAGAUCAGAAGGUUGCGUGUUCGAAUCACGUCGGGGUCA&GACCUCGUGGCGCAAUGGUAGCGCGUCUGACUCCAGAUCAGAAGGUUGCGUGUUCGAAUCACGUCGGGGUCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).&..((.((..((((....[..)))).(((((.......))))).....(((((..]....))))))).))...
+
+Interacting substructures
+Chain C 
+GACCUCGUGGCGCAAUGGUAGCGCGUCUGACUCCAGAUCAGAAGGUUGCGUGUUCGAAUCACGUCGGGGUCA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))).
+
+Chain D 
+GACCUCGUGGCGCAAUGGUAGCGCGUCUGACUCCAGAUCAGAAGGUUGCGUGUUCGAAUCACGUCGGGGUCA
+..((.((..((((....[..)))).(((((.......))))).....(((((..]....))))))).))...
+

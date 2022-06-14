@@ -1,0 +1,112 @@
+Title			STRUCTURE OF PYROCOCCUS ABYSSII SM PROTEIN IN COMPLEX WITH A URIDINE HEPTAMER 
+Chain order		O P Q R S T U A B C D E F G H I J K L M 
+Amino acids		YES
+Metal			Ca	7
+Chains			O	RNA	
+			P	RNA	
+			Q	RNA	
+			R	RNA	
+			S	RNA	
+			T	RNA	
+			U	RNA	
+			A			
+			B			
+			C			
+			D			
+			E			
+			F			
+			G			
+			H			
+			I			
+			J			
+			K			
+			L			
+			M			
+Pseudoknot		NO
+
+Whole structure
+>1M8V nts=55 [whole]
+UUUUUU&UUUUUU&UUUUUU&UUUUUU&UUUUUU&UUUUU&UUUUUU&U&U&U&U&U&U&U&U&U&U&U&U&U&U
+......&......&......&......&......&.....&......&.&.&.&.&.&.&.&.&.&.&.&.&.&.
+
+Interacting substructures
+Chain O 
+UUUUUU
+......
+
+Chain P 
+UUUUUU
+......
+
+Chain Q 
+UUUUUU
+......
+
+Chain R 
+UUUUUU
+......
+
+Chain S 
+UUUUUU
+......
+
+Chain T 
+UUUUU
+.....
+
+Chain U 
+UUUUUU
+......
+
+Chain A 
+U
+.
+
+Chain B 
+U
+.
+
+Chain C 
+U
+.
+
+Chain D 
+U
+.
+
+Chain E 
+U
+.
+
+Chain F 
+U
+.
+
+Chain G 
+U
+.
+
+Chain H 
+U
+.
+
+Chain I 
+U
+.
+
+Chain J 
+U
+.
+
+Chain K 
+U
+.
+
+Chain L 
+U
+.
+
+Chain M 
+UU
+..
+

@@ -1,0 +1,21 @@
+Title			CRYOEM STRUCTURE OF THERMUS THERMOPHILUS RNA POLYMERASE ELONGATION COMPLEX 
+Chain order		R N-1 N-2 T 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			R	RNA	T 
+			N-1	DNA*	T 
+			N-2	DNA*	T 
+			T	DNA	N-1 R N-2 
+Pseudoknot		YES
+
+Whole structure
+>6M6C nts=59 [whole]
+CGGAGAGGUA&GGGCTA&GACGGCGAATACCC&GGGTATTCGCCGTGTACCTCTCCTAGCCC
+.(((((((((&[[[[[[&.(((((((((((((&))))))))))))).)))))))))]]]]]]
+
+Interacting substructures
+Chain R N-1 N-2 T 
+CGGAGAGGUAGGGCTAGACGGCGAATACCCGGGTATTCGCCGTGTACCTCTCCTAGCCC
+.((((((((([[[[[[.((((((((((((())))))))))))).)))))))))]]]]]]
+

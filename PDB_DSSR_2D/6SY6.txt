@@ -1,0 +1,17 @@
+Title			TETR IN COMPLEX WITH THE TETR-BINDING RNA-APTAMER K2 
+Chain order		D 
+Amino acids		YES
+Metal
+Chains			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>6SY6 nts=36 [whole]
+GCGGAGAAUGUUAUGGCCUUCGGGCAGAGAAAACCG
+..((...........(((....)))........)).
+
+Interacting substructures
+Chain D 
+GCGGAGAAUGUUAUGGCCUUCGGGCAGAGAAAACCG
+..((...........(((....)))........)).
+

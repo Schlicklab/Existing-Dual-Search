@@ -1,0 +1,30 @@
+Title			ASSOCIATION OF THREE TWO-K-TURN UNITS BASED ON KT-7 3BU,3NU, FORMING A TRIANGULAR-SHAPED STRUCTURE 
+Chain order		A B E F I J 
+Amino acids		YES
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+			E	RNA	F 
+			F	RNA	E 
+			I	RNA	J 
+			J	RNA	I 
+Pseudoknot		NO
+
+Whole structure
+>5G4U nts=114 [whole]
+GGCGAAGAUCCGGUGAGCC&GGCGAAGAUCCGGUGAGCC&GGCGAAGAUCCGGUGAGCC&GGCGAAGAUCCGGUGAGCC&GGCGAAGAUCCGGUGAGCC&GGCGAAGAUCCGGUGAGCC
+(((......((((...(((&)))......))))...)))&(((......((((...(((&)))......))))...)))&(((......((((...(((&)))......))))...)))
+
+Interacting substructures
+Chain A B 
+GGCGAAGAUCCGGUGAGCCGGCGAAGAUCCGGUGAGCC
+(((......((((...((()))......))))...)))
+
+Chain E F 
+GGCGAAGAUCCGGUGAGCCGGCGAAGAUCCGGUGAGCC
+(((......((((...((()))......))))...)))
+
+Chain I J 
+GGCGAAGAUCCGGUGAGCCGGCGAAGAUCCGGUGAGCC
+(((......((((...((()))......))))...)))
+

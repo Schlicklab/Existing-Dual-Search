@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF HMETTL16 CATALYTIC DOMAIN IN COMPLEX WITH MAT2A 3'UTR HAIRPIN 1 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6DU4 nts=29 [whole]
+GGUUGGCGUAGGCUACAGAGAAGCCAACC
+(((((((...............)))))))
+
+Interacting substructures
+Chain B 
+GGUUGGCGUAGGCUACAGAGAAGCCAACC
+(((((((...............)))))))
+

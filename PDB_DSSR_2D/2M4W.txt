@@ -1,0 +1,17 @@
+Title			SINGLE G-BULGE IN A CONSERVED REGULATORY REGION OF THE HEV GENOME 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2M4W nts=17 [whole]
+GGAAUCGAAAGAUGUCC
+((..((....))...))
+
+Interacting substructures
+Chain A 
+GGAAUCGAAAGAUGUCC
+((..((....))...))
+

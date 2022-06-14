@@ -1,0 +1,18 @@
+Title			SOLUTION RNA STRUCTURE MODEL OF THE HIV-1 DIMERIZATION INITIATION SITE IN THE EXTENDED-DUPLEX DIMER 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2D1A nts=78 [whole]
+GGGUCGGCUUGCUGAAGUGCACACGGCAAGAGGCGACCC&GGGUCGGCUUGCUGAAGUGCACACGGCAAGAGGCGACCC
+((((((.(((((((..((((((.(((((((...((((((&)))))).)))))))..)))))).)))))))...))))))
+
+Interacting substructures
+Chain A B 
+GGGUCGGCUUGCUGAAGUGCACACGGCAAGAGGCGACCCGGGUCGGCUUGCUGAAGUGCACACGGCAAGAGGCGACCC
+((((((.(((((((..((((((.(((((((...(((((()))))).)))))))..)))))).)))))))...))))))
+

@@ -1,0 +1,17 @@
+Title			SEPARATE FITTING OF THE ANTICODON LOOP REGION OF TRNA (NUCLEOTIDE 26- 42) IN THE LOW RESOLUTION CRYO-EM MAP OF AN EF-TU TERNARY COMPLEX (GDP AND KIRROMYCIN) BOUND TO E. COLI 70S RIBOSOME 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1LU3 nts=17 [whole]
+GCCAGACUGAAGAPCUG
+..(((.........)))
+
+Interacting substructures
+Chain A 
+GCCAGACUGAAGAPCUG
+..(((.........)))
+

@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF HUMAN RPP20-RPP25 PROTEINS IN COMPLEX WITH THE P3 DOMAIN OF LNCRNA RMRP 
+Chain order		C-1 C-2 F-1 F-2 
+Amino acids		YES
+Metal
+Chains			C-1	RNA*	C-2 
+			C-2	RNA*	C-1 
+			F-1	RNA*	F-2 
+			F-2	RNA*	F-1 
+Pseudoknot		NO
+
+Whole structure
+>6LT7 nts=98 [whole]
+GGUCCUAGGCUACACACUGAGGACU&UGUUCCUCCCCUUUCCGCCUAGGG&GGUCCUAGGCUACACACUGAGGACU&UGUUCCUCCCCUUUCCGCCUAGGG
+..((((((((........((((((.&.).)))))........))))))))&..((((((((........((((((.&.).)))))........))))))))
+
+Interacting substructures
+Chain C-1 C-2 
+GGUCCUAGGCUACACACUGAGGACUUGUUCCUCCCCUUUCCGCCUAGGG
+..((((((((........((((((..).)))))........))))))))
+
+Chain F-1 F-2 
+GGUCCUAGGCUACACACUGAGGACUUGUUCCUCCCCUUUCCGCCUAGGG
+..((((((((........((((((..).)))))........))))))))
+

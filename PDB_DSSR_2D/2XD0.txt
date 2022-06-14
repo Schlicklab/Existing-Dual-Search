@@ -1,0 +1,42 @@
+Title			A PROCESSED NON-CODING RNA REGULATES A BACTERIAL ANTIVIRAL SYSTEM 
+Chain order		G H I U V W 
+Amino acids		YES
+Metal
+Chains			G	RNA	G 
+			H	RNA	H 
+			I	RNA	I 
+			U	RNA	U 
+			V	RNA	V 
+			W	RNA	W 
+Pseudoknot		YES
+
+Whole structure
+>2XD0 nts=216 [whole]
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu&AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAa&AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu&AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu&AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu&AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu
+....((((....[[[.))))......]]].......&....((((....[[[.))))......]]].......&....((((....[[[.))))......]]].......&....((((......[.))))......].........&....((((....[[[.))))......]]].......&....((((....[[[.))))......]]].......
+
+Interacting substructures
+Chain G 
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu
+....((((....[[[.))))......]]].......
+
+Chain H 
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAa
+....((((....[[[.))))......]]].......
+
+Chain I 
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu
+....((((....[[[.))))......]]].......
+
+Chain U 
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu
+....((((......[.))))......].........
+
+Chain V 
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu
+....((((....[[[.))))......]]].......
+
+Chain W 
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAu
+....((((....[[[.))))......]]].......
+

@@ -1,0 +1,27 @@
+Title			CRYSTAL STRUCTURE OF THE MANGO-II FLUORESCENT APTAMER BOUND TO TO1- BIOTIN 
+Chain order		A B C 
+Amino acids		NO
+Metal			K	8
+Chains			A	RNA	A 
+			B	RNA	B 
+			C	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>6C63 nts=104 [whole]
+GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC&GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC&GUACGAAGGAGAGGAGAGGAAGAGGAGAGUAC
+((((((........................))))))&((((((........................))))))&..((........................))..
+
+Interacting substructures
+Chain A 
+GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC
+((((((........................))))))
+
+Chain B 
+GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC
+((((((........................))))))
+
+Chain C 
+GUACGAAGGAGAGGAGAGGAAGAGGAGAGUAC
+..((........................))..
+

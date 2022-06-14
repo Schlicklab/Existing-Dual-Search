@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF A PRODUCT STATE ASSEMBLY OF HCV NS5B GENOTYPE 2A JFH-1 ISOLATE WITH BETA HAIRPIN LOOP DELETION BOUND TO PRIMER- TEMPLATE RNA WITH 3'-DG 
+Chain order		T P 
+Amino acids		YES
+Metal
+Chains			T	RNA	P 
+			P	RNA	T 
+Pseudoknot		NO
+
+Whole structure
+>4E78 nts=10 [whole]
+ACCGg&ACCGg
+.((((&.))))
+
+Interacting substructures
+Chain T P 
+ACCGgACCGg
+.((((.))))
+

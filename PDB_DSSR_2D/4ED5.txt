@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE TWO N-TERMINAL RRM DOMAINS OF HUR COMPLEXED WITH RNA 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA[8]/1	
+			D	RNA[8]/1	
+Pseudoknot		NO
+
+Whole structure
+>4ED5 nts=18 [whole]
+UUUUAUUUU&UUUUAUUUU
+.........&.........
+
+Interacting substructures
+Chain C 
+UUUUAUUUU
+.........
+
+Chain D 
+UUUUAUUUU
+.........
+

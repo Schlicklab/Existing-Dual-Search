@@ -1,0 +1,18 @@
+Title			RDC AND RCSA REFINEMENT OF AN A-FORM RNA: IMPROVEMENTS IN MAJOR GROOVE WIDTH 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KYD nts=32 [whole]
+CUAGUUAGCUAACUAG&CUAGUUAGCUAACUAG
+((((((((((((((((&))))))))))))))))
+
+Interacting substructures
+Chain A B 
+CUAGUUAGCUAACUAGCUAGUUAGCUAACUAG
+(((((((((((((((())))))))))))))))
+

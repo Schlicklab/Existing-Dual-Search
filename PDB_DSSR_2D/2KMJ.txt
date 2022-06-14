@@ -1,0 +1,17 @@
+Title			HIGH RESOLUTION NMR SOLUTION STRUCTURE OF A COMPLEX OF HIV-2 TAR RNA AND A SYNTHETIC TRIPEPTIDE IN A 1:2 STOICHIOMETRY 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KMJ nts=28 [whole]
+GGCCAGAUUGAGCUUCGGCUCUCUGGUC
+(((((((..((((....)))))))))))
+
+Interacting substructures
+Chain A 
+GGCCAGAUUGAGCUUCGGCUCUCUGGUC
+(((((((..((((....)))))))))))
+

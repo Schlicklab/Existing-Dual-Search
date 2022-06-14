@@ -1,0 +1,18 @@
+Title			SOLUTION STRUCTURE OF THE TAU PRE-MRNA EXON 10 SPLICING REGULATORY ELEMENT BOUND TO MIP 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6VA4 nts=21 [whole]
+CCGGCAGUGUG&CACACGUCGG
+(((((.(((((&))))))))))
+
+Interacting substructures
+Chain A B 
+CCGGCAGUGUGCACACGUCGG
+(((((.((((())))))))))
+

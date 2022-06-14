@@ -1,0 +1,18 @@
+Title			STRUCTURE OF A DNA:RNA HYBRID DUPLEX: WHY RNASE H DOES NOT CLEAVE PURE RNA 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	DNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>124D nts=16 [whole]
+GTCACATG&CAUGUGAC
+((((((((&))))))))
+
+Interacting substructures
+Chain A B 
+GTCACATGCAUGUGAC
+(((((((())))))))
+

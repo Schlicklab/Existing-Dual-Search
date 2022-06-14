@@ -1,0 +1,19 @@
+Title			CRYOEM STRUCTURE OF CASCADE-TNIQ-DSDNA COMPLEX 
+Chain order		M N O 
+Amino acids		YES
+Metal
+Chains			M	RNA	M N 
+			N	DNA	M O 
+			O	DNA	N 
+Pseudoknot		NO
+
+Whole structure
+>6LNB nts=100 [whole]
+CUGAUAACUUCACGGCGGGCUUGAUGUCCGCGUCUACCUGGUGAACUGCCGAGUAGGUAG&TAGACGCGGACATCAAGCCCGCCGTGAAGGTCT&AGACCTT
+........(((((.(((((.(((((.(((((..((..........(((((.....)))))&.))..))))).))))).))))).))))).((((&))))...
+
+Interacting substructures
+Chain M N O 
+CUGAUAACUUCACGGCGGGCUUGAUGUCCGCGUCUACCUGGUGAACUGCCGAGUAGGUAGTAGACGCGGACATCAAGCCCGCCGTGAAGGTCTAGACCTT
+........(((((.(((((.(((((.(((((..((..........(((((.....))))).))..))))).))))).))))).))))).(((())))...
+

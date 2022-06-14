@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF THE C-TERMINAL LOBE OF A BUDDING YEAST ARGONAUTE 
+Chain order		B D F H 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+			D	RNA	
+			F	RNA	
+			H	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5THE nts=28 [whole]
+UAAAAAA&UAAAAAA&UAAAAAA&UAAAAAA
+.......&.......&.......&.......
+
+Interacting substructures
+Chain B 
+UAAAAAA
+.......
+
+Chain D 
+UAAAAAA
+.......
+
+Chain F 
+UAAAAAA
+.......
+
+Chain H 
+UAAAAAA
+.......
+

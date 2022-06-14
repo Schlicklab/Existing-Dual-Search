@@ -1,0 +1,18 @@
+Title			THE CRYSTAL STRUCTURE OF TRYPANOSOMA BRUCEI RNASE D COMPLEX WITH RNA U12 
+Chain order		D 
+Amino acids		YES
+Metal			Ca	2
+			Zn	2
+Chains			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7C45 nts=10 [whole]
+UUUUUUUUUU
+..........
+
+Interacting substructures
+Chain D 
+UUUUUUUUUU
+..........
+

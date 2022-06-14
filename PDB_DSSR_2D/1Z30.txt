@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE APICAL PART OF STEMLOOP D FROM CLOVERLEAF 1 OF BOVINE ENTEROVIRUS 1 RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1Z30 nts=18 [whole]
+GGCGUUCGUUAGAACGUC
+(((((((....)))))))
+
+Interacting substructures
+Chain A 
+GGCGUUCGUUAGAACGUC
+(((((((....)))))))
+

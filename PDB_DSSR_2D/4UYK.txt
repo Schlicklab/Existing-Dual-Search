@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF A SIGNAL RECOGNITION PARTICLE ALU DOMAIN IN THE ELONGATION ARREST CONFORMATION 
+Chain order		R 
+Amino acids		YES
+Metal
+Chains			R	RNA	R 
+Pseudoknot		YES
+
+Whole structure
+>4UYK nts=134 [whole]
+GGGGCUAGGCCGGGGGGUUCGGCGUCCCCUGUAACCGGAAACCGCCGAUAUGCCGGGGCCGAAGCCCGAGGGGCGGUUCCCGAAGCCGCCUCUGUAAGGAGGCGGUGGAGGGUUCCCACCCUCGGGCGUGCCUc
+(((((..(((((((((...[[[[[.)))))....((((....]]]]].....))))))))...(((((((((..((..(((...(((((((((....)))))))))...)))..))..)))))))))..)))))
+
+Interacting substructures
+Chain R 
+GGGGCUAGGCCGGGGGGUUCGGCGUCCCCUGUAACCGGAAACCGCCGAUAUGCCGGGGCCGAAGCCCGAGGGGCGGUUCCCGAAGCCGCCUCUGUAAGGAGGCGGUGGAGGGUUCCCACCCUCGGGCGUGCCUc
+(((((..(((((((((...[[[[[.)))))....((((....]]]]].....))))))))...(((((((((..((..(((...(((((((((....)))))))))...)))..))..)))))))))..)))))
+

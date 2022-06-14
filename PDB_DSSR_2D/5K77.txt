@@ -1,0 +1,63 @@
+Title			DBR1 IN COMPLEX WITH 7-MER BRANCHED RNA 
+Chain order		V v W w X x Y y Z z 
+Amino acids		YES
+Metal			Fe	5
+			Zn	5
+Chains			V	RNA[2]/1	
+			v	RNA	
+			W	RNA[2]/1	
+			w	RNA	
+			X	RNA[2]/1	
+			x	RNA	
+			Y	RNA[2]/1	
+			y	RNA	
+			Z	RNA[2]/1	
+			z	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5K77 nts=20 [whole]
+ACA&G&ACA&G&ACA&G&ACA&G&ACA&G
+...&.&...&.&...&.&...&.&...&.
+
+Interacting substructures
+Chain V 
+ACA
+...
+
+Chain v 
+G
+.
+
+Chain W 
+ACA
+...
+
+Chain w 
+G
+.
+
+Chain X 
+ACA
+...
+
+Chain x 
+G
+.
+
+Chain Y 
+ACA
+...
+
+Chain y 
+G
+.
+
+Chain Z 
+ACA
+...
+
+Chain z 
+G
+.
+

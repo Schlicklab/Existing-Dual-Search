@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF LC11-RNASE H1 IN COMPLEX WITH RNA/DNA HYBRID 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	DNA	C 
+Pseudoknot		NO
+
+Whole structure
+>4H8K nts=28 [whole]
+CGACACCUGAUUCC&GGAATCAGGTGTCG
+((((((((((((((&))))))))))))))
+
+Interacting substructures
+Chain C D 
+CGACACCUGAUUCCGGAATCAGGTGTCG
+(((((((((((((())))))))))))))
+

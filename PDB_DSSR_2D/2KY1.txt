@@ -1,0 +1,18 @@
+Title			THE STRUCTURE OF RNA INTERNAL LOOPS WITH TANDEM AG PAIRS: 5'UAGA/3'AGAU 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KY1 nts=22 [whole]
+GACUAGAGUCA&GACUAGAGUCA
+((((..((((.&))))..)))).
+
+Interacting substructures
+Chain A B 
+GACUAGAGUCAGACUAGAGUCA
+((((..((((.))))..)))).
+

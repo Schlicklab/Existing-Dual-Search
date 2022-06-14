@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF METHYLTRANSFERASE RIBOZYME 
+Chain order		X Y 
+Amino acids		YES
+Metal
+Chains			X	RNA	X 
+			Y	RNA	Y 
+Pseudoknot		NO
+
+Whole structure
+>7DLZ nts=90 [whole]
+GGACCUACUACGAGCGCCAUUGCACUCCGGCGCCACGGGGGGUCC&GGACCUACUACGAGCGCCAUUGCACUCCGGCGCCACGGGGGGUCC
+((((((.((.((.(((((..........)))))..))))))))))&((((((.((.((.(((((..........)))))..))))))))))
+
+Interacting substructures
+Chain X 
+GGACCUACUACGAGCGCCAUUGCACUCCGGCGCCACGGGGGGUCC
+((((((.((.((.(((((..........)))))..))))))))))
+
+Chain Y 
+GGACCUACUACGAGCGCCAUUGCACUCCGGCGCCACGGGGGGUCC
+((((((.((.((.(((((..........)))))..))))))))))
+

@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF A STABILIZED PAN ENE BIMOLECULAR TRIPLEX WITH A GC-CLAMPED POLYA TAIL, IN COMPLEX WITH FAB-BL-3,6. 
+Chain order		R A r a 
+Amino acids		YES
+Metal
+Chains			R	RNA	A R 
+			A	RNA	R 
+			r	RNA	r a 
+			a	RNA	r 
+Pseudoknot		YES
+
+Whole structure
+>6X5M nts=102 [whole]
+GGGUUUUUCCUUCGAAACACGAAGGUUUUUAUCCCUGCC&GGCAAAAAAAAA&GGGUUUUUCCUUCGAAACACGAAGGUUUUUAUCCCUGCC&GGCAAAAAAAAA
+((({.<..((((((.....))))))[..[...)))((((&))))...}]>.]&[[[..{..((((((.....))))))((.((..]]]...(&)......))}))
+
+Interacting substructures
+Chain R A 
+GGGUUUUUCCUUCGAAACACGAAGGUUUUUAUCCCUGCCGGCAAAAAAAAA
+((({.<..((((((.....))))))[..[...)))(((())))...}]>.]
+
+Chain r a 
+GGGUUUUUCCUUCGAAACACGAAGGUUUUUAUCCCUGCCGGCAAAAAAAAA
+[[[..{..((((((.....))))))((.((..]]]...()......))}))
+

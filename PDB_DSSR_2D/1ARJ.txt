@@ -1,0 +1,17 @@
+Title			ARG-BOUND TAR RNA, NMR 
+Chain order		N 
+Amino acids		NO
+Metal
+Chains			N	RNA*	N 
+Pseudoknot		NO
+
+Whole structure
+>1ARJ nts=29 [whole]
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+.(((((...((((......))))))))).
+
+Interacting substructures
+Chain N 
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+.(((((...((((......))))))))).
+

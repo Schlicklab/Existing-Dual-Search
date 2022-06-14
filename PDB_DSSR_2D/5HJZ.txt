@@ -1,0 +1,17 @@
+Title			STRUCTURE OF M. TUBERCULOSIS MAZF-MT1 (RV2801C) IN COMPLEX WITH RNA 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5HJZ nts=4 [whole]
+ACCU
+....
+
+Interacting substructures
+Chain C 
+ACCU
+....
+

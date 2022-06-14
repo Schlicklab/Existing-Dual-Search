@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE HUC RBD1-RBD2 COMPLEXED WITH THE AU-RICH ELEMENT 
+Chain order		R 
+Amino acids		YES
+Metal
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1FNX nts=10 [whole]
+UAUUUAUUUU
+..........
+
+Interacting substructures
+Chain R 
+UAUUUAUUUU
+..........
+

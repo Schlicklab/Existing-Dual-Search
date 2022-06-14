@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE COMPLEX FORMED BY THE TWO N- TERMINAL RNA-BINDING DOMAINS OF NUCLEOLIN AND A PRE-RRNA TARGET 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>1RKJ nts=21 [whole]
+GGAUGCCUCCCGAGUGCAUCC
+(((((((......).))))))
+
+Interacting substructures
+Chain B 
+GGAUGCCUCCCGAGUGCAUCC
+(((((((......).))))))
+

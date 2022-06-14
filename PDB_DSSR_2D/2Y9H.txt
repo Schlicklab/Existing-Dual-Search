@@ -1,0 +1,52 @@
+Title			STRUCTURE A OF CRISPR ENDORIBONUCLEASE CSE3 BOUND TO 19 NT RNA 
+Chain order		B D F H J L N P 
+Amino acids		YES
+Metal
+Chains			B	RNA[17]/1	B 
+			D	RNA[17]/1	D 
+			F	RNA[17]/1	F 
+			H	RNA[17]/1	H 
+			J	RNA[17]/1	J 
+			L	RNA[17]/1	L 
+			N	RNA[17]/1	N 
+			P	RNA[17]/1	P 
+Pseudoknot		NO
+
+Whole structure
+>2Y9H nts=144 [whole]
+UCCCCACGCGUGUGGGGA&UCCCCACGCGUGUGGGGA&UCCCCACGCGUGUGGGGA&UCCCCACGCGUGUGGGGA&UCCCCACGCGUGUGGGGA&UCCCCACGCGUGUGGGGA&UCCCCACGCGUGUGGGGA&UCCCCACGCGUGUGGGGA
+(((((((....)))))))&(((((((....)))))))&(((((((....)))))))&(((((((....)))))))&((((((......))))))&.((((((....)))))).&(((((((....)))))))&.((((((....)))))).
+
+Interacting substructures
+Chain B 
+UCCCCACGCGUGUGGGGA
+(((((((....)))))))
+
+Chain D 
+UCCCCACGCGUGUGGGGA
+(((((((....)))))))
+
+Chain F 
+UCCCCACGCGUGUGGGGA
+(((((((....)))))))
+
+Chain H 
+UCCCCACGCGUGUGGGGA
+(((((((....)))))))
+
+Chain J 
+UCCCCACGCGUGUGGGGA
+((((((......))))))
+
+Chain L 
+UCCCCACGCGUGUGGGGA
+.((((((....)))))).
+
+Chain N 
+UCCCCACGCGUGUGGGGA
+(((((((....)))))))
+
+Chain P 
+UCCCCACGCGUGUGGGGA
+.((((((....)))))).
+

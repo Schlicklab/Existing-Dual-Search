@@ -1,0 +1,18 @@
+Title			SYNTHESIS, OXIDATION BEHAVIOR, CRYSTALLIZATION AND STRUCTURE OF 2'- METHYLSELENO GUANOSINE CONTAINING RNAS 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2H1M nts=32 [whole]
+GCAgAGUUAAAUCUGC&GCAgAGUUAAAUCUGC
+(((((.((((.(((((&))))).)))).)))))
+
+Interacting substructures
+Chain A B 
+GCAgAGUUAAAUCUGCGCAgAGUUAAAUCUGC
+(((((.((((.((((())))).)))).)))))
+

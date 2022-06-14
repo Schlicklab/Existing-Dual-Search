@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF PLASMODIUM FALCIPARUM SR1-RRM1 IN COMPLEX WITH ACAUCA RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2N7C nts=6 [whole]
+ACAUCA
+......
+
+Interacting substructures
+Chain B 
+ACAUCA
+......
+

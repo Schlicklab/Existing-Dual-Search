@@ -1,0 +1,25 @@
+Title			CPD LESION CONTAINING RNA POLYMERASE II ELONGATION COMPLEX B 
+Chain order		N P T-1 T-2 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			N	DNA	T-1 
+			P	RNA	T-2 
+			T-1	DNA*	N 
+			T-2	DNA*	P 
+Pseudoknot		YES
+
+Whole structure
+>2JA6 nts=37 [whole]
+TAAGTACT&UUCGACCAGG&AGTACTTt&TCCuGGTCATT
+.[[[[[[[&...(((((((&]]]]]].]&.)))))))...
+
+Interacting substructures
+Chain N T-1 
+TAAGTACTAGTACTTt
+.[[[[[[[]]]]]].]
+
+Chain P T-2 
+UUCGACCAGGTCCuGGTCATT
+...(((((((.)))))))...
+

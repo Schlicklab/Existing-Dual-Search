@@ -1,0 +1,32 @@
+Title			CRYO-EM STRUCTURE OF THE MAMMALIAN SEC61 COMPLEX BOUND TO THE ACTIVELY TRANSLATING WHEAT GERM 80S RIBOSOME 
+Chain order		D E F G 
+Amino acids		YES
+Metal
+Chains			D	RNA	D 
+			E	RNA	E 
+			F	RNA	F 
+			G	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>2WWB nts=136 [whole]
+AGAACGCAGCGAAAUGCGAUACGUAAUGUGAAUUGCAGAAUUCCGUGAAUCAUCGAAUCUUUG&UGAAAAGAACUUUGAAAAGAGAGUGAAAAAGUAC&CCACGUCAACAGCAGUUGGACGUGG&ACACGUCGCGCGGU
+.((((((........))).....(.((....(((....)))..........))..)...))).&......(..((........))............)&((((((...((.....)).))))))&((.((.....))))
+
+Interacting substructures
+Chain D 
+AGAACGCAGCGAAAUGCGAUACGUAAUGUGAAUUGCAGAAUUCCGUGAAUCAUCGAAUCUUUG
+.((((((........))).....(.((....(((....)))..........))..)...))).
+
+Chain E 
+UGAAAAGAACUUUGAAAAGAGAGUGAAAAAGUAC
+......(..((........))............)
+
+Chain F 
+CCACGUCAACAGCAGUUGGACGUGG
+((((((...((.....)).))))))
+
+Chain G 
+ACACGUCGCGCGGU
+((.((.....))))
+

@@ -1,0 +1,18 @@
+Title			LIQUID CRYSTAL SOLUTION STRUCTURE OF THE KISSING COMPLEX FORMED BY THE APICAL LOOP OF THE HIV TAR RNA AND A HIGH AFFINITY RNA APTAMER OPTIMIZED BY SELEX 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	B A 
+Pseudoknot		YES
+
+Whole structure
+>2RN1 nts=32 [whole]
+GAGCCCUGGGAGGCUC&GCUGGUCCCAGACAGC
+((((([[[[[[)))))&((((.]]]]]].))))
+
+Interacting substructures
+Chain A B 
+GAGCCCUGGGAGGCUCGCUGGUCCCAGACAGC
+((((([[[[[[)))))((((.]]]]]].))))
+

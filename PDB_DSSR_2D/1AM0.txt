@@ -1,0 +1,23 @@
+Title			AMP RNA APTAMER COMPLEX, NMR, 8 STRUCTURES 
+Chain order		A-1 A-2 A-3 
+Amino acids		NO
+Metal
+Chains			A-1	RNA*	A-2 
+			A-2	RNA*	A-1 
+			A-3	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>1AM0 nts=17 [whole]
+GGGAAGAAACUGU&AGC&a
+(...........(&).)&.
+
+Interacting substructures
+Chain A-1 A-2 
+GGGAAGAAACUGUAGC
+(...........().)
+
+Chain A-3 
+a
+.
+

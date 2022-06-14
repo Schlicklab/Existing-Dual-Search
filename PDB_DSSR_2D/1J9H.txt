@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF AN RNA DUPLEX WITH URIDINE BULGES 
+Chain order		A B C D 
+Amino acids		NO
+Metal			Ca	4
+Chains			A	RNA[8]/1	B 
+			B	RNA[8]/1	A 
+			C	RNA[8]/1	D 
+			D	RNA[8]/1	C 
+Pseudoknot		NO
+
+Whole structure
+>1J9H nts=36 [whole]
+GUGUCGcAC&GUGUCGcAC&GUGUCGcAC&GUGUCGcAC
+(((.(((((&))).)))))&(((.(((((&))).)))))
+
+Interacting substructures
+Chain A B 
+GUGUCGcACGUGUCGcAC
+(((.((((())).)))))
+
+Chain C D 
+GUGUCGcACGUGUCGcAC
+(((.((((())).)))))
+

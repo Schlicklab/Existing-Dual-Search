@@ -1,0 +1,17 @@
+Title			1.25 A RESOLUTION STRUCTURE OF AN RNA 20-MER 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5C5W nts=19 [whole]
+CCUGAGUUCAAUUCUAGCG
+...................
+
+Interacting substructures
+Chain A 
+CCUGAGUUCAAUUCUAGCG
+...................
+

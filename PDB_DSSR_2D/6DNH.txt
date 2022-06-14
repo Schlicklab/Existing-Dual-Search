@@ -1,0 +1,17 @@
+Title			CRYO-EM STRUCTURE OF HUMAN CPSF-160-WDR33-CPSF-30-PAS RNA COMPLEX AT 3.4 A RESOLUTION 
+Chain order		E 
+Amino acids		YES
+Metal			Zn	3
+Chains			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6DNH nts=7 [whole]
+AAUAAAC
+.......
+
+Interacting substructures
+Chain E 
+AAUAAAC
+.......
+

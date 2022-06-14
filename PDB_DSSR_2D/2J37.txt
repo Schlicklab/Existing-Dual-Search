@@ -1,0 +1,43 @@
+Title			MODEL OF MAMMALIAN SRP BOUND TO 80S RNCS 
+Chain order		A Z-1 Z-2 Z-3 Z-4 Z-5 Z-6 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+			Z-1	RNA*	
+			Z-2	RNA*	Z-2 
+			Z-3	RNA*	
+			Z-4	RNA*	Z-4 
+			Z-5	RNA*	Z-6 
+			Z-6	RNA*	Z-5 Z-6 
+Pseudoknot		NO
+
+Whole structure
+>2J37 nts=408 [whole]
+GACACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGUC&C&UGCAAAGUACCCUCAGAAGGGAGGCGAAAUAGAGC&A&CAGCGAUAGUCGGGUGAGAACCCCGACGGCCUAAUGGAUAAGGGUUCCUCAGCACUGCUGAUCAGCUGAGGGUUAGCCGGUCCUAAGUCAUACCGCAACUCGACUAUGACGAAAUGGGAAACGGGUUAAUAUUCCCGUGCCAC&GGGGUCGAUCACGCUGGGCA&UCGCCCAGUCGAACCGUCCAACUCCGUGGAAGCCGUAAUGGCAGGAAGCGGACGAACGGCGGCAUAGGGAAACGUGAUUC
+((((((..(.(((((((((((.(((((..((((((....))))))..))))).))))......(.(((((.....((((....(((....)))....))))...))))))))))))).)...))))))&.&......(...(((.....))).............)&.&........((((((.......))))))...................((((((...((.....)).))))))....((....((...((((((.((.....))..)))))).....))...(((((........)))))))...&......((((((((((((..&...))))))(...(((((....(((((....(((.....))).....))))).....)))))....)(....))))))).
+
+Interacting substructures
+Chain A 
+GACACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGUC
+((((((..(.(((((((((((.(((((..((((((....))))))..))))).))))......(.(((((.....((((....(((....)))....))))...))))))))))))).)...))))))
+
+Chain Z-1 
+C
+.
+
+Chain Z-2 
+UGCAAAGUACCCUCAGAAGGGAGGCGAAAUAGAGC
+......(...(((.....))).............)
+
+Chain Z-3 
+A
+.
+
+Chain Z-4 
+CAGCGAUAGUCGGGUGAGAACCCCGACGGCCUAAUGGAUAAGGGUUCCUCAGCACUGCUGAUCAGCUGAGGGUUAGCCGGUCCUAAGUCAUACCGCAACUCGACUAUGACGAAAUGGGAAACGGGUUAAUAUUCCCGUGCCAC
+........((((((.......))))))...................((((((...((.....)).))))))....((....((...((((((.((.....))..)))))).....))...(((((........)))))))...
+
+Chain Z-5 Z-6 
+GGGGUCGAUCACGCUGGGCAUCGCCCAGUCGAACCGUCCAACUCCGUGGAAGCCGUAAUGGCAGGAAGCGGACGAACGGCGGCAUAGGGAAACGUGAUUC
+......((((((((((((.....))))))(...(((((....(((((....(((.....))).....))))).....)))))....)(....))))))).
+

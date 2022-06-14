@@ -1,0 +1,24 @@
+Title			RHODOBACTER SPHAEROIDES ARGONAUTE IN COMPLEX WITH GUIDE RNA/TARGET DNA HETERODUPLEX 
+Chain order		C D E F 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	D 
+			D	DNA	C 
+			E	RNA	F 
+			F	DNA	E 
+Pseudoknot		NO
+
+Whole structure
+>5AWH nts=72 [whole]
+UUACAACCUACUACCUCG&CGAGGTAGTAGGTTGTAA&UUACAACCUACUACCUCG&CGAGGTAGTAGGTTGTAA
+.(((((((((((((((((&))))))))))))))))).&.(((((((((((((((((&))))))))))))))))).
+
+Interacting substructures
+Chain C D 
+UUACAACCUACUACCUCGCGAGGTAGTAGGTTGTAA
+.((((((((((((((((())))))))))))))))).
+
+Chain E F 
+UUACAACCUACUACCUCGCGAGGTAGTAGGTTGTAA
+.((((((((((((((((())))))))))))))))).
+

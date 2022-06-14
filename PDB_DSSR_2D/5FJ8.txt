@@ -1,0 +1,19 @@
+Title			CRYO-EM STRUCTURE OF YEAST RNA POLYMERASE III ELONGATION COMPLEX AT 3. 9 A 
+Chain order		R S T 
+Amino acids		YES
+Metal			Zn	6
+Chains			R	DNA	S T 
+			S	DNA	R 
+			T	RNA	R 
+Pseudoknot		YES
+
+Whole structure
+>5FJ8 nts=47 [whole]
+AAGTCAAGTACTTACGCCTGGTC&GAAAGTACTTGACTT&AGACCAGGC
+(...(((((((((..[[[[[[[.&..)))))))))..).&..]]]]]]]
+
+Interacting substructures
+Chain R S T 
+AAGTCAAGTACTTACGCCTGGTCGAAAGTACTTGACTTAGACCAGGC
+(...(((((((((..[[[[[[[...)))))))))..)...]]]]]]]
+

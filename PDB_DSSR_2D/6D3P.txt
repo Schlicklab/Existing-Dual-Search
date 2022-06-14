@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF AN EXORIBONUCLEASE-RESISTANT RNA FROM SWEET CLOVER NECROTIC MOSAIC VIRUS (SCNMV) 
+Chain order		A 
+Amino acids		NO
+Metal			Ir	10
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6D3P nts=45 [whole]
+GGGCGUAACCUCCAUCCGAGUUGCAAGAGAGGGAAACGCAGUCUC
+..((((..(((((.............).))))...))))......
+
+Interacting substructures
+Chain A 
+GGGCGUAACCUCCAUCCGAGUUGCAAGAGAGGGAAACGCAGUCUC
+..((((..(((((.............).))))...))))......
+

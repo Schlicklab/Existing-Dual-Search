@@ -1,0 +1,21 @@
+Title			SARS-COV-2 FRAMESHIFTING PSEUDOKNOT RNA 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal			Na	4
+			Mg	9
+			K	2
+			Co	1
+Chains			A-1	RNA*	A-1 A-2 
+			A-2	RNA*	A-1 
+Pseudoknot		YES
+
+Whole structure
+>7MKY nts=65 [whole]
+CGGUGUAAGUGCAGCCCGUCUUACACCGUGCGGCACAGCGGAAACGCUGAUGUCGUA&ACAGGGCU
+(((((((((...[[[[[..)))))))))((((((((((((....))))).)))))))&...]]]]]
+
+Interacting substructures
+Chain A-1 A-2 
+CGGUGUAAGUGCAGCCCGUCUUACACCGUGCGGCACAGCGGAAACGCUGAUGUCGUAACAGGGCU
+(((((((((...[[[[[..)))))))))((((((((((((....))))).)))))))...]]]]]
+

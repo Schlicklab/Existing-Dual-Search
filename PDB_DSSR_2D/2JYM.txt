@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF STEM-LOOP ALPHA OF THE HEPATITIS B VIRUS POST-TRANSCRIPTIONAL REGULATORY ELEMENT 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2JYM nts=22 [whole]
+GGCUCGCAGCAGGUCUGGAGUC
+(((((.((((..).))))))))
+
+Interacting substructures
+Chain A 
+GGCUCGCAGCAGGUCUGGAGUC
+(((((.((((..).))))))))
+

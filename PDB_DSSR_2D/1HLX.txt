@@ -1,0 +1,17 @@
+Title			P1 HELIX NUCLEIC ACIDS (DNA/RNA) RIBONUCLEIC ACID 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1HLX nts=20 [whole]
+GGGAUAACUUCGGUUGUCCC
+((((((((....))))))))
+
+Interacting substructures
+Chain A 
+GGGAUAACUUCGGUUGUCCC
+((((((((....))))))))
+

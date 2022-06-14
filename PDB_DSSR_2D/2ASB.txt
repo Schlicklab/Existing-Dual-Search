@@ -1,0 +1,17 @@
+Title			STRUCTURE OF A MYCOBACTERIUM TUBERCULOSIS NUSA-RNA COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2ASB nts=11 [whole]
+GAACUCAAUAG
+...........
+
+Interacting substructures
+Chain B 
+GAACUCAAUAG
+...........
+

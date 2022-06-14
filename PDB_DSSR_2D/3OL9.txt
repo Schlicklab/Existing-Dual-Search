@@ -1,0 +1,32 @@
+Title			POLIOVIRUS POLYMERASE ELONGATION COMPLEX WITH 3'-DEOXY-CTP 
+Chain order		B C D F G H J K L N O P 
+Amino acids		YES
+Metal			Zn	4
+Chains			B	RNA	C D 
+			C	RNA	G B 
+			D	RNA	B 
+			F	RNA	H G 
+			G	RNA	C F 
+			H	RNA	F 
+			J	RNA	K L 
+			K	RNA	J O 
+			L	RNA	J 
+			N	RNA	P O 
+			O	RNA	K N 
+			P	RNA	N 
+Pseudoknot		YES
+
+Whole structure
+>3OL9 nts=144 [whole]
+CCAGGUCUCUCGUCCGG&GCCCGGACGAGAGAc&GGA&CCAGGUCUCUCGUCCGG&GCCCGGACGAGAGAc&GGA&UCCAGGUCUCUCGUCCGG&GCCCGGACGAGAGAc&GGAG&UCCAGGUCUCUCGUCCGG&GCCCGGACGAGAGAc&GGAG
+((..(((((((((((((&[[)))))))))))))&)).&((..(((((((((((((&]])))))))))))))&)).&(((..(((((((((((((&[[)))))))))))))&))).&(((..(((((((((((((&]])))))))))))))&))).
+
+Interacting substructures
+Chain B C D F G H 
+CCAGGUCUCUCGUCCGGGCCCGGACGAGAGAcGGACCAGGUCUCUCGUCCGGGCCCGGACGAGAGAcGGA
+((..((((((((((((([[))))))))))))))).((..(((((((((((((]]))))))))))))))).
+
+Chain J K L N O P 
+UCCAGGUCUCUCGUCCGGGCCCGGACGAGAGAcGGAGUCCAGGUCUCUCGUCCGGGCCCGGACGAGAGAcGGAG
+(((..((((((((((((([[)))))))))))))))).(((..(((((((((((((]])))))))))))))))).
+

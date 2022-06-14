@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE CUGBP1 RRM1 WITH GUUGUUUUGUUU RNA 
+Chain order		E F 
+Amino acids		YES
+Metal
+Chains			E	RNA	
+			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3NNH nts=20 [whole]
+UUGUUUUGUU&GUUGUUUUGU
+..........&..........
+
+Interacting substructures
+Chain E 
+UUGUUUUGUU
+..........
+
+Chain F 
+GUUGUUUUGU
+..........
+

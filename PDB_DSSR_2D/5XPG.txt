@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF T. THERMOPHILUS ARGONAUTE PROTEIN COMPLEXED WITH A BULGE 6'U7' ON THE TARGET STRAND 
+Chain order		C G 
+Amino acids		YES
+Metal			Mg	1
+Chains			C	DNA	G 
+			G	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>5XPG nts=37 [whole]
+TGAGGTAGTAGGTTGTATAGT&ACAACCUACAUACCUC
+.(((((.((((((((......&.))))))))..)))))
+
+Interacting substructures
+Chain C G 
+TGAGGTAGTAGGTTGTATAGTACAACCUACAUACCUC
+.(((((.((((((((.......))))))))..)))))
+

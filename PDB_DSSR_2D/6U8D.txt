@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF HEPATITIS C VIRUS IRES JUNCTION IIIABC IN COMPLEX WITH FAB HCV2 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6U8D nts=68 [whole]
+GGGUCUCGCGGAACCGGUGAGUACACCGGAAUCCAGGAAACUGGAUUUGGGCGUGCCCCCGCGAGACC
+.((((((((((..((((((....))))))(((((((....))))))).((((..))))))))))))))
+
+Interacting substructures
+Chain A 
+GGGUCUCGCGGAACCGGUGAGUACACCGGAAUCCAGGAAACUGGAUUUGGGCGUGCCCCCGCGAGACC
+.((((((((((..((((((....))))))(((((((....))))))).((((..))))))))))))))
+

@@ -1,0 +1,23 @@
+Title			DEAD-BOX HELICASE MSS116 BOUND TO SSRNA AND GDP-BEF 
+Chain order		B A 
+Amino acids		YES
+Metal			Be	1
+			Mg	1
+Chains			B	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>4TZ0 nts=8 [whole]
+AAAAAAA&g
+.......&.
+
+Interacting substructures
+Chain B 
+AAAAAAA
+.......
+
+Chain A 
+g
+.
+

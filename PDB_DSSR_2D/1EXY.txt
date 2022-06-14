@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF HTLV-1 PEPTIDE BOUND TO ITS RNA APTAMER TARGET 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1EXY nts=33 [whole]
+GGGCGCCGGUACGCAAGUACGACGGUACGCUCC
+((((((((((((....))))..)))..))))).
+
+Interacting substructures
+Chain A 
+GGGCGCCGGUACGCAAGUACGACGGUACGCUCC
+((((((((((((....))))..)))..))))).
+

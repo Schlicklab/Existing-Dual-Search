@@ -1,0 +1,25 @@
+Title			THE CATALYTIC CORE LOBE OF HUMAN TELOMERASE IN COMPLEX WITH A TELOMERIC DNA SUBSTRATE 
+Chain order		N B-1 B-2 B-3 B-4 
+Amino acids		YES
+Metal
+Chains			N	DNA	B-1 
+			B-1	RNA*	B-1 B-2 N 
+			B-2	RNA*	B-1 
+			B-3	RNA*	B-4 
+			B-4	RNA*	B-4 B-3 
+Pseudoknot		YES
+
+Whole structure
+>7BG9 nts=262 [whole]
+TTAGGG&GGGUGGUGGCCAUUUUUUGUCUAACCCUAACUGAGAAGGGCGUAGGCGCCGUGCUUUUGCUCCCCGCGCGCUGUUUUUCUCGCUGACUUUCAGCGGGCGGAAAAGCCUCGGCCUGCCGCCUUCC&GAGCAAACAAAAAAUGUCAGCUGCUGGCCCGUUCGCCC&CGAACCCCGCC&GAGGCCGCGGUCGGCCCGGGGCUUCUCCGGAGGCACCCACUGCCACCGCGAAGAGUUGGGCUCUGUCAGCCGCGGGUCUCUCG
+..[[[[&.......((((.............]]]]........(((((((((((......(((((.....((((.(((((........[[[[[[[[[)))).)))))))))).....))))).))))))..&...........]]].]]]]]]....)))).........&((((.(((((.&.....((((((.(((..((((((........))).)))...))))))))).((((.....)))).......)))))..).)))
+
+Interacting substructures
+Chain N B-1 B-2 
+TTAGGGGGGUGGUGGCCAUUUUUUGUCUAACCCUAACUGAGAAGGGCGUAGGCGCCGUGCUUUUGCUCCCCGCGCGCUGUUUUUCUCGCUGACUUUCAGCGGGCGGAAAAGCCUCGGCCUGCCGCCUUCCGAGCAAACAAAAAAUGUCAGCUGCUGGCCCGUUCGCCC
+..[[[[.......((((.............]]]]........(((((((((((......(((((.....((((.(((((........[[[[[[[[[)))).)))))))))).....))))).)))))).............]]].]]]]]]....)))).........
+
+Chain B-3 B-4 
+CGAACCCCGCCGAGGCCGCGGUCGGCCCGGGGCUUCUCCGGAGGCACCCACUGCCACCGCGAAGAGUUGGGCUCUGUCAGCCGCGGGUCUCUCG
+((((.(((((......((((((.(((..((((((........))).)))...))))))))).((((.....)))).......)))))..).)))
+

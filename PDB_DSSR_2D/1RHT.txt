@@ -1,0 +1,17 @@
+Title			24-MER RNA HAIRPIN COAT PROTEIN BINDING SITE FOR BACTERIOPHAGE R17 (NMR, MINIMIZED AVERAGE STRUCTURE) 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1RHT nts=24 [whole]
+GGGACUGACGAUCACGCAGUCUAU
+.((.(((.((....))))).))..
+
+Interacting substructures
+Chain A 
+GGGACUGACGAUCACGCAGUCUAU
+.((.(((.((....))))).))..
+

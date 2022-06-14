@@ -1,0 +1,17 @@
+Title			CRYO-EM STRUCTURE OF CASPHI-2 (CAS12J) BOUND TO CRRNA 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	1
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>7M5O nts=37 [whole]
+AACGAUUGCCCCUCACGAGGGGACAGCUGGUAAUGGG
+........(((((....)))))...............
+
+Interacting substructures
+Chain B 
+AACGAUUGCCCCUCACGAGGGGACAGCUGGUAAUGGG
+........(((((....)))))...............
+

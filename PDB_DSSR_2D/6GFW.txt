@@ -1,0 +1,19 @@
+Title			CRYO-EM STRUCTURE OF BACTERIAL RNA POLYMERASE-SIGMA54 HOLOENZYME INITIAL TRANSCRIBING COMPLEX 
+Chain order		F G R 
+Amino acids		YES
+Metal
+Chains			F	DNA	G R 
+			G	DNA	F 
+			R	RNA	F 
+Pseudoknot		YES
+
+Whole structure
+>6GFW nts=104 [whole]
+TGCGCAACAGCATGCGCGCCCAGGGCTGATCGTGCAAAAGTCGTGCCAGC&GCTGGCACGACTTTTGCACTCGACTAAAGGGGCGCGCATGCTGTTGCGCA&UGGG
+((((((((((((((((..[[.[..........((((((((((((((((((&))))))))))))))))))................))))))))))))))))&].]]
+
+Interacting substructures
+Chain F G R 
+TGCGCAACAGCATGCGCGCCCAGGGCTGATCGTGCAAAAGTCGTGCCAGCGCTGGCACGACTTTTGCACTCGACTAAAGGGGCGCGCATGCTGTTGCGCAUGGG
+((((((((((((((((..[[.[..........(((((((((((((((((())))))))))))))))))................))))))))))))))))].]]
+

@@ -1,0 +1,17 @@
+Title			STRUCTURE OF RNA (5'-GGUGGGCGCAGCUUCGGCUGCGGUACCAC-3'), NMR, 5 STRUCTURES 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1EBQ nts=29 [whole]
+GGUGGGCGCAGCUUCGGCUGCGGUACACC
+((((..((((((....))))))...))))
+
+Interacting substructures
+Chain A 
+GGUGGGCGCAGCUUCGGCUGCGGUACACC
+((((..((((((....))))))...))))
+

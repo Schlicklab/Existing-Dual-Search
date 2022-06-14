@@ -1,0 +1,17 @@
+Title			NMR LOCALIZATION OF DIVALENT CATIONS AT THE ACTIVE SITE OF THE NEUROSPORA VS RIBOZYME PROVIDES INSIGHTS INTO RNA-METAL ION INTERACTIONS 
+Chain order		A 
+Amino acids		NO
+Metal			Mg	5
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2MIS nts=26 [whole]
+GAGCUGCAGCACGAAAGUGACGGCUC
+((((((...(((....))).))))))
+
+Interacting substructures
+Chain A 
+GAGCUGCAGCACGAAAGUGACGGCUC
+((((((...(((....))).))))))
+

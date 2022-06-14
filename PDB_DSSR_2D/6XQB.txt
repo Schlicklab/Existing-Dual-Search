@@ -1,0 +1,19 @@
+Title			SARS-COV-2 RDRP/RNA COMPLEX 
+Chain order		E F 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			E	RNA	F 
+			F	RNA	E 
+Pseudoknot		NO
+
+Whole structure
+>6XQB nts=15 [whole]
+GGGCCCA&GUGGGCCC
+(((((((&.)))))))
+
+Interacting substructures
+Chain E F 
+GGGCCCAGUGGGCCC
+(((((((.)))))))
+

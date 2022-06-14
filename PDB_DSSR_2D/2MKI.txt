@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF TANDEM RRM DOMAINS OF CYTOPLASMIC POLYADENYLATION ELEMENT BINDING PROTEIN 4 (CPEB4) IN COMPLEX WITH RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2MKI nts=5 [whole]
+CUUUA
+.....
+
+Interacting substructures
+Chain B 
+CUUUA
+.....
+

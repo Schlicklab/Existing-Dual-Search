@@ -1,0 +1,31 @@
+Title			RRN ANTI-TERMINATION COMPLEX WITHOUT S4 
+Chain order		R-1 R-2 R-3 L K-1 K-2 
+Amino acids		YES
+Metal			Mg	3
+			Zn	2
+Chains			R-1	RNA*	
+			R-2	RNA*	
+			R-3	RNA*	L 
+			L	DNA	K-1 K-2 R-3 
+			K-1	DNA*	L 
+			K-2	DNA*	L 
+Pseudoknot		YES
+
+Whole structure
+>6TQN nts=112 [whole]
+ACUGCUCUUUAACAAUUUAUCAG&AUCUGUGUGGG&UGGCGUGUGGC&GTTATCCGCTCACAATGCCACACGCGCTGCTCGG&CCGAGCAGCATA&CATTACTTGTGAGCGGATAAC
+.......................&...........&..[[[[[[[[[&((((((((((((((..]]]]]]]]](((((((((&)))))))))...&.......))))))))))))))
+
+Interacting substructures
+Chain R-1 
+ACUGCUCUUUAACAAUUUAUCAG
+.......................
+
+Chain R-2 
+AUCUGUGUGGG
+...........
+
+Chain R-3 L K-1 K-2 
+UGGCGUGUGGCGTTATCCGCTCACAATGCCACACGCGCTGCTCGGCCGAGCAGCATACATTACTTGTGAGCGGATAAC
+..[[[[[[[[[((((((((((((((..]]]]]]]]]((((((((()))))))))..........))))))))))))))
+

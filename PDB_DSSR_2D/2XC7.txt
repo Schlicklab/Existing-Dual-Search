@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF PHAX-RBD IN COMPLEX WITH SSRNA 
+Chain order		P 
+Amino acids		YES
+Metal
+Chains			P	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2XC7 nts=4 [whole]
+AUCG
+....
+
+Interacting substructures
+Chain P 
+AUCG
+....
+

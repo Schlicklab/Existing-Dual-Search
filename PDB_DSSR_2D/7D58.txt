@@ -1,0 +1,20 @@
+Title			CRYO-EM STRUCTURE OF HUMAN RNA POLYMERASE III IN ELONGATING STATE 
+Chain order		R S T 
+Amino acids		YES
+Metal			Fe	4
+			Zn	7
+Chains			R	DNA	S 
+			S	DNA	T R 
+			T	RNA	S 
+Pseudoknot		NO
+
+Whole structure
+>7D58 nts=46 [whole]
+TGACACGCAAATTCGTC&GACGAATTTGCGTGTCTCGACACG&GUGUC
+..(.(((((((((((((&))))))))))))).)...(((((.&)))))
+
+Interacting substructures
+Chain R S T 
+TGACACGCAAATTCGTCGACGAATTTGCGTGTCTCGACACGGUGUC
+..(.((((((((((((())))))))))))).)...(((((.)))))
+

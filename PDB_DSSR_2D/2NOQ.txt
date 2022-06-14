@@ -1,0 +1,33 @@
+Title			STRUCTURE OF RIBOSOME-BOUND CRICKET PARALYSIS VIRUS IRES RNA 
+Chain order		A B C D E 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+			B	RNA	B 
+			C	RNA	D 
+			D	RNA	C 
+			E	RNA	E 
+Pseudoknot		YES
+
+Whole structure
+>2NOQ nts=317 [whole]
+AAAAAUGUGAUCUUGCUUGUAAAUACAAUUUUGAGAGGUUAAUAAAUUACAAGUAGUGCUAUUUUUGUAUUUAGGUUAGCUAUUUAGCUUUACGUUCCAGGAUGCCUAGUGGCAGCCCCACAAUAUCCAGGAAGCCCUCUCUGCGGUUUUUCAGAUUAGGUAGUCGAAAAACCUAAGAAAUUUACCUGCU&GCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGC&GCUGCAUGGCCGU&UCUGGUCAGCAUGGC&GGGAUGCGUAGGAUAGGUGGGAGCGCAAGCGCCGGUGAAAUACCACCCUUCCC
+(((((........(((((((((.(........[[[[[.......).)))))))))......))))).....[[[[[.((((....)))).....((((.((((]]]]]((((.....))))...)))).))))...]]]]]......(((((.....[.[[[[..)))))...........]]]].]...&((((([[[...(((((.....((.]]])).......))))))))))&(((...((((((.&.).)))...)).)))&((((.(......[..(((((..((....))..........].)))))).))))
+
+Interacting substructures
+Chain A 
+AAAAAUGUGAUCUUGCUUGUAAAUACAAUUUUGAGAGGUUAAUAAAUUACAAGUAGUGCUAUUUUUGUAUUUAGGUUAGCUAUUUAGCUUUACGUUCCAGGAUGCCUAGUGGCAGCCCCACAAUAUCCAGGAAGCCCUCUCUGCGGUUUUUCAGAUUAGGUAGUCGAAAAACCUAAGAAAUUUACCUGCU
+(((((........(((((((((.(........[[[[[.......).)))))))))......))))).....[[[[[.((((....)))).....((((.((((]]]]]((((.....))))...)))).))))...]]]]]......(((((.....[.[[[[..)))))...........]]]].]...
+
+Chain B 
+GCGCCGGCCAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGCGC
+((((([[[...(((((.....((.]]])).......))))))))))
+
+Chain C D 
+GCUGCAUGGCCGUUCUGGUCAGCAUGGC
+(((...((((((..).)))...)).)))
+
+Chain E 
+GGGAUGCGUAGGAUAGGUGGGAGCGCAAGCGCCGGUGAAAUACCACCCUUCCC
+((((.(......[..(((((..((....))..........].)))))).))))
+

@@ -1,0 +1,71 @@
+Title			? 
+Chain order		P S T V X Y a e h i m n TT UU WW bb kk ll qq 
+Amino acids		YES
+Metal			Mg	5
+Chains			P	RNA	e 
+			S	RNA	h 
+			T	RNA	i 
+			V	RNA	WW 
+			X	RNA	m 
+			Y	RNA	n 
+			a	RNA	
+			e	RNA	P 
+			h	RNA	S 
+			i	RNA	T 
+			m	RNA	X 
+			n	RNA	Y 
+			TT	RNA	kk 
+			UU	RNA	ll 
+			WW	RNA	V 
+			bb	RNA	qq 
+			kk	RNA	TT 
+			ll	RNA	UU 
+			qq	RNA	bb 
+Pseudoknot		YES
+
+Whole structure
+>7M50 nts=133 [whole]
+AAAAAAA&AAAAA&AAAAA&AAAAAAA&AAAAAAAA&AAAAAA&AAAAAA&UUUUUUUUUUUU&UUUUUUUU&UUUUU&UUUUUUU&UUUUUUU&AAAAAAA&AAAAAAAA&UUUUUUUUUU&AAAAAAAAA&UUUUUU&UUUUU&UUUUU
+..<<...&.{{{{&AA...&((.....&(((((((.&[[[[[.&......&....>>......&.}}}}...&.aa..&)))))))&]]]]]..&..{{...&...[[[..&..))......&....(.((.&.}}...&]]]..&)).).
+
+Interacting substructures
+Chain P e 
+AAAAAAAUUUUUUUUUUUU
+..<<.......>>......
+
+Chain S h 
+AAAAAUUUUUUUU
+.{{{{.}}}}...
+
+Chain T i 
+AAAAAUUUUU
+AA....aa..
+
+Chain V WW 
+AAAAAAAUUUUUUUUUU
+((.......))......
+
+Chain X m 
+AAAAAAAAUUUUUUU
+(((((((.)))))))
+
+Chain Y n 
+AAAAAAUUUUUUU
+[[[[[.]]]]]..
+
+Chain a 
+AAAAAA
+......
+
+Chain TT kk 
+AAAAAAAUUUUUU
+..{{....}}...
+
+Chain UU ll 
+AAAAAAAAUUUUU
+...[[[..]]]..
+
+Chain bb qq 
+AAAAAAAAAUUUUU
+....(.((.)).).
+

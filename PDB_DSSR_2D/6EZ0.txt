@@ -1,0 +1,17 @@
+Title			SPECIFIC PHOSPHOROTHIOATE SUBSTITUTION WITHIN DOMAIN 6 OF A GROUP II INTRON RIBOZYME LEADS TO CHANGES IN LOCAL STRUCTURE AND METAL ION BINDING 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>6EZ0 nts=27 [whole]
+GGAGCGGGGGuGuAAACCuAuCGCuCC
+((((((.((((....))))..))))))
+
+Interacting substructures
+Chain A 
+GGAGCGGGGGuGuAAACCuAuCGCuCC
+((((((.((((....))))..))))))
+

@@ -1,0 +1,25 @@
+Title			CRYSTAL STRUCTURES OF CY5 CYANINE FLUOROPHORES STACKED ONTO THE END OF DOUBLE-STRANDED RNA 
+Chain order		C-1 C-2 D-1 D-2 D-3 
+Amino acids		YES
+Metal
+Chains			C-1	RNA*	C-1 C-2 
+			C-2	RNA*	C-1 
+			D-1	RNA*	D-2 D-3 
+			D-2	RNA*	D-2 D-1 
+			D-3	RNA*	D-1 
+Pseudoknot		NO
+
+Whole structure
+>5NS3 nts=63 [whole]
+CGCACCUGACCCCAUGCCGAACUCAGA&GUGCG&CGCACCUGA&CCCAUGCCGAACUCAG&AGUGCG
+(((((((((...(.....)...)))).&)))))&(((((((((&..(.....)...))))&.)))))
+
+Interacting substructures
+Chain C-1 C-2 
+CGCACCUGACCCCAUGCCGAACUCAGAGUGCG
+(((((((((...(.....)...)))).)))))
+
+Chain D-1 D-2 D-3 
+CGCACCUGACCCAUGCCGAACUCAGAGUGCG
+(((((((((..(.....)...)))).)))))
+

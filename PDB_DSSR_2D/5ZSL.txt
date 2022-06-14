@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF MONKEY TLR7 IN COMPLEX WITH GGUUGG 
+Chain order		D E 
+Amino acids		YES
+Metal
+Chains			D	RNA	
+			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5ZSL nts=6 [whole]
+UUG&UUG
+...&...
+
+Interacting substructures
+Chain D 
+UUG
+...
+
+Chain E 
+UUG
+...
+

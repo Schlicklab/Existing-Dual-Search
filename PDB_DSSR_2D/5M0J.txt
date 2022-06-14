@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE CYTOPLASMIC COMPLEX WITH SHE2P, SHE3P, AND THE ASH1 MRNA E3-LOCALIZATION ELEMENT 
+Chain order		E F 
+Amino acids		YES
+Metal			Mg	4
+Chains			E	RNA	E 
+			F	RNA	F 
+Pseudoknot		NO
+
+Whole structure
+>5M0J nts=56 [whole]
+GAUAACUGAAUCGAAAGACAUUAUCACG&GAUAACUGAAUCGAAAGACAUUAUCACG
+((((......((....))...))))...&((((......((....))...))))...
+
+Interacting substructures
+Chain E 
+GAUAACUGAAUCGAAAGACAUUAUCACG
+((((......((....))...))))...
+
+Chain F 
+GAUAACUGAAUCGAAAGACAUUAUCACG
+((((......((....))...))))...
+

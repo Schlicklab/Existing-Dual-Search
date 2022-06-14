@@ -1,0 +1,20 @@
+Title			CO-COMPLEX OF BACKTRACKED RNA POLYMERASE II WITH TFIIS 
+Chain order		M N O 
+Amino acids		YES
+Metal			Mg	1
+			Zn	9
+Chains			M	RNA	N 
+			N	DNA	M O 
+			O	DNA	N 
+Pseudoknot		YES
+
+Whole structure
+>3GTM nts=53 [whole]
+AUCGAGAGGAU&CTACCGATAAGCAGACGATCCTCTCGAT&CTGCTTATCGGTAG
+..(((((((((&.[[[[[.[[[[[.....)))))))))..&..]]]]].]]]]].
+
+Interacting substructures
+Chain M N O 
+AUCGAGAGGAUCTACCGATAAGCAGACGATCCTCTCGATCTGCTTATCGGTAG
+..(((((((((.[[[[[.[[[[[.....)))))))))....]]]]].]]]]].
+

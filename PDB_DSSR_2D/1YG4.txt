@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE SCYLV P1-P2 FRAMESHIFTING PSEUDOKNOT, REGULARIZED AVERAGE STRUCTURE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>1YG4 nts=28 [whole]
+AGUGGcGCCGACCACUUAAAAACACCGG
+(((((..[[[.))))).........]]]
+
+Interacting substructures
+Chain A 
+AGUGGcGCCGACCACUUAAAAACACCGG
+(((((..[[[.))))).........]]]
+

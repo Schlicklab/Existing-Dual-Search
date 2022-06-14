@@ -1,0 +1,36 @@
+Title			CRYSTAL STRUCTURE OF EXPORTIN-5:RANGTP:PRE-MIRNA COMPLEX 
+Chain order		D-1 D-2 E I-1 I-2 J C H 
+Amino acids		YES
+Metal			Mg	2
+Chains			D-1	RNA*	E 
+			D-2	RNA*	E 
+			E	RNA	D-2 D-1 
+			I-1	RNA*	J 
+			I-2	RNA*	J 
+			J	RNA	I-2 I-1 
+			C			
+			H			
+Pseudoknot		NO
+
+Whole structure
+>3A6P nts=94 [whole]
+GGUAAACAUCC&GACUGGAAGCU&GGCUUUCAGUCGGAUGUUUGCCGC&GGUAAACAUCC&GACUGGAAGCU&GGCUUUCAGUCGGAUGUUUGCCGC&g&g
+(((((((((((&(((((((((.(&).))))))))))))))))))))..&(((((((((((&(((((((((.(&).))))))))))))))))))))..&.&.
+
+Interacting substructures
+Chain D-1 D-2 E 
+GGUAAACAUCCGACUGGAAGCUGGCUUUCAGUCGGAUGUUUGCCGC
+((((((((((((((((((((.().))))))))))))))))))))..
+
+Chain I-1 I-2 J 
+GGUAAACAUCCGACUGGAAGCUGGCUUUCAGUCGGAUGUUUGCCGC
+((((((((((((((((((((.().))))))))))))))))))))..
+
+Chain C 
+g
+.
+
+Chain H 
+g
+.
+

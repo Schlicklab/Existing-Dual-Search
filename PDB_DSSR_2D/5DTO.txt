@@ -1,0 +1,28 @@
+Title			DENGUE VIRUS FULL LENGTH NS5 COMPLEXED WITH VIRAL CAP 0-RNA AND SAH 
+Chain order		B-1 A B-2 
+Amino acids		YES
+Metal			Mg	2
+			Zn	2
+Chains			B-1	RNA*	
+			A			
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>5DTO nts=6 [whole]
+AGUU&a&g
+....&.&.
+
+Interacting substructures
+Chain B-1 
+AGUU
+....
+
+Chain A 
+a
+.
+
+Chain B-2 
+g
+.
+

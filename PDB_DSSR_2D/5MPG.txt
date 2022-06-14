@@ -1,0 +1,17 @@
+Title			SOLUTION NMR STRUCTURE OF HNRNP A1 RRM1 IN COMPLEX WITH 5'-UUAGGUC-3' RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5MPG nts=7 [whole]
+UUAGGUC
+.......
+
+Interacting substructures
+Chain B 
+UUAGGUC
+.......
+

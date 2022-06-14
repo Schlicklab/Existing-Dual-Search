@@ -1,0 +1,17 @@
+Title			STRUCTURE OF APUM23-GGAAUUGACGG 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5WZH nts=11 [whole]
+GGAAUUGACGG
+...........
+
+Interacting substructures
+Chain B 
+GGAAUUGACGG
+...........
+

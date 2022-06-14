@@ -1,0 +1,24 @@
+Title			X-RAY STRUCTURE OF R[CGCG(5-FLUORO)CG]2 
+Chain order		A B K L 
+Amino acids		NO
+Metal			Mg	4
+Chains			A	RNA	B 
+			B	RNA	A 
+			K	RNA	L 
+			L	RNA	K 
+Pseudoknot		NO
+
+Whole structure
+>3JXQ nts=24 [whole]
+CGCGcG&CGCGcG&CGCGcG&CGCGcG
+((((((&))))))&((((((&))))))
+
+Interacting substructures
+Chain A B 
+CGCGcGCGCGcG
+(((((())))))
+
+Chain K L 
+CGCGcGCGCGcG
+(((((())))))
+

@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE COMPLEX BETWEEN THE THIRD DSRBD FROM DROSOPHILA STAUFEN AND A RNA HAIRPIN 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>1EKZ nts=30 [whole]
+GGACAGCUGUCCCUUCGGGGACAGCUGUCC
+((((((((((((((..))))))))))))))
+
+Interacting substructures
+Chain B 
+GGACAGCUGUCCCUUCGGGGACAGCUGUCC
+((((((((((((((..))))))))))))))
+

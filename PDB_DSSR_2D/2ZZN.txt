@@ -1,0 +1,32 @@
+Title			THE COMPLEX STRUCTURE OF ATRM5 AND TRNACYS 
+Chain order		C D A B 
+Amino acids		YES
+Metal			Mg	7
+Chains			C	RNA	C 
+			D	RNA	D 
+			A			
+			B			
+Pseudoknot		YES
+
+Whole structure
+>2ZZN nts=144 [whole]
+GCCGGGGUAGUCUAGGGGCUAGGCAGCGGACUGCAGAUCCGCCUUACGUGGGUUCAAAUCCCACCCCCGGC&GCCGGGGUAGUCUAGGGGCUAGGCAGCGGACUGCAGAUCCGCCUUACGUGGGUUCAAAUCCCACCCCCGGC&a&a
+(((((((..((((....[..)))).(((((.......))))).....(((((..]....))))))))))))&(((((((..((((....[..)))).(((((.......))))).....(((((..]....))))))))))))&.&.
+
+Interacting substructures
+Chain C 
+GCCGGGGUAGUCUAGGGGCUAGGCAGCGGACUGCAGAUCCGCCUUACGUGGGUUCAAAUCCCACCCCCGGC
+(((((((..((((....[..)))).(((((.......))))).....(((((..]....))))))))))))
+
+Chain D 
+GCCGGGGUAGUCUAGGGGCUAGGCAGCGGACUGCAGAUCCGCCUUACGUGGGUUCAAAUCCCACCCCCGGC
+(((((((..((((....[..)))).(((((.......))))).....(((((..]....))))))))))))
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+

@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF FBF-2 R288Y MUTANT IN COMPLEX WITH GLD-1 FBEA A7U MUTANT 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3QGC nts=9 [whole]
+UGUGCCUUA
+.........
+
+Interacting substructures
+Chain B 
+UGUGCCUUA
+.........
+

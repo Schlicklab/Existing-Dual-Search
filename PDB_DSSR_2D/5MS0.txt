@@ -1,0 +1,26 @@
+Title			PSEUDO-ATOMIC MODEL OF THE RNA POLYMERASE LAMBDA-BASED ANTITERMINATION COMPLEX SOLVED BY CRYO-EM 
+Chain order		R H I-1 I-2 J 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			R	RNA	R 
+			H	RNA	J 
+			I-1	DNA*	J 
+			I-2	DNA*	J 
+			J	DNA	H I-2 I-1 
+Pseudoknot		YES
+
+Whole structure
+>5MS0 nts=109 [whole]
+AUCUUUAAAAAUAAGCCCUGAAGAAGGGC&CAUAAAGACCAGGC&GGCAGTACTAGTA&AAGTACTTGAGCTT&AAGCTCAAGTACTTAAGCCTGGTCATTACTAGTACTGCC
+..............(((((.....)))))&......[[[[[[[.&((((((((((((.&.(((((((((((((&)))))))))))))....]]]]]]]...))))))))))))
+
+Interacting substructures
+Chain R 
+AUCUUUAAAAAUAAGCCCUGAAGAAGGGC
+..............(((((.....)))))
+
+Chain H I-1 I-2 J 
+CAUAAAGACCAGGCGGCAGTACTAGTAAAGTACTTGAGCTTAAGCTCAAGTACTTAAGCCTGGTCATTACTAGTACTGCC
+......[[[[[[[.((((((((((((..((((((((((((()))))))))))))....]]]]]]]...))))))))))))
+

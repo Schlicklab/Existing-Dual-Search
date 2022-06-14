@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTION PRIMER TRNA(LYS3) 
+Chain order		A 
+Amino acids		NO
+Metal			Na	1
+			Mg	1
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>1FIR nts=76 [whole]
+GCCCGgAUAgCUCAGuCGGuAGAGCAPCAGACUtUUaAPCUGAGGguccAGGGtPCAaGUCCCUGUUCGGGCGCCA
+(((((((..((((.....[..))))..(((.........)))......(((((..]....))))))))))))....
+
+Interacting substructures
+Chain A 
+GCCCGgAUAgCUCAGuCGGuAGAGCAPCAGACUtUUaAPCUGAGGguccAGGGtPCAaGUCCCUGUUCGGGCGCCA
+(((((((..((((.....[..))))..(((.........)))......(((((..]....))))))))))))....
+

@@ -1,0 +1,18 @@
+Title			SOLUTION STRUCTURE OF THE 3' PSEUDOURIDYATION POCKET OF U65 SNORNA WITH BOUND SUBSTRATE 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>2P89 nts=48 [whole]
+GGCCUUAGGAAACAGUUCGCUGUGCCGAAAGGUC&UUCGGCUCUUCCUA
+[[[[[((((((((((....))))((((((]]]]]&))))))..))))))
+
+Interacting substructures
+Chain A B 
+GGCCUUAGGAAACAGUUCGCUGUGCCGAAAGGUCUUCGGCUCUUCCUA
+[[[[[((((((((((....))))((((((]]]]]))))))..))))))
+

@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF INFLUENZA B POLYMERASE WITH BOUND VRNA PROMOTER (FORM FLUB2) 
+Chain order		R V 
+Amino acids		YES
+Metal
+Chains			R	RNA	V 
+			V	RNA	V R 
+Pseudoknot		NO
+
+Whole structure
+>4WRT nts=29 [whole]
+ACCUCUGCUUCUGCU&AGUAGUAACAAGAG
+..((((.........&.((....)).))))
+
+Interacting substructures
+Chain R V 
+ACCUCUGCUUCUGCUAGUAGUAACAAGAG
+..((((..........((....)).))))
+

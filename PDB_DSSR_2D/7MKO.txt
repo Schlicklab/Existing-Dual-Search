@@ -1,0 +1,26 @@
+Title			ESCHERICHIA COLI RNA POLYMERASE ELONGATION COMPLEX 
+Chain order		N-1 N-2 R T D 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			N-1	DNA*	T 
+			N-2	DNA*	T 
+			R	RNA	T 
+			T	DNA	N-1 R N-2 
+			D			
+Pseudoknot		YES
+
+Whole structure
+>7MKO nts=63 [whole]
+GGGCTA&ATGACGGCGAATACCC&GCGGAGAGGUA&GGGTATTCGCCGTGTACCTCTCCTAGCCC&c
+...(((&...(((((((((((((&..[[[[[[[[[&))))))))))))).]]]]]]]]])))...&.
+
+Interacting substructures
+Chain N-1 N-2 R T 
+GGGCTAATGACGGCGAATACCCGCGGAGAGGUAGGGTATTCGCCGTGTACCTCTCCTAGCCC
+...(((...(((((((((((((..[[[[[[[[[))))))))))))).]]]]]]]]])))...
+
+Chain D 
+c
+.
+

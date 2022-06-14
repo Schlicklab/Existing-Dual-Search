@@ -1,0 +1,18 @@
+Title			SOLUTION STRUCTURE OF AN RRNA SUBSTRATE BOUND TO THE PSEUDOURIDYLATION POCKET OF A BOX H/ACA SNORNA 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>2PCW nts=49 [whole]
+GGACCCGCCACUGCAGAGAUGCAAUCCAGUGGUCC&ACUGGCUUGUGGCG
+[[[[[.(((((((((....))))..((((.]]]]]&.))))...))))).
+
+Interacting substructures
+Chain A B 
+GGACCCGCCACUGCAGAGAUGCAAUCCAGUGGUCCACUGGCUUGUGGCG
+[[[[[.(((((((((....))))..((((.]]]]].))))...))))).
+

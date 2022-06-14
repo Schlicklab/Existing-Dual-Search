@@ -1,0 +1,17 @@
+Title			RNA STRUCTURE DETERMINATION BY SOLID-STATE NMR SPECTROSCOPY 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2N0R nts=23 [whole]
+CUGAGCUCGAAAGAGCAAUGAUG
+(...((((....))))......)
+
+Interacting substructures
+Chain A 
+CUGAGCUCGAAAGAGCAAUGAUG
+(...((((....))))......)
+

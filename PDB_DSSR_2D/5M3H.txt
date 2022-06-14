@@ -1,0 +1,18 @@
+Title			BAT INFLUENZA A/H17N10 POLYMERASE BOUND TO FOUR HEPTAD REPEATS OF SERINE 5 PHOSPHORYLATED POL II CTD 
+Chain order		R V 
+Amino acids		YES
+Metal			Zn	1
+Chains			R	RNA	V 
+			V	RNA	V R 
+Pseudoknot		NO
+
+Whole structure
+>5M3H nts=28 [whole]
+UAUACCUCUGCU&AGUAGUAACAAGAGGG
+....(((((...&.((....)).))))).
+
+Interacting substructures
+Chain R V 
+UAUACCUCUGCUAGUAGUAACAAGAGGG
+....(((((....((....)).))))).
+

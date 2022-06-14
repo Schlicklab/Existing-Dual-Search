@@ -1,0 +1,18 @@
+Title			NMR SOLUTION OF HIV-1 LAI KISSING COMPLEX 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	B A 
+Pseudoknot		YES
+
+Whole structure
+>2F4X nts=48 [whole]
+GGUUGCUGAAGCGCGCACGGCAAC&GGUUGCUGAAGCGCGCACGGCAAC
+.(((((((..[[[[[[.)))))))&.(((((((..]]]]]].)))))))
+
+Interacting substructures
+Chain A B 
+GGUUGCUGAAGCGCGCACGGCAACGGUUGCUGAAGCGCGCACGGCAAC
+.(((((((..[[[[[[.))))))).(((((((..]]]]]].)))))))
+

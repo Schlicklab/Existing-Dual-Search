@@ -1,0 +1,18 @@
+Title			RTX (REVERSE TRANSCRIPTION XENOPOLYMERASE) IN COMPLEX WITH AN RNA/DNA HYBRID 
+Chain order		B C 
+Amino acids		YES
+Metal
+Chains			B	RNA	C 
+			C	DNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6WYB nts=23 [whole]
+GCAUACGACCA&TGGTCGTATGCC
+(((((((((((&))))))))))).
+
+Interacting substructures
+Chain B C 
+GCAUACGACCATGGTCGTATGCC
+((((((((((())))))))))).
+

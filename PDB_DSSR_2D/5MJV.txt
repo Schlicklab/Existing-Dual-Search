@@ -1,0 +1,17 @@
+Title			REBUILD AND RE-REFINED MODEL FOR HUMAN PARECHOVIRUS 1 
+Chain order		D 
+Amino acids		YES
+Metal
+Chains			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5MJV nts=6 [whole]
+GUUUUU
+......
+
+Interacting substructures
+Chain D 
+GUUUUU
+......
+

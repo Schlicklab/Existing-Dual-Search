@@ -1,0 +1,19 @@
+Title			CRYSTAL STRUCTURE OF SRP19 IN COMPLEX WITH THE S DOMAIN OF SIGNAL RECOGNITION PARTICLE RNA 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal			Mg	24
+			Hg	1
+Chains			B-1	RNA*	B-2 B-1 
+			B-2	RNA*	B-2 B-1 
+Pseudoknot		NO
+
+Whole structure
+>1L9A nts=126 [whole]
+GACACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUA&GAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGUc
+((((((..(.(((((((((((.(((((..((((((....))))))..))))).))))....&..(((((.....(.((....(((....)))....)).)...))))).))))))).)...))))))
+
+Interacting substructures
+Chain B-1 B-2 
+GACACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGUCAAAACUCCCGUGCUGAUCAGUAGUGUc
+((((((..(.(((((((((((.(((((..((((((....))))))..))))).))))......(((((.....(.((....(((....)))....)).)...))))).))))))).)...))))))
+

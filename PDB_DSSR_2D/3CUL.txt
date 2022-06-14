@@ -1,0 +1,23 @@
+Title			AMINOACYL-TRNA SYNTHETASE RIBOZYME 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	10
+			K	1
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>3CUL nts=184 [whole]
+gGAUGGCGAAAGCCAUUUCCGCAGGCCCCAUUGCACUCCGGGGUAUUGGCGUUAGGUGGUGGUACGAGGUUCGAAUCCUCGUACCGCAGCCA&GGAUGGCGAAAGCCAUUUCCGCAGGCCCCAUUGCACUCCGGGGUAUUGGCGUUAGGUGGUGGUACGAGGUUCGAAUCCUCGUACCGCAGCCA
+(((((((....)))))).)(((..(((((..........)))))....)))...((..(.(((((((((.......))))))))).)..)).&(((((((....)))))).)(((..(((((..........)))))....)))...(((.(((((((((((.......))))))))))).))).
+
+Interacting substructures
+Chain C 
+gGAUGGCGAAAGCCAUUUCCGCAGGCCCCAUUGCACUCCGGGGUAUUGGCGUUAGGUGGUGGUACGAGGUUCGAAUCCUCGUACCGCAGCCA
+(((((((....)))))).)(((..(((((..........)))))....)))...((..(.(((((((((.......))))))))).)..)).
+
+Chain D 
+GGAUGGCGAAAGCCAUUUCCGCAGGCCCCAUUGCACUCCGGGGUAUUGGCGUUAGGUGGUGGUACGAGGUUCGAAUCCUCGUACCGCAGCCA
+(((((((....)))))).)(((..(((((..........)))))....)))...(((.(((((((((((.......))))))))))).))).
+

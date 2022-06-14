@@ -1,0 +1,18 @@
+Title			FOOT AND MOUTH DISEASE VIRUS RNA-DEPENDENT RNA POLYMERASE IN COMPLEX WITH A TEMPLATE-PRIMER RNA 
+Chain order		B C 
+Amino acids		YES
+Metal			Mg	1
+Chains			B	RNA	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>1WNE nts=13 [whole]
+CAUGGGCC&GGCCC
+...((.((&)).))
+
+Interacting substructures
+Chain B C 
+CAUGGGCCGGCCC
+...((.(()).))
+

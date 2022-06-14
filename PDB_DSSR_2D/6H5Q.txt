@@ -1,0 +1,17 @@
+Title			CRYO-EM STRUCTURE OF IN VITRO ASSEMBLED MEASLES VIRUS N INTO NUCLEOCAPSID-LIKE PARTICLES (NCLPS) BOUND TO POLYA RNA HEXAMERS. 
+Chain order		R 
+Amino acids		YES
+Metal
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6H5Q nts=6 [whole]
+AAAAAA
+......
+
+Interacting substructures
+Chain R 
+AAAAAA
+......
+

@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF ANTITERMINATION FACTORS NUSB AND NUSE IN COMPLEX WITH BOXA RNA 
+Chain order		R S 
+Amino acids		YES
+Metal
+Chains			R	RNA	
+			S	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3R2C nts=18 [whole]
+GGCUCCUU&GGCUCCUUGG
+........&..........
+
+Interacting substructures
+Chain R 
+GGCUCCUU
+........
+
+Chain S 
+GGCUCCUUGG
+..........
+

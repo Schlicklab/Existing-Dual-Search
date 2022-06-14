@@ -1,0 +1,17 @@
+Title			GUANIDINO NEOMYCIN B RECOGNITION OF AN HIV-1 RNA HELIX 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2JUK nts=22 [whole]
+GGCCUUCCCACAAGGGAAGGCC
+(((((((((....)))))))))
+
+Interacting substructures
+Chain A 
+GGCCUUCCCACAAGGGAAGGCC
+(((((((((....)))))))))
+

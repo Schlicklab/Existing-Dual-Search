@@ -1,0 +1,22 @@
+Title			DENGUE VIRUS 4 NS3 HELICASE IN COMPLEX WITH SSRNA SLA12 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5XC6 nts=10 [whole]
+AGUUG&AGUUG
+.....&.....
+
+Interacting substructures
+Chain C 
+AGUUG
+.....
+
+Chain D 
+AGUUG
+.....
+

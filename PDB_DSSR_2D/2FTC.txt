@@ -1,0 +1,7227 @@
+Title			STRUCTURAL MODEL FOR THE LARGE SUBUNIT OF THE MAMMALIAN MITOCHONDRIAL RIBOSOME 
+Chain order		R-1 R-2 R-3 R-4 R-5 R-6 R-7 R-8 R-9 R-10 R-11 R-12 R-13 R-14 R-15 R-16 R-17 R-18 R-19 R-20 R-21 R-22 R-23 R-24 R-25 R-26 R-27 R-28 R-29 R-30 R-31 R-32 R-33 R-34 R-35 R-36 R-37 R-38 R-39 R-40 R-41 R-42 R-43 R-44 R-45 R-46 R-47 R-48 R-49 R-50 R-51 R-52 R-53 R-54 R-55 R-56 R-57 R-58 R-59 R-60 R-61 R-62 R-63 R-64 R-65 R-66 R-67 R-68 R-69 R-70 R-71 R-72 R-73 R-74 R-75 R-76 R-77 R-78 R-79 R-80 R-81 R-82 R-83 R-84 R-85 R-86 R-87 R-88 R-89 R-90 R-91 R-92 R-93 R-94 R-95 R-96 R-97 R-98 R-99 R-100 R-101 R-102 R-103 R-104 R-105 R-106 R-107 R-108 R-109 R-110 R-111 R-112 R-113 R-114 R-115 R-116 R-117 R-118 R-119 R-120 R-121 R-122 R-123 R-124 R-125 R-126 R-127 R-128 R-129 R-130 R-131 R-132 R-133 R-134 R-135 R-136 R-137 R-138 R-139 R-140 R-141 R-142 R-143 R-144 R-145 R-146 R-147 R-148 R-149 R-150 R-151 R-152 R-153 R-154 R-155 R-156 R-157 R-158 R-159 R-160 R-161 R-162 R-163 R-164 R-165 R-166 R-167 R-168 R-169 R-170 R-171 R-172 R-173 R-174 R-175 R-176 R-177 R-178 R-179 R-180 R-181 R-182 R-183 R-184 R-185 R-186 R-187 R-188 R-189 R-190 R-191 R-192 R-193 R-194 R-195 R-196 R-197 R-198 R-199 R-200 R-201 R-202 R-203 R-204 R-205 R-206 R-207 R-208 R-209 R-210 R-211 R-212 R-213 R-214 R-215 R-216 R-217 R-218 R-219 R-220 R-221 R-222 R-223 R-224 R-225 R-226 R-227 R-228 R-229 R-230 R-231 R-232 R-233 R-234 R-235 R-236 R-237 R-238 R-239 R-240 R-241 R-242 R-243 R-244 R-245 R-246 R-247 R-248 R-249 R-250 R-251 R-252 R-253 R-254 R-255 R-256 R-257 R-258 R-259 R-260 R-261 R-262 R-263 R-264 R-265 R-266 R-267 R-268 R-269 R-270 R-271 R-272 R-273 R-274 R-275 R-276 R-277 R-278 R-279 R-280 R-281 R-282 R-283 R-284 R-285 R-286 R-287 R-288 R-289 R-290 R-291 R-292 R-293 R-294 R-295 R-296 R-297 R-298 R-299 R-300 R-301 R-302 R-303 R-304 R-305 R-306 R-307 R-308 R-309 R-310 R-311 R-312 R-313 R-314 R-315 R-316 R-317 R-318 R-319 R-320 R-321 R-322 R-323 R-324 R-325 R-326 R-327 R-328 R-329 R-330 R-331 R-332 R-333 R-334 R-335 R-336 R-337 R-338 R-339 R-340 R-341 R-342 R-343 R-344 R-345 R-346 R-347 R-348 R-349 R-350 R-351 R-352 R-353 R-354 R-355 R-356 R-357 R-358 R-359 R-360 R-361 R-362 R-363 R-364 R-365 R-366 R-367 R-368 R-369 R-370 R-371 R-372 R-373 R-374 R-375 R-376 R-377 R-378 R-379 R-380 R-381 R-382 R-383 R-384 R-385 R-386 R-387 R-388 R-389 R-390 R-391 R-392 R-393 R-394 R-395 R-396 R-397 R-398 R-399 R-400 R-401 R-402 R-403 R-404 R-405 R-406 R-407 R-408 R-409 R-410 R-411 R-412 R-413 R-414 R-415 R-416 R-417 R-418 R-419 R-420 R-421 R-422 R-423 R-424 R-425 R-426 R-427 R-428 R-429 R-430 R-431 R-432 R-433 R-434 R-435 R-436 R-437 R-438 R-439 R-440 R-441 R-442 R-443 R-444 R-445 R-446 R-447 R-448 R-449 R-450 R-451 R-452 R-453 R-454 R-455 R-456 R-457 R-458 R-459 R-460 R-461 R-462 R-463 R-464 R-465 R-466 R-467 R-468 R-469 R-470 R-471 R-472 R-473 R-474 R-475 R-476 R-477 R-478 R-479 R-480 R-481 R-482 R-483 R-484 R-485 R-486 R-487 R-488 R-489 R-490 R-491 R-492 R-493 R-494 R-495 R-496 R-497 R-498 R-499 R-500 R-501 R-502 R-503 R-504 R-505 R-506 R-507 R-508 R-509 R-510 R-511 R-512 R-513 R-514 R-515 R-516 R-517 R-518 R-519 R-520 R-521 R-522 R-523 R-524 R-525 R-526 R-527 R-528 R-529 R-530 R-531 R-532 R-533 R-534 R-535 R-536 R-537 R-538 R-539 R-540 R-541 R-542 R-543 R-544 R-545 R-546 R-547 R-548 R-549 R-550 R-551 R-552 R-553 R-554 R-555 R-556 R-557 R-558 R-559 R-560 R-561 R-562 R-563 R-564 R-565 R-566 R-567 R-568 R-569 R-570 R-571 R-572 R-573 R-574 R-575 R-576 R-577 R-578 R-579 R-580 R-581 R-582 R-583 R-584 R-585 R-586 R-587 R-588 R-589 R-590 R-591 R-592 R-593 R-594 R-595 R-596 R-597 R-598 R-599 R-600 R-601 R-602 R-603 R-604 R-605 R-606 R-607 R-608 R-609 R-610 R-611 R-612 R-613 R-614 R-615 R-616 R-617 R-618 R-619 R-620 R-621 R-622 R-623 R-624 R-625 R-626 R-627 R-628 R-629 R-630 R-631 R-632 R-633 R-634 R-635 R-636 R-637 R-638 R-639 R-640 R-641 R-642 R-643 R-644 R-645 R-646 R-647 R-648 R-649 R-650 R-651 R-652 R-653 R-654 R-655 R-656 R-657 R-658 R-659 R-660 R-661 R-662 R-663 R-664 R-665 R-666 R-667 R-668 R-669 R-670 R-671 R-672 R-673 R-674 R-675 R-676 R-677 R-678 R-679 R-680 R-681 R-682 R-683 R-684 R-685 R-686 R-687 R-688 R-689 R-690 R-691 R-692 R-693 R-694 R-695 R-696 R-697 R-698 R-699 R-700 R-701 R-702 R-703 R-704 R-705 R-706 R-707 R-708 R-709 R-710 R-711 R-712 R-713 R-714 R-715 R-716 R-717 R-718 R-719 R-720 R-721 R-722 R-723 R-724 R-725 R-726 R-727 R-728 R-729 R-730 R-731 R-732 R-733 R-734 R-735 R-736 R-737 R-738 R-739 R-740 R-741 R-742 R-743 R-744 R-745 R-746 R-747 R-748 R-749 R-750 R-751 R-752 R-753 R-754 R-755 R-756 R-757 R-758 R-759 R-760 R-761 R-762 R-763 R-764 R-765 R-766 R-767 R-768 R-769 R-770 R-771 R-772 R-773 R-774 R-775 R-776 R-777 R-778 R-779 R-780 R-781 R-782 R-783 R-784 R-785 R-786 R-787 R-788 R-789 R-790 R-791 R-792 R-793 R-794 R-795 R-796 R-797 R-798 R-799 R-800 R-801 R-802 R-803 R-804 R-805 R-806 R-807 R-808 R-809 R-810 R-811 R-812 R-813 R-814 R-815 R-816 R-817 R-818 R-819 R-820 R-821 R-822 R-823 R-824 R-825 R-826 R-827 R-828 R-829 R-830 R-831 R-832 R-833 R-834 R-835 R-836 R-837 R-838 R-839 R-840 R-841 R-842 R-843 R-844 R-845 R-846 R-847 R-848 R-849 R-850 R-851 R-852 R-853 R-854 R-855 R-856 R-857 R-858 R-859 R-860 R-861 R-862 R-863 R-864 R-865 R-866 R-867 R-868 R-869 R-870 R-871 R-872 R-873 R-874 R-875 R-876 R-877 R-878 R-879 R-880 R-881 R-882 R-883 R-884 R-885 R-886 R-887 R-888 R-889 R-890 R-891 R-892 R-893 R-894 R-895 R-896 R-897 R-898 R-899 R-900 R-901 R-902 R-903 R-904 R-905 R-906 R-907 R-908 R-909 R-910 R-911 R-912 R-913 R-914 R-915 R-916 R-917 R-918 R-919 R-920 R-921 R-922 R-923 R-924 R-925 R-926 R-927 R-928 R-929 R-930 R-931 R-932 R-933 R-934 R-935 R-936 R-937 R-938 R-939 R-940 R-941 R-942 R-943 R-944 R-945 R-946 R-947 R-948 R-949 R-950 R-951 R-952 R-953 R-954 R-955 R-956 R-957 R-958 R-959 R-960 R-961 R-962 R-963 R-964 R-965 R-966 R-967 R-968 R-969 R-970 R-971 R-972 R-973 R-974 R-975 R-976 R-977 R-978 R-979 R-980 R-981 R-982 R-983 R-984 R-985 R-986 R-987 R-988 R-989 R-990 R-991 R-992 R-993 R-994 R-995 R-996 R-997 R-998 R-999 R-1000 R-1001 R-1002 R-1003 R-1004 R-1005 R-1006 R-1007 R-1008 R-1009 R-1010 R-1011 R-1012 R-1013 R-1014 R-1015 R-1016 R-1017 R-1018 R-1019 R-1020 R-1021 R-1022 R-1023 R-1024 R-1025 R-1026 R-1027 R-1028 R-1029 R-1030 R-1031 R-1032 R-1033 R-1034 R-1035 R-1036 R-1037 R-1038 R-1039 R-1040 R-1041 R-1042 R-1043 R-1044 R-1045 R-1046 R-1047 R-1048 R-1049 R-1050 R-1051 R-1052 R-1053 R-1054 R-1055 R-1056 R-1057 R-1058 R-1059 R-1060 R-1061 R-1062 R-1063 R-1064 R-1065 R-1066 R-1067 R-1068 R-1069 R-1070 R-1071 R-1072 R-1073 R-1074 R-1075 R-1076 R-1077 R-1078 R-1079 R-1080 R-1081 R-1082 R-1083 R-1084 R-1085 R-1086 R-1087 R-1088 R-1089 R-1090 R-1091 R-1092 R-1093 R-1094 R-1095 R-1096 R-1097 R-1098 R-1099 R-1100 R-1101 R-1102 R-1103 R-1104 R-1105 R-1106 R-1107 R-1108 R-1109 R-1110 R-1111 R-1112 R-1113 R-1114 R-1115 R-1116 R-1117 R-1118 R-1119 R-1120 R-1121 R-1122 R-1123 R-1124 R-1125 R-1126 R-1127 R-1128 R-1129 R-1130 R-1131 R-1132 R-1133 R-1134 R-1135 R-1136 R-1137 R-1138 R-1139 R-1140 R-1141 R-1142 R-1143 R-1144 R-1145 R-1146 R-1147 R-1148 R-1149 R-1150 R-1151 R-1152 R-1153 R-1154 R-1155 R-1156 R-1157 R-1158 R-1159 R-1160 R-1161 R-1162 R-1163 R-1164 R-1165 R-1166 R-1167 R-1168 R-1169 R-1170 R-1171 R-1172 R-1173 R-1174 R-1175 R-1176 R-1177 R-1178 R-1179 R-1180 R-1181 R-1182 R-1183 R-1184 R-1185 R-1186 R-1187 R-1188 R-1189 R-1190 R-1191 R-1192 R-1193 R-1194 R-1195 R-1196 R-1197 R-1198 R-1199 R-1200 R-1201 R-1202 R-1203 R-1204 R-1205 R-1206 R-1207 R-1208 R-1209 R-1210 R-1211 R-1212 R-1213 R-1214 R-1215 R-1216 R-1217 R-1218 R-1219 R-1220 R-1221 R-1222 R-1223 R-1224 R-1225 R-1226 R-1227 R-1228 R-1229 R-1230 R-1231 R-1232 R-1233 R-1234 R-1235 R-1236 R-1237 R-1238 R-1239 R-1240 R-1241 R-1242 R-1243 R-1244 R-1245 R-1246 R-1247 R-1248 R-1249 R-1250 R-1251 R-1252 R-1253 R-1254 R-1255 R-1256 R-1257 R-1258 R-1259 R-1260 R-1261 R-1262 R-1263 R-1264 R-1265 R-1266 R-1267 R-1268 R-1269 R-1270 R-1271 R-1272 R-1273 R-1274 R-1275 R-1276 R-1277 R-1278 R-1279 R-1280 R-1281 R-1282 R-1283 R-1284 R-1285 R-1286 R-1287 R-1288 R-1289 R-1290 R-1291 R-1292 R-1293 R-1294 R-1295 R-1296 R-1297 R-1298 R-1299 R-1300 R-1301 R-1302 R-1303 R-1304 R-1305 R-1306 R-1307 R-1308 R-1309 R-1310 R-1311 R-1312 R-1313 R-1314 R-1315 R-1316 R-1317 R-1318 R-1319 R-1320 R-1321 R-1322 R-1323 R-1324 R-1325 R-1326 R-1327 R-1328 R-1329 R-1330 R-1331 R-1332 R-1333 R-1334 R-1335 R-1336 R-1337 R-1338 R-1339 R-1340 R-1341 R-1342 R-1343 R-1344 R-1345 R-1346 R-1347 R-1348 R-1349 R-1350 R-1351 R-1352 R-1353 R-1354 R-1355 R-1356 R-1357 R-1358 R-1359 R-1360 R-1361 R-1362 R-1363 R-1364 R-1365 R-1366 R-1367 R-1368 R-1369 R-1370 R-1371 R-1372 R-1373 R-1374 R-1375 R-1376 R-1377 R-1378 R-1379 R-1380 R-1381 R-1382 R-1383 R-1384 R-1385 R-1386 R-1387 R-1388 R-1389 R-1390 R-1391 R-1392 R-1393 R-1394 R-1395 R-1396 R-1397 R-1398 R-1399 R-1400 R-1401 R-1402 R-1403 R-1404 R-1405 R-1406 R-1407 R-1408 R-1409 R-1410 R-1411 R-1412 R-1413 R-1414 R-1415 R-1416 R-1417 R-1418 R-1419 R-1420 R-1421 R-1422 R-1423 R-1424 R-1425 R-1426 R-1427 R-1428 R-1429 R-1430 R-1431 R-1432 R-1433 R-1434 R-1435 R-1436 R-1437 R-1438 R-1439 R-1440 R-1441 R-1442 R-1443 
+Amino acids		YES
+Metal
+Chains			R-1	DNA*	
+			R-2	DNA*	
+			R-3	DNA*	
+			R-4	DNA*	
+			R-5	DNA*	
+			R-6	DNA*	
+			R-7	DNA*	
+			R-8	DNA*	
+			R-9	DNA*	
+			R-10	DNA*	
+			R-11	DNA*	
+			R-12	DNA*	
+			R-13	DNA*	
+			R-14	DNA*	
+			R-15	DNA*	
+			R-16	DNA*	
+			R-17	DNA*	
+			R-18	DNA*	
+			R-19	DNA*	
+			R-20	DNA*	
+			R-21	DNA*	
+			R-22	DNA*	
+			R-23	DNA*	
+			R-24	DNA*	
+			R-25	DNA*	
+			R-26	DNA*	
+			R-27	DNA*	
+			R-28	DNA*	
+			R-29	DNA*	
+			R-30	DNA*	
+			R-31	DNA*	
+			R-32	DNA*	
+			R-33	DNA*	
+			R-34	DNA*	
+			R-35	DNA*	
+			R-36	DNA*	
+			R-37	DNA*	
+			R-38	DNA*	
+			R-39	DNA*	
+			R-40	DNA*	
+			R-41	DNA*	
+			R-42	DNA*	
+			R-43	DNA*	
+			R-44	DNA*	
+			R-45	DNA*	
+			R-46	DNA*	
+			R-47	DNA*	
+			R-48	DNA*	
+			R-49	DNA*	
+			R-50	DNA*	
+			R-51	DNA*	
+			R-52	DNA*	
+			R-53	DNA*	
+			R-54	DNA*	
+			R-55	DNA*	
+			R-56	DNA*	
+			R-57	DNA*	
+			R-58	DNA*	
+			R-59	DNA*	
+			R-60	DNA*	
+			R-61	DNA*	
+			R-62	DNA*	
+			R-63	DNA*	
+			R-64	DNA*	
+			R-65	DNA*	
+			R-66	DNA*	
+			R-67	DNA*	
+			R-68	DNA*	
+			R-69	DNA*	
+			R-70	DNA*	
+			R-71	DNA*	
+			R-72	DNA*	
+			R-73	DNA*	
+			R-74	DNA*	
+			R-75	DNA*	
+			R-76	DNA*	
+			R-77	DNA*	
+			R-78	DNA*	
+			R-79	DNA*	
+			R-80	DNA*	
+			R-81	DNA*	
+			R-82	DNA*	
+			R-83	DNA*	
+			R-84	DNA*	
+			R-85	DNA*	
+			R-86	DNA*	
+			R-87	DNA*	
+			R-88	DNA*	
+			R-89	DNA*	
+			R-90	DNA*	
+			R-91	DNA*	
+			R-92	DNA*	
+			R-93	DNA*	
+			R-94	DNA*	
+			R-95	DNA*	
+			R-96	DNA*	
+			R-97	DNA*	
+			R-98	DNA*	
+			R-99	DNA*	
+			R-100	DNA*	
+			R-101	DNA*	
+			R-102	DNA*	
+			R-103	DNA*	
+			R-104	DNA*	
+			R-105	DNA*	
+			R-106	DNA*	
+			R-107	DNA*	
+			R-108	DNA*	
+			R-109	DNA*	
+			R-110	DNA*	
+			R-111	DNA*	
+			R-112	DNA*	
+			R-113	DNA*	
+			R-114	DNA*	
+			R-115	DNA*	
+			R-116	DNA*	
+			R-117	DNA*	
+			R-118	DNA*	
+			R-119	DNA*	
+			R-120	DNA*	
+			R-121	DNA*	
+			R-122	DNA*	
+			R-123	DNA*	
+			R-124	DNA*	
+			R-125	DNA*	
+			R-126	DNA*	
+			R-127	DNA*	
+			R-128	DNA*	
+			R-129	DNA*	
+			R-130	DNA*	
+			R-131	DNA*	
+			R-132	DNA*	
+			R-133	DNA*	
+			R-134	DNA*	
+			R-135	DNA*	
+			R-136	DNA*	
+			R-137	DNA*	
+			R-138	DNA*	
+			R-139	DNA*	
+			R-140	DNA*	
+			R-141	DNA*	
+			R-142	DNA*	
+			R-143	DNA*	
+			R-144	DNA*	
+			R-145	DNA*	
+			R-146	DNA*	
+			R-147	DNA*	
+			R-148	DNA*	
+			R-149	DNA*	
+			R-150	DNA*	
+			R-151	DNA*	
+			R-152	DNA*	
+			R-153	DNA*	
+			R-154	DNA*	
+			R-155	DNA*	
+			R-156	DNA*	
+			R-157	DNA*	
+			R-158	DNA*	
+			R-159	DNA*	
+			R-160	DNA*	
+			R-161	DNA*	
+			R-162	DNA*	
+			R-163	DNA*	
+			R-164	DNA*	
+			R-165	DNA*	
+			R-166	DNA*	
+			R-167	DNA*	
+			R-168	DNA*	
+			R-169	DNA*	
+			R-170	DNA*	
+			R-171	DNA*	
+			R-172	DNA*	
+			R-173	DNA*	
+			R-174	DNA*	
+			R-175	DNA*	
+			R-176	DNA*	
+			R-177	DNA*	
+			R-178	DNA*	
+			R-179	DNA*	
+			R-180	DNA*	
+			R-181	DNA*	
+			R-182	DNA*	
+			R-183	DNA*	
+			R-184	DNA*	
+			R-185	DNA*	
+			R-186	DNA*	
+			R-187	DNA*	
+			R-188	DNA*	
+			R-189	DNA*	
+			R-190	DNA*	
+			R-191	DNA*	
+			R-192	DNA*	
+			R-193	DNA*	
+			R-194	DNA*	
+			R-195	DNA*	
+			R-196	DNA*	
+			R-197	DNA*	
+			R-198	DNA*	
+			R-199	DNA*	
+			R-200	DNA*	
+			R-201	DNA*	
+			R-202	DNA*	
+			R-203	DNA*	
+			R-204	DNA*	
+			R-205	DNA*	
+			R-206	DNA*	
+			R-207	DNA*	
+			R-208	DNA*	
+			R-209	DNA*	
+			R-210	DNA*	
+			R-211	DNA*	
+			R-212	DNA*	
+			R-213	DNA*	
+			R-214	DNA*	
+			R-215	DNA*	
+			R-216	DNA*	
+			R-217	DNA*	
+			R-218	DNA*	
+			R-219	DNA*	
+			R-220	DNA*	
+			R-221	DNA*	
+			R-222	DNA*	
+			R-223	DNA*	
+			R-224	DNA*	
+			R-225	DNA*	
+			R-226	DNA*	
+			R-227	DNA*	
+			R-228	DNA*	
+			R-229	DNA*	
+			R-230	DNA*	
+			R-231	DNA*	
+			R-232	DNA*	
+			R-233	DNA*	
+			R-234	DNA*	
+			R-235	DNA*	
+			R-236	DNA*	
+			R-237	DNA*	
+			R-238	DNA*	
+			R-239	DNA*	
+			R-240	DNA*	
+			R-241	DNA*	
+			R-242	DNA*	
+			R-243	DNA*	
+			R-244	DNA*	
+			R-245	DNA*	
+			R-246	DNA*	
+			R-247	DNA*	
+			R-248	DNA*	
+			R-249	DNA*	
+			R-250	DNA*	
+			R-251	DNA*	
+			R-252	DNA*	
+			R-253	DNA*	
+			R-254	DNA*	
+			R-255	DNA*	
+			R-256	DNA*	
+			R-257	DNA*	
+			R-258	DNA*	
+			R-259	DNA*	
+			R-260	DNA*	
+			R-261	DNA*	
+			R-262	DNA*	
+			R-263	DNA*	
+			R-264	DNA*	
+			R-265	DNA*	
+			R-266	DNA*	
+			R-267	DNA*	
+			R-268	DNA*	
+			R-269	DNA*	
+			R-270	DNA*	
+			R-271	DNA*	
+			R-272	DNA*	
+			R-273	DNA*	
+			R-274	DNA*	
+			R-275	DNA*	
+			R-276	DNA*	
+			R-277	DNA*	
+			R-278	DNA*	
+			R-279	DNA*	
+			R-280	DNA*	
+			R-281	DNA*	
+			R-282	DNA*	
+			R-283	DNA*	
+			R-284	DNA*	
+			R-285	DNA*	
+			R-286	DNA*	
+			R-287	DNA*	
+			R-288	DNA*	
+			R-289	DNA*	
+			R-290	DNA*	
+			R-291	DNA*	
+			R-292	DNA*	
+			R-293	DNA*	
+			R-294	DNA*	
+			R-295	DNA*	
+			R-296	DNA*	
+			R-297	DNA*	
+			R-298	DNA*	
+			R-299	DNA*	
+			R-300	DNA*	
+			R-301	DNA*	
+			R-302	DNA*	
+			R-303	DNA*	
+			R-304	DNA*	
+			R-305	DNA*	
+			R-306	DNA*	
+			R-307	DNA*	
+			R-308	DNA*	
+			R-309	DNA*	
+			R-310	DNA*	
+			R-311	DNA*	
+			R-312	DNA*	
+			R-313	DNA*	
+			R-314	DNA*	
+			R-315	DNA*	
+			R-316	DNA*	
+			R-317	DNA*	
+			R-318	DNA*	
+			R-319	DNA*	
+			R-320	DNA*	
+			R-321	DNA*	
+			R-322	DNA*	
+			R-323	DNA*	
+			R-324	DNA*	
+			R-325	DNA*	
+			R-326	DNA*	
+			R-327	DNA*	
+			R-328	DNA*	
+			R-329	DNA*	
+			R-330	DNA*	
+			R-331	DNA*	
+			R-332	DNA*	
+			R-333	DNA*	
+			R-334	DNA*	
+			R-335	DNA*	
+			R-336	DNA*	
+			R-337	DNA*	
+			R-338	DNA*	
+			R-339	DNA*	
+			R-340	DNA*	
+			R-341	DNA*	
+			R-342	DNA*	
+			R-343	DNA*	
+			R-344	DNA*	
+			R-345	DNA*	
+			R-346	DNA*	
+			R-347	DNA*	
+			R-348	DNA*	
+			R-349	DNA*	
+			R-350	DNA*	
+			R-351	DNA*	
+			R-352	DNA*	
+			R-353	DNA*	
+			R-354	DNA*	
+			R-355	DNA*	
+			R-356	DNA*	
+			R-357	DNA*	
+			R-358	DNA*	
+			R-359	DNA*	
+			R-360	DNA*	
+			R-361	DNA*	
+			R-362	DNA*	
+			R-363	DNA*	
+			R-364	DNA*	
+			R-365	DNA*	
+			R-366	DNA*	
+			R-367	DNA*	
+			R-368	DNA*	
+			R-369	DNA*	
+			R-370	DNA*	
+			R-371	DNA*	
+			R-372	DNA*	
+			R-373	DNA*	
+			R-374	DNA*	
+			R-375	DNA*	
+			R-376	DNA*	
+			R-377	DNA*	
+			R-378	DNA*	
+			R-379	DNA*	
+			R-380	DNA*	
+			R-381	DNA*	
+			R-382	DNA*	
+			R-383	DNA*	
+			R-384	DNA*	
+			R-385	DNA*	
+			R-386	DNA*	
+			R-387	DNA*	
+			R-388	DNA*	
+			R-389	DNA*	
+			R-390	DNA*	
+			R-391	DNA*	
+			R-392	DNA*	
+			R-393	DNA*	
+			R-394	DNA*	
+			R-395	DNA*	
+			R-396	DNA*	
+			R-397	DNA*	
+			R-398	DNA*	
+			R-399	DNA*	
+			R-400	DNA*	
+			R-401	DNA*	
+			R-402	DNA*	
+			R-403	DNA*	
+			R-404	DNA*	
+			R-405	DNA*	
+			R-406	DNA*	
+			R-407	DNA*	
+			R-408	DNA*	
+			R-409	DNA*	
+			R-410	DNA*	
+			R-411	DNA*	
+			R-412	DNA*	
+			R-413	DNA*	
+			R-414	DNA*	
+			R-415	DNA*	
+			R-416	DNA*	
+			R-417	DNA*	
+			R-418	DNA*	
+			R-419	DNA*	
+			R-420	DNA*	
+			R-421	DNA*	
+			R-422	DNA*	
+			R-423	DNA*	
+			R-424	DNA*	
+			R-425	DNA*	
+			R-426	DNA*	
+			R-427	DNA*	
+			R-428	DNA*	
+			R-429	DNA*	
+			R-430	DNA*	
+			R-431	DNA*	
+			R-432	DNA*	
+			R-433	DNA*	
+			R-434	DNA*	
+			R-435	DNA*	
+			R-436	DNA*	
+			R-437	DNA*	
+			R-438	DNA*	
+			R-439	DNA*	
+			R-440	DNA*	
+			R-441	DNA*	
+			R-442	DNA*	
+			R-443	DNA*	
+			R-444	DNA*	
+			R-445	DNA*	
+			R-446	DNA*	
+			R-447	DNA*	
+			R-448	DNA*	
+			R-449	DNA*	
+			R-450	DNA*	
+			R-451	DNA*	
+			R-452	DNA*	
+			R-453	DNA*	
+			R-454	DNA*	
+			R-455	DNA*	
+			R-456	DNA*	
+			R-457	DNA*	
+			R-458	DNA*	
+			R-459	DNA*	
+			R-460	DNA*	
+			R-461	DNA*	
+			R-462	DNA*	
+			R-463	DNA*	
+			R-464	DNA*	
+			R-465	DNA*	
+			R-466	DNA*	
+			R-467	DNA*	
+			R-468	DNA*	
+			R-469	DNA*	
+			R-470	DNA*	
+			R-471	DNA*	
+			R-472	DNA*	
+			R-473	DNA*	
+			R-474	DNA*	
+			R-475	DNA*	
+			R-476	DNA*	
+			R-477	DNA*	
+			R-478	DNA*	
+			R-479	DNA*	
+			R-480	DNA*	
+			R-481	DNA*	
+			R-482	DNA*	
+			R-483	DNA*	
+			R-484	DNA*	
+			R-485	DNA*	
+			R-486	DNA*	
+			R-487	DNA*	
+			R-488	DNA*	
+			R-489	DNA*	
+			R-490	DNA*	
+			R-491	DNA*	
+			R-492	DNA*	
+			R-493	DNA*	
+			R-494	DNA*	
+			R-495	DNA*	
+			R-496	DNA*	
+			R-497	DNA*	
+			R-498	DNA*	
+			R-499	DNA*	
+			R-500	DNA*	
+			R-501	DNA*	
+			R-502	DNA*	
+			R-503	DNA*	
+			R-504	DNA*	
+			R-505	DNA*	
+			R-506	DNA*	
+			R-507	DNA*	
+			R-508	DNA*	
+			R-509	DNA*	
+			R-510	DNA*	
+			R-511	DNA*	
+			R-512	DNA*	
+			R-513	DNA*	
+			R-514	DNA*	
+			R-515	DNA*	
+			R-516	DNA*	
+			R-517	DNA*	
+			R-518	DNA*	
+			R-519	DNA*	
+			R-520	DNA*	
+			R-521	DNA*	
+			R-522	DNA*	
+			R-523	DNA*	
+			R-524	DNA*	
+			R-525	DNA*	
+			R-526	DNA*	
+			R-527	DNA*	
+			R-528	DNA*	
+			R-529	DNA*	
+			R-530	DNA*	
+			R-531	DNA*	
+			R-532	DNA*	
+			R-533	DNA*	
+			R-534	DNA*	
+			R-535	DNA*	
+			R-536	DNA*	
+			R-537	DNA*	
+			R-538	DNA*	
+			R-539	DNA*	
+			R-540	DNA*	
+			R-541	DNA*	
+			R-542	DNA*	
+			R-543	DNA*	
+			R-544	DNA*	
+			R-545	DNA*	
+			R-546	DNA*	
+			R-547	DNA*	
+			R-548	DNA*	
+			R-549	DNA*	
+			R-550	DNA*	
+			R-551	DNA*	
+			R-552	DNA*	
+			R-553	DNA*	
+			R-554	DNA*	
+			R-555	DNA*	
+			R-556	DNA*	
+			R-557	DNA*	
+			R-558	DNA*	
+			R-559	DNA*	
+			R-560	DNA*	
+			R-561	DNA*	
+			R-562	DNA*	
+			R-563	DNA*	
+			R-564	DNA*	
+			R-565	DNA*	
+			R-566	DNA*	
+			R-567	DNA*	
+			R-568	DNA*	
+			R-569	DNA*	
+			R-570	DNA*	
+			R-571	DNA*	
+			R-572	DNA*	
+			R-573	DNA*	
+			R-574	DNA*	
+			R-575	DNA*	
+			R-576	DNA*	
+			R-577	DNA*	
+			R-578	DNA*	
+			R-579	DNA*	
+			R-580	DNA*	
+			R-581	DNA*	
+			R-582	DNA*	
+			R-583	DNA*	
+			R-584	DNA*	
+			R-585	DNA*	
+			R-586	DNA*	
+			R-587	DNA*	
+			R-588	DNA*	
+			R-589	DNA*	
+			R-590	DNA*	
+			R-591	DNA*	
+			R-592	DNA*	
+			R-593	DNA*	
+			R-594	DNA*	
+			R-595	DNA*	
+			R-596	DNA*	
+			R-597	DNA*	
+			R-598	DNA*	
+			R-599	DNA*	
+			R-600	DNA*	
+			R-601	DNA*	
+			R-602	DNA*	
+			R-603	DNA*	
+			R-604	DNA*	
+			R-605	DNA*	
+			R-606	DNA*	
+			R-607	DNA*	
+			R-608	DNA*	
+			R-609	DNA*	
+			R-610	DNA*	
+			R-611	DNA*	
+			R-612	DNA*	
+			R-613	DNA*	
+			R-614	DNA*	
+			R-615	DNA*	
+			R-616	DNA*	
+			R-617	DNA*	
+			R-618	DNA*	
+			R-619	DNA*	
+			R-620	DNA*	
+			R-621	DNA*	
+			R-622	DNA*	
+			R-623	DNA*	
+			R-624	DNA*	
+			R-625	DNA*	
+			R-626	DNA*	
+			R-627	DNA*	
+			R-628	DNA*	
+			R-629	DNA*	
+			R-630	DNA*	
+			R-631	DNA*	
+			R-632	DNA*	
+			R-633	DNA*	
+			R-634	DNA*	
+			R-635	DNA*	
+			R-636	DNA*	
+			R-637	DNA*	
+			R-638	DNA*	
+			R-639	DNA*	
+			R-640	DNA*	
+			R-641	DNA*	
+			R-642	DNA*	
+			R-643	DNA*	
+			R-644	DNA*	
+			R-645	DNA*	
+			R-646	DNA*	
+			R-647	DNA*	
+			R-648	DNA*	
+			R-649	DNA*	
+			R-650	DNA*	
+			R-651	DNA*	
+			R-652	DNA*	
+			R-653	DNA*	
+			R-654	DNA*	
+			R-655	DNA*	
+			R-656	DNA*	
+			R-657	DNA*	
+			R-658	DNA*	
+			R-659	DNA*	
+			R-660	DNA*	
+			R-661	DNA*	
+			R-662	DNA*	
+			R-663	DNA*	
+			R-664	DNA*	
+			R-665	DNA*	
+			R-666	DNA*	
+			R-667	DNA*	
+			R-668	DNA*	
+			R-669	DNA*	
+			R-670	DNA*	
+			R-671	DNA*	
+			R-672	DNA*	
+			R-673	DNA*	
+			R-674	DNA*	
+			R-675	DNA*	
+			R-676	DNA*	
+			R-677	DNA*	
+			R-678	DNA*	
+			R-679	DNA*	
+			R-680	DNA*	
+			R-681	DNA*	
+			R-682	DNA*	
+			R-683	DNA*	
+			R-684	DNA*	
+			R-685	DNA*	
+			R-686	DNA*	
+			R-687	DNA*	
+			R-688	DNA*	
+			R-689	DNA*	
+			R-690	DNA*	
+			R-691	DNA*	
+			R-692	DNA*	
+			R-693	DNA*	
+			R-694	DNA*	
+			R-695	DNA*	
+			R-696	DNA*	
+			R-697	DNA*	
+			R-698	DNA*	
+			R-699	DNA*	
+			R-700	DNA*	
+			R-701	DNA*	
+			R-702	DNA*	
+			R-703	DNA*	
+			R-704	DNA*	
+			R-705	DNA*	
+			R-706	DNA*	
+			R-707	DNA*	
+			R-708	DNA*	
+			R-709	DNA*	
+			R-710	DNA*	
+			R-711	DNA*	
+			R-712	DNA*	
+			R-713	DNA*	
+			R-714	DNA*	
+			R-715	DNA*	
+			R-716	DNA*	
+			R-717	DNA*	
+			R-718	DNA*	
+			R-719	DNA*	
+			R-720	DNA*	
+			R-721	DNA*	
+			R-722	DNA*	
+			R-723	DNA*	
+			R-724	DNA*	
+			R-725	DNA*	
+			R-726	DNA*	
+			R-727	DNA*	
+			R-728	DNA*	
+			R-729	DNA*	
+			R-730	DNA*	
+			R-731	DNA*	
+			R-732	DNA*	
+			R-733	DNA*	
+			R-734	DNA*	
+			R-735	DNA*	
+			R-736	DNA*	
+			R-737	DNA*	
+			R-738	DNA*	
+			R-739	DNA*	
+			R-740	DNA*	
+			R-741	DNA*	
+			R-742	DNA*	
+			R-743	DNA*	
+			R-744	DNA*	
+			R-745	DNA*	
+			R-746	DNA*	
+			R-747	DNA*	
+			R-748	DNA*	
+			R-749	DNA*	
+			R-750	DNA*	
+			R-751	DNA*	
+			R-752	DNA*	
+			R-753	DNA*	
+			R-754	DNA*	
+			R-755	DNA*	
+			R-756	DNA*	
+			R-757	DNA*	
+			R-758	DNA*	
+			R-759	DNA*	
+			R-760	DNA*	
+			R-761	DNA*	
+			R-762	DNA*	
+			R-763	DNA*	
+			R-764	DNA*	
+			R-765	DNA*	
+			R-766	DNA*	
+			R-767	DNA*	
+			R-768	DNA*	
+			R-769	DNA*	
+			R-770	DNA*	
+			R-771	DNA*	
+			R-772	DNA*	
+			R-773	DNA*	
+			R-774	DNA*	
+			R-775	DNA*	
+			R-776	DNA*	
+			R-777	DNA*	
+			R-778	DNA*	
+			R-779	DNA*	
+			R-780	DNA*	
+			R-781	DNA*	
+			R-782	DNA*	
+			R-783	DNA*	
+			R-784	DNA*	
+			R-785	DNA*	
+			R-786	DNA*	
+			R-787	DNA*	
+			R-788	DNA*	
+			R-789	DNA*	
+			R-790	DNA*	
+			R-791	DNA*	
+			R-792	DNA*	
+			R-793	DNA*	
+			R-794	DNA*	
+			R-795	DNA*	
+			R-796	DNA*	
+			R-797	DNA*	
+			R-798	DNA*	
+			R-799	DNA*	
+			R-800	DNA*	
+			R-801	DNA*	
+			R-802	DNA*	
+			R-803	DNA*	
+			R-804	DNA*	
+			R-805	DNA*	
+			R-806	DNA*	
+			R-807	DNA*	
+			R-808	DNA*	
+			R-809	DNA*	
+			R-810	DNA*	
+			R-811	DNA*	
+			R-812	DNA*	
+			R-813	DNA*	
+			R-814	DNA*	
+			R-815	DNA*	
+			R-816	DNA*	
+			R-817	DNA*	
+			R-818	DNA*	
+			R-819	DNA*	
+			R-820	DNA*	
+			R-821	DNA*	
+			R-822	DNA*	
+			R-823	DNA*	
+			R-824	DNA*	
+			R-825	DNA*	
+			R-826	DNA*	
+			R-827	DNA*	
+			R-828	DNA*	
+			R-829	DNA*	
+			R-830	DNA*	
+			R-831	DNA*	
+			R-832	DNA*	
+			R-833	DNA*	
+			R-834	DNA*	
+			R-835	DNA*	
+			R-836	DNA*	
+			R-837	DNA*	
+			R-838	DNA*	
+			R-839	DNA*	
+			R-840	DNA*	
+			R-841	DNA*	
+			R-842	DNA*	
+			R-843	DNA*	
+			R-844	DNA*	
+			R-845	DNA*	
+			R-846	DNA*	
+			R-847	DNA*	
+			R-848	DNA*	
+			R-849	DNA*	
+			R-850	DNA*	
+			R-851	DNA*	
+			R-852	DNA*	
+			R-853	DNA*	
+			R-854	DNA*	
+			R-855	DNA*	
+			R-856	DNA*	
+			R-857	DNA*	
+			R-858	DNA*	
+			R-859	DNA*	
+			R-860	DNA*	
+			R-861	DNA*	
+			R-862	DNA*	
+			R-863	DNA*	
+			R-864	DNA*	
+			R-865	DNA*	
+			R-866	DNA*	
+			R-867	DNA*	
+			R-868	DNA*	
+			R-869	DNA*	
+			R-870	DNA*	
+			R-871	DNA*	
+			R-872	DNA*	
+			R-873	DNA*	
+			R-874	DNA*	
+			R-875	DNA*	
+			R-876	DNA*	
+			R-877	DNA*	
+			R-878	DNA*	
+			R-879	DNA*	
+			R-880	DNA*	
+			R-881	DNA*	
+			R-882	DNA*	
+			R-883	DNA*	
+			R-884	DNA*	
+			R-885	DNA*	
+			R-886	DNA*	
+			R-887	DNA*	
+			R-888	DNA*	
+			R-889	DNA*	
+			R-890	DNA*	
+			R-891	DNA*	
+			R-892	DNA*	
+			R-893	DNA*	
+			R-894	DNA*	
+			R-895	DNA*	
+			R-896	DNA*	
+			R-897	DNA*	
+			R-898	DNA*	
+			R-899	DNA*	
+			R-900	DNA*	
+			R-901	DNA*	
+			R-902	DNA*	
+			R-903	DNA*	
+			R-904	DNA*	
+			R-905	DNA*	
+			R-906	DNA*	
+			R-907	DNA*	
+			R-908	DNA*	
+			R-909	DNA*	
+			R-910	DNA*	
+			R-911	DNA*	
+			R-912	DNA*	
+			R-913	DNA*	
+			R-914	DNA*	
+			R-915	DNA*	
+			R-916	DNA*	
+			R-917	DNA*	
+			R-918	DNA*	
+			R-919	DNA*	
+			R-920	DNA*	
+			R-921	DNA*	
+			R-922	DNA*	
+			R-923	DNA*	
+			R-924	DNA*	
+			R-925	DNA*	
+			R-926	DNA*	
+			R-927	DNA*	
+			R-928	DNA*	
+			R-929	DNA*	
+			R-930	DNA*	
+			R-931	DNA*	
+			R-932	DNA*	
+			R-933	DNA*	
+			R-934	DNA*	
+			R-935	DNA*	
+			R-936	DNA*	
+			R-937	DNA*	
+			R-938	DNA*	
+			R-939	DNA*	
+			R-940	DNA*	
+			R-941	DNA*	
+			R-942	DNA*	
+			R-943	DNA*	
+			R-944	DNA*	
+			R-945	DNA*	
+			R-946	DNA*	
+			R-947	DNA*	
+			R-948	DNA*	
+			R-949	DNA*	
+			R-950	DNA*	
+			R-951	DNA*	
+			R-952	DNA*	
+			R-953	DNA*	
+			R-954	DNA*	
+			R-955	DNA*	
+			R-956	DNA*	
+			R-957	DNA*	
+			R-958	DNA*	
+			R-959	DNA*	
+			R-960	DNA*	
+			R-961	DNA*	
+			R-962	DNA*	
+			R-963	DNA*	
+			R-964	DNA*	
+			R-965	DNA*	
+			R-966	DNA*	
+			R-967	DNA*	
+			R-968	DNA*	
+			R-969	DNA*	
+			R-970	DNA*	
+			R-971	DNA*	
+			R-972	DNA*	
+			R-973	DNA*	
+			R-974	DNA*	
+			R-975	DNA*	
+			R-976	DNA*	
+			R-977	DNA*	
+			R-978	DNA*	
+			R-979	DNA*	
+			R-980	DNA*	
+			R-981	DNA*	
+			R-982	DNA*	
+			R-983	DNA*	
+			R-984	DNA*	
+			R-985	DNA*	
+			R-986	DNA*	
+			R-987	DNA*	
+			R-988	DNA*	
+			R-989	DNA*	
+			R-990	DNA*	
+			R-991	DNA*	
+			R-992	DNA*	
+			R-993	DNA*	
+			R-994	DNA*	
+			R-995	DNA*	
+			R-996	DNA*	
+			R-997	DNA*	
+			R-998	DNA*	
+			R-999	DNA*	
+			R-1000	DNA*	
+			R-1001	DNA*	
+			R-1002	DNA*	
+			R-1003	DNA*	
+			R-1004	DNA*	
+			R-1005	DNA*	
+			R-1006	DNA*	
+			R-1007	DNA*	
+			R-1008	DNA*	
+			R-1009	DNA*	
+			R-1010	DNA*	
+			R-1011	DNA*	
+			R-1012	DNA*	
+			R-1013	DNA*	
+			R-1014	DNA*	
+			R-1015	DNA*	
+			R-1016	DNA*	
+			R-1017	DNA*	
+			R-1018	DNA*	
+			R-1019	DNA*	
+			R-1020	DNA*	
+			R-1021	DNA*	
+			R-1022	DNA*	
+			R-1023	DNA*	
+			R-1024	DNA*	
+			R-1025	DNA*	
+			R-1026	DNA*	
+			R-1027	DNA*	
+			R-1028	DNA*	
+			R-1029	DNA*	
+			R-1030	DNA*	
+			R-1031	DNA*	
+			R-1032	DNA*	
+			R-1033	DNA*	
+			R-1034	DNA*	
+			R-1035	DNA*	
+			R-1036	DNA*	
+			R-1037	DNA*	
+			R-1038	DNA*	
+			R-1039	DNA*	
+			R-1040	DNA*	
+			R-1041	DNA*	
+			R-1042	DNA*	
+			R-1043	DNA*	
+			R-1044	DNA*	
+			R-1045	DNA*	
+			R-1046	DNA*	
+			R-1047	DNA*	
+			R-1048	DNA*	
+			R-1049	DNA*	
+			R-1050	DNA*	
+			R-1051	DNA*	
+			R-1052	DNA*	
+			R-1053	DNA*	
+			R-1054	DNA*	
+			R-1055	DNA*	
+			R-1056	DNA*	
+			R-1057	DNA*	
+			R-1058	DNA*	
+			R-1059	DNA*	
+			R-1060	DNA*	
+			R-1061	DNA*	
+			R-1062	DNA*	
+			R-1063	DNA*	
+			R-1064	DNA*	
+			R-1065	DNA*	
+			R-1066	DNA*	
+			R-1067	DNA*	
+			R-1068	DNA*	
+			R-1069	DNA*	
+			R-1070	DNA*	
+			R-1071	DNA*	
+			R-1072	DNA*	
+			R-1073	DNA*	
+			R-1074	DNA*	
+			R-1075	DNA*	
+			R-1076	DNA*	
+			R-1077	DNA*	
+			R-1078	DNA*	
+			R-1079	DNA*	
+			R-1080	DNA*	
+			R-1081	DNA*	
+			R-1082	DNA*	
+			R-1083	DNA*	
+			R-1084	DNA*	
+			R-1085	DNA*	
+			R-1086	DNA*	
+			R-1087	DNA*	
+			R-1088	DNA*	
+			R-1089	DNA*	
+			R-1090	DNA*	
+			R-1091	DNA*	
+			R-1092	DNA*	
+			R-1093	DNA*	
+			R-1094	DNA*	
+			R-1095	DNA*	
+			R-1096	DNA*	
+			R-1097	DNA*	
+			R-1098	DNA*	
+			R-1099	DNA*	
+			R-1100	DNA*	
+			R-1101	DNA*	
+			R-1102	DNA*	
+			R-1103	DNA*	
+			R-1104	DNA*	
+			R-1105	DNA*	
+			R-1106	DNA*	
+			R-1107	DNA*	
+			R-1108	DNA*	
+			R-1109	DNA*	
+			R-1110	DNA*	
+			R-1111	DNA*	
+			R-1112	DNA*	
+			R-1113	DNA*	
+			R-1114	DNA*	
+			R-1115	DNA*	
+			R-1116	DNA*	
+			R-1117	DNA*	
+			R-1118	DNA*	
+			R-1119	DNA*	
+			R-1120	DNA*	
+			R-1121	DNA*	
+			R-1122	DNA*	
+			R-1123	DNA*	
+			R-1124	DNA*	
+			R-1125	DNA*	
+			R-1126	DNA*	
+			R-1127	DNA*	
+			R-1128	DNA*	
+			R-1129	DNA*	
+			R-1130	DNA*	
+			R-1131	DNA*	
+			R-1132	DNA*	
+			R-1133	DNA*	
+			R-1134	DNA*	
+			R-1135	DNA*	
+			R-1136	DNA*	
+			R-1137	DNA*	
+			R-1138	DNA*	
+			R-1139	DNA*	
+			R-1140	DNA*	
+			R-1141	DNA*	
+			R-1142	DNA*	
+			R-1143	DNA*	
+			R-1144	DNA*	
+			R-1145	DNA*	
+			R-1146	DNA*	
+			R-1147	DNA*	
+			R-1148	DNA*	
+			R-1149	DNA*	
+			R-1150	DNA*	
+			R-1151	DNA*	
+			R-1152	DNA*	
+			R-1153	DNA*	
+			R-1154	DNA*	
+			R-1155	DNA*	
+			R-1156	DNA*	
+			R-1157	DNA*	
+			R-1158	DNA*	
+			R-1159	DNA*	
+			R-1160	DNA*	
+			R-1161	DNA*	
+			R-1162	DNA*	
+			R-1163	DNA*	
+			R-1164	DNA*	
+			R-1165	DNA*	
+			R-1166	DNA*	
+			R-1167	DNA*	
+			R-1168	DNA*	
+			R-1169	DNA*	
+			R-1170	DNA*	
+			R-1171	DNA*	
+			R-1172	DNA*	
+			R-1173	DNA*	
+			R-1174	DNA*	
+			R-1175	DNA*	
+			R-1176	DNA*	
+			R-1177	DNA*	
+			R-1178	DNA*	
+			R-1179	DNA*	
+			R-1180	DNA*	
+			R-1181	DNA*	
+			R-1182	DNA*	
+			R-1183	DNA*	
+			R-1184	DNA*	
+			R-1185	DNA*	
+			R-1186	DNA*	
+			R-1187	DNA*	
+			R-1188	DNA*	
+			R-1189	DNA*	
+			R-1190	DNA*	
+			R-1191	DNA*	
+			R-1192	DNA*	
+			R-1193	DNA*	
+			R-1194	DNA*	
+			R-1195	DNA*	
+			R-1196	DNA*	
+			R-1197	DNA*	
+			R-1198	DNA*	
+			R-1199	DNA*	
+			R-1200	DNA*	
+			R-1201	DNA*	
+			R-1202	DNA*	
+			R-1203	DNA*	
+			R-1204	DNA*	
+			R-1205	DNA*	
+			R-1206	DNA*	
+			R-1207	DNA*	
+			R-1208	DNA*	
+			R-1209	DNA*	
+			R-1210	DNA*	
+			R-1211	DNA*	
+			R-1212	DNA*	
+			R-1213	DNA*	
+			R-1214	DNA*	
+			R-1215	DNA*	
+			R-1216	DNA*	
+			R-1217	DNA*	
+			R-1218	DNA*	
+			R-1219	DNA*	
+			R-1220	DNA*	
+			R-1221	DNA*	
+			R-1222	DNA*	
+			R-1223	DNA*	
+			R-1224	DNA*	
+			R-1225	DNA*	
+			R-1226	DNA*	
+			R-1227	DNA*	
+			R-1228	DNA*	
+			R-1229	DNA*	
+			R-1230	DNA*	
+			R-1231	DNA*	
+			R-1232	DNA*	
+			R-1233	DNA*	
+			R-1234	DNA*	
+			R-1235	DNA*	
+			R-1236	DNA*	
+			R-1237	DNA*	
+			R-1238	DNA*	
+			R-1239	DNA*	
+			R-1240	DNA*	
+			R-1241	DNA*	
+			R-1242	DNA*	
+			R-1243	DNA*	
+			R-1244	DNA*	
+			R-1245	DNA*	
+			R-1246	DNA*	
+			R-1247	DNA*	
+			R-1248	DNA*	
+			R-1249	DNA*	
+			R-1250	DNA*	
+			R-1251	DNA*	
+			R-1252	DNA*	
+			R-1253	DNA*	
+			R-1254	DNA*	
+			R-1255	DNA*	
+			R-1256	DNA*	
+			R-1257	DNA*	
+			R-1258	DNA*	
+			R-1259	DNA*	
+			R-1260	DNA*	
+			R-1261	DNA*	
+			R-1262	DNA*	
+			R-1263	DNA*	
+			R-1264	DNA*	
+			R-1265	DNA*	
+			R-1266	DNA*	
+			R-1267	DNA*	
+			R-1268	DNA*	
+			R-1269	DNA*	
+			R-1270	DNA*	
+			R-1271	DNA*	
+			R-1272	DNA*	
+			R-1273	DNA*	
+			R-1274	DNA*	
+			R-1275	DNA*	
+			R-1276	DNA*	
+			R-1277	DNA*	
+			R-1278	DNA*	
+			R-1279	DNA*	
+			R-1280	DNA*	
+			R-1281	DNA*	
+			R-1282	DNA*	
+			R-1283	DNA*	
+			R-1284	DNA*	
+			R-1285	DNA*	
+			R-1286	DNA*	
+			R-1287	DNA*	
+			R-1288	DNA*	
+			R-1289	DNA*	
+			R-1290	DNA*	
+			R-1291	DNA*	
+			R-1292	DNA*	
+			R-1293	DNA*	
+			R-1294	DNA*	
+			R-1295	DNA*	
+			R-1296	DNA*	
+			R-1297	DNA*	
+			R-1298	DNA*	
+			R-1299	DNA*	
+			R-1300	DNA*	
+			R-1301	DNA*	
+			R-1302	DNA*	
+			R-1303	DNA*	
+			R-1304	DNA*	
+			R-1305	DNA*	
+			R-1306	DNA*	
+			R-1307	DNA*	
+			R-1308	DNA*	
+			R-1309	DNA*	
+			R-1310	DNA*	
+			R-1311	DNA*	
+			R-1312	DNA*	
+			R-1313	DNA*	
+			R-1314	DNA*	
+			R-1315	DNA*	
+			R-1316	DNA*	
+			R-1317	DNA*	
+			R-1318	DNA*	
+			R-1319	DNA*	
+			R-1320	DNA*	
+			R-1321	DNA*	
+			R-1322	DNA*	
+			R-1323	DNA*	
+			R-1324	DNA*	
+			R-1325	DNA*	
+			R-1326	DNA*	
+			R-1327	DNA*	
+			R-1328	DNA*	
+			R-1329	DNA*	
+			R-1330	DNA*	
+			R-1331	DNA*	
+			R-1332	DNA*	
+			R-1333	DNA*	
+			R-1334	DNA*	
+			R-1335	DNA*	
+			R-1336	DNA*	
+			R-1337	DNA*	
+			R-1338	DNA*	
+			R-1339	DNA*	
+			R-1340	DNA*	
+			R-1341	DNA*	
+			R-1342	DNA*	
+			R-1343	DNA*	
+			R-1344	DNA*	
+			R-1345	DNA*	
+			R-1346	DNA*	
+			R-1347	DNA*	
+			R-1348	DNA*	
+			R-1349	DNA*	
+			R-1350	DNA*	
+			R-1351	DNA*	
+			R-1352	DNA*	
+			R-1353	DNA*	
+			R-1354	DNA*	
+			R-1355	DNA*	
+			R-1356	DNA*	
+			R-1357	DNA*	
+			R-1358	DNA*	
+			R-1359	DNA*	
+			R-1360	DNA*	
+			R-1361	DNA*	
+			R-1362	DNA*	
+			R-1363	DNA*	
+			R-1364	DNA*	
+			R-1365	DNA*	
+			R-1366	DNA*	
+			R-1367	DNA*	
+			R-1368	DNA*	
+			R-1369	DNA*	
+			R-1370	DNA*	
+			R-1371	DNA*	
+			R-1372	DNA*	
+			R-1373	DNA*	
+			R-1374	DNA*	
+			R-1375	DNA*	
+			R-1376	DNA*	
+			R-1377	DNA*	
+			R-1378	DNA*	
+			R-1379	DNA*	
+			R-1380	DNA*	
+			R-1381	DNA*	
+			R-1382	DNA*	
+			R-1383	DNA*	
+			R-1384	DNA*	
+			R-1385	DNA*	
+			R-1386	DNA*	
+			R-1387	DNA*	
+			R-1388	DNA*	
+			R-1389	DNA*	
+			R-1390	DNA*	
+			R-1391	DNA*	
+			R-1392	DNA*	
+			R-1393	DNA*	
+			R-1394	DNA*	
+			R-1395	DNA*	
+			R-1396	DNA*	
+			R-1397	DNA*	
+			R-1398	DNA*	
+			R-1399	DNA*	
+			R-1400	DNA*	
+			R-1401	DNA*	
+			R-1402	DNA*	
+			R-1403	DNA*	
+			R-1404	DNA*	
+			R-1405	DNA*	
+			R-1406	DNA*	
+			R-1407	DNA*	
+			R-1408	DNA*	
+			R-1409	DNA*	
+			R-1410	DNA*	
+			R-1411	DNA*	
+			R-1412	DNA*	
+			R-1413	DNA*	
+			R-1414	DNA*	
+			R-1415	DNA*	
+			R-1416	DNA*	
+			R-1417	DNA*	
+			R-1418	DNA*	
+			R-1419	DNA*	
+			R-1420	DNA*	
+			R-1421	DNA*	
+			R-1422	DNA*	
+			R-1423	DNA*	
+			R-1424	DNA*	
+			R-1425	DNA*	
+			R-1426	DNA*	
+			R-1427	DNA*	
+			R-1428	DNA*	
+			R-1429	DNA*	
+			R-1430	DNA*	
+			R-1431	DNA*	
+			R-1432	DNA*	
+			R-1433	DNA*	
+			R-1434	DNA*	
+			R-1435	DNA*	
+			R-1436	DNA*	
+			R-1437	DNA*	
+			R-1438	DNA*	
+			R-1439	DNA*	
+			R-1440	DNA*	
+			R-1441	DNA*	
+			R-1442	DNA*	
+			R-1443	DNA*	
+Pseudoknot		NO
+
+Whole structure
+>2FTC nts=1443 [whole]
+A&C&U&A&G&A&C&C&U&A&G&C&C&C&A&A&A&A&G&U&A&U&A&G&G&A&G&A&U&A&G&A&A&A&U&C&G&G&C&G&C&U&A&U&A&G&A&G&A&A&A&G&U&A&C&C&G&C&A&A&G&G&G&A&A&C&G&A&U&G&A&A&A&G&A&A&A&A&A&A&A&C&U&A&A&A&A&G&U&A&U&A&A&A&A&A&A&G&C&A&A&A&G&A&U&U&A&C&C&C&C&U&U&G&U&A&C&C&U&U&U&U&G&C&A&U&A&A&U&G&A&A&U&U&A&A&C&U&A&G&U&A&U&A&A&G&A&C&U&U&A&A&C&A&A&A&A&U&G&A&A&U&U&U&U&A&G&C&U&A&A&G&C&A&G&C&C&C&G&A&A&A&C&C&A&G&A&C&G&A&G&C&U&A&C&U&C&A&C&A&A&A&C&A&G&U&U&U&A&C&C&A&A&G&A&A&C&U&A&A&C&U&C&A&U&C&U&A&U&G&U&G&G&C&A&A&A&A&U&A&G&U&G&A&G&A&A&G&A&U&U&U&G&U&A&A&G&U&A&G&A&G&G&U&G&A&C&A&U&G&C&C&U&A&A&C&G&A&G&C&C&U&G&G&U&G&A&U&A&G&C&U&G&G&U&U&G&U&C&C&A&G&A&A&A&A&U&G&A&A&U&C&U&A&A&G&U&U&C&A&G&C&U&U&U&A&A&A&G&A&U&A&C&G&U&A&G&C&U&U&U&A&A&A&A&G&U&U&A&G&U&C&U&A&A&A&A&A&G&G&U&A&C&A&G&C&C&U&U&U&U&A&G&A&A&A&C&G&G&A&U&A&C&A&A&C&C&U&U&G&A&C&U&A&G&A&G&A&G&U&A&A&A&A&U&U&U&A&A&C&A&C&U&A&C&C&A&U&A&G&U&A&G&G&C&C&U&A&A&A&A&G&C&A&G&C&C&A&U&C&A&A&U&U&A&A&G&A&A&A&G&C&G&U&U&A&A&A&G&C&U&C&A&A&C&A&A&C&A&A&A&A&A&U&U&A&A&A&U&A&G&A&U&U&C&C&A&A&C&A&A&C&A&A&A&U&G&A&U&U&A&A&C&U&C&C&U&A&G&C&C&C&C&A&A&U&A&C&U&G&G&A&C&U&A&A&U&C&U&A&U&U&A&U&A&G&A&A&U&A&G&A&A&G&C&A&A&U&A&A&U&G&U&U&A&A&U&A&U&G&A&G&U&A&A&C&A&A&G&A&A&A&A&A&U&U&U&U&C&U&C&C&U&U&G&C&A&U&A&A&G&U&C&U&A&A&G&U&C&A&G&U&G&C&C&U&G&A&U&A&A&U&A&C&U&C&U&G&A&C&C&A&C&U&A&A&C&A&G&U&C&A&A&U&A&A&A&U&U&U&A&U&U&G&A&U&U&A&U&A&C&U&G&U&U&A&A&C&C&C&A&A&C&A&C&A&G&G&A&G&U&G&C&A&U&C&U&A&A&G&G&A&A&A&G&A&U&U&A&A&A&A&G&A&A&G&U&A&A&A&A&G&G&A&A&C&U&C&G&G&C&A&A&A&C&A&C&A&A&A&C&C&C&C&G&C&C&U&G&U&U&U&A&C&C&A&A&A&A&A&C&A&U&C&A&C&C&U&C&C&A&G&C&A&U&U&C&C&C&A&G&U&A&U&U&G&G&A&G&G&C&A&U&U&G&C&C&U&G&C&C&C&A&G&U&G&A&C&A&A&C&U&G&U&U&U&A&A&C&G&G&C&C&G&C&G&G&U&A&U&C&C&U&G&A&C&C&G&U&G&C&A&A&A&G&G&U&A&G&C&A&U&A&A&U&C&A&U&U&U&G&U&U&C&U&C&U&A&A&A&U&A&A&G&G&A&C&U&U&G&U&A&U&G&A&A&U&G&G&C&C&G&C&A&C&G&A&G&G&G&U&U&U&U&A&C&U&G&U&C&U&C&U&U&A&C&U&U&C&C&A&A&U&C&A&G&U&G&A&A&A&U&U&G&A&C&C&U&U&C&C&C&G&U&G&A&A&G&A&G&G&C&G&G&G&A&A&U&G&C&A&C&A&A&A&U&A&A&G&A&C&G&A&G&A&A&G&A&C&C&C&U&A&U&G&G&A&G&C&U&U&U&A&A&C&U&A&A&C&C&A&A&C&C&C&A&A&A&G&A&G&A&A&U&A&G&A&U&U&U&A&A&C&C&A&U&U&A&A&G&G&A&A&U&A&A&C&A&A&C&A&A&U&C&U&C&C&A&U&G&A&G&U&U&G&G&U&A&G&U&U&U&C&G&G&U&U&G&G&G&G&U&G&A&C&C&U&C&G&G&A&G&A&A&U&A&A&A&A&A&A&U&C&C&U&C&C&G&A&G&C&G&A&U&U&U&U&A&A&A&G&A&C&U&A&G&A&C&C&C&A&C&A&A&G&U&C&A&A&A&U&C&A&C&U&C&U&A&U&C&G&C&U&C&A&U&U&G&A&U&C&C&A&A&A&A&A&C&U&U&G&A&U&C&A&A&C&G&G&A&A&C&A&A&G&U&U&A&C&C&C&U&A&G&G&G&A&U&A&A&C&A&G&C&G&C&A&A&U&C&C&U&A&U&U&C&A&A&G&A&G&U&C&C&A&U&A&U&C&G&A&C&A&A&U&A&G&G&G&U&U&U&A&C&G&A&C&C&U&C&G&A&U&G&U&U&G&G&A&U&C&A&G&G&A&C&A&U&C&C&U&G&A&U&G&G&U&G&C&A&A&C&C&G&C&U&A&U&C&A&A&A&G&G&U&U&C&G&U&U&U&G&U&U&C&A&A&C&G&A&U&U&A&A&A&G&U&C&C&U&A&C&G&U&G&A&U&C&U&G&A&G&U&U&C&A&G&A&C&C&G&G&A&G&U&A&A&U&C&C&A&G&G&U&C&G&G&U&U&U&C&U&A&U&C&U&A&U&U&A&C&G&U&A&U&U&U&C&U&C&C&C&A&G&U&A&C&G&A&A&A&G&G&A&C&A&A&G&A&G&A&A&A&U&A&A&G&G&C&C&A&A&C&U&U&U&A&A&A&U&C&A&A&G&C&G&C&C&U&U&A&A&G&A&C&A&A&C&C&A&A&U&G&A&U&A&A&C&A&U&C&U&C&A&A&C&U&G&G&C&C&C&U&A&G&A&A&C&A&G&G&G&C
+.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.
+
+Interacting substructures
+Chain R-1 
+A
+.
+
+Chain R-2 
+C
+.
+
+Chain R-3 
+U
+.
+
+Chain R-4 
+A
+.
+
+Chain R-5 
+G
+.
+
+Chain R-6 
+A
+.
+
+Chain R-7 
+C
+.
+
+Chain R-8 
+C
+.
+
+Chain R-9 
+U
+.
+
+Chain R-10 
+A
+.
+
+Chain R-11 
+G
+.
+
+Chain R-12 
+C
+.
+
+Chain R-13 
+C
+.
+
+Chain R-14 
+C
+.
+
+Chain R-15 
+A
+.
+
+Chain R-16 
+A
+.
+
+Chain R-17 
+A
+.
+
+Chain R-18 
+A
+.
+
+Chain R-19 
+G
+.
+
+Chain R-20 
+U
+.
+
+Chain R-21 
+A
+.
+
+Chain R-22 
+U
+.
+
+Chain R-23 
+A
+.
+
+Chain R-24 
+G
+.
+
+Chain R-25 
+G
+.
+
+Chain R-26 
+A
+.
+
+Chain R-27 
+G
+.
+
+Chain R-28 
+A
+.
+
+Chain R-29 
+U
+.
+
+Chain R-30 
+A
+.
+
+Chain R-31 
+G
+.
+
+Chain R-32 
+A
+.
+
+Chain R-33 
+A
+.
+
+Chain R-34 
+A
+.
+
+Chain R-35 
+U
+.
+
+Chain R-36 
+C
+.
+
+Chain R-37 
+G
+.
+
+Chain R-38 
+G
+.
+
+Chain R-39 
+C
+.
+
+Chain R-40 
+G
+.
+
+Chain R-41 
+C
+.
+
+Chain R-42 
+U
+.
+
+Chain R-43 
+A
+.
+
+Chain R-44 
+U
+.
+
+Chain R-45 
+A
+.
+
+Chain R-46 
+G
+.
+
+Chain R-47 
+A
+.
+
+Chain R-48 
+G
+.
+
+Chain R-49 
+A
+.
+
+Chain R-50 
+A
+.
+
+Chain R-51 
+A
+.
+
+Chain R-52 
+G
+.
+
+Chain R-53 
+U
+.
+
+Chain R-54 
+A
+.
+
+Chain R-55 
+C
+.
+
+Chain R-56 
+C
+.
+
+Chain R-57 
+G
+.
+
+Chain R-58 
+C
+.
+
+Chain R-59 
+A
+.
+
+Chain R-60 
+A
+.
+
+Chain R-61 
+G
+.
+
+Chain R-62 
+G
+.
+
+Chain R-63 
+G
+.
+
+Chain R-64 
+A
+.
+
+Chain R-65 
+A
+.
+
+Chain R-66 
+C
+.
+
+Chain R-67 
+G
+.
+
+Chain R-68 
+A
+.
+
+Chain R-69 
+U
+.
+
+Chain R-70 
+G
+.
+
+Chain R-71 
+A
+.
+
+Chain R-72 
+A
+.
+
+Chain R-73 
+A
+.
+
+Chain R-74 
+G
+.
+
+Chain R-75 
+A
+.
+
+Chain R-76 
+A
+.
+
+Chain R-77 
+A
+.
+
+Chain R-78 
+A
+.
+
+Chain R-79 
+A
+.
+
+Chain R-80 
+A
+.
+
+Chain R-81 
+A
+.
+
+Chain R-82 
+C
+.
+
+Chain R-83 
+U
+.
+
+Chain R-84 
+A
+.
+
+Chain R-85 
+A
+.
+
+Chain R-86 
+A
+.
+
+Chain R-87 
+A
+.
+
+Chain R-88 
+G
+.
+
+Chain R-89 
+U
+.
+
+Chain R-90 
+A
+.
+
+Chain R-91 
+U
+.
+
+Chain R-92 
+A
+.
+
+Chain R-93 
+A
+.
+
+Chain R-94 
+A
+.
+
+Chain R-95 
+A
+.
+
+Chain R-96 
+A
+.
+
+Chain R-97 
+A
+.
+
+Chain R-98 
+G
+.
+
+Chain R-99 
+C
+.
+
+Chain R-100 
+A
+.
+
+Chain R-101 
+A
+.
+
+Chain R-102 
+A
+.
+
+Chain R-103 
+G
+.
+
+Chain R-104 
+A
+.
+
+Chain R-105 
+U
+.
+
+Chain R-106 
+U
+.
+
+Chain R-107 
+A
+.
+
+Chain R-108 
+C
+.
+
+Chain R-109 
+C
+.
+
+Chain R-110 
+C
+.
+
+Chain R-111 
+C
+.
+
+Chain R-112 
+U
+.
+
+Chain R-113 
+U
+.
+
+Chain R-114 
+G
+.
+
+Chain R-115 
+U
+.
+
+Chain R-116 
+A
+.
+
+Chain R-117 
+C
+.
+
+Chain R-118 
+C
+.
+
+Chain R-119 
+U
+.
+
+Chain R-120 
+U
+.
+
+Chain R-121 
+U
+.
+
+Chain R-122 
+U
+.
+
+Chain R-123 
+G
+.
+
+Chain R-124 
+C
+.
+
+Chain R-125 
+A
+.
+
+Chain R-126 
+U
+.
+
+Chain R-127 
+A
+.
+
+Chain R-128 
+A
+.
+
+Chain R-129 
+U
+.
+
+Chain R-130 
+G
+.
+
+Chain R-131 
+A
+.
+
+Chain R-132 
+A
+.
+
+Chain R-133 
+U
+.
+
+Chain R-134 
+U
+.
+
+Chain R-135 
+A
+.
+
+Chain R-136 
+A
+.
+
+Chain R-137 
+C
+.
+
+Chain R-138 
+U
+.
+
+Chain R-139 
+A
+.
+
+Chain R-140 
+G
+.
+
+Chain R-141 
+U
+.
+
+Chain R-142 
+A
+.
+
+Chain R-143 
+U
+.
+
+Chain R-144 
+A
+.
+
+Chain R-145 
+A
+.
+
+Chain R-146 
+G
+.
+
+Chain R-147 
+A
+.
+
+Chain R-148 
+C
+.
+
+Chain R-149 
+U
+.
+
+Chain R-150 
+U
+.
+
+Chain R-151 
+A
+.
+
+Chain R-152 
+A
+.
+
+Chain R-153 
+C
+.
+
+Chain R-154 
+A
+.
+
+Chain R-155 
+A
+.
+
+Chain R-156 
+A
+.
+
+Chain R-157 
+A
+.
+
+Chain R-158 
+U
+.
+
+Chain R-159 
+G
+.
+
+Chain R-160 
+A
+.
+
+Chain R-161 
+A
+.
+
+Chain R-162 
+U
+.
+
+Chain R-163 
+U
+.
+
+Chain R-164 
+U
+.
+
+Chain R-165 
+U
+.
+
+Chain R-166 
+A
+.
+
+Chain R-167 
+G
+.
+
+Chain R-168 
+C
+.
+
+Chain R-169 
+U
+.
+
+Chain R-170 
+A
+.
+
+Chain R-171 
+A
+.
+
+Chain R-172 
+G
+.
+
+Chain R-173 
+C
+.
+
+Chain R-174 
+A
+.
+
+Chain R-175 
+G
+.
+
+Chain R-176 
+C
+.
+
+Chain R-177 
+C
+.
+
+Chain R-178 
+C
+.
+
+Chain R-179 
+G
+.
+
+Chain R-180 
+A
+.
+
+Chain R-181 
+A
+.
+
+Chain R-182 
+A
+.
+
+Chain R-183 
+C
+.
+
+Chain R-184 
+C
+.
+
+Chain R-185 
+A
+.
+
+Chain R-186 
+G
+.
+
+Chain R-187 
+A
+.
+
+Chain R-188 
+C
+.
+
+Chain R-189 
+G
+.
+
+Chain R-190 
+A
+.
+
+Chain R-191 
+G
+.
+
+Chain R-192 
+C
+.
+
+Chain R-193 
+U
+.
+
+Chain R-194 
+A
+.
+
+Chain R-195 
+C
+.
+
+Chain R-196 
+U
+.
+
+Chain R-197 
+C
+.
+
+Chain R-198 
+A
+.
+
+Chain R-199 
+C
+.
+
+Chain R-200 
+A
+.
+
+Chain R-201 
+A
+.
+
+Chain R-202 
+A
+.
+
+Chain R-203 
+C
+.
+
+Chain R-204 
+A
+.
+
+Chain R-205 
+G
+.
+
+Chain R-206 
+U
+.
+
+Chain R-207 
+U
+.
+
+Chain R-208 
+U
+.
+
+Chain R-209 
+A
+.
+
+Chain R-210 
+C
+.
+
+Chain R-211 
+C
+.
+
+Chain R-212 
+A
+.
+
+Chain R-213 
+A
+.
+
+Chain R-214 
+G
+.
+
+Chain R-215 
+A
+.
+
+Chain R-216 
+A
+.
+
+Chain R-217 
+C
+.
+
+Chain R-218 
+U
+.
+
+Chain R-219 
+A
+.
+
+Chain R-220 
+A
+.
+
+Chain R-221 
+C
+.
+
+Chain R-222 
+U
+.
+
+Chain R-223 
+C
+.
+
+Chain R-224 
+A
+.
+
+Chain R-225 
+U
+.
+
+Chain R-226 
+C
+.
+
+Chain R-227 
+U
+.
+
+Chain R-228 
+A
+.
+
+Chain R-229 
+U
+.
+
+Chain R-230 
+G
+.
+
+Chain R-231 
+U
+.
+
+Chain R-232 
+G
+.
+
+Chain R-233 
+G
+.
+
+Chain R-234 
+C
+.
+
+Chain R-235 
+A
+.
+
+Chain R-236 
+A
+.
+
+Chain R-237 
+A
+.
+
+Chain R-238 
+A
+.
+
+Chain R-239 
+U
+.
+
+Chain R-240 
+A
+.
+
+Chain R-241 
+G
+.
+
+Chain R-242 
+U
+.
+
+Chain R-243 
+G
+.
+
+Chain R-244 
+A
+.
+
+Chain R-245 
+G
+.
+
+Chain R-246 
+A
+.
+
+Chain R-247 
+A
+.
+
+Chain R-248 
+G
+.
+
+Chain R-249 
+A
+.
+
+Chain R-250 
+U
+.
+
+Chain R-251 
+U
+.
+
+Chain R-252 
+U
+.
+
+Chain R-253 
+G
+.
+
+Chain R-254 
+U
+.
+
+Chain R-255 
+A
+.
+
+Chain R-256 
+A
+.
+
+Chain R-257 
+G
+.
+
+Chain R-258 
+U
+.
+
+Chain R-259 
+A
+.
+
+Chain R-260 
+G
+.
+
+Chain R-261 
+A
+.
+
+Chain R-262 
+G
+.
+
+Chain R-263 
+G
+.
+
+Chain R-264 
+U
+.
+
+Chain R-265 
+G
+.
+
+Chain R-266 
+A
+.
+
+Chain R-267 
+C
+.
+
+Chain R-268 
+A
+.
+
+Chain R-269 
+U
+.
+
+Chain R-270 
+G
+.
+
+Chain R-271 
+C
+.
+
+Chain R-272 
+C
+.
+
+Chain R-273 
+U
+.
+
+Chain R-274 
+A
+.
+
+Chain R-275 
+A
+.
+
+Chain R-276 
+C
+.
+
+Chain R-277 
+G
+.
+
+Chain R-278 
+A
+.
+
+Chain R-279 
+G
+.
+
+Chain R-280 
+C
+.
+
+Chain R-281 
+C
+.
+
+Chain R-282 
+U
+.
+
+Chain R-283 
+G
+.
+
+Chain R-284 
+G
+.
+
+Chain R-285 
+U
+.
+
+Chain R-286 
+G
+.
+
+Chain R-287 
+A
+.
+
+Chain R-288 
+U
+.
+
+Chain R-289 
+A
+.
+
+Chain R-290 
+G
+.
+
+Chain R-291 
+C
+.
+
+Chain R-292 
+U
+.
+
+Chain R-293 
+G
+.
+
+Chain R-294 
+G
+.
+
+Chain R-295 
+U
+.
+
+Chain R-296 
+U
+.
+
+Chain R-297 
+G
+.
+
+Chain R-298 
+U
+.
+
+Chain R-299 
+C
+.
+
+Chain R-300 
+C
+.
+
+Chain R-301 
+A
+.
+
+Chain R-302 
+G
+.
+
+Chain R-303 
+A
+.
+
+Chain R-304 
+A
+.
+
+Chain R-305 
+A
+.
+
+Chain R-306 
+A
+.
+
+Chain R-307 
+U
+.
+
+Chain R-308 
+G
+.
+
+Chain R-309 
+A
+.
+
+Chain R-310 
+A
+.
+
+Chain R-311 
+U
+.
+
+Chain R-312 
+C
+.
+
+Chain R-313 
+U
+.
+
+Chain R-314 
+A
+.
+
+Chain R-315 
+A
+.
+
+Chain R-316 
+G
+.
+
+Chain R-317 
+U
+.
+
+Chain R-318 
+U
+.
+
+Chain R-319 
+C
+.
+
+Chain R-320 
+A
+.
+
+Chain R-321 
+G
+.
+
+Chain R-322 
+C
+.
+
+Chain R-323 
+U
+.
+
+Chain R-324 
+U
+.
+
+Chain R-325 
+U
+.
+
+Chain R-326 
+A
+.
+
+Chain R-327 
+A
+.
+
+Chain R-328 
+A
+.
+
+Chain R-329 
+G
+.
+
+Chain R-330 
+A
+.
+
+Chain R-331 
+U
+.
+
+Chain R-332 
+A
+.
+
+Chain R-333 
+C
+.
+
+Chain R-334 
+G
+.
+
+Chain R-335 
+U
+.
+
+Chain R-336 
+A
+.
+
+Chain R-337 
+G
+.
+
+Chain R-338 
+C
+.
+
+Chain R-339 
+U
+.
+
+Chain R-340 
+U
+.
+
+Chain R-341 
+U
+.
+
+Chain R-342 
+A
+.
+
+Chain R-343 
+A
+.
+
+Chain R-344 
+A
+.
+
+Chain R-345 
+A
+.
+
+Chain R-346 
+G
+.
+
+Chain R-347 
+U
+.
+
+Chain R-348 
+U
+.
+
+Chain R-349 
+A
+.
+
+Chain R-350 
+G
+.
+
+Chain R-351 
+U
+.
+
+Chain R-352 
+C
+.
+
+Chain R-353 
+U
+.
+
+Chain R-354 
+A
+.
+
+Chain R-355 
+A
+.
+
+Chain R-356 
+A
+.
+
+Chain R-357 
+A
+.
+
+Chain R-358 
+A
+.
+
+Chain R-359 
+G
+.
+
+Chain R-360 
+G
+.
+
+Chain R-361 
+U
+.
+
+Chain R-362 
+A
+.
+
+Chain R-363 
+C
+.
+
+Chain R-364 
+A
+.
+
+Chain R-365 
+G
+.
+
+Chain R-366 
+C
+.
+
+Chain R-367 
+C
+.
+
+Chain R-368 
+U
+.
+
+Chain R-369 
+U
+.
+
+Chain R-370 
+U
+.
+
+Chain R-371 
+U
+.
+
+Chain R-372 
+A
+.
+
+Chain R-373 
+G
+.
+
+Chain R-374 
+A
+.
+
+Chain R-375 
+A
+.
+
+Chain R-376 
+A
+.
+
+Chain R-377 
+C
+.
+
+Chain R-378 
+G
+.
+
+Chain R-379 
+G
+.
+
+Chain R-380 
+A
+.
+
+Chain R-381 
+U
+.
+
+Chain R-382 
+A
+.
+
+Chain R-383 
+C
+.
+
+Chain R-384 
+A
+.
+
+Chain R-385 
+A
+.
+
+Chain R-386 
+C
+.
+
+Chain R-387 
+C
+.
+
+Chain R-388 
+U
+.
+
+Chain R-389 
+U
+.
+
+Chain R-390 
+G
+.
+
+Chain R-391 
+A
+.
+
+Chain R-392 
+C
+.
+
+Chain R-393 
+U
+.
+
+Chain R-394 
+A
+.
+
+Chain R-395 
+G
+.
+
+Chain R-396 
+A
+.
+
+Chain R-397 
+G
+.
+
+Chain R-398 
+A
+.
+
+Chain R-399 
+G
+.
+
+Chain R-400 
+U
+.
+
+Chain R-401 
+A
+.
+
+Chain R-402 
+A
+.
+
+Chain R-403 
+A
+.
+
+Chain R-404 
+A
+.
+
+Chain R-405 
+U
+.
+
+Chain R-406 
+U
+.
+
+Chain R-407 
+U
+.
+
+Chain R-408 
+A
+.
+
+Chain R-409 
+A
+.
+
+Chain R-410 
+C
+.
+
+Chain R-411 
+A
+.
+
+Chain R-412 
+C
+.
+
+Chain R-413 
+U
+.
+
+Chain R-414 
+A
+.
+
+Chain R-415 
+C
+.
+
+Chain R-416 
+C
+.
+
+Chain R-417 
+A
+.
+
+Chain R-418 
+U
+.
+
+Chain R-419 
+A
+.
+
+Chain R-420 
+G
+.
+
+Chain R-421 
+U
+.
+
+Chain R-422 
+A
+.
+
+Chain R-423 
+G
+.
+
+Chain R-424 
+G
+.
+
+Chain R-425 
+C
+.
+
+Chain R-426 
+C
+.
+
+Chain R-427 
+U
+.
+
+Chain R-428 
+A
+.
+
+Chain R-429 
+A
+.
+
+Chain R-430 
+A
+.
+
+Chain R-431 
+A
+.
+
+Chain R-432 
+G
+.
+
+Chain R-433 
+C
+.
+
+Chain R-434 
+A
+.
+
+Chain R-435 
+G
+.
+
+Chain R-436 
+C
+.
+
+Chain R-437 
+C
+.
+
+Chain R-438 
+A
+.
+
+Chain R-439 
+U
+.
+
+Chain R-440 
+C
+.
+
+Chain R-441 
+A
+.
+
+Chain R-442 
+A
+.
+
+Chain R-443 
+U
+.
+
+Chain R-444 
+U
+.
+
+Chain R-445 
+A
+.
+
+Chain R-446 
+A
+.
+
+Chain R-447 
+G
+.
+
+Chain R-448 
+A
+.
+
+Chain R-449 
+A
+.
+
+Chain R-450 
+A
+.
+
+Chain R-451 
+G
+.
+
+Chain R-452 
+C
+.
+
+Chain R-453 
+G
+.
+
+Chain R-454 
+U
+.
+
+Chain R-455 
+U
+.
+
+Chain R-456 
+A
+.
+
+Chain R-457 
+A
+.
+
+Chain R-458 
+A
+.
+
+Chain R-459 
+G
+.
+
+Chain R-460 
+C
+.
+
+Chain R-461 
+U
+.
+
+Chain R-462 
+C
+.
+
+Chain R-463 
+A
+.
+
+Chain R-464 
+A
+.
+
+Chain R-465 
+C
+.
+
+Chain R-466 
+A
+.
+
+Chain R-467 
+A
+.
+
+Chain R-468 
+C
+.
+
+Chain R-469 
+A
+.
+
+Chain R-470 
+A
+.
+
+Chain R-471 
+A
+.
+
+Chain R-472 
+A
+.
+
+Chain R-473 
+A
+.
+
+Chain R-474 
+U
+.
+
+Chain R-475 
+U
+.
+
+Chain R-476 
+A
+.
+
+Chain R-477 
+A
+.
+
+Chain R-478 
+A
+.
+
+Chain R-479 
+U
+.
+
+Chain R-480 
+A
+.
+
+Chain R-481 
+G
+.
+
+Chain R-482 
+A
+.
+
+Chain R-483 
+U
+.
+
+Chain R-484 
+U
+.
+
+Chain R-485 
+C
+.
+
+Chain R-486 
+C
+.
+
+Chain R-487 
+A
+.
+
+Chain R-488 
+A
+.
+
+Chain R-489 
+C
+.
+
+Chain R-490 
+A
+.
+
+Chain R-491 
+A
+.
+
+Chain R-492 
+C
+.
+
+Chain R-493 
+A
+.
+
+Chain R-494 
+A
+.
+
+Chain R-495 
+A
+.
+
+Chain R-496 
+U
+.
+
+Chain R-497 
+G
+.
+
+Chain R-498 
+A
+.
+
+Chain R-499 
+U
+.
+
+Chain R-500 
+U
+.
+
+Chain R-501 
+A
+.
+
+Chain R-502 
+A
+.
+
+Chain R-503 
+C
+.
+
+Chain R-504 
+U
+.
+
+Chain R-505 
+C
+.
+
+Chain R-506 
+C
+.
+
+Chain R-507 
+U
+.
+
+Chain R-508 
+A
+.
+
+Chain R-509 
+G
+.
+
+Chain R-510 
+C
+.
+
+Chain R-511 
+C
+.
+
+Chain R-512 
+C
+.
+
+Chain R-513 
+C
+.
+
+Chain R-514 
+A
+.
+
+Chain R-515 
+A
+.
+
+Chain R-516 
+U
+.
+
+Chain R-517 
+A
+.
+
+Chain R-518 
+C
+.
+
+Chain R-519 
+U
+.
+
+Chain R-520 
+G
+.
+
+Chain R-521 
+G
+.
+
+Chain R-522 
+A
+.
+
+Chain R-523 
+C
+.
+
+Chain R-524 
+U
+.
+
+Chain R-525 
+A
+.
+
+Chain R-526 
+A
+.
+
+Chain R-527 
+U
+.
+
+Chain R-528 
+C
+.
+
+Chain R-529 
+U
+.
+
+Chain R-530 
+A
+.
+
+Chain R-531 
+U
+.
+
+Chain R-532 
+U
+.
+
+Chain R-533 
+A
+.
+
+Chain R-534 
+U
+.
+
+Chain R-535 
+A
+.
+
+Chain R-536 
+G
+.
+
+Chain R-537 
+A
+.
+
+Chain R-538 
+A
+.
+
+Chain R-539 
+U
+.
+
+Chain R-540 
+A
+.
+
+Chain R-541 
+G
+.
+
+Chain R-542 
+A
+.
+
+Chain R-543 
+A
+.
+
+Chain R-544 
+G
+.
+
+Chain R-545 
+C
+.
+
+Chain R-546 
+A
+.
+
+Chain R-547 
+A
+.
+
+Chain R-548 
+U
+.
+
+Chain R-549 
+A
+.
+
+Chain R-550 
+A
+.
+
+Chain R-551 
+U
+.
+
+Chain R-552 
+G
+.
+
+Chain R-553 
+U
+.
+
+Chain R-554 
+U
+.
+
+Chain R-555 
+A
+.
+
+Chain R-556 
+A
+.
+
+Chain R-557 
+U
+.
+
+Chain R-558 
+A
+.
+
+Chain R-559 
+U
+.
+
+Chain R-560 
+G
+.
+
+Chain R-561 
+A
+.
+
+Chain R-562 
+G
+.
+
+Chain R-563 
+U
+.
+
+Chain R-564 
+A
+.
+
+Chain R-565 
+A
+.
+
+Chain R-566 
+C
+.
+
+Chain R-567 
+A
+.
+
+Chain R-568 
+A
+.
+
+Chain R-569 
+G
+.
+
+Chain R-570 
+A
+.
+
+Chain R-571 
+A
+.
+
+Chain R-572 
+A
+.
+
+Chain R-573 
+A
+.
+
+Chain R-574 
+A
+.
+
+Chain R-575 
+U
+.
+
+Chain R-576 
+U
+.
+
+Chain R-577 
+U
+.
+
+Chain R-578 
+U
+.
+
+Chain R-579 
+C
+.
+
+Chain R-580 
+U
+.
+
+Chain R-581 
+C
+.
+
+Chain R-582 
+C
+.
+
+Chain R-583 
+U
+.
+
+Chain R-584 
+U
+.
+
+Chain R-585 
+G
+.
+
+Chain R-586 
+C
+.
+
+Chain R-587 
+A
+.
+
+Chain R-588 
+U
+.
+
+Chain R-589 
+A
+.
+
+Chain R-590 
+A
+.
+
+Chain R-591 
+G
+.
+
+Chain R-592 
+U
+.
+
+Chain R-593 
+C
+.
+
+Chain R-594 
+U
+.
+
+Chain R-595 
+A
+.
+
+Chain R-596 
+A
+.
+
+Chain R-597 
+G
+.
+
+Chain R-598 
+U
+.
+
+Chain R-599 
+C
+.
+
+Chain R-600 
+A
+.
+
+Chain R-601 
+G
+.
+
+Chain R-602 
+U
+.
+
+Chain R-603 
+G
+.
+
+Chain R-604 
+C
+.
+
+Chain R-605 
+C
+.
+
+Chain R-606 
+U
+.
+
+Chain R-607 
+G
+.
+
+Chain R-608 
+A
+.
+
+Chain R-609 
+U
+.
+
+Chain R-610 
+A
+.
+
+Chain R-611 
+A
+.
+
+Chain R-612 
+U
+.
+
+Chain R-613 
+A
+.
+
+Chain R-614 
+C
+.
+
+Chain R-615 
+U
+.
+
+Chain R-616 
+C
+.
+
+Chain R-617 
+U
+.
+
+Chain R-618 
+G
+.
+
+Chain R-619 
+A
+.
+
+Chain R-620 
+C
+.
+
+Chain R-621 
+C
+.
+
+Chain R-622 
+A
+.
+
+Chain R-623 
+C
+.
+
+Chain R-624 
+U
+.
+
+Chain R-625 
+A
+.
+
+Chain R-626 
+A
+.
+
+Chain R-627 
+C
+.
+
+Chain R-628 
+A
+.
+
+Chain R-629 
+G
+.
+
+Chain R-630 
+U
+.
+
+Chain R-631 
+C
+.
+
+Chain R-632 
+A
+.
+
+Chain R-633 
+A
+.
+
+Chain R-634 
+U
+.
+
+Chain R-635 
+A
+.
+
+Chain R-636 
+A
+.
+
+Chain R-637 
+A
+.
+
+Chain R-638 
+U
+.
+
+Chain R-639 
+U
+.
+
+Chain R-640 
+U
+.
+
+Chain R-641 
+A
+.
+
+Chain R-642 
+U
+.
+
+Chain R-643 
+U
+.
+
+Chain R-644 
+G
+.
+
+Chain R-645 
+A
+.
+
+Chain R-646 
+U
+.
+
+Chain R-647 
+U
+.
+
+Chain R-648 
+A
+.
+
+Chain R-649 
+U
+.
+
+Chain R-650 
+A
+.
+
+Chain R-651 
+C
+.
+
+Chain R-652 
+U
+.
+
+Chain R-653 
+G
+.
+
+Chain R-654 
+U
+.
+
+Chain R-655 
+U
+.
+
+Chain R-656 
+A
+.
+
+Chain R-657 
+A
+.
+
+Chain R-658 
+C
+.
+
+Chain R-659 
+C
+.
+
+Chain R-660 
+C
+.
+
+Chain R-661 
+A
+.
+
+Chain R-662 
+A
+.
+
+Chain R-663 
+C
+.
+
+Chain R-664 
+A
+.
+
+Chain R-665 
+C
+.
+
+Chain R-666 
+A
+.
+
+Chain R-667 
+G
+.
+
+Chain R-668 
+G
+.
+
+Chain R-669 
+A
+.
+
+Chain R-670 
+G
+.
+
+Chain R-671 
+U
+.
+
+Chain R-672 
+G
+.
+
+Chain R-673 
+C
+.
+
+Chain R-674 
+A
+.
+
+Chain R-675 
+U
+.
+
+Chain R-676 
+C
+.
+
+Chain R-677 
+U
+.
+
+Chain R-678 
+A
+.
+
+Chain R-679 
+A
+.
+
+Chain R-680 
+G
+.
+
+Chain R-681 
+G
+.
+
+Chain R-682 
+A
+.
+
+Chain R-683 
+A
+.
+
+Chain R-684 
+A
+.
+
+Chain R-685 
+G
+.
+
+Chain R-686 
+A
+.
+
+Chain R-687 
+U
+.
+
+Chain R-688 
+U
+.
+
+Chain R-689 
+A
+.
+
+Chain R-690 
+A
+.
+
+Chain R-691 
+A
+.
+
+Chain R-692 
+A
+.
+
+Chain R-693 
+G
+.
+
+Chain R-694 
+A
+.
+
+Chain R-695 
+A
+.
+
+Chain R-696 
+G
+.
+
+Chain R-697 
+U
+.
+
+Chain R-698 
+A
+.
+
+Chain R-699 
+A
+.
+
+Chain R-700 
+A
+.
+
+Chain R-701 
+A
+.
+
+Chain R-702 
+G
+.
+
+Chain R-703 
+G
+.
+
+Chain R-704 
+A
+.
+
+Chain R-705 
+A
+.
+
+Chain R-706 
+C
+.
+
+Chain R-707 
+U
+.
+
+Chain R-708 
+C
+.
+
+Chain R-709 
+G
+.
+
+Chain R-710 
+G
+.
+
+Chain R-711 
+C
+.
+
+Chain R-712 
+A
+.
+
+Chain R-713 
+A
+.
+
+Chain R-714 
+A
+.
+
+Chain R-715 
+C
+.
+
+Chain R-716 
+A
+.
+
+Chain R-717 
+C
+.
+
+Chain R-718 
+A
+.
+
+Chain R-719 
+A
+.
+
+Chain R-720 
+A
+.
+
+Chain R-721 
+C
+.
+
+Chain R-722 
+C
+.
+
+Chain R-723 
+C
+.
+
+Chain R-724 
+C
+.
+
+Chain R-725 
+G
+.
+
+Chain R-726 
+C
+.
+
+Chain R-727 
+C
+.
+
+Chain R-728 
+U
+.
+
+Chain R-729 
+G
+.
+
+Chain R-730 
+U
+.
+
+Chain R-731 
+U
+.
+
+Chain R-732 
+U
+.
+
+Chain R-733 
+A
+.
+
+Chain R-734 
+C
+.
+
+Chain R-735 
+C
+.
+
+Chain R-736 
+A
+.
+
+Chain R-737 
+A
+.
+
+Chain R-738 
+A
+.
+
+Chain R-739 
+A
+.
+
+Chain R-740 
+A
+.
+
+Chain R-741 
+C
+.
+
+Chain R-742 
+A
+.
+
+Chain R-743 
+U
+.
+
+Chain R-744 
+C
+.
+
+Chain R-745 
+A
+.
+
+Chain R-746 
+C
+.
+
+Chain R-747 
+C
+.
+
+Chain R-748 
+U
+.
+
+Chain R-749 
+C
+.
+
+Chain R-750 
+C
+.
+
+Chain R-751 
+A
+.
+
+Chain R-752 
+G
+.
+
+Chain R-753 
+C
+.
+
+Chain R-754 
+A
+.
+
+Chain R-755 
+U
+.
+
+Chain R-756 
+U
+.
+
+Chain R-757 
+C
+.
+
+Chain R-758 
+C
+.
+
+Chain R-759 
+C
+.
+
+Chain R-760 
+A
+.
+
+Chain R-761 
+G
+.
+
+Chain R-762 
+U
+.
+
+Chain R-763 
+A
+.
+
+Chain R-764 
+U
+.
+
+Chain R-765 
+U
+.
+
+Chain R-766 
+G
+.
+
+Chain R-767 
+G
+.
+
+Chain R-768 
+A
+.
+
+Chain R-769 
+G
+.
+
+Chain R-770 
+G
+.
+
+Chain R-771 
+C
+.
+
+Chain R-772 
+A
+.
+
+Chain R-773 
+U
+.
+
+Chain R-774 
+U
+.
+
+Chain R-775 
+G
+.
+
+Chain R-776 
+C
+.
+
+Chain R-777 
+C
+.
+
+Chain R-778 
+U
+.
+
+Chain R-779 
+G
+.
+
+Chain R-780 
+C
+.
+
+Chain R-781 
+C
+.
+
+Chain R-782 
+C
+.
+
+Chain R-783 
+A
+.
+
+Chain R-784 
+G
+.
+
+Chain R-785 
+U
+.
+
+Chain R-786 
+G
+.
+
+Chain R-787 
+A
+.
+
+Chain R-788 
+C
+.
+
+Chain R-789 
+A
+.
+
+Chain R-790 
+A
+.
+
+Chain R-791 
+C
+.
+
+Chain R-792 
+U
+.
+
+Chain R-793 
+G
+.
+
+Chain R-794 
+U
+.
+
+Chain R-795 
+U
+.
+
+Chain R-796 
+U
+.
+
+Chain R-797 
+A
+.
+
+Chain R-798 
+A
+.
+
+Chain R-799 
+C
+.
+
+Chain R-800 
+G
+.
+
+Chain R-801 
+G
+.
+
+Chain R-802 
+C
+.
+
+Chain R-803 
+C
+.
+
+Chain R-804 
+G
+.
+
+Chain R-805 
+C
+.
+
+Chain R-806 
+G
+.
+
+Chain R-807 
+G
+.
+
+Chain R-808 
+U
+.
+
+Chain R-809 
+A
+.
+
+Chain R-810 
+U
+.
+
+Chain R-811 
+C
+.
+
+Chain R-812 
+C
+.
+
+Chain R-813 
+U
+.
+
+Chain R-814 
+G
+.
+
+Chain R-815 
+A
+.
+
+Chain R-816 
+C
+.
+
+Chain R-817 
+C
+.
+
+Chain R-818 
+G
+.
+
+Chain R-819 
+U
+.
+
+Chain R-820 
+G
+.
+
+Chain R-821 
+C
+.
+
+Chain R-822 
+A
+.
+
+Chain R-823 
+A
+.
+
+Chain R-824 
+A
+.
+
+Chain R-825 
+G
+.
+
+Chain R-826 
+G
+.
+
+Chain R-827 
+U
+.
+
+Chain R-828 
+A
+.
+
+Chain R-829 
+G
+.
+
+Chain R-830 
+C
+.
+
+Chain R-831 
+A
+.
+
+Chain R-832 
+U
+.
+
+Chain R-833 
+A
+.
+
+Chain R-834 
+A
+.
+
+Chain R-835 
+U
+.
+
+Chain R-836 
+C
+.
+
+Chain R-837 
+A
+.
+
+Chain R-838 
+U
+.
+
+Chain R-839 
+U
+.
+
+Chain R-840 
+U
+.
+
+Chain R-841 
+G
+.
+
+Chain R-842 
+U
+.
+
+Chain R-843 
+U
+.
+
+Chain R-844 
+C
+.
+
+Chain R-845 
+U
+.
+
+Chain R-846 
+C
+.
+
+Chain R-847 
+U
+.
+
+Chain R-848 
+A
+.
+
+Chain R-849 
+A
+.
+
+Chain R-850 
+A
+.
+
+Chain R-851 
+U
+.
+
+Chain R-852 
+A
+.
+
+Chain R-853 
+A
+.
+
+Chain R-854 
+G
+.
+
+Chain R-855 
+G
+.
+
+Chain R-856 
+A
+.
+
+Chain R-857 
+C
+.
+
+Chain R-858 
+U
+.
+
+Chain R-859 
+U
+.
+
+Chain R-860 
+G
+.
+
+Chain R-861 
+U
+.
+
+Chain R-862 
+A
+.
+
+Chain R-863 
+U
+.
+
+Chain R-864 
+G
+.
+
+Chain R-865 
+A
+.
+
+Chain R-866 
+A
+.
+
+Chain R-867 
+U
+.
+
+Chain R-868 
+G
+.
+
+Chain R-869 
+G
+.
+
+Chain R-870 
+C
+.
+
+Chain R-871 
+C
+.
+
+Chain R-872 
+G
+.
+
+Chain R-873 
+C
+.
+
+Chain R-874 
+A
+.
+
+Chain R-875 
+C
+.
+
+Chain R-876 
+G
+.
+
+Chain R-877 
+A
+.
+
+Chain R-878 
+G
+.
+
+Chain R-879 
+G
+.
+
+Chain R-880 
+G
+.
+
+Chain R-881 
+U
+.
+
+Chain R-882 
+U
+.
+
+Chain R-883 
+U
+.
+
+Chain R-884 
+U
+.
+
+Chain R-885 
+A
+.
+
+Chain R-886 
+C
+.
+
+Chain R-887 
+U
+.
+
+Chain R-888 
+G
+.
+
+Chain R-889 
+U
+.
+
+Chain R-890 
+C
+.
+
+Chain R-891 
+U
+.
+
+Chain R-892 
+C
+.
+
+Chain R-893 
+U
+.
+
+Chain R-894 
+U
+.
+
+Chain R-895 
+A
+.
+
+Chain R-896 
+C
+.
+
+Chain R-897 
+U
+.
+
+Chain R-898 
+U
+.
+
+Chain R-899 
+C
+.
+
+Chain R-900 
+C
+.
+
+Chain R-901 
+A
+.
+
+Chain R-902 
+A
+.
+
+Chain R-903 
+U
+.
+
+Chain R-904 
+C
+.
+
+Chain R-905 
+A
+.
+
+Chain R-906 
+G
+.
+
+Chain R-907 
+U
+.
+
+Chain R-908 
+G
+.
+
+Chain R-909 
+A
+.
+
+Chain R-910 
+A
+.
+
+Chain R-911 
+A
+.
+
+Chain R-912 
+U
+.
+
+Chain R-913 
+U
+.
+
+Chain R-914 
+G
+.
+
+Chain R-915 
+A
+.
+
+Chain R-916 
+C
+.
+
+Chain R-917 
+C
+.
+
+Chain R-918 
+U
+.
+
+Chain R-919 
+U
+.
+
+Chain R-920 
+C
+.
+
+Chain R-921 
+C
+.
+
+Chain R-922 
+C
+.
+
+Chain R-923 
+G
+.
+
+Chain R-924 
+U
+.
+
+Chain R-925 
+G
+.
+
+Chain R-926 
+A
+.
+
+Chain R-927 
+A
+.
+
+Chain R-928 
+G
+.
+
+Chain R-929 
+A
+.
+
+Chain R-930 
+G
+.
+
+Chain R-931 
+G
+.
+
+Chain R-932 
+C
+.
+
+Chain R-933 
+G
+.
+
+Chain R-934 
+G
+.
+
+Chain R-935 
+G
+.
+
+Chain R-936 
+A
+.
+
+Chain R-937 
+A
+.
+
+Chain R-938 
+U
+.
+
+Chain R-939 
+G
+.
+
+Chain R-940 
+C
+.
+
+Chain R-941 
+A
+.
+
+Chain R-942 
+C
+.
+
+Chain R-943 
+A
+.
+
+Chain R-944 
+A
+.
+
+Chain R-945 
+A
+.
+
+Chain R-946 
+U
+.
+
+Chain R-947 
+A
+.
+
+Chain R-948 
+A
+.
+
+Chain R-949 
+G
+.
+
+Chain R-950 
+A
+.
+
+Chain R-951 
+C
+.
+
+Chain R-952 
+G
+.
+
+Chain R-953 
+A
+.
+
+Chain R-954 
+G
+.
+
+Chain R-955 
+A
+.
+
+Chain R-956 
+A
+.
+
+Chain R-957 
+G
+.
+
+Chain R-958 
+A
+.
+
+Chain R-959 
+C
+.
+
+Chain R-960 
+C
+.
+
+Chain R-961 
+C
+.
+
+Chain R-962 
+U
+.
+
+Chain R-963 
+A
+.
+
+Chain R-964 
+U
+.
+
+Chain R-965 
+G
+.
+
+Chain R-966 
+G
+.
+
+Chain R-967 
+A
+.
+
+Chain R-968 
+G
+.
+
+Chain R-969 
+C
+.
+
+Chain R-970 
+U
+.
+
+Chain R-971 
+U
+.
+
+Chain R-972 
+U
+.
+
+Chain R-973 
+A
+.
+
+Chain R-974 
+A
+.
+
+Chain R-975 
+C
+.
+
+Chain R-976 
+U
+.
+
+Chain R-977 
+A
+.
+
+Chain R-978 
+A
+.
+
+Chain R-979 
+C
+.
+
+Chain R-980 
+C
+.
+
+Chain R-981 
+A
+.
+
+Chain R-982 
+A
+.
+
+Chain R-983 
+C
+.
+
+Chain R-984 
+C
+.
+
+Chain R-985 
+C
+.
+
+Chain R-986 
+A
+.
+
+Chain R-987 
+A
+.
+
+Chain R-988 
+A
+.
+
+Chain R-989 
+G
+.
+
+Chain R-990 
+A
+.
+
+Chain R-991 
+G
+.
+
+Chain R-992 
+A
+.
+
+Chain R-993 
+A
+.
+
+Chain R-994 
+U
+.
+
+Chain R-995 
+A
+.
+
+Chain R-996 
+G
+.
+
+Chain R-997 
+A
+.
+
+Chain R-998 
+U
+.
+
+Chain R-999 
+U
+.
+
+Chain R-1000 
+U
+.
+
+Chain R-1001 
+A
+.
+
+Chain R-1002 
+A
+.
+
+Chain R-1003 
+C
+.
+
+Chain R-1004 
+C
+.
+
+Chain R-1005 
+A
+.
+
+Chain R-1006 
+U
+.
+
+Chain R-1007 
+U
+.
+
+Chain R-1008 
+A
+.
+
+Chain R-1009 
+A
+.
+
+Chain R-1010 
+G
+.
+
+Chain R-1011 
+G
+.
+
+Chain R-1012 
+A
+.
+
+Chain R-1013 
+A
+.
+
+Chain R-1014 
+U
+.
+
+Chain R-1015 
+A
+.
+
+Chain R-1016 
+A
+.
+
+Chain R-1017 
+C
+.
+
+Chain R-1018 
+A
+.
+
+Chain R-1019 
+A
+.
+
+Chain R-1020 
+C
+.
+
+Chain R-1021 
+A
+.
+
+Chain R-1022 
+A
+.
+
+Chain R-1023 
+U
+.
+
+Chain R-1024 
+C
+.
+
+Chain R-1025 
+U
+.
+
+Chain R-1026 
+C
+.
+
+Chain R-1027 
+C
+.
+
+Chain R-1028 
+A
+.
+
+Chain R-1029 
+U
+.
+
+Chain R-1030 
+G
+.
+
+Chain R-1031 
+A
+.
+
+Chain R-1032 
+G
+.
+
+Chain R-1033 
+U
+.
+
+Chain R-1034 
+U
+.
+
+Chain R-1035 
+G
+.
+
+Chain R-1036 
+G
+.
+
+Chain R-1037 
+U
+.
+
+Chain R-1038 
+A
+.
+
+Chain R-1039 
+G
+.
+
+Chain R-1040 
+U
+.
+
+Chain R-1041 
+U
+.
+
+Chain R-1042 
+U
+.
+
+Chain R-1043 
+C
+.
+
+Chain R-1044 
+G
+.
+
+Chain R-1045 
+G
+.
+
+Chain R-1046 
+U
+.
+
+Chain R-1047 
+U
+.
+
+Chain R-1048 
+G
+.
+
+Chain R-1049 
+G
+.
+
+Chain R-1050 
+G
+.
+
+Chain R-1051 
+G
+.
+
+Chain R-1052 
+U
+.
+
+Chain R-1053 
+G
+.
+
+Chain R-1054 
+A
+.
+
+Chain R-1055 
+C
+.
+
+Chain R-1056 
+C
+.
+
+Chain R-1057 
+U
+.
+
+Chain R-1058 
+C
+.
+
+Chain R-1059 
+G
+.
+
+Chain R-1060 
+G
+.
+
+Chain R-1061 
+A
+.
+
+Chain R-1062 
+G
+.
+
+Chain R-1063 
+A
+.
+
+Chain R-1064 
+A
+.
+
+Chain R-1065 
+U
+.
+
+Chain R-1066 
+A
+.
+
+Chain R-1067 
+A
+.
+
+Chain R-1068 
+A
+.
+
+Chain R-1069 
+A
+.
+
+Chain R-1070 
+A
+.
+
+Chain R-1071 
+A
+.
+
+Chain R-1072 
+U
+.
+
+Chain R-1073 
+C
+.
+
+Chain R-1074 
+C
+.
+
+Chain R-1075 
+U
+.
+
+Chain R-1076 
+C
+.
+
+Chain R-1077 
+C
+.
+
+Chain R-1078 
+G
+.
+
+Chain R-1079 
+A
+.
+
+Chain R-1080 
+G
+.
+
+Chain R-1081 
+C
+.
+
+Chain R-1082 
+G
+.
+
+Chain R-1083 
+A
+.
+
+Chain R-1084 
+U
+.
+
+Chain R-1085 
+U
+.
+
+Chain R-1086 
+U
+.
+
+Chain R-1087 
+U
+.
+
+Chain R-1088 
+A
+.
+
+Chain R-1089 
+A
+.
+
+Chain R-1090 
+A
+.
+
+Chain R-1091 
+G
+.
+
+Chain R-1092 
+A
+.
+
+Chain R-1093 
+C
+.
+
+Chain R-1094 
+U
+.
+
+Chain R-1095 
+A
+.
+
+Chain R-1096 
+G
+.
+
+Chain R-1097 
+A
+.
+
+Chain R-1098 
+C
+.
+
+Chain R-1099 
+C
+.
+
+Chain R-1100 
+C
+.
+
+Chain R-1101 
+A
+.
+
+Chain R-1102 
+C
+.
+
+Chain R-1103 
+A
+.
+
+Chain R-1104 
+A
+.
+
+Chain R-1105 
+G
+.
+
+Chain R-1106 
+U
+.
+
+Chain R-1107 
+C
+.
+
+Chain R-1108 
+A
+.
+
+Chain R-1109 
+A
+.
+
+Chain R-1110 
+A
+.
+
+Chain R-1111 
+U
+.
+
+Chain R-1112 
+C
+.
+
+Chain R-1113 
+A
+.
+
+Chain R-1114 
+C
+.
+
+Chain R-1115 
+U
+.
+
+Chain R-1116 
+C
+.
+
+Chain R-1117 
+U
+.
+
+Chain R-1118 
+A
+.
+
+Chain R-1119 
+U
+.
+
+Chain R-1120 
+C
+.
+
+Chain R-1121 
+G
+.
+
+Chain R-1122 
+C
+.
+
+Chain R-1123 
+U
+.
+
+Chain R-1124 
+C
+.
+
+Chain R-1125 
+A
+.
+
+Chain R-1126 
+U
+.
+
+Chain R-1127 
+U
+.
+
+Chain R-1128 
+G
+.
+
+Chain R-1129 
+A
+.
+
+Chain R-1130 
+U
+.
+
+Chain R-1131 
+C
+.
+
+Chain R-1132 
+C
+.
+
+Chain R-1133 
+A
+.
+
+Chain R-1134 
+A
+.
+
+Chain R-1135 
+A
+.
+
+Chain R-1136 
+A
+.
+
+Chain R-1137 
+A
+.
+
+Chain R-1138 
+C
+.
+
+Chain R-1139 
+U
+.
+
+Chain R-1140 
+U
+.
+
+Chain R-1141 
+G
+.
+
+Chain R-1142 
+A
+.
+
+Chain R-1143 
+U
+.
+
+Chain R-1144 
+C
+.
+
+Chain R-1145 
+A
+.
+
+Chain R-1146 
+A
+.
+
+Chain R-1147 
+C
+.
+
+Chain R-1148 
+G
+.
+
+Chain R-1149 
+G
+.
+
+Chain R-1150 
+A
+.
+
+Chain R-1151 
+A
+.
+
+Chain R-1152 
+C
+.
+
+Chain R-1153 
+A
+.
+
+Chain R-1154 
+A
+.
+
+Chain R-1155 
+G
+.
+
+Chain R-1156 
+U
+.
+
+Chain R-1157 
+U
+.
+
+Chain R-1158 
+A
+.
+
+Chain R-1159 
+C
+.
+
+Chain R-1160 
+C
+.
+
+Chain R-1161 
+C
+.
+
+Chain R-1162 
+U
+.
+
+Chain R-1163 
+A
+.
+
+Chain R-1164 
+G
+.
+
+Chain R-1165 
+G
+.
+
+Chain R-1166 
+G
+.
+
+Chain R-1167 
+A
+.
+
+Chain R-1168 
+U
+.
+
+Chain R-1169 
+A
+.
+
+Chain R-1170 
+A
+.
+
+Chain R-1171 
+C
+.
+
+Chain R-1172 
+A
+.
+
+Chain R-1173 
+G
+.
+
+Chain R-1174 
+C
+.
+
+Chain R-1175 
+G
+.
+
+Chain R-1176 
+C
+.
+
+Chain R-1177 
+A
+.
+
+Chain R-1178 
+A
+.
+
+Chain R-1179 
+U
+.
+
+Chain R-1180 
+C
+.
+
+Chain R-1181 
+C
+.
+
+Chain R-1182 
+U
+.
+
+Chain R-1183 
+A
+.
+
+Chain R-1184 
+U
+.
+
+Chain R-1185 
+U
+.
+
+Chain R-1186 
+C
+.
+
+Chain R-1187 
+A
+.
+
+Chain R-1188 
+A
+.
+
+Chain R-1189 
+G
+.
+
+Chain R-1190 
+A
+.
+
+Chain R-1191 
+G
+.
+
+Chain R-1192 
+U
+.
+
+Chain R-1193 
+C
+.
+
+Chain R-1194 
+C
+.
+
+Chain R-1195 
+A
+.
+
+Chain R-1196 
+U
+.
+
+Chain R-1197 
+A
+.
+
+Chain R-1198 
+U
+.
+
+Chain R-1199 
+C
+.
+
+Chain R-1200 
+G
+.
+
+Chain R-1201 
+A
+.
+
+Chain R-1202 
+C
+.
+
+Chain R-1203 
+A
+.
+
+Chain R-1204 
+A
+.
+
+Chain R-1205 
+U
+.
+
+Chain R-1206 
+A
+.
+
+Chain R-1207 
+G
+.
+
+Chain R-1208 
+G
+.
+
+Chain R-1209 
+G
+.
+
+Chain R-1210 
+U
+.
+
+Chain R-1211 
+U
+.
+
+Chain R-1212 
+U
+.
+
+Chain R-1213 
+A
+.
+
+Chain R-1214 
+C
+.
+
+Chain R-1215 
+G
+.
+
+Chain R-1216 
+A
+.
+
+Chain R-1217 
+C
+.
+
+Chain R-1218 
+C
+.
+
+Chain R-1219 
+U
+.
+
+Chain R-1220 
+C
+.
+
+Chain R-1221 
+G
+.
+
+Chain R-1222 
+A
+.
+
+Chain R-1223 
+U
+.
+
+Chain R-1224 
+G
+.
+
+Chain R-1225 
+U
+.
+
+Chain R-1226 
+U
+.
+
+Chain R-1227 
+G
+.
+
+Chain R-1228 
+G
+.
+
+Chain R-1229 
+A
+.
+
+Chain R-1230 
+U
+.
+
+Chain R-1231 
+C
+.
+
+Chain R-1232 
+A
+.
+
+Chain R-1233 
+G
+.
+
+Chain R-1234 
+G
+.
+
+Chain R-1235 
+A
+.
+
+Chain R-1236 
+C
+.
+
+Chain R-1237 
+A
+.
+
+Chain R-1238 
+U
+.
+
+Chain R-1239 
+C
+.
+
+Chain R-1240 
+C
+.
+
+Chain R-1241 
+U
+.
+
+Chain R-1242 
+G
+.
+
+Chain R-1243 
+A
+.
+
+Chain R-1244 
+U
+.
+
+Chain R-1245 
+G
+.
+
+Chain R-1246 
+G
+.
+
+Chain R-1247 
+U
+.
+
+Chain R-1248 
+G
+.
+
+Chain R-1249 
+C
+.
+
+Chain R-1250 
+A
+.
+
+Chain R-1251 
+A
+.
+
+Chain R-1252 
+C
+.
+
+Chain R-1253 
+C
+.
+
+Chain R-1254 
+G
+.
+
+Chain R-1255 
+C
+.
+
+Chain R-1256 
+U
+.
+
+Chain R-1257 
+A
+.
+
+Chain R-1258 
+U
+.
+
+Chain R-1259 
+C
+.
+
+Chain R-1260 
+A
+.
+
+Chain R-1261 
+A
+.
+
+Chain R-1262 
+A
+.
+
+Chain R-1263 
+G
+.
+
+Chain R-1264 
+G
+.
+
+Chain R-1265 
+U
+.
+
+Chain R-1266 
+U
+.
+
+Chain R-1267 
+C
+.
+
+Chain R-1268 
+G
+.
+
+Chain R-1269 
+U
+.
+
+Chain R-1270 
+U
+.
+
+Chain R-1271 
+U
+.
+
+Chain R-1272 
+G
+.
+
+Chain R-1273 
+U
+.
+
+Chain R-1274 
+U
+.
+
+Chain R-1275 
+C
+.
+
+Chain R-1276 
+A
+.
+
+Chain R-1277 
+A
+.
+
+Chain R-1278 
+C
+.
+
+Chain R-1279 
+G
+.
+
+Chain R-1280 
+A
+.
+
+Chain R-1281 
+U
+.
+
+Chain R-1282 
+U
+.
+
+Chain R-1283 
+A
+.
+
+Chain R-1284 
+A
+.
+
+Chain R-1285 
+A
+.
+
+Chain R-1286 
+G
+.
+
+Chain R-1287 
+U
+.
+
+Chain R-1288 
+C
+.
+
+Chain R-1289 
+C
+.
+
+Chain R-1290 
+U
+.
+
+Chain R-1291 
+A
+.
+
+Chain R-1292 
+C
+.
+
+Chain R-1293 
+G
+.
+
+Chain R-1294 
+U
+.
+
+Chain R-1295 
+G
+.
+
+Chain R-1296 
+A
+.
+
+Chain R-1297 
+U
+.
+
+Chain R-1298 
+C
+.
+
+Chain R-1299 
+U
+.
+
+Chain R-1300 
+G
+.
+
+Chain R-1301 
+A
+.
+
+Chain R-1302 
+G
+.
+
+Chain R-1303 
+U
+.
+
+Chain R-1304 
+U
+.
+
+Chain R-1305 
+C
+.
+
+Chain R-1306 
+A
+.
+
+Chain R-1307 
+G
+.
+
+Chain R-1308 
+A
+.
+
+Chain R-1309 
+C
+.
+
+Chain R-1310 
+C
+.
+
+Chain R-1311 
+G
+.
+
+Chain R-1312 
+G
+.
+
+Chain R-1313 
+A
+.
+
+Chain R-1314 
+G
+.
+
+Chain R-1315 
+U
+.
+
+Chain R-1316 
+A
+.
+
+Chain R-1317 
+A
+.
+
+Chain R-1318 
+U
+.
+
+Chain R-1319 
+C
+.
+
+Chain R-1320 
+C
+.
+
+Chain R-1321 
+A
+.
+
+Chain R-1322 
+G
+.
+
+Chain R-1323 
+G
+.
+
+Chain R-1324 
+U
+.
+
+Chain R-1325 
+C
+.
+
+Chain R-1326 
+G
+.
+
+Chain R-1327 
+G
+.
+
+Chain R-1328 
+U
+.
+
+Chain R-1329 
+U
+.
+
+Chain R-1330 
+U
+.
+
+Chain R-1331 
+C
+.
+
+Chain R-1332 
+U
+.
+
+Chain R-1333 
+A
+.
+
+Chain R-1334 
+U
+.
+
+Chain R-1335 
+C
+.
+
+Chain R-1336 
+U
+.
+
+Chain R-1337 
+A
+.
+
+Chain R-1338 
+U
+.
+
+Chain R-1339 
+U
+.
+
+Chain R-1340 
+A
+.
+
+Chain R-1341 
+C
+.
+
+Chain R-1342 
+G
+.
+
+Chain R-1343 
+U
+.
+
+Chain R-1344 
+A
+.
+
+Chain R-1345 
+U
+.
+
+Chain R-1346 
+U
+.
+
+Chain R-1347 
+U
+.
+
+Chain R-1348 
+C
+.
+
+Chain R-1349 
+U
+.
+
+Chain R-1350 
+C
+.
+
+Chain R-1351 
+C
+.
+
+Chain R-1352 
+C
+.
+
+Chain R-1353 
+A
+.
+
+Chain R-1354 
+G
+.
+
+Chain R-1355 
+U
+.
+
+Chain R-1356 
+A
+.
+
+Chain R-1357 
+C
+.
+
+Chain R-1358 
+G
+.
+
+Chain R-1359 
+A
+.
+
+Chain R-1360 
+A
+.
+
+Chain R-1361 
+A
+.
+
+Chain R-1362 
+G
+.
+
+Chain R-1363 
+G
+.
+
+Chain R-1364 
+A
+.
+
+Chain R-1365 
+C
+.
+
+Chain R-1366 
+A
+.
+
+Chain R-1367 
+A
+.
+
+Chain R-1368 
+G
+.
+
+Chain R-1369 
+A
+.
+
+Chain R-1370 
+G
+.
+
+Chain R-1371 
+A
+.
+
+Chain R-1372 
+A
+.
+
+Chain R-1373 
+A
+.
+
+Chain R-1374 
+U
+.
+
+Chain R-1375 
+A
+.
+
+Chain R-1376 
+A
+.
+
+Chain R-1377 
+G
+.
+
+Chain R-1378 
+G
+.
+
+Chain R-1379 
+C
+.
+
+Chain R-1380 
+C
+.
+
+Chain R-1381 
+A
+.
+
+Chain R-1382 
+A
+.
+
+Chain R-1383 
+C
+.
+
+Chain R-1384 
+U
+.
+
+Chain R-1385 
+U
+.
+
+Chain R-1386 
+U
+.
+
+Chain R-1387 
+A
+.
+
+Chain R-1388 
+A
+.
+
+Chain R-1389 
+A
+.
+
+Chain R-1390 
+U
+.
+
+Chain R-1391 
+C
+.
+
+Chain R-1392 
+A
+.
+
+Chain R-1393 
+A
+.
+
+Chain R-1394 
+G
+.
+
+Chain R-1395 
+C
+.
+
+Chain R-1396 
+G
+.
+
+Chain R-1397 
+C
+.
+
+Chain R-1398 
+C
+.
+
+Chain R-1399 
+U
+.
+
+Chain R-1400 
+U
+.
+
+Chain R-1401 
+A
+.
+
+Chain R-1402 
+A
+.
+
+Chain R-1403 
+G
+.
+
+Chain R-1404 
+A
+.
+
+Chain R-1405 
+C
+.
+
+Chain R-1406 
+A
+.
+
+Chain R-1407 
+A
+.
+
+Chain R-1408 
+C
+.
+
+Chain R-1409 
+C
+.
+
+Chain R-1410 
+A
+.
+
+Chain R-1411 
+A
+.
+
+Chain R-1412 
+U
+.
+
+Chain R-1413 
+G
+.
+
+Chain R-1414 
+A
+.
+
+Chain R-1415 
+U
+.
+
+Chain R-1416 
+A
+.
+
+Chain R-1417 
+A
+.
+
+Chain R-1418 
+C
+.
+
+Chain R-1419 
+A
+.
+
+Chain R-1420 
+U
+.
+
+Chain R-1421 
+C
+.
+
+Chain R-1422 
+U
+.
+
+Chain R-1423 
+C
+.
+
+Chain R-1424 
+A
+.
+
+Chain R-1425 
+A
+.
+
+Chain R-1426 
+C
+.
+
+Chain R-1427 
+U
+.
+
+Chain R-1428 
+G
+.
+
+Chain R-1429 
+G
+.
+
+Chain R-1430 
+C
+.
+
+Chain R-1431 
+C
+.
+
+Chain R-1432 
+C
+.
+
+Chain R-1433 
+U
+.
+
+Chain R-1434 
+A
+.
+
+Chain R-1435 
+G
+.
+
+Chain R-1436 
+A
+.
+
+Chain R-1437 
+A
+.
+
+Chain R-1438 
+C
+.
+
+Chain R-1439 
+A
+.
+
+Chain R-1440 
+G
+.
+
+Chain R-1441 
+G
+.
+
+Chain R-1442 
+G
+.
+
+Chain R-1443 
+C
+.
+

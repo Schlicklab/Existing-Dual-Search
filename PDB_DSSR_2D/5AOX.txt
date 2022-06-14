@@ -1,0 +1,25 @@
+Title			HUMAN ALU RNA RETROTRANSPOSITION COMPLEX IN THE RIBOSOME-STALLING CONFORMATION 
+Chain order		C-1 C-2 F-1 F-2 F-3 
+Amino acids		YES
+Metal			Mg	4
+Chains			C-1	RNA*	C-1 C-2 
+			C-2	RNA*	C-1 
+			F-1	RNA*	F-1 F-3 
+			F-2	RNA*	F-3 
+			F-3	RNA*	F-1 F-2 
+Pseudoknot		YES
+
+Whole structure
+>5AOX nts=170 [whole]
+gGCCGGGCGCGGUGGCUCACGCCUGUAAUCCCAGCACUUUGGGAGGCCGAGGCGGGAGGAUCGCGAA&CGCGAGACCCCGUCUCUA&gGCCGGGCGCGGUGGCUCACGCCUGUAAUCCCAGCACUUUGGGAGGCCGAGGCGGG&GGAUCGCGAAC&CGCGAGACCCCGUCUCUA
+(((((((((.(..[[[.).)))))....((((.]].]...))))))))((((((((.(..(((((..&)))))..)))))))))..&(((((((((.(..[[[.).)))))....((((.]].]...))))))))((((((((&(..(((((...&)))))..)))))))))..
+
+Interacting substructures
+Chain C-1 C-2 
+gGCCGGGCGCGGUGGCUCACGCCUGUAAUCCCAGCACUUUGGGAGGCCGAGGCGGGAGGAUCGCGAACGCGAGACCCCGUCUCUA
+(((((((((.(..[[[.).)))))....((((.]].]...))))))))((((((((.(..(((((..)))))..)))))))))..
+
+Chain F-1 F-2 F-3 
+gGCCGGGCGCGGUGGCUCACGCCUGUAAUCCCAGCACUUUGGGAGGCCGAGGCGGGGGAUCGCGAACCGCGAGACCCCGUCUCUA
+(((((((((.(..[[[.).)))))....((((.]].]...))))))))(((((((((..(((((...)))))..)))))))))..
+

@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THF RIBOSWITCH, BOUND WITH THF 
+Chain order		X 
+Amino acids		NO
+Metal			Na	1
+Chains			X	RNA	X 
+Pseudoknot		YES
+
+Whole structure
+>3SUX nts=101 [whole]
+GGACAGAGUAGGUAAACGUGCGUAAAGUGCCUGAGGGACGGGGAGUUGUCCUCAGGACGAACACCGAAAGGUGGCGGUACGUUUACCGCAUCUCGCUGUUc
+..........(((((((((((((......(((((((((..[[[[..).)))))))).....((((....))))))).))))))))))...]]]].......
+
+Interacting substructures
+Chain X 
+GGACAGAGUAGGUAAACGUGCGUAAAGUGCCUGAGGGACGGGGAGUUGUCCUCAGGACGAACACCGAAAGGUGGCGGUACGUUUACCGCAUCUCGCUGUUc
+..........(((((((((((((......(((((((((..[[[[..).)))))))).....((((....))))))).))))))))))...]]]].......
+

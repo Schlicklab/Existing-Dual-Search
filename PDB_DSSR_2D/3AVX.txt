@@ -1,0 +1,23 @@
+Title			STRUCTURE OF VIRAL RNA POLYMERASE COMPLEX 5 
+Chain order		G T A 
+Amino acids		YES
+Metal			Ca	2
+Chains			G	RNA	T 
+			T	RNA	G 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>3AVX nts=23 [whole]
+GGGUCCAUC&AACGAUGGACCCA&g
+(((((((((&...))))))))).&.
+
+Interacting substructures
+Chain G T 
+GGGUCCAUCAACGAUGGACCCA
+(((((((((...))))))))).
+
+Chain A 
+g
+.
+

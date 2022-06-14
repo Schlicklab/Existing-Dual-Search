@@ -1,0 +1,17 @@
+Title			STRUCTURE OF 16S RIBOSOMAL RNA, NMR, MINIMIZED AVERAGE STRUCTURE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1PBR nts=27 [whole]
+GGCGUCACACCUUCGGGUGAAGUCGCC
+((((.(.((((....))))..).))))
+
+Interacting substructures
+Chain A 
+GGCGUCACACCUUCGGGUGAAGUCGCC
+((((.(.((((....))))..).))))
+

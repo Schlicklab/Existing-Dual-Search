@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURES OF RNA DUPLEXES CONTAINING 2-THIO-URIDINE 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>4U35 nts=14 [whole]
+UAGCuCC&GGUGCUA
+((((.((&)).))))
+
+Interacting substructures
+Chain A B 
+UAGCuCCGGUGCUA
+((((.(()).))))
+

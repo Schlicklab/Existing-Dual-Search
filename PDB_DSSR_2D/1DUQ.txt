@@ -1,0 +1,36 @@
+Title			CRYSTAL STRUCTURE OF THE REV BINDING ELEMENT OF HIV-1 
+Chain order		A B C D E F G H 
+Amino acids		NO
+Metal			Na	10
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	D 
+			D	RNA	C 
+			E	RNA	F 
+			F	RNA	E 
+			G	RNA	H 
+			H	RNA	G 
+Pseudoknot		NO
+
+Whole structure
+>1DUQ nts=104 [whole]
+GCUGGGCGCAGG&CCUGACGGUACAGC&GCUGGGCGCAGG&CCUGACGGUACAGC&GCUGGGCGCAGG&CCUGACGGUACAGC&GCUGGGCGCAGG&CCUGACGGUACAGC
+((((..((((((&)))).))...))))&((((..((((((&)))).))...))))&((((..((((((&)))).))...))))&((((..((((((&)))).))...))))
+
+Interacting substructures
+Chain A B 
+GCUGGGCGCAGGCCUGACGGUACAGC
+((((..(((((()))).))...))))
+
+Chain C D 
+GCUGGGCGCAGGCCUGACGGUACAGC
+((((..(((((()))).))...))))
+
+Chain E F 
+GCUGGGCGCAGGCCUGACGGUACAGC
+((((..(((((()))).))...))))
+
+Chain G H 
+GCUGGGCGCAGGCCUGACGGUACAGC
+((((..(((((()))).))...))))
+

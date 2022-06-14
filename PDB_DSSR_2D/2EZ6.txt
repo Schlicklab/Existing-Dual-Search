@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF AQUIFEX AEOLICUS RNASE III (D44N) COMPLEXED WITH PRODUCT OF DOUBLE-STRANDED RNA PROCESSING 
+Chain order		C D 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>2EZ6 nts=56 [whole]
+AAAGGUCAUUCGCAAGAGUGGCCUUUAU&AAAGGUCAUUCGCAAGAGUGGCCUUUAU
+(((((((((((....)))))))))))..&(((((((((((....)))))))))))..
+
+Interacting substructures
+Chain C 
+AAAGGUCAUUCGCAAGAGUGGCCUUUAU
+(((((((((((....)))))))))))..
+
+Chain D 
+AAAGGUCAUUCGCAAGAGUGGCCUUUAU
+(((((((((((....)))))))))))..
+

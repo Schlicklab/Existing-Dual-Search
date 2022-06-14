@@ -1,0 +1,27 @@
+Title			PUF3 RNA BINDING DOMAIN BOUND TO COX17 RNA 3' UTR RECOGNITION SEQUENCE SITE A 
+Chain order		B D F 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+			D	RNA	
+			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3K4E nts=30 [whole]
+CUUGUAUAUA&CUUGUAUAUA&CUUGUAUAUA
+..........&..........&..........
+
+Interacting substructures
+Chain B 
+CUUGUAUAUA
+..........
+
+Chain D 
+CUUGUAUAUA
+..........
+
+Chain F 
+CUUGUAUAUA
+..........
+

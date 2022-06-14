@@ -1,0 +1,19 @@
+Title			INSIGHTS INTO EDITING FROM AN ILE-TRNA SYNTHETASE STRUCTURE WITH TRNA(ILE) AND MUPIROCIN 
+Chain order		T 
+Amino acids		YES
+Metal			Mg	10
+			K	1
+			Zn	2
+Chains			T	RNA	T 
+Pseudoknot		YES
+
+Whole structure
+>1QU2 nts=75 [whole]
+GGGCUUGUAGCUCAGGUGGUUAGAGCGCACCCCUGAUAAGGGUGAGGUCGGUGGUUCAAGUCCACUCAGGCCCAC
+(((((((..((((.....[...)))).(((((.......))))).....(((((..]....))))))))))))..
+
+Interacting substructures
+Chain T 
+GGGCUUGUAGCUCAGGUGGUUAGAGCGCACCCCUGAUAAGGGUGAGGUCGGUGGUUCAAGUCCACUCAGGCCCAC
+(((((((..((((.....[...)))).(((((.......))))).....(((((..]....))))))))))))..
+

@@ -1,0 +1,48 @@
+Title			MODELS FOR THE T. THERMOPHILUS RIBOSOME RECYCLING FACTOR BOUND TO THE E. COLI POST-TERMINATION COMPLEX 
+Chain order		A B C D E F H h 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+			B	RNA	B 
+			C	RNA	C 
+			D	RNA	D 
+			E	RNA[18]/1	E 
+			F	RNA	F 
+			H	RNA	h 
+			h	RNA	H 
+Pseudoknot		NO
+
+Whole structure
+>3J0D nts=177 [whole]
+GGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAAAGCGUAAUAGCUCAC&CGGCCGUAACUAUAACGGUCCU&GUCGGGUAAGUUCCGAC&GACUGGGGCGGUC&GAACGUCGUGAGACAGUUC&CCUAGUACGAGAGGACCGG&CGUCACACCAUGGGAGUG&CAUGACUGGGGUGAAGUCG
+(.(((..(((.........)))..))).....(..(((......)))).)&.(((((.........)))))..&(((((.......)))))&(((.......)))&(((((((....))).))))&((.....(....)....))&((.(.((((.(((..(((&)))..))).))))..).))
+
+Interacting substructures
+Chain A 
+GGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAAAGCGUAAUAGCUCAC
+(.(((..(((.........)))..))).....(..(((......)))).)
+
+Chain B 
+CGGCCGUAACUAUAACGGUCCU
+.(((((.........)))))..
+
+Chain C 
+GUCGGGUAAGUUCCGAC
+(((((.......)))))
+
+Chain D 
+GACUGGGGCGGUC
+(((.......)))
+
+Chain E 
+GAACGUCGUGAGACAGUUC
+(((((((....))).))))
+
+Chain F 
+CCUAGUACGAGAGGACCGG
+((.....(....)....))
+
+Chain H h 
+CGUCACACCAUGGGAGUGCAUGACUGGGGUGAAGUCG
+((.(.((((.(((..((()))..))).))))..).))
+

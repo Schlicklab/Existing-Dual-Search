@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF AN RNA APTAMER IN COMPLEX WITH FLUOROPHORE AND FAB 
+Chain order		R 
+Amino acids		YES
+Metal			Mg	1
+			K	1
+Chains			R	RNA	R 
+Pseudoknot		NO
+
+Whole structure
+>4KZD nts=84 [whole]
+gGACGCGACCGAAAUGGUGAAGGACGGGUCCAGUGCGAAACACGCACUGUUGAGUAGAGUGUGAGCUCCGUAACUGGUCGCGUC
+.((((((((((..((((.(.....(...(((((((((.....)))))))..)).........)..).))))..).)))))))))
+
+Interacting substructures
+Chain R 
+gGACGCGACCGAAAUGGUGAAGGACGGGUCCAGUGCGAAACACGCACUGUUGAGUAGAGUGUGAGCUCCGUAACUGGUCGCGUC
+.((((((((((..((((.(.....(...(((((((((.....)))))))..)).........)..).))))..).)))))))))
+

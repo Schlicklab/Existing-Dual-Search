@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THERMUS THERMOPHILUS CSE3 BOUND TO AN RNA REPRESENTING A PRE-CLEAVAGE COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA[18]/1	
+Pseudoknot		NO
+
+Whole structure
+>3QRQ nts=19 [whole]
+GUCCCCACGCGUGUGGGGA
+...................
+
+Interacting substructures
+Chain B 
+GUCCCCACGCGUGUGGGGA
+...................
+

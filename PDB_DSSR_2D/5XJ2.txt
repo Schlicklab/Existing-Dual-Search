@@ -1,0 +1,38 @@
+Title			STRUCTURE OF SPRLMCD WITH U747 RNA 
+Chain order		G-1 G-2 A B C D 
+Amino acids		YES
+Metal			Zn	4
+Chains			G-1	RNA*	G-2 
+			G-2	RNA*	G-1 
+			A			
+			B			
+			C			
+			D			
+Pseudoknot		NO
+
+Whole structure
+>5XJ2 nts=14 [whole]
+GGCAC&GUGCU&a&a&a&a
+.((((&)))).&.&.&.&.
+
+Interacting substructures
+Chain G-1 G-2 
+GGCACGUGCU
+.(((()))).
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+
+Chain C 
+a
+.
+
+Chain D 
+a
+.
+

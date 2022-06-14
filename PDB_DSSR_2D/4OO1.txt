@@ -1,0 +1,17 @@
+Title			STRUCTURE OF AN RRP6-RNA EXOSOME COMPLEX BOUND TO POLY(A) RNA 
+Chain order		S 
+Amino acids		YES
+Metal			Mg	2
+Chains			S	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4OO1 nts=6 [whole]
+AAAAAA
+......
+
+Interacting substructures
+Chain S 
+AAAAAA
+......
+

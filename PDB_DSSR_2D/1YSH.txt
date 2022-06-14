@@ -1,0 +1,27 @@
+Title			LOCALIZATION AND DYNAMIC BEHAVIOR OF RIBOSOMAL PROTEIN L30E 
+Chain order		A F B 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+			F	RNA	F 
+			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>1YSH nts=162 [whole]
+GAUGAAGCGUGCCGAAAGGCACGUGGAA&AACUCCGUGGAAGCCGUAAUGGCAGGAAGCGGA&UAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUG
+..(...(((((((....)))))))...)&...(((((....(((.....))).....)))))&...((((((((...((((((((....((((((....((........)).......))))))....).......((....)).)))))))..))))).))).
+
+Interacting substructures
+Chain A 
+GAUGAAGCGUGCCGAAAGGCACGUGGAA
+..(...(((((((....)))))))...)
+
+Chain F 
+AACUCCGUGGAAGCCGUAAUGGCAGGAAGCGGA
+...(((((....(((.....))).....)))))
+
+Chain B 
+UAGACGGUGGGAGAGGGUGGUGGAAUUCCCGGAGUAGCGGUGAAAUGCGCAGAUACCGGGAGGAACGCCGAUGGCGAAGGCAGCCACCUGGUCCACCCGUG
+...((((((((...((((((((....((((((....((........)).......))))))....).......((....)).)))))))..))))).))).
+

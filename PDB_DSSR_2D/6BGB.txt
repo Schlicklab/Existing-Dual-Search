@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF THE 16MER GCAGNCUUAAGUCUGC CONTAINING BRPH 7- TRIAZOLYL-8-AZA-7-DEAZAADENOSINE 
+Chain order		A B C 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6BGB nts=48 [whole]
+GCAGaCUUAAGUCUGC&GCAGaCUUAAGUCUGC&GCAGaCUUAAGUCUGC
+((((((((((((((((&))))))))))))))))&................
+
+Interacting substructures
+Chain A B 
+GCAGaCUUAAGUCUGCGCAGaCUUAAGUCUGC
+(((((((((((((((())))))))))))))))
+
+Chain C 
+GCAGaCUUAAGUCUGC
+................
+

@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF NOVA-2 KH3 K-HOMOLOGY RNA-BINDING DOMAIN BOUND TO 20-MER RNA HAIRPIN 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>1EC6 nts=40 [whole]
+GAGGACCUAGAUCACCCCUC&GAGGACCUAGAUCACCCCUC
+((((............))))&((((............))))
+
+Interacting substructures
+Chain C 
+GAGGACCUAGAUCACCCCUC
+((((............))))
+
+Chain D 
+GAGGACCUAGAUCACCCCUC
+((((............))))
+

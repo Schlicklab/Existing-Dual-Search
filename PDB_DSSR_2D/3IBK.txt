@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF A TELOMERIC RNA QUADRUPLEX 
+Chain order		A B 
+Amino acids		NO
+Metal			K	2
+Chains			A	RNA	
+			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3IBK nts=24 [whole]
+uAGGGUUAGGGU&uAGGGUUAGGGU
+............&............
+
+Interacting substructures
+Chain A 
+uAGGGUUAGGGU
+............
+
+Chain B 
+uAGGGUUAGGGU
+............
+

@@ -1,0 +1,20 @@
+Title			MYCOBACTERIUM TUBERCULOSIS INITIAL TRANSCRIPTION COMPLEX COMPRISING SIGMA H AND 5'-OH RNA OF 7 NT 
+Chain order		G H I 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			G	DNA	H 
+			H	DNA	G I 
+			I	RNA	H 
+Pseudoknot		NO
+
+Whole structure
+>6KOO nts=50 [whole]
+TTGTGGGAGCTGTCACGGATGCA&TGCATCCGTGAGTCGAGGGT&CCCUCGA
+............(((((((((((&))))))))))).(((((((.&)))))))
+
+Interacting substructures
+Chain G H I 
+TTGTGGGAGCTGTCACGGATGCATGCATCCGTGAGTCGAGGGTCCCUCGA
+............((((((((((())))))))))).(((((((.)))))))
+

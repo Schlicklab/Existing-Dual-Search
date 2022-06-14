@@ -1,0 +1,17 @@
+Title			EUKARYOTIC DECODING REGION A-SITE RNA-PAROMOMYCIN COMPLEX 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1FYP nts=27 [whole]
+GGCGUCGCACCUUCGGGUGAAGUCGCC
+((((.(.((((....))))..).))))
+
+Interacting substructures
+Chain A 
+GGCGUCGCACCUUCGGGUGAAGUCGCC
+((((.(.((((....))))..).))))
+

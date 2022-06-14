@@ -1,0 +1,48 @@
+Title			RHO TRANSCRIPTION TERMINATION FACTOR BOUND TO RA7 AND 6 ADP-BEF3 MOLECULES 
+Chain order		G A B C D E F 
+Amino acids		YES
+Metal			Be	6
+			Mg	6
+Chains			G	RNA	
+			A			
+			B			
+			C			
+			D			
+			E			
+			F			
+Pseudoknot		NO
+
+Whole structure
+>5JJK nts=13 [whole]
+AAAAAAA&a&a&a&a&a&a
+.......&.&.&.&.&.&.
+
+Interacting substructures
+Chain G 
+AAAAAAA
+.......
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+
+Chain C 
+a
+.
+
+Chain D 
+a
+.
+
+Chain E 
+a
+.
+
+Chain F 
+a
+.
+

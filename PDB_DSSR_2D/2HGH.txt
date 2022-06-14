@@ -1,0 +1,17 @@
+Title			TRANSCRIPTION FACTOR IIIA ZINC FINGERS 4-6 BOUND TO 5S RRNA 55MER (NMR STRUCTURE) 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	3
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>2HGH nts=55 [whole]
+GGGCCAUACCUCUUGGGCCUGGUUAGUACCUCUUCGGUGGGAAUACCAGGUGCCC
+((((....((....))(((((((.....((.(....).))....)))))))))))
+
+Interacting substructures
+Chain B 
+GGGCCAUACCUCUUGGGCCUGGUUAGUACCUCUUCGGUGGGAAUACCAGGUGCCC
+((((....((....))(((((((.....((.(....).))....)))))))))))
+

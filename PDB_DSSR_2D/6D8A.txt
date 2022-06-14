@@ -1,0 +1,24 @@
+Title			RSAGO TERNARY COMPLEX WITH GUIDE RNA AND TARGET DNA CONTAINING A-A BULGE WITHIN THE SEED SEGMENT OF THE TARGET STRAND 
+Chain order		C G H J 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	G 
+			G	DNA	C 
+			H	RNA	J 
+			J	DNA	H 
+Pseudoknot		NO
+
+Whole structure
+>6D8A nts=79 [whole]
+UUACUGCACAGGUGACGA&TCGTCACCTGTGCAGAATAAC&UUACUGCACAGGUGACGA&GTCGTCACCTGTGCAGAATAAC
+.(((((((((((((((((&)))))))))))))))..))..&.(((((((((((((((((&.)))))))))))))))..))..
+
+Interacting substructures
+Chain C G 
+UUACUGCACAGGUGACGATCGTCACCTGTGCAGAATAAC
+.((((((((((((((((()))))))))))))))..))..
+
+Chain H J 
+UUACUGCACAGGUGACGAGTCGTCACCTGTGCAGAATAAC
+.(((((((((((((((((.)))))))))))))))..))..
+

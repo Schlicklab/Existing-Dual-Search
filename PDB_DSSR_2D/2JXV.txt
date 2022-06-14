@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF A LET-7 MIRNA:LIN-41 MRNA COMPLEX FROM C. ELEGANS 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2JXV nts=33 [whole]
+GGAGGUAGUAGGUCGAAAGACCAUUCUGCCUCC
+((((((((..((((....))))...))))))))
+
+Interacting substructures
+Chain A 
+GGAGGUAGUAGGUCGAAAGACCAUUCUGCCUCC
+((((((((..((((....))))...))))))))
+

@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE (RT) IN COMPLEX WITH A DOUBLE STRANDED RNA REPRESENTS THE RT TRANSCRIPTION INITIATION COMPLEX PRIOR TO NUCLEOTIDE INCORPORATION 
+Chain order		T P E F 
+Amino acids		YES
+Metal			Mg	1
+Chains			T	RNA	P 
+			P	RNA	T 
+			E	RNA	F 
+			F	RNA	E 
+Pseudoknot		NO
+
+Whole structure
+>6HAK nts=74 [whole]
+AGUGGCGGCCGAACAGGGAC&UCCCUGUUCGGCCGCCA&AGUGGCGGCCGAACAGGGAC&UCCCUGUUCGGCCGCCA
+..(((((((((((((((((.&)))))))))))))))))&..(((((((((((((((((.&)))))))))))))))))
+
+Interacting substructures
+Chain T P 
+AGUGGCGGCCGAACAGGGACUCCCUGUUCGGCCGCCA
+..(((((((((((((((((.)))))))))))))))))
+
+Chain E F 
+AGUGGCGGCCGAACAGGGACUCCCUGUUCGGCCGCCA
+..(((((((((((((((((.)))))))))))))))))
+

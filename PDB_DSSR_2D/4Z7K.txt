@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF CRISPR RNA PROCESSING ENDORIBONUCLEASE CAS6B 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA[24]/1	C 
+Pseudoknot		NO
+
+Whole structure
+>4Z7K nts=25 [whole]
+GAAUAACUUGCAAAAUAACAAGCAU
+.........((..........))..
+
+Interacting substructures
+Chain C 
+GAAUAACUUGCAAAAUAACAAGCAU
+.........((..........))..
+

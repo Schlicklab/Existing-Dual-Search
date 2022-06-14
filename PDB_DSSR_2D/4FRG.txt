@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF THE COBALAMIN RIBOSWITCH APTAMER DOMAIN 
+Chain order		B X 
+Amino acids		NO
+Metal			Mg	16
+			Co	2
+			Ir	17
+Chains			B	RNA	B 
+			X	RNA	X 
+Pseudoknot		YES
+
+Whole structure
+>4FRG nts=168 [whole]
+GGCCUAAAAGCAUAGUGGGAAAGUGACGUGAAAUUCGUCCAGAUGCGAAAGCAUACGGUUAUACUCCGAAUGCCACCUAGGCCA&GGCCUAAAAGCAUAGUGGGAAAGUGACGUGAAAUUCGUCCAGAUGCGAAAGCAUACGGUUAUACUCCGAAUGCCACCUAGGCCA
+((((((....[...((((....(.((((.......)))))[[((((....)))).(((.....]])))...])))).)))))).&((((((....[...((((....(.((((.......)))))[[((((....)))).(((.....]])))...])))).)))))).
+
+Interacting substructures
+Chain B 
+GGCCUAAAAGCAUAGUGGGAAAGUGACGUGAAAUUCGUCCAGAUGCGAAAGCAUACGGUUAUACUCCGAAUGCCACCUAGGCCA
+((((((....[...((((....(.((((.......)))))[[((((....)))).(((.....]])))...])))).)))))).
+
+Chain X 
+GGCCUAAAAGCAUAGUGGGAAAGUGACGUGAAAUUCGUCCAGAUGCGAAAGCAUACGGUUAUACUCCGAAUGCCACCUAGGCCA
+((((((....[...((((....(.((((.......)))))[[((((....)))).(((.....]])))...])))).)))))).
+

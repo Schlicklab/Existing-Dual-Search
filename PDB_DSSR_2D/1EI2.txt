@@ -1,0 +1,17 @@
+Title			STRUCTURAL BASIS FOR RECOGNITION OF THE RNA MAJOR GROOVE IN THE TAU EXON 10 SPLICING REGULATORY ELEMENT BY AMINOGLYCOSIDE ANTIBIOTICS 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1EI2 nts=25 [whole]
+GGCAGUGUGAGUACCUUCACACGUC
+..(.((((((......)))))))..
+
+Interacting substructures
+Chain A 
+GGCAGUGUGAGUACCUUCACACGUC
+..(.((((((......)))))))..
+

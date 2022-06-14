@@ -1,0 +1,22 @@
+Title			STRUCTURE OF METHYLPHOSPHATE CAPPING ENZYME METHYLTRANSFERASE DOMAIN IN COMPLEX WITH 5' END OF 7SK RNA 
+Chain order		B A 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>6DCC nts=37 [whole]
+gGAUGUGAGGCUUCGGCCUCACCGCUCCAUGUGCGA&a
+(((.(((((((....)))))))...)))........&.
+
+Interacting substructures
+Chain B 
+gGAUGUGAGGCUUCGGCCUCACCGCUCCAUGUGCGA
+(((.(((((((....)))))))...)))........
+
+Chain A 
+a
+.
+

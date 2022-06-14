@@ -1,0 +1,43 @@
+Title			THE STRUCTURAL BASIS FOR RNA SPECIFICITY AND CA2 INHIBITION OF AN RNA- DEPENDENT RNA POLYMERASE PHI6P2 CA2+ INHIBITION COMPLEX 
+Chain order		B D F A C E 
+Amino acids		YES
+Metal			Ca	6
+			Mn	3
+Chains			B	RNA	
+			D	RNA	
+			F	RNA	
+			A			
+			C			
+			E			
+Pseudoknot		NO
+
+Whole structure
+>1UVN nts=18 [whole]
+UUCC&UUCC&UUCC&g&g&g&g&g&g
+....&....&....&.&.&.&.&.&.
+
+Interacting substructures
+Chain B 
+UUCC
+....
+
+Chain D 
+UUCC
+....
+
+Chain F 
+UUCC
+....
+
+Chain A 
+gg
+..
+
+Chain C 
+gg
+..
+
+Chain E 
+gg
+..
+

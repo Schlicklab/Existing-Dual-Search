@@ -1,0 +1,18 @@
+Title			CBF5-NOP10-GAR1 COMPLEX BINDING WITH 17MER RNA CONTAINING ACA TRINUCLEOTIDE 
+Chain order		D E 
+Amino acids		YES
+Metal
+Chains			D	RNA	E 
+			E	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>3MQK nts=22 [whole]
+GUUCGAUCCACAG&CGAUCCACA
+....((((.....&.))))....
+
+Interacting substructures
+Chain D E 
+GUUCGAUCCACAGCGAUCCACA
+....((((......))))....
+

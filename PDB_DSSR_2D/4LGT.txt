@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE CATALYTIC DOMAIN OF RLUB IN COMPLEX WITH A 21-NUCLEOTIDE RNA SUBSTRATE 
+Chain order		E F 
+Amino acids		YES
+Metal
+Chains			E	RNA	E 
+			F	RNA	F 
+Pseudoknot		NO
+
+Whole structure
+>4LGT nts=41 [whole]
+AGAACGUCGUGAGACAGUpCG&GAACGUCGUGAGACAGUpCG
+.(.(((((....))).)).).&(.(((((....))).)).).
+
+Interacting substructures
+Chain E 
+AGAACGUCGUGAGACAGUpCG
+.(.(((((....))).)).).
+
+Chain F 
+GAACGUCGUGAGACAGUpCG
+(.(((((....))).)).).
+

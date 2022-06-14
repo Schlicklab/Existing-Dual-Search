@@ -1,0 +1,24 @@
+Title			STRUCTURAL VARIATIONS AND SOLVENT STRUCTURE OF UGGGGU QUADRUPLEXES STABILIZED BY SR2+ IONS 
+Chain order		A B 
+Amino acids		NO
+Metal			Na	2
+			Ca	3
+			Sr	5
+Chains			A	RNA	
+			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4RJ1 nts=12 [whole]
+UGGGGU&UGGGGU
+......&......
+
+Interacting substructures
+Chain A 
+UGGGGU
+......
+
+Chain B 
+UGGGGU
+......
+

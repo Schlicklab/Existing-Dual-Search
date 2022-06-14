@@ -1,0 +1,42 @@
+Title			SARS-COV-2 NSP15 ENDORIBONUCLEASE POST-CLEAVAGE STATE 
+Chain order		G H I J K L 
+Amino acids		YES
+Metal
+Chains			G	RNA	
+			H	RNA	
+			I	RNA	
+			J	RNA	
+			K	RNA	
+			L	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7N06 nts=9 [whole]
+AU&AU&AU&U&U&U
+..&..&..&.&.&.
+
+Interacting substructures
+Chain G 
+AU
+..
+
+Chain H 
+AU
+..
+
+Chain I 
+AU
+..
+
+Chain J 
+U
+.
+
+Chain K 
+U
+.
+
+Chain L 
+U
+.
+

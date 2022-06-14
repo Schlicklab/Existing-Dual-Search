@@ -1,0 +1,17 @@
+Title			3' STEM-LOOP FROM HUMAN U4 SNRNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1MFJ nts=20 [whole]
+GACAGUCUCUACGGAGACUG
+..(((((((....)))))))
+
+Interacting substructures
+Chain A 
+GACAGUCUCUACGGAGACUG
+..(((((((....)))))))
+

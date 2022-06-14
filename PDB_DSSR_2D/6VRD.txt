@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF RNASE H/RNA/PS-ASO COMPLEX AT AN ATOMIC LEVEL 
+Chain order		B C 
+Amino acids		YES
+Metal
+Chains			B	RNA	C 
+			C	DNA[10]/RNA[10]	B 
+Pseudoknot		NO
+
+Whole structure
+>6VRD nts=40 [whole]
+UGGCGAGUGGGUGAGUGAGG&cctcactcacccactcgcca
+((((((((((((((((((((&))))))))))))))))))))
+
+Interacting substructures
+Chain B C 
+UGGCGAGUGGGUGAGUGAGGcctcactcacccactcgcca
+(((((((((((((((((((())))))))))))))))))))
+

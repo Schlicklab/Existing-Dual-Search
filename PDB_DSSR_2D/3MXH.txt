@@ -1,0 +1,18 @@
+Title			NATIVE STRUCTURE OF A C-DI-GMP RIBOSWITCH FROM V. CHOLERAE 
+Chain order		R-1 R-2 
+Amino acids		YES
+Metal			Mg	5
+Chains			R-1	RNA*	R-2 R-1 
+			R-2	RNA*	R-1 
+Pseudoknot		YES
+
+Whole structure
+>3MXH nts=93 [whole]
+gGUCACGCACAGGGCAAACCAUUCGAAAGAGUGGGACGCAAAGCCUCCGGCCUAAACCAUUGCACUCCGGUAGGUAGCGGGGUUACCGAUGG&g
+...(.((......((...((((((....))))))..[))...(((.((((((((..((..........))))))).]))))))..[))...)&]
+
+Interacting substructures
+Chain R-1 R-2 
+gGUCACGCACAGGGCAAACCAUUCGAAAGAGUGGGACGCAAAGCCUCCGGCCUAAACCAUUGCACUCCGGUAGGUAGCGGGGUUACCGAUGGg
+...(.((......((...((((((....))))))..[))...(((.((((((((..((..........))))))).]))))))..[))...)]
+

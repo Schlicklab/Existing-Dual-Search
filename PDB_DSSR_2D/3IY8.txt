@@ -1,0 +1,2712 @@
+Title			LEISHMANIA TARENTOLAE MITONCHONDRIAL RIBOSOME SMALL SUBUNIT 
+Chain order		A-1 A-2 A-3 A-4 A-5 A-6 A-7 A-8 A-9 A-10 A-11 A-12 A-13 A-14 A-15 A-16 A-17 A-18 A-19 A-20 A-21 A-22 A-23 A-24 A-25 A-26 A-27 A-28 A-29 A-30 A-31 A-32 A-33 A-34 A-35 A-36 A-37 A-38 A-39 A-40 A-41 A-42 A-43 A-44 A-45 A-46 A-47 A-48 A-49 A-50 A-51 A-52 A-53 A-54 A-55 A-56 A-57 A-58 A-59 A-60 A-61 A-62 A-63 A-64 A-65 A-66 A-67 A-68 A-69 A-70 A-71 A-72 A-73 A-74 A-75 A-76 A-77 A-78 A-79 A-80 A-81 A-82 A-83 A-84 A-85 A-86 A-87 A-88 A-89 A-90 A-91 A-92 A-93 A-94 A-95 A-96 A-97 A-98 A-99 A-100 A-101 A-102 A-103 A-104 A-105 A-106 A-107 A-108 A-109 A-110 A-111 A-112 A-113 A-114 A-115 A-116 A-117 A-118 A-119 A-120 A-121 A-122 A-123 A-124 A-125 A-126 A-127 A-128 A-129 A-130 A-131 A-132 A-133 A-134 A-135 A-136 A-137 A-138 A-139 A-140 A-141 A-142 A-143 A-144 A-145 A-146 A-147 A-148 A-149 A-150 A-151 A-152 A-153 A-154 A-155 A-156 A-157 A-158 A-159 A-160 A-161 A-162 A-163 A-164 A-165 A-166 A-167 A-168 A-169 A-170 A-171 A-172 A-173 A-174 A-175 A-176 A-177 A-178 A-179 A-180 A-181 A-182 A-183 A-184 A-185 A-186 A-187 A-188 A-189 A-190 A-191 A-192 A-193 A-194 A-195 A-196 A-197 A-198 A-199 A-200 A-201 A-202 A-203 A-204 A-205 A-206 A-207 A-208 A-209 A-210 A-211 A-212 A-213 A-214 A-215 A-216 A-217 A-218 A-219 A-220 A-221 A-222 A-223 A-224 A-225 A-226 A-227 A-228 A-229 A-230 A-231 A-232 A-233 A-234 A-235 A-236 A-237 A-238 A-239 A-240 A-241 A-242 A-243 A-244 A-245 A-246 A-247 A-248 A-249 A-250 A-251 A-252 A-253 A-254 A-255 A-256 A-257 A-258 A-259 A-260 A-261 A-262 A-263 A-264 A-265 A-266 A-267 A-268 A-269 A-270 A-271 A-272 A-273 A-274 A-275 A-276 A-277 A-278 A-279 A-280 A-281 A-282 A-283 A-284 A-285 A-286 A-287 A-288 A-289 A-290 A-291 A-292 A-293 A-294 A-295 A-296 A-297 A-298 A-299 A-300 A-301 A-302 A-303 A-304 A-305 A-306 A-307 A-308 A-309 A-310 A-311 A-312 A-313 A-314 A-315 A-316 A-317 A-318 A-319 A-320 A-321 A-322 A-323 A-324 A-325 A-326 A-327 A-328 A-329 A-330 A-331 A-332 A-333 A-334 A-335 A-336 A-337 A-338 A-339 A-340 A-341 A-342 A-343 A-344 A-345 A-346 A-347 A-348 A-349 A-350 A-351 A-352 A-353 A-354 A-355 A-356 A-357 A-358 A-359 A-360 A-361 A-362 A-363 A-364 A-365 A-366 A-367 A-368 A-369 A-370 A-371 A-372 A-373 A-374 A-375 A-376 A-377 A-378 A-379 A-380 A-381 A-382 A-383 A-384 A-385 A-386 A-387 A-388 A-389 A-390 A-391 A-392 A-393 A-394 A-395 A-396 A-397 A-398 A-399 A-400 A-401 A-402 A-403 A-404 A-405 A-406 A-407 A-408 A-409 A-410 A-411 A-412 A-413 A-414 A-415 A-416 A-417 A-418 A-419 A-420 A-421 A-422 A-423 A-424 A-425 A-426 A-427 A-428 A-429 A-430 A-431 A-432 A-433 A-434 A-435 A-436 A-437 A-438 A-439 A-440 A-441 A-442 A-443 A-444 A-445 A-446 A-447 A-448 A-449 A-450 A-451 A-452 A-453 A-454 A-455 A-456 A-457 A-458 A-459 A-460 A-461 A-462 A-463 A-464 A-465 A-466 A-467 A-468 A-469 A-470 A-471 A-472 A-473 A-474 A-475 A-476 A-477 A-478 A-479 A-480 A-481 A-482 A-483 A-484 A-485 A-486 A-487 A-488 A-489 A-490 A-491 A-492 A-493 A-494 A-495 A-496 A-497 A-498 A-499 A-500 A-501 A-502 A-503 A-504 A-505 A-506 A-507 A-508 A-509 A-510 A-511 A-512 A-513 A-514 A-515 A-516 A-517 A-518 A-519 A-520 A-521 A-522 A-523 A-524 A-525 A-526 A-527 A-528 A-529 A-530 A-531 A-532 A-533 A-534 A-535 A-536 A-537 A-538 A-539 A-540 
+Amino acids		YES
+Metal
+Chains			A-1	DNA*	
+			A-2	DNA*	
+			A-3	DNA*	
+			A-4	DNA*	
+			A-5	DNA*	
+			A-6	DNA*	
+			A-7	DNA*	
+			A-8	DNA*	
+			A-9	DNA*	
+			A-10	DNA*	
+			A-11	DNA*	
+			A-12	DNA*	
+			A-13	DNA*	
+			A-14	DNA*	
+			A-15	DNA*	
+			A-16	DNA*	
+			A-17	DNA*	
+			A-18	DNA*	
+			A-19	DNA*	
+			A-20	DNA*	
+			A-21	DNA*	
+			A-22	DNA*	
+			A-23	DNA*	
+			A-24	DNA*	
+			A-25	DNA*	
+			A-26	DNA*	
+			A-27	DNA*	
+			A-28	DNA*	
+			A-29	DNA*	
+			A-30	DNA*	
+			A-31	DNA*	
+			A-32	DNA*	
+			A-33	DNA*	
+			A-34	DNA*	
+			A-35	DNA*	
+			A-36	DNA*	
+			A-37	DNA*	
+			A-38	DNA*	
+			A-39	DNA*	
+			A-40	DNA*	
+			A-41	DNA*	
+			A-42	DNA*	
+			A-43	DNA*	
+			A-44	DNA*	
+			A-45	DNA*	
+			A-46	DNA*	
+			A-47	DNA*	
+			A-48	DNA*	
+			A-49	DNA*	
+			A-50	DNA*	
+			A-51	DNA*	
+			A-52	DNA*	
+			A-53	DNA*	
+			A-54	DNA*	
+			A-55	DNA*	
+			A-56	DNA*	
+			A-57	DNA*	
+			A-58	DNA*	
+			A-59	DNA*	
+			A-60	DNA*	
+			A-61	DNA*	
+			A-62	DNA*	
+			A-63	DNA*	
+			A-64	DNA*	
+			A-65	DNA*	
+			A-66	DNA*	
+			A-67	DNA*	
+			A-68	DNA*	
+			A-69	DNA*	
+			A-70	DNA*	
+			A-71	DNA*	
+			A-72	DNA*	
+			A-73	DNA*	
+			A-74	DNA*	
+			A-75	DNA*	
+			A-76	DNA*	
+			A-77	DNA*	
+			A-78	DNA*	
+			A-79	DNA*	
+			A-80	DNA*	
+			A-81	DNA*	
+			A-82	DNA*	
+			A-83	DNA*	
+			A-84	DNA*	
+			A-85	DNA*	
+			A-86	DNA*	
+			A-87	DNA*	
+			A-88	DNA*	
+			A-89	DNA*	
+			A-90	DNA*	
+			A-91	DNA*	
+			A-92	DNA*	
+			A-93	DNA*	
+			A-94	DNA*	
+			A-95	DNA*	
+			A-96	DNA*	
+			A-97	DNA*	
+			A-98	DNA*	
+			A-99	DNA*	
+			A-100	DNA*	
+			A-101	DNA*	
+			A-102	DNA*	
+			A-103	DNA*	
+			A-104	DNA*	
+			A-105	DNA*	
+			A-106	DNA*	
+			A-107	DNA*	
+			A-108	DNA*	
+			A-109	DNA*	
+			A-110	DNA*	
+			A-111	DNA*	
+			A-112	DNA*	
+			A-113	DNA*	
+			A-114	DNA*	
+			A-115	DNA*	
+			A-116	DNA*	
+			A-117	DNA*	
+			A-118	DNA*	
+			A-119	DNA*	
+			A-120	DNA*	
+			A-121	DNA*	
+			A-122	DNA*	
+			A-123	DNA*	
+			A-124	DNA*	
+			A-125	DNA*	
+			A-126	DNA*	
+			A-127	DNA*	
+			A-128	DNA*	
+			A-129	DNA*	
+			A-130	DNA*	
+			A-131	DNA*	
+			A-132	DNA*	
+			A-133	DNA*	
+			A-134	DNA*	
+			A-135	DNA*	
+			A-136	DNA*	
+			A-137	DNA*	
+			A-138	DNA*	
+			A-139	DNA*	
+			A-140	DNA*	
+			A-141	DNA*	
+			A-142	DNA*	
+			A-143	DNA*	
+			A-144	DNA*	
+			A-145	DNA*	
+			A-146	DNA*	
+			A-147	DNA*	
+			A-148	DNA*	
+			A-149	DNA*	
+			A-150	DNA*	
+			A-151	DNA*	
+			A-152	DNA*	
+			A-153	DNA*	
+			A-154	DNA*	
+			A-155	DNA*	
+			A-156	DNA*	
+			A-157	DNA*	
+			A-158	DNA*	
+			A-159	DNA*	
+			A-160	DNA*	
+			A-161	DNA*	
+			A-162	DNA*	
+			A-163	DNA*	
+			A-164	DNA*	
+			A-165	DNA*	
+			A-166	DNA*	
+			A-167	DNA*	
+			A-168	DNA*	
+			A-169	DNA*	
+			A-170	DNA*	
+			A-171	DNA*	
+			A-172	DNA*	
+			A-173	DNA*	
+			A-174	DNA*	
+			A-175	DNA*	
+			A-176	DNA*	
+			A-177	DNA*	
+			A-178	DNA*	
+			A-179	DNA*	
+			A-180	DNA*	
+			A-181	DNA*	
+			A-182	DNA*	
+			A-183	DNA*	
+			A-184	DNA*	
+			A-185	DNA*	
+			A-186	DNA*	
+			A-187	DNA*	
+			A-188	DNA*	
+			A-189	DNA*	
+			A-190	DNA*	
+			A-191	DNA*	
+			A-192	DNA*	
+			A-193	DNA*	
+			A-194	DNA*	
+			A-195	DNA*	
+			A-196	DNA*	
+			A-197	DNA*	
+			A-198	DNA*	
+			A-199	DNA*	
+			A-200	DNA*	
+			A-201	DNA*	
+			A-202	DNA*	
+			A-203	DNA*	
+			A-204	DNA*	
+			A-205	DNA*	
+			A-206	DNA*	
+			A-207	DNA*	
+			A-208	DNA*	
+			A-209	DNA*	
+			A-210	DNA*	
+			A-211	DNA*	
+			A-212	DNA*	
+			A-213	DNA*	
+			A-214	DNA*	
+			A-215	DNA*	
+			A-216	DNA*	
+			A-217	DNA*	
+			A-218	DNA*	
+			A-219	DNA*	
+			A-220	DNA*	
+			A-221	DNA*	
+			A-222	DNA*	
+			A-223	DNA*	
+			A-224	DNA*	
+			A-225	DNA*	
+			A-226	DNA*	
+			A-227	DNA*	
+			A-228	DNA*	
+			A-229	DNA*	
+			A-230	DNA*	
+			A-231	DNA*	
+			A-232	DNA*	
+			A-233	DNA*	
+			A-234	DNA*	
+			A-235	DNA*	
+			A-236	DNA*	
+			A-237	DNA*	
+			A-238	DNA*	
+			A-239	DNA*	
+			A-240	DNA*	
+			A-241	DNA*	
+			A-242	DNA*	
+			A-243	DNA*	
+			A-244	DNA*	
+			A-245	DNA*	
+			A-246	DNA*	
+			A-247	DNA*	
+			A-248	DNA*	
+			A-249	DNA*	
+			A-250	DNA*	
+			A-251	DNA*	
+			A-252	DNA*	
+			A-253	DNA*	
+			A-254	DNA*	
+			A-255	DNA*	
+			A-256	DNA*	
+			A-257	DNA*	
+			A-258	DNA*	
+			A-259	DNA*	
+			A-260	DNA*	
+			A-261	DNA*	
+			A-262	DNA*	
+			A-263	DNA*	
+			A-264	DNA*	
+			A-265	DNA*	
+			A-266	DNA*	
+			A-267	DNA*	
+			A-268	DNA*	
+			A-269	DNA*	
+			A-270	DNA*	
+			A-271	DNA*	
+			A-272	DNA*	
+			A-273	DNA*	
+			A-274	DNA*	
+			A-275	DNA*	
+			A-276	DNA*	
+			A-277	DNA*	
+			A-278	DNA*	
+			A-279	DNA*	
+			A-280	DNA*	
+			A-281	DNA*	
+			A-282	DNA*	
+			A-283	DNA*	
+			A-284	DNA*	
+			A-285	DNA*	
+			A-286	DNA*	
+			A-287	DNA*	
+			A-288	DNA*	
+			A-289	DNA*	
+			A-290	DNA*	
+			A-291	DNA*	
+			A-292	DNA*	
+			A-293	DNA*	
+			A-294	DNA*	
+			A-295	DNA*	
+			A-296	DNA*	
+			A-297	DNA*	
+			A-298	DNA*	
+			A-299	DNA*	
+			A-300	DNA*	
+			A-301	DNA*	
+			A-302	DNA*	
+			A-303	DNA*	
+			A-304	DNA*	
+			A-305	DNA*	
+			A-306	DNA*	
+			A-307	DNA*	
+			A-308	DNA*	
+			A-309	DNA*	
+			A-310	DNA*	
+			A-311	DNA*	
+			A-312	DNA*	
+			A-313	DNA*	
+			A-314	DNA*	
+			A-315	DNA*	
+			A-316	DNA*	
+			A-317	DNA*	
+			A-318	DNA*	
+			A-319	DNA*	
+			A-320	DNA*	
+			A-321	DNA*	
+			A-322	DNA*	
+			A-323	DNA*	
+			A-324	DNA*	
+			A-325	DNA*	
+			A-326	DNA*	
+			A-327	DNA*	
+			A-328	DNA*	
+			A-329	DNA*	
+			A-330	DNA*	
+			A-331	DNA*	
+			A-332	DNA*	
+			A-333	DNA*	
+			A-334	DNA*	
+			A-335	DNA*	
+			A-336	DNA*	
+			A-337	DNA*	
+			A-338	DNA*	
+			A-339	DNA*	
+			A-340	DNA*	
+			A-341	DNA*	
+			A-342	DNA*	
+			A-343	DNA*	
+			A-344	DNA*	
+			A-345	DNA*	
+			A-346	DNA*	
+			A-347	DNA*	
+			A-348	DNA*	
+			A-349	DNA*	
+			A-350	DNA*	
+			A-351	DNA*	
+			A-352	DNA*	
+			A-353	DNA*	
+			A-354	DNA*	
+			A-355	DNA*	
+			A-356	DNA*	
+			A-357	DNA*	
+			A-358	DNA*	
+			A-359	DNA*	
+			A-360	DNA*	
+			A-361	DNA*	
+			A-362	DNA*	
+			A-363	DNA*	
+			A-364	DNA*	
+			A-365	DNA*	
+			A-366	DNA*	
+			A-367	DNA*	
+			A-368	DNA*	
+			A-369	DNA*	
+			A-370	DNA*	
+			A-371	DNA*	
+			A-372	DNA*	
+			A-373	DNA*	
+			A-374	DNA*	
+			A-375	DNA*	
+			A-376	DNA*	
+			A-377	DNA*	
+			A-378	DNA*	
+			A-379	DNA*	
+			A-380	DNA*	
+			A-381	DNA*	
+			A-382	DNA*	
+			A-383	DNA*	
+			A-384	DNA*	
+			A-385	DNA*	
+			A-386	DNA*	
+			A-387	DNA*	
+			A-388	DNA*	
+			A-389	DNA*	
+			A-390	DNA*	
+			A-391	DNA*	
+			A-392	DNA*	
+			A-393	DNA*	
+			A-394	DNA*	
+			A-395	DNA*	
+			A-396	DNA*	
+			A-397	DNA*	
+			A-398	DNA*	
+			A-399	DNA*	
+			A-400	DNA*	
+			A-401	DNA*	
+			A-402	DNA*	
+			A-403	DNA*	
+			A-404	DNA*	
+			A-405	DNA*	
+			A-406	DNA*	
+			A-407	DNA*	
+			A-408	DNA*	
+			A-409	DNA*	
+			A-410	DNA*	
+			A-411	DNA*	
+			A-412	DNA*	
+			A-413	DNA*	
+			A-414	DNA*	
+			A-415	DNA*	
+			A-416	DNA*	
+			A-417	DNA*	
+			A-418	DNA*	
+			A-419	DNA*	
+			A-420	DNA*	
+			A-421	DNA*	
+			A-422	DNA*	
+			A-423	DNA*	
+			A-424	DNA*	
+			A-425	DNA*	
+			A-426	DNA*	
+			A-427	DNA*	
+			A-428	DNA*	
+			A-429	DNA*	
+			A-430	DNA*	
+			A-431	DNA*	
+			A-432	DNA*	
+			A-433	DNA*	
+			A-434	DNA*	
+			A-435	DNA*	
+			A-436	DNA*	
+			A-437	DNA*	
+			A-438	DNA*	
+			A-439	DNA*	
+			A-440	DNA*	
+			A-441	DNA*	
+			A-442	DNA*	
+			A-443	DNA*	
+			A-444	DNA*	
+			A-445	DNA*	
+			A-446	DNA*	
+			A-447	DNA*	
+			A-448	DNA*	
+			A-449	DNA*	
+			A-450	DNA*	
+			A-451	DNA*	
+			A-452	DNA*	
+			A-453	DNA*	
+			A-454	DNA*	
+			A-455	DNA*	
+			A-456	DNA*	
+			A-457	DNA*	
+			A-458	DNA*	
+			A-459	DNA*	
+			A-460	DNA*	
+			A-461	DNA*	
+			A-462	DNA*	
+			A-463	DNA*	
+			A-464	DNA*	
+			A-465	DNA*	
+			A-466	DNA*	
+			A-467	DNA*	
+			A-468	DNA*	
+			A-469	DNA*	
+			A-470	DNA*	
+			A-471	DNA*	
+			A-472	DNA*	
+			A-473	DNA*	
+			A-474	DNA*	
+			A-475	DNA*	
+			A-476	DNA*	
+			A-477	DNA*	
+			A-478	DNA*	
+			A-479	DNA*	
+			A-480	DNA*	
+			A-481	DNA*	
+			A-482	DNA*	
+			A-483	DNA*	
+			A-484	DNA*	
+			A-485	DNA*	
+			A-486	DNA*	
+			A-487	DNA*	
+			A-488	DNA*	
+			A-489	DNA*	
+			A-490	DNA*	
+			A-491	DNA*	
+			A-492	DNA*	
+			A-493	DNA*	
+			A-494	DNA*	
+			A-495	DNA*	
+			A-496	DNA*	
+			A-497	DNA*	
+			A-498	DNA*	
+			A-499	DNA*	
+			A-500	DNA*	
+			A-501	DNA*	
+			A-502	DNA*	
+			A-503	DNA*	
+			A-504	DNA*	
+			A-505	DNA*	
+			A-506	DNA*	
+			A-507	DNA*	
+			A-508	DNA*	
+			A-509	DNA*	
+			A-510	DNA*	
+			A-511	DNA*	
+			A-512	DNA*	
+			A-513	DNA*	
+			A-514	DNA*	
+			A-515	DNA*	
+			A-516	DNA*	
+			A-517	DNA*	
+			A-518	DNA*	
+			A-519	DNA*	
+			A-520	DNA*	
+			A-521	DNA*	
+			A-522	DNA*	
+			A-523	DNA*	
+			A-524	DNA*	
+			A-525	DNA*	
+			A-526	DNA*	
+			A-527	DNA*	
+			A-528	DNA*	
+			A-529	DNA*	
+			A-530	DNA*	
+			A-531	DNA*	
+			A-532	DNA*	
+			A-533	DNA*	
+			A-534	DNA*	
+			A-535	DNA*	
+			A-536	DNA*	
+			A-537	DNA*	
+			A-538	DNA*	
+			A-539	DNA*	
+			A-540	DNA*	
+Pseudoknot		NO
+
+Whole structure
+>3IY8 nts=540 [whole]
+A&U&U&A&U&A&C&G&U&A&G&U&C&A&A&U&U&G&U&U&A&U&U&A&U&U&C&A&U&A&U&U&A&A&U&U&U&U&U&U&U&A&A&A&A&G&U&U&U&U&U&U&A&A&U&U&U&U&A&U&A&U&U&A&G&U&U&U&A&U&U&U&G&U&U&U&A&C&A&A&A&U&U&U&A&A&A&U&U&A&U&A&U&U&U&C&A&U&U&A&U&U&U&A&G&G&A&A&U&A&G&U&U&A&A&U&U&A&G&A&U&U&U&A&U&U&U&G&U&U&A&A&U&G&C&U&A&U&U&A&A&A&G&G&G&G&U&G&U&G&G&A&A&A&A&A&G&U&G&U&U&A&A&A&U&U&A&U&U&U&A&U&A&U&A&U&U&U&A&A&A&U&A&A&U&A&A&A&U&A&A&A&A&U&A&U&A&A&C&U&U&A&U&U&A&G&U&C&A&G&A&A&A&U&G&G&A&U&G&C&G&A&G&C&C&G&U&U&G&C&G&G&U&A&A&U&U&U&C&U&A&U&G&C&U&U&U&U&A&A&A&U&A&U&U&A&U&A&C&A&U&U&U&A&U&U&U&U&A&U&U&A&U&A&U&A&U&G&C&A&A&A&U&A&A&A&A&A&A&U&G&A&C&A&C&A&U&U&A&A&U&U&A&U&U&A&A&U&U&A&U&A&U&U&A&U&A&U&U&A&U&A&U&U&U&A&U&U&C&A&C&A&U&A&A&G&U&C&A&A&C&A&A&U&A&U&C&U&A&U&U&U&A&C&U&G&U&U&U&U&U&G&A&C&A&A&C&A&U&G&A&U&A&A&G&G&A&U&U&A&U&A&A&A&U&G&G&A&A&U&U&A&U&A&A&U&U&U&U&A&U&A&A&U&C&A&A&A&A&C&U&A&A&U&U&U&A&U&U&A&U&A&U&U&A&A&A&U&U&A&G&C&A&U&G&U&U&U&A&G&A&U&A&A&A&A&C&A&A&U&A&A&A&U&U&U&A&G&A&A&G&G&U&A&U&U&C&U&U&G&C&C&C&A&C&C&A&U&U&C&U&U&U&G&U&A&A&U&A&A&A&G&A&C&A&A&C&G&U&G&C&A&G&U&A&A&U&U&A&A&U&A&U&A&U&U&U&A&U&A&A&A&A&A&U&A&U&A&U&U&U&U&C&U&C&A&U&G&U&U
+.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.
+
+Interacting substructures
+Chain A-1 
+A
+.
+
+Chain A-2 
+U
+.
+
+Chain A-3 
+U
+.
+
+Chain A-4 
+A
+.
+
+Chain A-5 
+U
+.
+
+Chain A-6 
+A
+.
+
+Chain A-7 
+C
+.
+
+Chain A-8 
+G
+.
+
+Chain A-9 
+U
+.
+
+Chain A-10 
+A
+.
+
+Chain A-11 
+G
+.
+
+Chain A-12 
+U
+.
+
+Chain A-13 
+C
+.
+
+Chain A-14 
+A
+.
+
+Chain A-15 
+A
+.
+
+Chain A-16 
+U
+.
+
+Chain A-17 
+U
+.
+
+Chain A-18 
+G
+.
+
+Chain A-19 
+U
+.
+
+Chain A-20 
+U
+.
+
+Chain A-21 
+A
+.
+
+Chain A-22 
+U
+.
+
+Chain A-23 
+U
+.
+
+Chain A-24 
+A
+.
+
+Chain A-25 
+U
+.
+
+Chain A-26 
+U
+.
+
+Chain A-27 
+C
+.
+
+Chain A-28 
+A
+.
+
+Chain A-29 
+U
+.
+
+Chain A-30 
+A
+.
+
+Chain A-31 
+U
+.
+
+Chain A-32 
+U
+.
+
+Chain A-33 
+A
+.
+
+Chain A-34 
+A
+.
+
+Chain A-35 
+U
+.
+
+Chain A-36 
+U
+.
+
+Chain A-37 
+U
+.
+
+Chain A-38 
+U
+.
+
+Chain A-39 
+U
+.
+
+Chain A-40 
+U
+.
+
+Chain A-41 
+U
+.
+
+Chain A-42 
+A
+.
+
+Chain A-43 
+A
+.
+
+Chain A-44 
+A
+.
+
+Chain A-45 
+A
+.
+
+Chain A-46 
+G
+.
+
+Chain A-47 
+U
+.
+
+Chain A-48 
+U
+.
+
+Chain A-49 
+U
+.
+
+Chain A-50 
+U
+.
+
+Chain A-51 
+U
+.
+
+Chain A-52 
+U
+.
+
+Chain A-53 
+A
+.
+
+Chain A-54 
+A
+.
+
+Chain A-55 
+U
+.
+
+Chain A-56 
+U
+.
+
+Chain A-57 
+U
+.
+
+Chain A-58 
+U
+.
+
+Chain A-59 
+A
+.
+
+Chain A-60 
+U
+.
+
+Chain A-61 
+A
+.
+
+Chain A-62 
+U
+.
+
+Chain A-63 
+U
+.
+
+Chain A-64 
+A
+.
+
+Chain A-65 
+G
+.
+
+Chain A-66 
+U
+.
+
+Chain A-67 
+U
+.
+
+Chain A-68 
+U
+.
+
+Chain A-69 
+A
+.
+
+Chain A-70 
+U
+.
+
+Chain A-71 
+U
+.
+
+Chain A-72 
+U
+.
+
+Chain A-73 
+G
+.
+
+Chain A-74 
+U
+.
+
+Chain A-75 
+U
+.
+
+Chain A-76 
+U
+.
+
+Chain A-77 
+A
+.
+
+Chain A-78 
+C
+.
+
+Chain A-79 
+A
+.
+
+Chain A-80 
+A
+.
+
+Chain A-81 
+A
+.
+
+Chain A-82 
+U
+.
+
+Chain A-83 
+U
+.
+
+Chain A-84 
+U
+.
+
+Chain A-85 
+A
+.
+
+Chain A-86 
+A
+.
+
+Chain A-87 
+A
+.
+
+Chain A-88 
+U
+.
+
+Chain A-89 
+U
+.
+
+Chain A-90 
+A
+.
+
+Chain A-91 
+U
+.
+
+Chain A-92 
+A
+.
+
+Chain A-93 
+U
+.
+
+Chain A-94 
+U
+.
+
+Chain A-95 
+U
+.
+
+Chain A-96 
+C
+.
+
+Chain A-97 
+A
+.
+
+Chain A-98 
+U
+.
+
+Chain A-99 
+U
+.
+
+Chain A-100 
+A
+.
+
+Chain A-101 
+U
+.
+
+Chain A-102 
+U
+.
+
+Chain A-103 
+U
+.
+
+Chain A-104 
+A
+.
+
+Chain A-105 
+G
+.
+
+Chain A-106 
+G
+.
+
+Chain A-107 
+A
+.
+
+Chain A-108 
+A
+.
+
+Chain A-109 
+U
+.
+
+Chain A-110 
+A
+.
+
+Chain A-111 
+G
+.
+
+Chain A-112 
+U
+.
+
+Chain A-113 
+U
+.
+
+Chain A-114 
+A
+.
+
+Chain A-115 
+A
+.
+
+Chain A-116 
+U
+.
+
+Chain A-117 
+U
+.
+
+Chain A-118 
+A
+.
+
+Chain A-119 
+G
+.
+
+Chain A-120 
+A
+.
+
+Chain A-121 
+U
+.
+
+Chain A-122 
+U
+.
+
+Chain A-123 
+U
+.
+
+Chain A-124 
+A
+.
+
+Chain A-125 
+U
+.
+
+Chain A-126 
+U
+.
+
+Chain A-127 
+U
+.
+
+Chain A-128 
+G
+.
+
+Chain A-129 
+U
+.
+
+Chain A-130 
+U
+.
+
+Chain A-131 
+A
+.
+
+Chain A-132 
+A
+.
+
+Chain A-133 
+U
+.
+
+Chain A-134 
+G
+.
+
+Chain A-135 
+C
+.
+
+Chain A-136 
+U
+.
+
+Chain A-137 
+A
+.
+
+Chain A-138 
+U
+.
+
+Chain A-139 
+U
+.
+
+Chain A-140 
+A
+.
+
+Chain A-141 
+A
+.
+
+Chain A-142 
+A
+.
+
+Chain A-143 
+G
+.
+
+Chain A-144 
+G
+.
+
+Chain A-145 
+G
+.
+
+Chain A-146 
+G
+.
+
+Chain A-147 
+U
+.
+
+Chain A-148 
+G
+.
+
+Chain A-149 
+U
+.
+
+Chain A-150 
+G
+.
+
+Chain A-151 
+G
+.
+
+Chain A-152 
+A
+.
+
+Chain A-153 
+A
+.
+
+Chain A-154 
+A
+.
+
+Chain A-155 
+A
+.
+
+Chain A-156 
+A
+.
+
+Chain A-157 
+G
+.
+
+Chain A-158 
+U
+.
+
+Chain A-159 
+G
+.
+
+Chain A-160 
+U
+.
+
+Chain A-161 
+U
+.
+
+Chain A-162 
+A
+.
+
+Chain A-163 
+A
+.
+
+Chain A-164 
+A
+.
+
+Chain A-165 
+U
+.
+
+Chain A-166 
+U
+.
+
+Chain A-167 
+A
+.
+
+Chain A-168 
+U
+.
+
+Chain A-169 
+U
+.
+
+Chain A-170 
+U
+.
+
+Chain A-171 
+A
+.
+
+Chain A-172 
+U
+.
+
+Chain A-173 
+A
+.
+
+Chain A-174 
+U
+.
+
+Chain A-175 
+A
+.
+
+Chain A-176 
+U
+.
+
+Chain A-177 
+U
+.
+
+Chain A-178 
+U
+.
+
+Chain A-179 
+A
+.
+
+Chain A-180 
+A
+.
+
+Chain A-181 
+A
+.
+
+Chain A-182 
+U
+.
+
+Chain A-183 
+A
+.
+
+Chain A-184 
+A
+.
+
+Chain A-185 
+U
+.
+
+Chain A-186 
+A
+.
+
+Chain A-187 
+A
+.
+
+Chain A-188 
+A
+.
+
+Chain A-189 
+U
+.
+
+Chain A-190 
+A
+.
+
+Chain A-191 
+A
+.
+
+Chain A-192 
+A
+.
+
+Chain A-193 
+A
+.
+
+Chain A-194 
+U
+.
+
+Chain A-195 
+A
+.
+
+Chain A-196 
+U
+.
+
+Chain A-197 
+A
+.
+
+Chain A-198 
+A
+.
+
+Chain A-199 
+C
+.
+
+Chain A-200 
+U
+.
+
+Chain A-201 
+U
+.
+
+Chain A-202 
+A
+.
+
+Chain A-203 
+U
+.
+
+Chain A-204 
+U
+.
+
+Chain A-205 
+A
+.
+
+Chain A-206 
+G
+.
+
+Chain A-207 
+U
+.
+
+Chain A-208 
+C
+.
+
+Chain A-209 
+A
+.
+
+Chain A-210 
+G
+.
+
+Chain A-211 
+A
+.
+
+Chain A-212 
+A
+.
+
+Chain A-213 
+A
+.
+
+Chain A-214 
+U
+.
+
+Chain A-215 
+G
+.
+
+Chain A-216 
+G
+.
+
+Chain A-217 
+A
+.
+
+Chain A-218 
+U
+.
+
+Chain A-219 
+G
+.
+
+Chain A-220 
+C
+.
+
+Chain A-221 
+G
+.
+
+Chain A-222 
+A
+.
+
+Chain A-223 
+G
+.
+
+Chain A-224 
+C
+.
+
+Chain A-225 
+C
+.
+
+Chain A-226 
+G
+.
+
+Chain A-227 
+U
+.
+
+Chain A-228 
+U
+.
+
+Chain A-229 
+G
+.
+
+Chain A-230 
+C
+.
+
+Chain A-231 
+G
+.
+
+Chain A-232 
+G
+.
+
+Chain A-233 
+U
+.
+
+Chain A-234 
+A
+.
+
+Chain A-235 
+A
+.
+
+Chain A-236 
+U
+.
+
+Chain A-237 
+U
+.
+
+Chain A-238 
+U
+.
+
+Chain A-239 
+C
+.
+
+Chain A-240 
+U
+.
+
+Chain A-241 
+A
+.
+
+Chain A-242 
+U
+.
+
+Chain A-243 
+G
+.
+
+Chain A-244 
+C
+.
+
+Chain A-245 
+U
+.
+
+Chain A-246 
+U
+.
+
+Chain A-247 
+U
+.
+
+Chain A-248 
+U
+.
+
+Chain A-249 
+A
+.
+
+Chain A-250 
+A
+.
+
+Chain A-251 
+A
+.
+
+Chain A-252 
+U
+.
+
+Chain A-253 
+A
+.
+
+Chain A-254 
+U
+.
+
+Chain A-255 
+U
+.
+
+Chain A-256 
+A
+.
+
+Chain A-257 
+U
+.
+
+Chain A-258 
+A
+.
+
+Chain A-259 
+C
+.
+
+Chain A-260 
+A
+.
+
+Chain A-261 
+U
+.
+
+Chain A-262 
+U
+.
+
+Chain A-263 
+U
+.
+
+Chain A-264 
+A
+.
+
+Chain A-265 
+U
+.
+
+Chain A-266 
+U
+.
+
+Chain A-267 
+U
+.
+
+Chain A-268 
+U
+.
+
+Chain A-269 
+A
+.
+
+Chain A-270 
+U
+.
+
+Chain A-271 
+U
+.
+
+Chain A-272 
+A
+.
+
+Chain A-273 
+U
+.
+
+Chain A-274 
+A
+.
+
+Chain A-275 
+U
+.
+
+Chain A-276 
+A
+.
+
+Chain A-277 
+U
+.
+
+Chain A-278 
+G
+.
+
+Chain A-279 
+C
+.
+
+Chain A-280 
+A
+.
+
+Chain A-281 
+A
+.
+
+Chain A-282 
+A
+.
+
+Chain A-283 
+U
+.
+
+Chain A-284 
+A
+.
+
+Chain A-285 
+A
+.
+
+Chain A-286 
+A
+.
+
+Chain A-287 
+A
+.
+
+Chain A-288 
+A
+.
+
+Chain A-289 
+A
+.
+
+Chain A-290 
+U
+.
+
+Chain A-291 
+G
+.
+
+Chain A-292 
+A
+.
+
+Chain A-293 
+C
+.
+
+Chain A-294 
+A
+.
+
+Chain A-295 
+C
+.
+
+Chain A-296 
+A
+.
+
+Chain A-297 
+U
+.
+
+Chain A-298 
+U
+.
+
+Chain A-299 
+A
+.
+
+Chain A-300 
+A
+.
+
+Chain A-301 
+U
+.
+
+Chain A-302 
+U
+.
+
+Chain A-303 
+A
+.
+
+Chain A-304 
+U
+.
+
+Chain A-305 
+U
+.
+
+Chain A-306 
+A
+.
+
+Chain A-307 
+A
+.
+
+Chain A-308 
+U
+.
+
+Chain A-309 
+U
+.
+
+Chain A-310 
+A
+.
+
+Chain A-311 
+U
+.
+
+Chain A-312 
+A
+.
+
+Chain A-313 
+U
+.
+
+Chain A-314 
+U
+.
+
+Chain A-315 
+A
+.
+
+Chain A-316 
+U
+.
+
+Chain A-317 
+A
+.
+
+Chain A-318 
+U
+.
+
+Chain A-319 
+U
+.
+
+Chain A-320 
+A
+.
+
+Chain A-321 
+U
+.
+
+Chain A-322 
+A
+.
+
+Chain A-323 
+U
+.
+
+Chain A-324 
+U
+.
+
+Chain A-325 
+U
+.
+
+Chain A-326 
+A
+.
+
+Chain A-327 
+U
+.
+
+Chain A-328 
+U
+.
+
+Chain A-329 
+C
+.
+
+Chain A-330 
+A
+.
+
+Chain A-331 
+C
+.
+
+Chain A-332 
+A
+.
+
+Chain A-333 
+U
+.
+
+Chain A-334 
+A
+.
+
+Chain A-335 
+A
+.
+
+Chain A-336 
+G
+.
+
+Chain A-337 
+U
+.
+
+Chain A-338 
+C
+.
+
+Chain A-339 
+A
+.
+
+Chain A-340 
+A
+.
+
+Chain A-341 
+C
+.
+
+Chain A-342 
+A
+.
+
+Chain A-343 
+A
+.
+
+Chain A-344 
+U
+.
+
+Chain A-345 
+A
+.
+
+Chain A-346 
+U
+.
+
+Chain A-347 
+C
+.
+
+Chain A-348 
+U
+.
+
+Chain A-349 
+A
+.
+
+Chain A-350 
+U
+.
+
+Chain A-351 
+U
+.
+
+Chain A-352 
+U
+.
+
+Chain A-353 
+A
+.
+
+Chain A-354 
+C
+.
+
+Chain A-355 
+U
+.
+
+Chain A-356 
+G
+.
+
+Chain A-357 
+U
+.
+
+Chain A-358 
+U
+.
+
+Chain A-359 
+U
+.
+
+Chain A-360 
+U
+.
+
+Chain A-361 
+U
+.
+
+Chain A-362 
+G
+.
+
+Chain A-363 
+A
+.
+
+Chain A-364 
+C
+.
+
+Chain A-365 
+A
+.
+
+Chain A-366 
+A
+.
+
+Chain A-367 
+C
+.
+
+Chain A-368 
+A
+.
+
+Chain A-369 
+U
+.
+
+Chain A-370 
+G
+.
+
+Chain A-371 
+A
+.
+
+Chain A-372 
+U
+.
+
+Chain A-373 
+A
+.
+
+Chain A-374 
+A
+.
+
+Chain A-375 
+G
+.
+
+Chain A-376 
+G
+.
+
+Chain A-377 
+A
+.
+
+Chain A-378 
+U
+.
+
+Chain A-379 
+U
+.
+
+Chain A-380 
+A
+.
+
+Chain A-381 
+U
+.
+
+Chain A-382 
+A
+.
+
+Chain A-383 
+A
+.
+
+Chain A-384 
+A
+.
+
+Chain A-385 
+U
+.
+
+Chain A-386 
+G
+.
+
+Chain A-387 
+G
+.
+
+Chain A-388 
+A
+.
+
+Chain A-389 
+A
+.
+
+Chain A-390 
+U
+.
+
+Chain A-391 
+U
+.
+
+Chain A-392 
+A
+.
+
+Chain A-393 
+U
+.
+
+Chain A-394 
+A
+.
+
+Chain A-395 
+A
+.
+
+Chain A-396 
+U
+.
+
+Chain A-397 
+U
+.
+
+Chain A-398 
+U
+.
+
+Chain A-399 
+U
+.
+
+Chain A-400 
+A
+.
+
+Chain A-401 
+U
+.
+
+Chain A-402 
+A
+.
+
+Chain A-403 
+A
+.
+
+Chain A-404 
+U
+.
+
+Chain A-405 
+C
+.
+
+Chain A-406 
+A
+.
+
+Chain A-407 
+A
+.
+
+Chain A-408 
+A
+.
+
+Chain A-409 
+A
+.
+
+Chain A-410 
+C
+.
+
+Chain A-411 
+U
+.
+
+Chain A-412 
+A
+.
+
+Chain A-413 
+A
+.
+
+Chain A-414 
+U
+.
+
+Chain A-415 
+U
+.
+
+Chain A-416 
+U
+.
+
+Chain A-417 
+A
+.
+
+Chain A-418 
+U
+.
+
+Chain A-419 
+U
+.
+
+Chain A-420 
+A
+.
+
+Chain A-421 
+U
+.
+
+Chain A-422 
+A
+.
+
+Chain A-423 
+U
+.
+
+Chain A-424 
+U
+.
+
+Chain A-425 
+A
+.
+
+Chain A-426 
+A
+.
+
+Chain A-427 
+A
+.
+
+Chain A-428 
+U
+.
+
+Chain A-429 
+U
+.
+
+Chain A-430 
+A
+.
+
+Chain A-431 
+G
+.
+
+Chain A-432 
+C
+.
+
+Chain A-433 
+A
+.
+
+Chain A-434 
+U
+.
+
+Chain A-435 
+G
+.
+
+Chain A-436 
+U
+.
+
+Chain A-437 
+U
+.
+
+Chain A-438 
+U
+.
+
+Chain A-439 
+A
+.
+
+Chain A-440 
+G
+.
+
+Chain A-441 
+A
+.
+
+Chain A-442 
+U
+.
+
+Chain A-443 
+A
+.
+
+Chain A-444 
+A
+.
+
+Chain A-445 
+A
+.
+
+Chain A-446 
+A
+.
+
+Chain A-447 
+C
+.
+
+Chain A-448 
+A
+.
+
+Chain A-449 
+A
+.
+
+Chain A-450 
+U
+.
+
+Chain A-451 
+A
+.
+
+Chain A-452 
+A
+.
+
+Chain A-453 
+A
+.
+
+Chain A-454 
+U
+.
+
+Chain A-455 
+U
+.
+
+Chain A-456 
+U
+.
+
+Chain A-457 
+A
+.
+
+Chain A-458 
+G
+.
+
+Chain A-459 
+A
+.
+
+Chain A-460 
+A
+.
+
+Chain A-461 
+G
+.
+
+Chain A-462 
+G
+.
+
+Chain A-463 
+U
+.
+
+Chain A-464 
+A
+.
+
+Chain A-465 
+U
+.
+
+Chain A-466 
+U
+.
+
+Chain A-467 
+C
+.
+
+Chain A-468 
+U
+.
+
+Chain A-469 
+U
+.
+
+Chain A-470 
+G
+.
+
+Chain A-471 
+C
+.
+
+Chain A-472 
+C
+.
+
+Chain A-473 
+C
+.
+
+Chain A-474 
+A
+.
+
+Chain A-475 
+C
+.
+
+Chain A-476 
+C
+.
+
+Chain A-477 
+A
+.
+
+Chain A-478 
+U
+.
+
+Chain A-479 
+U
+.
+
+Chain A-480 
+C
+.
+
+Chain A-481 
+U
+.
+
+Chain A-482 
+U
+.
+
+Chain A-483 
+U
+.
+
+Chain A-484 
+G
+.
+
+Chain A-485 
+U
+.
+
+Chain A-486 
+A
+.
+
+Chain A-487 
+A
+.
+
+Chain A-488 
+U
+.
+
+Chain A-489 
+A
+.
+
+Chain A-490 
+A
+.
+
+Chain A-491 
+A
+.
+
+Chain A-492 
+G
+.
+
+Chain A-493 
+A
+.
+
+Chain A-494 
+C
+.
+
+Chain A-495 
+A
+.
+
+Chain A-496 
+A
+.
+
+Chain A-497 
+C
+.
+
+Chain A-498 
+G
+.
+
+Chain A-499 
+U
+.
+
+Chain A-500 
+G
+.
+
+Chain A-501 
+C
+.
+
+Chain A-502 
+A
+.
+
+Chain A-503 
+G
+.
+
+Chain A-504 
+U
+.
+
+Chain A-505 
+A
+.
+
+Chain A-506 
+A
+.
+
+Chain A-507 
+U
+.
+
+Chain A-508 
+U
+.
+
+Chain A-509 
+A
+.
+
+Chain A-510 
+A
+.
+
+Chain A-511 
+U
+.
+
+Chain A-512 
+A
+.
+
+Chain A-513 
+U
+.
+
+Chain A-514 
+A
+.
+
+Chain A-515 
+U
+.
+
+Chain A-516 
+U
+.
+
+Chain A-517 
+U
+.
+
+Chain A-518 
+A
+.
+
+Chain A-519 
+U
+.
+
+Chain A-520 
+A
+.
+
+Chain A-521 
+A
+.
+
+Chain A-522 
+A
+.
+
+Chain A-523 
+A
+.
+
+Chain A-524 
+A
+.
+
+Chain A-525 
+U
+.
+
+Chain A-526 
+A
+.
+
+Chain A-527 
+U
+.
+
+Chain A-528 
+A
+.
+
+Chain A-529 
+U
+.
+
+Chain A-530 
+U
+.
+
+Chain A-531 
+U
+.
+
+Chain A-532 
+U
+.
+
+Chain A-533 
+C
+.
+
+Chain A-534 
+U
+.
+
+Chain A-535 
+C
+.
+
+Chain A-536 
+A
+.
+
+Chain A-537 
+U
+.
+
+Chain A-538 
+G
+.
+
+Chain A-539 
+U
+.
+
+Chain A-540 
+U
+.
+

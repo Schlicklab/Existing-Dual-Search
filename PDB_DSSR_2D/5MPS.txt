@@ -1,0 +1,40 @@
+Title			STRUCTURE OF A SPLICEOSOME REMODELED FOR EXON LIGATION 
+Chain order		I-1 I-2 E 2 6-1 6-2 5-1 5-2 5-3 C 
+Amino acids		YES
+Metal			Mg	3
+			K	2
+			Zn	6
+Chains			I-1	RNA*	6-2 
+			I-2	RNA*	2 
+			E	RNA	5-2 
+			2	RNA	6-2 I-2 
+			6-1	RNA*	6-2 
+			6-2	RNA*	6-1 6-2 2 I-1 
+			5-1	RNA*	5-2 
+			5-2	RNA*	5-2 E 5-1 
+			5-3	RNA*	
+			C			
+Pseudoknot		YES
+
+Whole structure
+>5MPS nts=340 [whole]
+GUAUGUCUAAAGUUAU&GCUCUUAUUUACUAACAA&UAAGUGAUCUAGAAAG&ACGAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUUU&GUUCGCGAAG&CUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUUAU&CAGCUUUACAGAUCAAUGGCGGAGGGAGGUCAACAUCAAGAACUGUGGGC&GCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAUAGAAACAGGUAAAGCUGU&AUUUUUU&g
+...[[[.[........&.....[[..[[[[[.[[.&............{{{.&(.((((((((((........(((..((((...]]]]]]]..]]......&((((((((((&))))))))))...................].]]].....))))))).(((.((((.....)))..))))........)))))))))).)&(((((((((.......(.......(((((.(((((((.....((((((((&)))))))).........((...((((((((.(...}}}.).)))))))).))))))))))))))......)...))))))))).&.......&.
+
+Interacting substructures
+Chain I-1 I-2 2 6-1 6-2 
+GUAUGUCUAAAGUUAUGCUCUUAUUUACUAACAAACGAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUUCUUUGUUCGCGAAGCUUCGUGGACAUUUGGUCAAUUUGAAACAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUUAU
+...[[[.[.............[[..[[[[[.[[.(.((((((((((........(((..((((...]]]]]]]..]]......(((((((((())))))))))...................].]]].....))))))).(((.((((.....)))..))))........)))))))))).)
+
+Chain E 5-1 5-2 
+UAAGUGAUCUAGAAAGCAGCUUUACAGAUCAAUGGCGGAGGGAGGUCAACAUCAAGAACUGUGGGCGCCUAUAGAACUUAUAACGAACAUGGUUCUUGCCUUUUACCAGAACCAUCCGGGUGUUGUCUCCAUAGAAACAGGUAAAGCUGU
+............{{{.(((((((((.......(.......(((((.(((((((.....(((((((()))))))).........((...((((((((.(...}}}.).)))))))).))))))))))))))......)...))))))))).
+
+Chain 5-3 
+AUUUUUU
+.......
+
+Chain C 
+g
+.
+

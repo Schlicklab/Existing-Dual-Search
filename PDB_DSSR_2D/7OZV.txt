@@ -1,0 +1,18 @@
+Title			SARS-COV-2 RDRP WITH MOLNUPIRAVIR/ NHC IN THE TEMPLATE STRAND BASE- PAIRED WITH G 
+Chain order		P T 
+Amino acids		YES
+Metal			Zn	2
+Chains			P	RNA	T 
+			T	RNA	P 
+Pseudoknot		NO
+
+Whole structure
+>7OZV nts=22 [whole]
+CUACGCAGUG&GGcACUGCGUAG
+((((((((((&..))))))))))
+
+Interacting substructures
+Chain P T 
+CUACGCAGUGGGcACUGCGUAG
+((((((((((..))))))))))
+

@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF STEM LOOP SL2 OF THE HIV-1 PSI RNA PACKAGING SIGNAL REVEALS A NOVEL A-U-A BASE-TRIPLE PLATFORM 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1ESY nts=19 [whole]
+GGCGACUGGUGAGUACGCC
+((((.((....))..))))
+
+Interacting substructures
+Chain A 
+GGCGACUGGUGAGUACGCC
+((((.((....))..))))
+

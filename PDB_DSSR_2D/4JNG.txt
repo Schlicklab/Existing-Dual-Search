@@ -1,0 +1,17 @@
+Title			SCHMALLENBERG VIRUS NUCLEOPROTEIN-RNA COMPLEX 
+Chain order		L 
+Amino acids		YES
+Metal
+Chains			L	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4JNG nts=42 [whole]
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+..........................................
+
+Interacting substructures
+Chain L 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+..........................................
+

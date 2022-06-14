@@ -1,0 +1,18 @@
+Title			AVAII RESTRICTION ENDONUCLEASE IN COMPLEX WITH AN RNA/DNA HYBRID 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	DNA	C 
+Pseudoknot		NO
+
+Whole structure
+>6G3B nts=22 [whole]
+GUAGGACCAUG&CCATGGTCCTA
+.((((((((((&.))))))))))
+
+Interacting substructures
+Chain C D 
+GUAGGACCAUGCCATGGTCCTA
+.((((((((((.))))))))))
+

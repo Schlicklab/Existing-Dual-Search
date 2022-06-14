@@ -1,0 +1,21 @@
+Title			CRYOEM STRUCTURE OF E. COLI RHO-DEPENDENT TRANSCRIPTION PRE- TERMINATION COMPLEX BOUND WITH NUSG 
+Chain order		N-1 N-2 T R 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			N-1	DNA*	T 
+			N-2	DNA*	T 
+			T	DNA	N-1 R N-2 
+			R	RNA	T 
+Pseudoknot		YES
+
+Whole structure
+>6XAV nts=66 [whole]
+GGGCTACCTCTC&TGACGGCGAATACCC&GGGTATTCGCCGTGTACCTCTCCTAGCCC&CGGAGAGGUA
+[[[.[[......&.....(..(((.(((&))).)))..)....(((((((((].]]]]&.)))))))))
+
+Interacting substructures
+Chain N-1 N-2 T R 
+GGGCTACCTCTCTGACGGCGAATACCCGGGTATTCGCCGTGTACCTCTCCTAGCCCCGGAGAGGUA
+[[[.[[...........(..(((.((())).)))..)....(((((((((].]]]].)))))))))
+

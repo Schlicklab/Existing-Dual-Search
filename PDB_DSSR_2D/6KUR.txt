@@ -1,0 +1,18 @@
+Title			STRUCTURE OF INFLUENZA D VIRUS POLYMERASE BOUND TO VRNA PROMOTER IN MODE B CONFORMATION (CLASS B1) 
+Chain order		R V 
+Amino acids		YES
+Metal
+Chains			R	RNA	V 
+			V	RNA	V R 
+Pseudoknot		NO
+
+Whole structure
+>6KUR nts=28 [whole]
+CUCCUGCUUAUGC&AGCAGUAGCAAGGAG
+(((((........&.((....)).)))))
+
+Interacting substructures
+Chain R V 
+CUCCUGCUUAUGCAGCAGUAGCAAGGAG
+(((((.........((....)).)))))
+

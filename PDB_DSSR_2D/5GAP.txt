@@ -1,0 +1,25 @@
+Title			BODY REGION OF THE U4/U6.U5 TRI-SNRNP 
+Chain order		V W-1 W-2 W-3 U 
+Amino acids		YES
+Metal
+Chains			V	RNA	W-3 V 
+			W-1	RNA*	U W-2 
+			W-2	RNA*	W-1 
+			W-3	RNA*	V 
+			U	RNA	W-1 U 
+Pseudoknot		YES
+
+Whole structure
+>5GAP nts=143 [whole]
+AUCCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAA&AUUUGGUCAAUUUG&AAUACAGA&GAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUU&UUCUUGCCUUUUACCAGAAC
+(((((((((((.(((((..(((((.(((.....(((....)))..))))))))...((((((((...&....[..(.(((..&)))...).&)))))))).))))).)))))))))))........&((((....]......)))).
+
+Interacting substructures
+Chain V W-3 
+AUCCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAAGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUU
+(((((((((((.(((((..(((((.(((.....(((....)))..))))))))...((((((((...)))))))).))))).)))))))))))........
+
+Chain W-1 W-2 U 
+AUUUGGUCAAUUUGAAUACAGAUUCUUGCCUUUUACCAGAAC
+....[..(.(((..)))...).((((....]......)))).
+

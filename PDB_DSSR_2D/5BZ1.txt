@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE RNA-BINDING DOMAIN OF YEAST PUF5P BOUND TO MFA2 RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5BZ1 nts=10 [whole]
+UGUAUUUGUA
+..........
+
+Interacting substructures
+Chain B 
+UGUAUUUGUA
+..........
+

@@ -1,0 +1,22 @@
+Title			STRUCTURE OF T. BRUCEI MERS1-RNA COMPLEX 
+Chain order		H K 
+Amino acids		YES
+Metal
+Chains			H	RNA	
+			K	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6U9X nts=8 [whole]
+GGGG&GGGG
+....&....
+
+Interacting substructures
+Chain H 
+GGGG
+....
+
+Chain K 
+GGGG
+....
+

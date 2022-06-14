@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF THE CORE DOMAIN OF RNA HELICASE DDX17 WITH RNA PRI-125A-OLIGO1 
+Chain order		C A 
+Amino acids		YES
+Metal			Be	1
+			Mg	4
+Chains			C	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>6UV2 nts=8 [whole]
+CACACCU&a
+.......&.
+
+Interacting substructures
+Chain C 
+CACACCU
+.......
+
+Chain A 
+a
+.
+

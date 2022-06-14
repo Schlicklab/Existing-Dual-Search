@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF P19 IN COMPLEX WITH DOUBLE-HELICAL 19MER RNA P(CAG)3C(CUG)3 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4J39 nts=19 [whole]
+CAGCAGCAGCCUGCUGCUG
+...................
+
+Interacting substructures
+Chain B 
+CAGCAGCAGCCUGCUGCUG
+...................
+

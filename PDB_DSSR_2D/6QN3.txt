@@ -1,0 +1,18 @@
+Title			STRUCTURE OF THE GLUTAMINE II RIBOSWITCH 
+Chain order		A B 
+Amino acids		NO
+Metal			Mg	4
+Chains			A	RNA*	B A 
+			B	RNA*	B A 
+Pseudoknot		YES
+
+Whole structure
+>6QN3 nts=100 [whole]
+CGUUCACCCUUCGGGGCGCAUGAAAUGGGAGUAGGGAACGGGAUUCUCAU&CGUUCACCCUUCGGGGCGCAUGAAAUGGGAGUAGGGAACGGGAUUCUCAU
+[[[[[.(((....)))..{.....((((((((...[[[[[{.))))))))&]]]]].(((....)))..}.....((((((((...]]]]]}.))))))))
+
+Interacting substructures
+Chain A B 
+CGUUCACCCUUCGGGGCGCAUGAAAUGGGAGUAGGGAACGGGAUUCUCAUCGUUCACCCUUCGGGGCGCAUGAAAUGGGAGUAGGGAACGGGAUUCUCAU
+[[[[[.(((....)))..{.....((((((((...[[[[[{.))))))))]]]]].(((....)))..}.....((((((((...]]]]]}.))))))))
+

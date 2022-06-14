@@ -1,0 +1,17 @@
+Title			THE FARFAR-NMR ENSEMBLE OF 29-MER HIV-1 TRANS-ACTIVATION RESPONSE ELEMENT RNA (N=20) 
+Chain order		X 
+Amino acids		NO
+Metal
+Chains			X	RNA	X 
+Pseudoknot		NO
+
+Whole structure
+>7JU1 nts=29 [whole]
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...((((......))))))))))
+
+Interacting substructures
+Chain X 
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...((((......))))))))))
+

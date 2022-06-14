@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF A BACTERIAL RNASE P HOLOENZYME IN COMPLEX WITH TRNA AND IN THE PRESENCE OF 5' LEADER 
+Chain order		B C D 
+Amino acids		YES
+Metal			Mg	5
+Chains			B	DNA[6]/RNA[341]	C B 
+			C	DNA[3]/RNA[83]	C B 
+			D	DNA	
+Pseudoknot		YES
+
+Whole structure
+>3Q1R nts=438 [whole]
+GGAGAGGAGCAGGCGGUCGCGGGGGCGCACACCUGCGCUUCCCGAGGAAAGUCCGGACUCUGGAGCGGGGUGCCGGGUAACGCCCGGGAGGGGUGACCCUCGGACAGGGCCAUAGAGAAGAAGACCGCCCGGGGGGAAACUUCCGGGCAAGGGUGGAACGGUGGGGUAAGAGCCCACCAGCGUCGGGGCAACCCGGCGGCUUGGCAACCCCCACCUGGAGCAAGGCCAAGCAGGGGGUUGGGUCGCUCCCCCUAUUCCCCCGGGUUGGCCGCUUGAGGUGUGCGGUAACGCACACCCCAGAUUGAUGACCGCCCACGACAGAAUCCGGCUUAUGCUCCUCUCCCGUG&GGCCAGGUAGCUCAGUUGGUAGAGCACUGGAUAUGGGCACCCCCUAAGUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCACCA&GGCGU
+((((((((((..((((((.((((((((((....))))).))))).<...[[.[[[[[(((([[[[[.((((((((((.....)))))(((((....)))))((...(((((.............(((((((((((....)))))))))..)).......((((((.......))))))(.(((((((....)))))))..).)))..)))))))))))))...((((.....(((((..(((..]]]]].)))...))))).{{{.))))......((((((((....))))))))..........))))))......>....]]]]]]]...))))))))))....&(((((((..((((.....[..)))).((((((..(((....)))...)))))).....(((((..]....))))))))))))}}}.&.....
+
+Interacting substructures
+Chain B C 
+GGAGAGGAGCAGGCGGUCGCGGGGGCGCACACCUGCGCUUCCCGAGGAAAGUCCGGACUCUGGAGCGGGGUGCCGGGUAACGCCCGGGAGGGGUGACCCUCGGACAGGGCCAUAGAGAAGAAGACCGCCCGGGGGGAAACUUCCGGGCAAGGGUGGAACGGUGGGGUAAGAGCCCACCAGCGUCGGGGCAACCCGGCGGCUUGGCAACCCCCACCUGGAGCAAGGCCAAGCAGGGGGUUGGGUCGCUCCCCCUAUUCCCCCGGGUUGGCCGCUUGAGGUGUGCGGUAACGCACACCCCAGAUUGAUGACCGCCCACGACAGAAUCCGGCUUAUGCUCCUCUCCCGUGGGCCAGGUAGCUCAGUUGGUAGAGCACUGGAUAUGGGCACCCCCUAAGUCCAGGUGUCGGCGGUUCGAUUCCGCCCCUGGCCACCA
+((((((((((..((((((.((((((((((....))))).))))).<...[[.[[[[[(((([[[[[.((((((((((.....)))))(((((....)))))((...(((((.............(((((((((((....)))))))))..)).......((((((.......))))))(.(((((((....)))))))..).)))..)))))))))))))...((((.....(((((..(((..]]]]].)))...))))).{{{.))))......((((((((....))))))))..........))))))......>....]]]]]]]...))))))))))....(((((((..((((.....[..)))).((((((..(((....)))...)))))).....(((((..]....))))))))))))}}}.
+
+Chain D 
+GGCGU
+.....
+

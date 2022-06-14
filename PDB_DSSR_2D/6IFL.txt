@@ -1,0 +1,18 @@
+Title			CRYO-EM STRUCTURE OF TYPE III-A CSM-NTR COMPLEX 
+Chain order		I J 
+Amino acids		YES
+Metal
+Chains			I	RNA	J 
+			J	RNA	I 
+Pseudoknot		NO
+
+Whole structure
+>6IFL nts=70 [whole]
+ACGGAAACGCUUUCUAGCUCGCUAUAAUUACCCAU&AAUGGGUAAUUAUAGCGAGCUAGAAAGCGUUUCCG
+...((((.(((((.(((((.(((((.(((((((((&.))))))))).))))).))))).))))).))))..
+
+Interacting substructures
+Chain I J 
+ACGGAAACGCUUUCUAGCUCGCUAUAAUUACCCAUAAUGGGUAAUUAUAGCGAGCUAGAAAGCGUUUCCG
+...((((.(((((.(((((.(((((.(((((((((.))))))))).))))).))))).))))).))))..
+

@@ -1,0 +1,32 @@
+Title			X-RAY STRUCTURE OF ROQUIN ROQ DOMAIN IN COMPLEX WITH A SELEX-DERIVED HEXA-LOOP RNA MOTIF 
+Chain order		B D F H 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+			D	RNA	D 
+			F	RNA	F 
+			H	RNA	H 
+Pseudoknot		NO
+
+Whole structure
+>5F5F nts=80 [whole]
+UGACUGCGUUUUAGGAGUUA&UGACUGCGUUUUAGGAGUUA&UGACUGCGUUUUAGGAGUUA&UGACUGCGUUUUAGGAGUUA
+(((((.(......).)))))&.((((.(......).)))).&.((((.(......).)))).&(((((.(......).)))))
+
+Interacting substructures
+Chain B 
+UGACUGCGUUUUAGGAGUUA
+(((((.(......).)))))
+
+Chain D 
+UGACUGCGUUUUAGGAGUUA
+.((((.(......).)))).
+
+Chain F 
+UGACUGCGUUUUAGGAGUUA
+.((((.(......).)))).
+
+Chain H 
+UGACUGCGUUUUAGGAGUUA
+(((((.(......).)))))
+

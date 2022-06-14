@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURE OF A GROUP II INTRON LARIAT WITH AN INTACT 3' SPLICE SITE (PRE-2S STATE) 
+Chain order		A-1 A-2 B 
+Amino acids		NO
+Metal			Na	9
+			Mg	82
+Chains			A-1	RNA*	B A-1 A-2 
+			A-2	RNA*	B A-1 A-2 
+			B	RNA	A-1 A-2 
+Pseudoknot		YES
+
+Whole structure
+>6CHR nts=633 [whole]
+GUGCGACAAGAAGUUCAGGAAGGGAUUGAGGUGAAAGUCCUCCUCCCGAAUCGUUCAUGGGAGAGUCUAUCCAGACUUGCGUAGCGAGUAAUCGCUAGGUGAGAAGCUCUGGAGACAAUGUACCUGCCCUUCAAUUGGAGGUGCCAGGGCUAGGCUUUGUUCCUAUGGCUAGCGAAAGCGAAUACAGGUUAUUAGGCGUCGUGAAAACAAAACUCUUUCGACAUAAGGGAGAG&GUAGAUGAGUUACCCUCCUUUUUAUGGGGUAACUGAACGAUCAAUAUCUACCGGCGUAGACUGUGAGCCUAAAGGAAACGAAUGAAAGUGUCCCUUCCUGGGAACUUGGUAAGCCCAAUAGACUCCCUCUGGGAAACCAGAGGAGGAGUAAGAGCAAUCUUACUUAUCGUCUAGUGGGUAAAAGACAUAAUAGGAAGCAAAUGCUUGGUUGUAACGAUCGAGAUAGAAUCUGUUGAUUUAAGCUGAAAGGCUGCAGACUUAUUAAAUGGGUGUUCUGCUGUAUGGCGUUCGCGCCUAAGCAGCAGAAUGCGUGAGCCGUGUGCGAUGAAAGUCGCAAGCACGGUUCUGAUGGGGGGAAAACGAGAGAUCGUCUACCUAUCCAACUCA&UGUUUAUUAAAAA
+..[[..((((...(((((((((((((.((((.......))))(((((....{{{{{..)))))(((((.((((((((((..((((.(....).))))..))))..]]))))))..........((....................))....)))))..((((((..((((.((....))...(((((.......[((((.(...<...............(..).........&((((((..((((((((.][[[[[[.)))))))).}}}}}......))))))).)))).[.)))))))))...))).)))..........)))))))))))))..))))....(((((.(((((..(((((((....)))))))..((((((((....))))))))...))))).)))))........(((((....((.....(((((((.....)))))))..[((((...]..)))).((((....)))))).....))))).....((((((((((((..(((......)))...))))))))))))..((((((((((((((....)))))..))))))))).....(..((...((.(....).))...))...).....].&....>..]]]]]]
+
+Interacting substructures
+Chain A-1 A-2 B 
+GUGCGACAAGAAGUUCAGGAAGGGAUUGAGGUGAAAGUCCUCCUCCCGAAUCGUUCAUGGGAGAGUCUAUCCAGACUUGCGUAGCGAGUAAUCGCUAGGUGAGAAGCUCUGGAGACAAUGUACCUGCCCUUCAAUUGGAGGUGCCAGGGCUAGGCUUUGUUCCUAUGGCUAGCGAAAGCGAAUACAGGUUAUUAGGCGUCGUGAAAACAAAACUCUUUCGACAUAAGGGAGAGGUAGAUGAGUUACCCUCCUUUUUAUGGGGUAACUGAACGAUCAAUAUCUACCGGCGUAGACUGUGAGCCUAAAGGAAACGAAUGAAAGUGUCCCUUCCUGGGAACUUGGUAAGCCCAAUAGACUCCCUCUGGGAAACCAGAGGAGGAGUAAGAGCAAUCUUACUUAUCGUCUAGUGGGUAAAAGACAUAAUAGGAAGCAAAUGCUUGGUUGUAACGAUCGAGAUAGAAUCUGUUGAUUUAAGCUGAAAGGCUGCAGACUUAUUAAAUGGGUGUUCUGCUGUAUGGCGUUCGCGCCUAAGCAGCAGAAUGCGUGAGCCGUGUGCGAUGAAAGUCGCAAGCACGGUUCUGAUGGGGGGAAAACGAGAGAUCGUCUACCUAUCCAACUCAUGUUUAUUAAAAA
+..[[..((((...(((((((((((((.((((.......))))(((((....{{{{{..)))))(((((.((((((((((..((((.(....).))))..))))..]]))))))..........((....................))....)))))..((((((..((((.((....))...(((((.......[((((.(...<...............(..).........((((((..((((((((.][[[[[[.)))))))).}}}}}......))))))).)))).[.)))))))))...))).)))..........)))))))))))))..))))....(((((.(((((..(((((((....)))))))..((((((((....))))))))...))))).)))))........(((((....((.....(((((((.....)))))))..[((((...]..)))).((((....)))))).....))))).....((((((((((((..(((......)))...))))))))))))..((((((((((((((....)))))..))))))))).....(..((...((.(....).))...))...).....].....>..]]]]]]
+

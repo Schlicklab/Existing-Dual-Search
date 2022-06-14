@@ -1,0 +1,18 @@
+Title			CRYO-EM STRUCTURE OF LSHCAS13A-CRRNA-ANTI-TAG RNA COMPLEX 
+Chain order		B C 
+Amino acids		YES
+Metal
+Chains			B	RNA	C B 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>7DMQ nts=88 [whole]
+ACCCCAAUAUCGAAGGGGACUAAAACUAGAUUGCUGUUCUACCAAGUAAUCCA&UGGAUUACUUGGUAGAACAGCAAUCUAGUUUUAGU
+.((((.........))))(((((((((((((((((((((((.((((((.....&.....)))))).)))))))))))))))))))))))
+
+Interacting substructures
+Chain B C 
+ACCCCAAUAUCGAAGGGGACUAAAACUAGAUUGCUGUUCUACCAAGUAAUCCAUGGAUUACUUGGUAGAACAGCAAUCUAGUUUUAGU
+.((((.........))))(((((((((((((((((((((((.((((((..........)))))).)))))))))))))))))))))))
+

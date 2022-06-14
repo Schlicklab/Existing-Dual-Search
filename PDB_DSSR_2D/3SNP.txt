@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE ANALYSIS OF IRON REGULATORY PROTEIN 1 IN COMPLEX WITH FERRITIN H IRE RNA 
+Chain order		C-1 C-2 D-1 D-2 
+Amino acids		YES
+Metal
+Chains			C-1	RNA*	C-2 
+			C-2	RNA*	C-1 C-2 
+			D-1	RNA*	D-2 
+			D-2	RNA*	D-2 D-1 
+Pseudoknot		NO
+
+Whole structure
+>3SNP nts=58 [whole]
+GUUCU&GCUUCAACAGUGUUUGAACGGAAC&GUUCU&GCUUCAACAGUGUUUGAACGGAAC
+(((((&(.((((((...).)))))))))))&(((((&(.((((((...).)))))))))))
+
+Interacting substructures
+Chain C-1 C-2 
+GUUCUGCUUCAACAGUGUUUGAACGGAAC
+((((((.((((((...).)))))))))))
+
+Chain D-1 D-2 
+GUUCUGCUUCAACAGUGUUUGAACGGAAC
+((((((.((((((...).)))))))))))
+

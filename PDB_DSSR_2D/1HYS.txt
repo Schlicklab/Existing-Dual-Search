@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE IN COMPLEX WITH A POLYPURINE TRACT RNA:DNA 
+Chain order		E F 
+Amino acids		YES
+Metal
+Chains			E	RNA	F 
+			F	DNA	E 
+Pseudoknot		NO
+
+Whole structure
+>1HYS nts=45 [whole]
+UCAGCCACUUUUUAAAAGAAAAG&CTTTTCTTTTAAAAAGTGGCTG
+.((((((((((((((.((.((((&))).).))))))))))))))))
+
+Interacting substructures
+Chain E F 
+UCAGCCACUUUUUAAAAGAAAAGCTTTTCTTTTAAAAAGTGGCTG
+.((((((((((((((.((.(((())).).))))))))))))))))
+

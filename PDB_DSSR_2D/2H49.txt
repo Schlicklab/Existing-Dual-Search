@@ -1,0 +1,18 @@
+Title			THE NMR STRUCTURE OF AN INTERNAL LOOP FROM 23S RIBOSOMAL RNA OF DEINOCOCCUS RADIODURANS DIFFERS FROM THE STRUCTURE IN THE CRYSTAL OF THE RIBOSOMAL SUBUNIT 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2H49 nts=18 [whole]
+GGCUAAGAC&GUCGAAGCC
+(((...(((&)))...)))
+
+Interacting substructures
+Chain A B 
+GGCUAAGACGUCGAAGCC
+(((...((()))...)))
+

@@ -1,0 +1,18 @@
+Title			SARS-COV-2 RDRP IN COMPLEX WITH 4 REMDESIVIR MONOPHOSPHATE 
+Chain order		P T 
+Amino acids		YES
+Metal
+Chains			P	RNA	T 
+			T	RNA	P 
+Pseudoknot		NO
+
+Whole structure
+>7L1F nts=31 [whole]
+CUAAGAAGCUAUU&AUUUUAAUAGCUUCUUAG
+.((((((((((((&.....)))))))))))).
+
+Interacting substructures
+Chain P T 
+CUAAGAAGCUAUUAUUUUAAUAGCUUCUUAG
+.((((((((((((.....)))))))))))).
+

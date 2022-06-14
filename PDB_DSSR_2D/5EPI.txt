@@ -1,0 +1,42 @@
+Title			
+Chain order		D H L P T X 
+Amino acids		YES
+Metal
+Chains			D	RNA	D 
+			H	RNA	H 
+			L	RNA	L 
+			P	RNA	P 
+			T	RNA	T 
+			X	RNA	X 
+Pseudoknot		NO
+
+Whole structure
+>5EPI nts=72 [whole]
+AGCAGAAGCAGA&AGCAGAAGCAGA&AGCAGAAGCAGA&AGCAGAAGCAGA&AGCAGAAGCAGA&AGCAGAAGCAGA
+.((....))...&.((....))...&.((....))...&.((....))...&.((....))...&.((....))...
+
+Interacting substructures
+Chain D 
+AGCAGAAGCAGA
+.((....))...
+
+Chain H 
+AGCAGAAGCAGA
+.((....))...
+
+Chain L 
+AGCAGAAGCAGA
+.((....))...
+
+Chain P 
+AGCAGAAGCAGA
+.((....))...
+
+Chain T 
+AGCAGAAGCAGA
+.((....))...
+
+Chain X 
+AGCAGAAGCAGA
+.((....))...
+

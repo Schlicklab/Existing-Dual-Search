@@ -1,0 +1,17 @@
+Title			CRYO-EM MAP OF IN VITRO ASSEMBLED MEASLES VIRUS N INTO NUCLEOCAPSID- LIKE PARTICLES (NCLPS) BOUND TO VIRAL GENOMIC 5-PRIME RNA HEXAMERS. 
+Chain order		E 
+Amino acids		YES
+Metal
+Chains			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6H5S nts=6 [whole]
+ACCAGA
+......
+
+Interacting substructures
+Chain E 
+ACCAGA
+......
+

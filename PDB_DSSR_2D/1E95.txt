@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE PSEUDOKNOT OF SRV-1 RNA, INVOLVED IN RIBOSOMAL FRAMESHIFTING 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>1E95 nts=36 [whole]
+GCGGCCAGCUCCAGGCCGCCAAACAAUAUGGAGCAC
+((((((.[[[[[[)))))).........]]]]]]..
+
+Interacting substructures
+Chain A 
+GCGGCCAGCUCCAGGCCGCCAAACAAUAUGGAGCAC
+((((((.[[[[[[)))))).........]]]]]]..
+

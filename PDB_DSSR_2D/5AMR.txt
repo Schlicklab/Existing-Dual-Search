@@ -1,0 +1,18 @@
+Title			STRUCTURE OF THE LA CROSSE BUNYAVIRUS POLYMERASE IN COMPLEX WITH THE 3' VIRAL RNA 
+Chain order		B C 
+Amino acids		YES
+Metal
+Chains			B	RNA	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>5AMR nts=24 [whole]
+UUGGUAGUACACUACU&GCUACCAA
+((((((((........&))))))))
+
+Interacting substructures
+Chain B C 
+UUGGUAGUACACUACUGCUACCAA
+((((((((........))))))))
+

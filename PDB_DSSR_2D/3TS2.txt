@@ -1,0 +1,22 @@
+Title			MOUSE LIN28A IN COMPLEX WITH LET-7G MICRORNA PRE-ELEMENT 
+Chain order		U V 
+Amino acids		YES
+Metal			Zn	4
+Chains			U	RNA	U 
+			V	RNA	V 
+Pseudoknot		NO
+
+Whole structure
+>3TS2 nts=48 [whole]
+gGGGUCUAUGAUACCACCCCGGAG&gGGGUCUAUGAUACCACCCCGGAG
+(((((..........)))))....&(((((..........)))))....
+
+Interacting substructures
+Chain U 
+gGGGUCUAUGAUACCACCCCGGAG
+(((((..........)))))....
+
+Chain V 
+gGGGUCUAUGAUACCACCCCGGAG
+(((((..........)))))....
+

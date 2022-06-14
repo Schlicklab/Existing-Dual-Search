@@ -1,0 +1,18 @@
+Title			STRUCTURE OF THE HYBRID RNA/DNA R-GCUUCGGC-D[F]U IN PRESENCE OF IR(NH3)6+++ 
+Chain order		A B 
+Amino acids		NO
+Metal			Ir	2
+Chains			A	RNA[8]/1	B 
+			B	RNA[8]/1	A 
+Pseudoknot		NO
+
+Whole structure
+>1ICG nts=18 [whole]
+GCUUCGGCu&GCUUCGGCu
+(((..(((.&)))..))).
+
+Interacting substructures
+Chain A B 
+GCUUCGGCuGCUUCGGCu
+(((..(((.)))..))).
+

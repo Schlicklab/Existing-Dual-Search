@@ -1,0 +1,17 @@
+Title			SPECIATION OF A GROUP I INTRON INTO A LARIAT CAPPING RIBOZYME 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>4P8Z nts=188 [whole]
+GGUUGGGUUGGGAAGUAUCAUGGCUAAUCACCAUGAUGCAAUCGGGUUGAACACUUAAUUGGGUUAAAACGGUGGGGGACGAUCCCGUAACAUCCGUCCUAACGGCGACAGACUGCACGGCCCUGCCUCUUAGGUGUGUCCAAUGAACAGUCGUUCCGAAAGGAAGCAUCCGGUAUCCCAAGACAAUC
+(((((..(((((..(((((((((...[[[.)))))))))..((((.(((.((((......(((((...((((..(((...]]]))).......))))((....)).....[[[[[...))))).(((.....))))))).)))....]]]]].((((....))))....))))...)))))..)))))
+
+Interacting substructures
+Chain A 
+GGUUGGGUUGGGAAGUAUCAUGGCUAAUCACCAUGAUGCAAUCGGGUUGAACACUUAAUUGGGUUAAAACGGUGGGGGACGAUCCCGUAACAUCCGUCCUAACGGCGACAGACUGCACGGCCCUGCCUCUUAGGUGUGUCCAAUGAACAGUCGUUCCGAAAGGAAGCAUCCGGUAUCCCAAGACAAUC
+(((((..(((((..(((((((((...[[[.)))))))))..((((.(((.((((......(((((...((((..(((...]]]))).......))))((....)).....[[[[[...))))).(((.....))))))).)))....]]]]].((((....))))....))))...)))))..)))))
+

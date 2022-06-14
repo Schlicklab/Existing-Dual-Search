@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF HUMAN WILD TYPE GLYRS BOUND WITH TRNAGLY 
+Chain order		C E A B 
+Amino acids		YES
+Metal			Ni	2
+Chains			C	RNA	C 
+			E	RNA	E 
+			A			
+			B			
+Pseudoknot		YES
+
+Whole structure
+>5E6M nts=150 [whole]
+gCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCGCACCA&gCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCGCACCA&a&a
+(((((((..(((.....[...)))((((((.......))))))...(((((..]....))))))))))))....&(((((((..(((.....[...)))((((((.......))))))...(((((..]....))))))))))))....&.&.
+
+Interacting substructures
+Chain C 
+gCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCGCACCA
+(((((((..(((.....[...)))((((((.......))))))...(((((..]....))))))))))))....
+
+Chain E 
+gCGCCGCUGGUGUAGUGGUAUCAUGCAAGAUUCCCAUUCUUGCGACCCGGGUUCGAUUCCCGGGCGGCGCACCA
+(((((((..(((.....[...)))((((((.......))))))...(((((..]....))))))))))))....
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+

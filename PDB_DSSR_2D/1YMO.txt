@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE P2B-P3 PSEUDOKNOT FROM HUMAN TELOMERASE RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>1YMO nts=47 [whole]
+GGGCUGUUUUUCUCGCUGACUUUCAGCCCCAAACAAAAAAGUCAGCA
+[[[[[[........(((((((((]]]]]]........))))))))).
+
+Interacting substructures
+Chain A 
+GGGCUGUUUUUCUCGCUGACUUUCAGCCCCAAACAAAAAAGUCAGCA
+[[[[[[........(((((((((]]]]]]........))))))))).
+

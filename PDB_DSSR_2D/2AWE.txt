@@ -1,0 +1,58 @@
+Title			BASE-TETRAD SWAPPING RESULTS IN DIMERIZATION OF RNA QUADRUPLEXES: IMPLICATIONS FOR FORMATION OF I-MOTIF RNA OCTAPLEX 
+Chain order		A B C D E F G-1 G-2 H 
+Amino acids		NO
+Metal			K	11
+			Sr	1
+Chains			A	RNA[5]/1	
+			B	RNA[5]/1	
+			C	RNA[5]/1	
+			D	RNA[5]/1	
+			E	RNA[5]/1	
+			F	RNA[5]/1	
+			G-1	RNA[4]/1*	
+			G-2	RNA[4]/1*	
+			H	RNA[5]/1	
+Pseudoknot		NO
+
+Whole structure
+>2AWE nts=47 [whole]
+UgGUGU&UgGUGU&UgGUGU&UgGUGU&UgGUGU&UgGUGU&UgG&GU&UgGUGU
+......&......&......&......&......&......&...&..&......
+
+Interacting substructures
+Chain A 
+UgGUGU
+......
+
+Chain B 
+UgGUGU
+......
+
+Chain C 
+UgGUGU
+......
+
+Chain D 
+UgGUGU
+......
+
+Chain E 
+UgGUGU
+......
+
+Chain F 
+UgGUGU
+......
+
+Chain G-1 
+UgG
+...
+
+Chain G-2 
+GU
+..
+
+Chain H 
+UgGUGU
+......
+

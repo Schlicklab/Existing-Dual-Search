@@ -1,0 +1,22 @@
+Title			MS2 PROTEIN CAPSID/RNA COMPLEX 
+Chain order		R S 
+Amino acids		YES
+Metal
+Chains			R	RNA	R 
+			S	RNA	S 
+Pseudoknot		NO
+
+Whole structure
+>7MSF nts=25 [whole]
+UCGCCAACAGGCGG&GCCAACAGGCG
+.((((....)))).&(((....))).
+
+Interacting substructures
+Chain R 
+UCGCCAACAGGCGG
+.((((....)))).
+
+Chain S 
+GCCAACAGGCG
+(((....))).
+

@@ -1,0 +1,31 @@
+Title			STRUCTURE OF THE RNA POLYMERASE LAMBDA-BASED ANTITERMINATION COMPLEX 
+Chain order		K-1 K-2 L R-1 R-2 R-3 
+Amino acids		YES
+Metal			Mg	1
+			Zn	2
+Chains			K-1	DNA*	L 
+			K-2	DNA*	L 
+			L	DNA	K-1 K-2 R-3 
+			R-1	RNA*	R-1 
+			R-2	RNA*	
+			R-3	RNA*	L 
+Pseudoknot		YES
+
+Whole structure
+>6GOV nts=117 [whole]
+CCGGCTCGTATAAT&CTTATGTGAGCGGATAAC&GTTATCCGCTCACAATGCCACACGCCTAACGAGCCGG&CUUUAACAUUAAGCCCUGAAGAAGGGCAAAAAU&AAACCA&GCGUGUGGC
+[.[.[[[[[.....&....((((((((((((((&))))))))))))))..(((((((((...]]]]].].]&............(((((.....)))))......&......&)))))))))
+
+Interacting substructures
+Chain K-1 K-2 L R-3 
+CCGGCTCGTATAATCTTATGTGAGCGGATAACGTTATCCGCTCACAATGCCACACGCCTAACGAGCCGGGCGUGUGGC
+[.[.[[[[[.........(((((((((((((())))))))))))))..(((((((((...]]]]].].])))))))))
+
+Chain R-1 
+CUUUAACAUUAAGCCCUGAAGAAGGGCAAAAAU
+............(((((.....)))))......
+
+Chain R-2 
+AAACCA
+......
+

@@ -1,0 +1,17 @@
+Title			UNAC TETRALOOPS: TO WHAT EXTENT CAN THEY MIMIC GNRA TETRALOOPS 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>4A4R nts=22 [whole]
+gGACCCGGCUAACGCUGGGUCC
+(((((((((....)))))))))
+
+Interacting substructures
+Chain A 
+gGACCCGGCUAACGCUGGGUCC
+(((((((((....)))))))))
+

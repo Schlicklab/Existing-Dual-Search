@@ -1,0 +1,18 @@
+Title			CRICKET PARALYSIS VIRUS IGR IRES DOMAIN 3 RNA BOUND TO SELENATE, STRUCTURE #2 
+Chain order		B C 
+Amino acids		NO
+Metal
+Chains			B	RNA	C B 
+			C	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>3MJA nts=43 [whole]
+GGUUAUUCAGAUUAGGUAGUCGAAUGACC&UAAGAAAUUUACCU
+(((.((((.((..[[[[[.)))))).)))&.........]]]]]
+
+Interacting substructures
+Chain B C 
+GGUUAUUCAGAUUAGGUAGUCGAAUGACCUAAGAAAUUUACCU
+(((.((((.((..[[[[[.)))))).))).........]]]]]
+

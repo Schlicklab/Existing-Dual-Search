@@ -1,0 +1,17 @@
+Title			STRUCTURE OF THE LICT BACTERIAL ANTITERMINATOR PROTEIN IN COMPLEX WITH ITS RNA TARGET 
+Chain order		C 
+Amino acids		YES
+Metal
+Chains			C	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>1L1C nts=29 [whole]
+GGAUUGUUACUGCUACGGCAGGCAAAACC
+((.((((..((((....))))))))..))
+
+Interacting substructures
+Chain C 
+GGAUUGUUACUGCUACGGCAGGCAAAACC
+((.((((..((((....))))))))..))
+

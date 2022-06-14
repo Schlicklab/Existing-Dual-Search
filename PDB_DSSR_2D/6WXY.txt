@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF CA6-BOUND CARD1 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNAo	
+Pseudoknot		NO
+
+Whole structure
+>6WXY nts=6 [whole]
+AAAAAA
+......
+
+Interacting substructures
+Chain A 
+AAAAAA
+......
+

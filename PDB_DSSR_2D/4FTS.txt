@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF THE N363T MUTANT OF THE FLOCK HOUSE VIRUS CAPSID 
+Chain order		R A B C 
+Amino acids		YES
+Metal			Ca	4
+Chains			R	RNA	
+			A			
+			B			
+			C			
+Pseudoknot		NO
+
+Whole structure
+>4FTS nts=18 [whole]
+UUUCUCUUUUAUCUU&c&c&c
+...............&.&.&.
+
+Interacting substructures
+Chain R 
+UUUCUCUUUUAUCUU
+...............
+
+Chain A 
+c
+.
+
+Chain B 
+c
+.
+
+Chain C 
+c
+.
+

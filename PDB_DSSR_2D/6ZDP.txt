@@ -1,0 +1,18 @@
+Title			STRUCTURE OF TELOMERASE FROM CANDIDA TROPICALIS IN COMPLEXE WITH TWJ FRAGMENT OF TELOMERIC RNA 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal			K	4
+Chains			B-1	RNA*	B-2 B-1 
+			B-2	RNA*	B-1 
+Pseudoknot		NO
+
+Whole structure
+>6ZDP nts=67 [whole]
+GGUUUAGAUCUAAGGACUUCCUAAUUAGUGGUUUGUCCAAUGUUC&GGGCAUGCUAGACUCUGAACCC
+((((((((((((.((....((........)).....)).(((((.&.)))))..)))).)))))))).
+
+Interacting substructures
+Chain B-1 B-2 
+GGUUUAGAUCUAAGGACUUCCUAAUUAGUGGUUUGUCCAAUGUUCGGGCAUGCUAGACUCUGAACCC
+((((((((((((.((....((........)).....)).(((((..)))))..)))).)))))))).
+

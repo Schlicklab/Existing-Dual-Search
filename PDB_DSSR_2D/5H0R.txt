@@ -1,0 +1,18 @@
+Title			RNA DEPENDENT RNA POLYMERASE ,VP4,DSRNA 
+Chain order		H I 
+Amino acids		YES
+Metal
+Chains			H	RNA	I 
+			I	RNA	H 
+Pseudoknot		NO
+
+Whole structure
+>5H0R nts=84 [whole]
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+((((((((((((.(((((((((((((((((((((((((((((&))))))))))))))))))))))))))))).))))))))))))
+
+Interacting substructures
+Chain H I 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+((((((((((((.((((((((((((((((((((((((((((())))))))))))))))))))))))))))).))))))))))))
+

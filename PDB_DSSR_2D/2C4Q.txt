@@ -1,0 +1,22 @@
+Title			MS2-RNA HAIRPIN (2ONE -5) COMPLEX 
+Chain order		R S 
+Amino acids		YES
+Metal
+Chains			R	RNA	R 
+			S	RNA	S 
+Pseudoknot		NO
+
+Whole structure
+>2C4Q nts=34 [whole]
+CAUGAGGAUuACCCAUG&CAUGAGGAUuACCCAUG
+((((.((....))))))&((((.((....))))))
+
+Interacting substructures
+Chain R 
+CAUGAGGAUuACCCAUG
+((((.((....))))))
+
+Chain S 
+CAUGAGGAUuACCCAUG
+((((.((....))))))
+

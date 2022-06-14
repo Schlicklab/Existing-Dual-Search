@@ -1,0 +1,29 @@
+Title			CRYSTAL STRUCTURE OF GC(8BRG)GCGGCGGC DUPLEX 
+Chain order		A B C D E 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+			C	RNA	D 
+			D	RNA	C 
+			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3R1D nts=55 [whole]
+GCgGCGGCGGC&GCgGCGGCGGC&GCgGCGGCGGC&GCgGCGGCGGC&GCgGCGGCGGC
+((.((.((.((&)).)).)).))&((.((.((.((&)).)).)).))&...........
+
+Interacting substructures
+Chain A B 
+GCgGCGGCGGCGCgGCGGCGGC
+((.((.((.(()).)).)).))
+
+Chain C D 
+GCgGCGGCGGCGCgGCGGCGGC
+((.((.((.(()).)).)).))
+
+Chain E 
+GCgGCGGCGGC
+...........
+

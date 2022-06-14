@@ -1,0 +1,18 @@
+Title			STRUCTURE OF HSTAU1 DSRBD3-4 IN COMPLEX WITH ARF1 RNA 
+Chain order		D F 
+Amino acids		YES
+Metal
+Chains			D	RNA	F 
+			F	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>6HTU nts=38 [whole]
+GAGUGCCAGAAGCUGCCUC&GAGGCAGUUUCUGGUACUC
+(((((((((((((((((((&)))))))))))))))))))
+
+Interacting substructures
+Chain D F 
+GAGUGCCAGAAGCUGCCUCGAGGCAGUUUCUGGUACUC
+((((((((((((((((((()))))))))))))))))))
+

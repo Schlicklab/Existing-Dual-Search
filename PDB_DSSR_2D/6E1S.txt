@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF A CLASS I PREQ1 RIBOSWITCH COMPLEXED WITH A SYNTHETIC COMPOUND 1: 2-[(DIBENZO[B,D]FURAN-2-YL)OXY]ETHAN-1-AMINE 
+Chain order		A-1 A-2 
+Amino acids		NO
+Metal
+Chains			A-1	RNA*	A-2 
+			A-2	RNA*	A-1 
+Pseudoknot		YES
+
+Whole structure
+>6E1S nts=32 [whole]
+CUGGGUCGCAGU&?CCCCAGUUAACAAAACAAG
+(((((...[.[.&..))))).........]..]
+
+Interacting substructures
+Chain A-1 A-2 
+CUGGGUCGCAGU?CCCCAGUUAACAAAACAAG
+(((((...[.[...))))).........]..]
+

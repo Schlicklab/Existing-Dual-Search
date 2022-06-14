@@ -1,0 +1,72 @@
+Title			CRYSTAL STRUCTURE OF A PLECTONEMIC RNA SUPERCOIL 
+Chain order		a c e g i j h f d b k m o q s t r p n l 
+Amino acids		YES
+Metal
+Chains			a	RNA	b 
+			c	RNA	d 
+			e	RNA	f 
+			g	RNA	h 
+			i	RNA	j 
+			j	RNA	i 
+			h	RNA	g 
+			f	RNA	e 
+			d	RNA	c 
+			b	RNA	a 
+			k	RNA	l 
+			m	RNA	n 
+			o	RNA	p 
+			q	RNA	r 
+			s	RNA	t 
+			t	RNA	s 
+			r	RNA	q 
+			p	RNA	o 
+			n	RNA	m 
+			l	RNA	k 
+Pseudoknot		NO
+
+Whole structure
+>4EYA nts=240 [whole]
+GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA&GGCUCCUUGGCA
+....((..((..&....((......&....((..((..&.........(..&....((..((..&....))..))..&....).......&....))..))..&........))..&....))..))..&....((..((..&....((..((..&....((......&....((..((..&.........(..&....).......&....))..))..&........))..&....))..))..&....))..))..
+
+Interacting substructures
+Chain a b 
+GGCUCCUUGGCAGGCUCCUUGGCA
+....((..((......))..))..
+
+Chain c d 
+GGCUCCUUGGCAGGCUCCUUGGCA
+....((..............))..
+
+Chain e f 
+GGCUCCUUGGCAGGCUCCUUGGCA
+....((..((......))..))..
+
+Chain g h 
+GGCUCCUUGGCAGGCUCCUUGGCA
+.........(......).......
+
+Chain i j 
+GGCUCCUUGGCAGGCUCCUUGGCA
+....((..((......))..))..
+
+Chain k l 
+GGCUCCUUGGCAGGCUCCUUGGCA
+....((..((......))..))..
+
+Chain m n 
+GGCUCCUUGGCAGGCUCCUUGGCA
+....((..((......))..))..
+
+Chain o p 
+GGCUCCUUGGCAGGCUCCUUGGCA
+....((..............))..
+
+Chain q r 
+GGCUCCUUGGCAGGCUCCUUGGCA
+....((..((......))..))..
+
+Chain s t 
+GGCUCCUUGGCAGGCUCCUUGGCA
+.........(......).......
+

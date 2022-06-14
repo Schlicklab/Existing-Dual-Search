@@ -1,0 +1,27 @@
+Title			CRYSTAL STRUCTURE OF C. ELEGANS PUF-8 IN COMPLEX WITH RNA 
+Chain order		D E F 
+Amino acids		YES
+Metal
+Chains			D	RNA	
+			E	RNA	
+			F	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6NOD nts=24 [whole]
+UGUAUAUA&UGUAUAUA&UGUAUAUA
+........&........&........
+
+Interacting substructures
+Chain D 
+UGUAUAUA
+........
+
+Chain E 
+UGUAUAUA
+........
+
+Chain F 
+UGUAUAUA
+........
+

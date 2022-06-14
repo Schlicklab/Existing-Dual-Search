@@ -1,0 +1,29 @@
+Title			IN SITU STRUCTURE OF BMCPV RNA DEPENDENT RNA POLYMERASE AT INITIATION STATE 
+Chain order		M-1 M-2 N-1 N-2 T 
+Amino acids		YES
+Metal			Mg	3
+Chains			M-1	RNA*	
+			M-2	RNA*	T 
+			N-1	RNA[18]/1*	
+			N-2	RNA[18]/1*	T 
+			T	RNA	M-2 N-2 
+Pseudoknot		NO
+
+Whole structure
+>6TY9 nts=40 [whole]
+A&g&g&GUAAUUUUUUUUUUUUUU&AAAAAAAAAAAAAAUUACU
+.&(&.&.....((((((((((.((&)).))))))))))....).
+
+Interacting substructures
+Chain M-1 
+A
+.
+
+Chain M-2 N-2 T 
+gGUAAUUUUUUUUUUUUUUAAAAAAAAAAAAAAUUACU
+(.....((((((((((.(()).))))))))))....).
+
+Chain N-1 
+g
+.
+

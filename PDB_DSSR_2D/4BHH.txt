@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF TETRAMER OF LA CROSSE VIRUS NUCLEOPROTEIN IN COMPLEX WITH SSRNA 
+Chain order		R 
+Amino acids		YES
+Metal
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>4BHH nts=44 [whole]
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+............................................
+
+Interacting substructures
+Chain R 
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+............................................
+

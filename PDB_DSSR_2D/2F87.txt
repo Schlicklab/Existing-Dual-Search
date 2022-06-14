@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF A GAAG TETRALOOP IN SRP RNA FROM PYROCOCCUS FURIOSUS 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2F87 nts=12 [whole]
+GGCUGAAGGGCC
+((((....))))
+
+Interacting substructures
+Chain A 
+GGCUGAAGGGCC
+((((....))))
+

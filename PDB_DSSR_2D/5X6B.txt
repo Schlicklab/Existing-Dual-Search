@@ -1,0 +1,27 @@
+Title			CRYSTAL STRUCTURE OF SEPCYSE-SEPCYSS IN COMPLEX WITH TRNACYS FROM METHANOCALDOCOCCUS JANNASCHII 
+Chain order		I J P 
+Amino acids		YES
+Metal
+Chains			I			
+			J			
+			P	RNA	P 
+Pseudoknot		YES
+
+Whole structure
+>5X6B nts=77 [whole]
+u&u&GCCGGGGUAGUCUAGGGGCUAGGCAGCGGACUGCAGAUCCGCCUUACGUGGGUUCAAAUCCCACCCCCGGCUCCA
+.&.&(((((((....((....[..))...(((((.......))))).....(((((..]....))))))))))))....
+
+Interacting substructures
+Chain I 
+u
+.
+
+Chain J 
+u
+.
+
+Chain P 
+GCCGGGGUAGUCUAGGGGCUAGGCAGCGGACUGCAGAUCCGCCUUACGUGGGUUCAAAUCCCACCCCCGGCUCCA
+(((((((....((....[..))...(((((.......))))).....(((((..]....))))))))))))....
+

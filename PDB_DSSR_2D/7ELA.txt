@@ -1,0 +1,18 @@
+Title			STRUCTURE OF LASSA VIRUS POLYMERASE IN COMPLEX WITH 3'-VRNA AND Z MUTANT (F36A) 
+Chain order		C 
+Amino acids		YES
+Metal			Mn	1
+			Zn	2
+Chains			C	RNA	
+Pseudoknot		NO
+
+Whole structure
+>7ELA nts=7 [whole]
+CUGUGCG
+.......
+
+Interacting substructures
+Chain C 
+CUGUGCG
+.......
+

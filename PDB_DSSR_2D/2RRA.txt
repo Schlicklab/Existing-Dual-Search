@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF RNA BINDING DOMAIN IN HUMAN TRA2 BETA PROTEIN IN COMPLEX WITH RNA (GAAGAA) 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2RRA nts=6 [whole]
+GAAGAA
+......
+
+Interacting substructures
+Chain B 
+GAAGAA
+......
+

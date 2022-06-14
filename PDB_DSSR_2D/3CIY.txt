@@ -1,0 +1,18 @@
+Title			MOUSE TOLL-LIKE RECEPTOR 3 ECTODOMAIN COMPLEXED WITH DOUBLE-STRANDED RNA 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>3CIY nts=92 [whole]
+AUUCUGCGGAUUAUUUGGCAAAGGAAGCAUUGACACAUGCGCCAAU&AUUGGCGCAUGUGUCAAUGCUUCCUUUGCCAAAUAAUCCGCAGAAU
+((((((((((((((((((((((((((((((((((((((((((((((&))))))))))))))))))))))))))))))))))))))))))))))
+
+Interacting substructures
+Chain C D 
+AUUCUGCGGAUUAUUUGGCAAAGGAAGCAUUGACACAUGCGCCAAUAUUGGCGCAUGUGUCAAUGCUUCCUUUGCCAAAUAAUCCGCAGAAU
+(((((((((((((((((((((((((((((((((((((((((((((())))))))))))))))))))))))))))))))))))))))))))))
+

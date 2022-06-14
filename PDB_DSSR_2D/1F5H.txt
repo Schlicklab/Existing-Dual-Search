@@ -1,0 +1,18 @@
+Title			THE G7(SYN)-G4(ANTI) STRUCTURE OF R(GCAGGCGUGC)2 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1F5H nts=20 [whole]
+GCAGGCGUGC&GCAGGCGUGC
+(((.((.(((&))).)).)))
+
+Interacting substructures
+Chain A B 
+GCAGGCGUGCGCAGGCGUGC
+(((.((.((())).)).)))
+

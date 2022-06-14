@@ -1,0 +1,19 @@
+Title			POL II ELONGATION COMPLEX WITH AN ABASIC LESION AT I+1 POSITION 
+Chain order		T R 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			T	DNA	R 
+			R	RNA	T 
+Pseudoknot		NO
+
+Whole structure
+>6BLO nts=19 [whole]
+A?CTCTCGATG&AUCGAGAG
+..((((((((.&))))))))
+
+Interacting substructures
+Chain T R 
+A?CTCTCGATGAUCGAGAG
+..((((((((.))))))))
+

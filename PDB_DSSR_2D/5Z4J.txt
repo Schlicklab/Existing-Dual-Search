@@ -1,0 +1,17 @@
+Title			STRUCTURE OF TAILOR IN COMPLEX WITH U4 RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5Z4J nts=4 [whole]
+UUUU
+....
+
+Interacting substructures
+Chain B 
+UUUU
+....
+

@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF A HUMAN IGG-APTAMER COMPLEX 
+Chain order		S-1 S-2 U 
+Amino acids		YES
+Metal			Ca	2
+Chains			S-1	RNA*	S-2 
+			S-2	RNA*	S-1 
+			U	RNA	U 
+Pseudoknot		NO
+
+Whole structure
+>3AGV nts=43 [whole]
+GGAGGuGcucc&GGAAcucc&GGAGGuGcuccGAAAGGAAcuccA
+((((....(((&))).))))&..((....(((....))).))...
+
+Interacting substructures
+Chain S-1 S-2 
+GGAGGuGcuccGGAAcucc
+((((....((())).))))
+
+Chain U 
+GGAGGuGcuccGAAAGGAAcuccA
+..((....(((....))).))...
+

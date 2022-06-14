@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF GLU-TRNA(GLN) AMIDOTRANSFERASE IN THE COMPLEX WITH TRNA(GLN) 
+Chain order		E F 
+Amino acids		YES
+Metal			Zn	2
+Chains			E	RNA	E 
+			F	RNA	F 
+Pseudoknot		YES
+
+Whole structure
+>2D6F nts=146 [whole]
+AGUCCCGUGGGGUAGUGGUAAUCCUGCUGGGCUUUGGACCCGGCGACAGCGGUUCGACUCCGCUCGGGACUA&AGUCCCGUGGGGUAGUGGUAAUCCUGCUGGGCUUUGGACCCGGCGACAGCGGUUCGACUCCGCUCGGGACUACC
+(((((((...(......[.....).((((((.......))))))...(((((..]....)))))))))))).&(((((((..(((.....[....)))((((((.......))))))...(((((..]....))))))))))))...
+
+Interacting substructures
+Chain E 
+AGUCCCGUGGGGUAGUGGUAAUCCUGCUGGGCUUUGGACCCGGCGACAGCGGUUCGACUCCGCUCGGGACUA
+(((((((...(......[.....).((((((.......))))))...(((((..]....)))))))))))).
+
+Chain F 
+AGUCCCGUGGGGUAGUGGUAAUCCUGCUGGGCUUUGGACCCGGCGACAGCGGUUCGACUCCGCUCGGGACUACC
+(((((((..(((.....[....)))((((((.......))))))...(((((..]....))))))))))))...
+

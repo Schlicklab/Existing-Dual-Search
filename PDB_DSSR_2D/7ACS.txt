@@ -1,0 +1,18 @@
+Title			THE SARS-COV-2 NUCLEOCAPSID PHOSPHOPROTEIN N-TERMINAL DOMAIN IN COMPLEX WITH 7MER DSRNA 
+Chain order		B C 
+Amino acids		YES
+Metal
+Chains			B	RNA	C 
+			C	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>7ACS nts=14 [whole]
+CACUGAC&GUCAGUG
+(((((((&)))))))
+
+Interacting substructures
+Chain B C 
+CACUGACGUCAGUG
+((((((()))))))
+

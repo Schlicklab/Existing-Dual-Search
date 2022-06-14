@@ -1,0 +1,17 @@
+Title			U2/U6 HELIX I 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2LK3 nts=24 [whole]
+GGCUUAGAUCAGAAAUGAUCAGCC
+((((..(((((....)))))))))
+
+Interacting substructures
+Chain A 
+GGCUUAGAUCAGAAAUGAUCAGCC
+((((..(((((....)))))))))
+

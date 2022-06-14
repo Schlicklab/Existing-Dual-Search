@@ -1,0 +1,22 @@
+Title			YTH DOMAIN-CONTAINING PROTEIN MMI1 AND RNA COMPLEX 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5EIM nts=16 [whole]
+AUUAAACA&AUUAAACA
+........&........
+
+Interacting substructures
+Chain C 
+AUUAAACA
+........
+
+Chain D 
+AUUAAACA
+........
+

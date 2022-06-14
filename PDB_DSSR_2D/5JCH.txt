@@ -1,0 +1,35 @@
+Title			CRYSTAL STRUCTURE OF CHICKEN MDA5 WITH 5'P 10-MER DSRNA AND ADP-MG2+ AT 2.95 A RESOLUTION (UNTWINNED). 
+Chain order		X Y U V A B 
+Amino acids		YES
+Metal			Mg	2
+			Zn	2
+Chains			X	RNA	Y 
+			Y	RNA	X 
+			U	RNA	V 
+			V	RNA	U 
+			A			
+			B			
+Pseudoknot		NO
+
+Whole structure
+>5JCH nts=42 [whole]
+GGUACGUACC&GGUACGUACC&GGUACGUACC&GGUACGUACC&a&a
+((((((((((&))))))))))&((((((((((&))))))))))&.&.
+
+Interacting substructures
+Chain X Y 
+GGUACGUACCGGUACGUACC
+(((((((((())))))))))
+
+Chain U V 
+GGUACGUACCGGUACGUACC
+(((((((((())))))))))
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+

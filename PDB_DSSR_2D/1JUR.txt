@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF HELIX III IN XENOPUS OOCYTE 5S RRNA. 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1JUR nts=22 [whole]
+GGCCUGAGGAGACUCAGAAGCC
+((((((((....)))))..)))
+
+Interacting substructures
+Chain A 
+GGCCUGAGGAGACUCAGAAGCC
+((((((((....)))))..)))
+

@@ -1,0 +1,18 @@
+Title			SARS-COV-2 RDRP CATALYTIC COMPLEX WITH T33-1 RNA 
+Chain order		F G 
+Amino acids		YES
+Metal			Zn	2
+Chains			F	RNA	G 
+			G	RNA	F 
+Pseudoknot		NO
+
+Whole structure
+>7DTE nts=62 [whole]
+CUCCUGUGUCGUCGAACAUCGUCGAACAUCGUC&GACGAUGUUCGACGAUGUUCGACGACACA
+....(((((((((((((((((((((((((((((&)))))))))))))))))))))))))))))
+
+Interacting substructures
+Chain F G 
+CUCCUGUGUCGUCGAACAUCGUCGAACAUCGUCGACGAUGUUCGACGAUGUUCGACGACACA
+....((((((((((((((((((((((((((((()))))))))))))))))))))))))))))
+

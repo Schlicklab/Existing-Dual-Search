@@ -1,0 +1,17 @@
+Title			SPECIFIER DOMAIN OF B. SUBTILIS TYRS T BOX LEADER RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KHY nts=38 [whole]
+GGGAUCACAAGUAGGACUUCGGUCCGAAUACAGAUCUC
+(.((((.......((((....)))).......)))).)
+
+Interacting substructures
+Chain A 
+GGGAUCACAAGUAGGACUUCGGUCCGAAUACAGAUCUC
+(.((((.......((((....)))).......)))).)
+

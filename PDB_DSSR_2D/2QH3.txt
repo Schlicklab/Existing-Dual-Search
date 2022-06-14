@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE U64 H/ACA SNORNA 3' TERMINAL HAIRPIN LOOP 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2QH3 nts=23 [whole]
+GGAGUGCCUUACUGUGGCACUCC
+((((((((.......))))))))
+
+Interacting substructures
+Chain A 
+GGAGUGCCUUACUGUGGCACUCC
+((((((((.......))))))))
+

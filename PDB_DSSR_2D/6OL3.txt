@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF AN ADENOVIRUS VIRUS-ASSOCIATED RNA 
+Chain order		C-1 C-2 
+Amino acids		NO
+Metal			K	1
+Chains			C-1	RNA*	C-2 
+			C-2	RNA*	C-1 C-2 
+Pseudoknot		YES
+
+Whole structure
+>6OL3 nts=111 [whole]
+GGACCUCGCAAGGGUAUCAUGGCGGACGACCGGG&UUCGAACCCCGGAUCCGGCCGUCCGCCGUGAUCCAUGCGGUUACCGCCCGCGUGUCGAACCCAGGUGUGCGAGGUCC
+((((((((((.(((((((((((((((((.(((((&((((.....))))))))).))))))))))))).(((((((..[[[..)))))))....)))).]]].))))))))))
+
+Interacting substructures
+Chain C-1 C-2 
+GGACCUCGCAAGGGUAUCAUGGCGGACGACCGGGUUCGAACCCCGGAUCCGGCCGUCCGCCGUGAUCCAUGCGGUUACCGCCCGCGUGUCGAACCCAGGUGUGCGAGGUCC
+((((((((((.(((((((((((((((((.(((((((((.....))))))))).))))))))))))).(((((((..[[[..)))))))....)))).]]].))))))))))
+

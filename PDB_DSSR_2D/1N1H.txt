@@ -1,0 +1,22 @@
+Title			INITIATION COMPLEX OF POLYMERASE LAMBDA3 FROM REOVIRUS 
+Chain order		B A 
+Amino acids		YES
+Metal			Mn	2
+Chains			B	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>1N1H nts=8 [whole]
+UAGC&g&g&c&g
+....&.&.&.&.
+
+Interacting substructures
+Chain B 
+UAGC
+....
+
+Chain A 
+ggcg
+....
+

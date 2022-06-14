@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF ROTAVIRUS SA11 VP1/RNA (UGUGACC)/GTP COMPLEX 
+Chain order		X Y A B 
+Amino acids		YES
+Metal
+Chains			X	RNA	
+			Y	RNA	
+			A			
+			B			
+Pseudoknot		NO
+
+Whole structure
+>2R7X nts=16 [whole]
+UGUGACC&UGUGACC&g&g
+.......&.......&.&.
+
+Interacting substructures
+Chain X 
+UGUGACC
+.......
+
+Chain Y 
+UGUGACC
+.......
+
+Chain A 
+g
+.
+
+Chain B 
+g
+.
+

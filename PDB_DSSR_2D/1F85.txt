@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF HCV IRES RNA DOMAIN IIIE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1F85 nts=14 [whole]
+GGCCUGAUAGGGUC
+(((((....)))))
+
+Interacting substructures
+Chain A 
+GGCCUGAUAGGGUC
+(((((....)))))
+

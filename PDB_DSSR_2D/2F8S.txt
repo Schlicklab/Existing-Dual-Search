@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF AA-AGO WITH EXTERNALLY-BOUND SIRNA 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>2F8S nts=44 [whole]
+AGACAGCAUAUAUGCUGUCUUU&AGACAGCAUAUAUGCUGUCUUU
+..((((((((((((((((((..&))))))))))))))))))....
+
+Interacting substructures
+Chain C D 
+AGACAGCAUAUAUGCUGUCUUUAGACAGCAUAUAUGCUGUCUUU
+..((((((((((((((((((..))))))))))))))))))....
+

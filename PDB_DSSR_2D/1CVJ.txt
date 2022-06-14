@@ -1,0 +1,92 @@
+Title			X-RAY CRYSTAL STRUCTURE OF THE POLY(A)-BINDING PROTEIN IN COMPLEX WITH POLYADENYLATE RNA 
+Chain order		M N-1 O-1 P Q-1 R S-1 T N-2 O-2 Q-2 S-2 A D F H 
+Amino acids		YES
+Metal
+Chains			M	RNA	
+			N-1	RNA*	
+			O-1	RNA*	
+			P	RNA	
+			Q-1	RNA*	
+			R	RNA	
+			S-1	RNA*	
+			T	RNA	
+			N-2	RNA*	
+			O-2	RNA*	
+			Q-2	RNA*	
+			S-2	RNA*	
+			A			
+			D			
+			F			
+			H			
+Pseudoknot		NO
+
+Whole structure
+>1CVJ nts=67 [whole]
+AAAAAAAAA&AAAAAAA&AAAAAAA&AAAAAAA&AAAAAAAA&AAAAAAA&AAAAAAA&AAAAAAA&A&A&A&A&A&A&A&A
+.........&.......&.......&.......&........&.......&.......&.......&.&.&.&.&.&.&.&.
+
+Interacting substructures
+Chain M 
+AAAAAAAAA
+.........
+
+Chain N-1 
+AAAAAAA
+.......
+
+Chain O-1 
+AAAAAAA
+.......
+
+Chain P 
+AAAAAAA
+.......
+
+Chain Q-1 
+AAAAAAAA
+........
+
+Chain R 
+AAAAAAA
+.......
+
+Chain S-1 
+AAAAAAA
+.......
+
+Chain T 
+AAAAAAA
+.......
+
+Chain N-2 
+A
+.
+
+Chain O-2 
+A
+.
+
+Chain Q-2 
+A
+.
+
+Chain S-2 
+A
+.
+
+Chain A 
+A
+.
+
+Chain D 
+A
+.
+
+Chain F 
+A
+.
+
+Chain H 
+A
+.
+

@@ -1,0 +1,52 @@
+Title			STRUCTURAL BASIS FOR RNA UNWINDING BY THE DEAD-BOX PROTEIN DROSOPHILA VASA 
+Chain order		E F G H A B C D 
+Amino acids		YES
+Metal			Mg	4
+Chains			E	RNA	
+			F	RNA	
+			G	RNA	
+			H	RNA	
+			A			
+			B			
+			C			
+			D			
+Pseudoknot		NO
+
+Whole structure
+>2DB3 nts=29 [whole]
+UUUUU&UUUUUUU&UUUUUUU&UUUUUU&a&a&a&a
+.....&.......&.......&......&.&.&.&.
+
+Interacting substructures
+Chain E 
+UUUUU
+.....
+
+Chain F 
+UUUUUUU
+.......
+
+Chain G 
+UUUUUUU
+.......
+
+Chain H 
+UUUUUU
+......
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+
+Chain C 
+a
+.
+
+Chain D 
+a
+.
+

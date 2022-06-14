@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF M. TUBERCULOSIS MAZF-MT3 (RV1991C) IN COMPLEX WITH RNA 
+Chain order		E F 
+Amino acids		YES
+Metal
+Chains			E	RNA[4]/1	
+			F	DNA[1]/RNA[1]	
+Pseudoknot		NO
+
+Whole structure
+>5HK0 nts=7 [whole]
+UCUCC&UC
+.....&..
+
+Interacting substructures
+Chain E 
+UCUCC
+.....
+
+Chain F 
+UC
+..
+

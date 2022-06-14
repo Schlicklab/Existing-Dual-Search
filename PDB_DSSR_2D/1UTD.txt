@@ -1,0 +1,117 @@
+Title			THE STRUCTURE OF THE TRP RNA-BINDING ATTENUATION PROTEIN (TRAP) BOUND TO A 63-NUCLEOTIDE RNA MOLECULE CONTAINING GAGUUU REPEATS 
+Chain order		0 1-1 1-2 2-1 2-2 3-1 3-2 4-1 4-2 5-1 5-2 6-1 6-2 7-1 7-2 8-1 8-2 9-1 9-2 Z-1 Z-2 
+Amino acids		YES
+Metal
+Chains			0	RNA	
+			1-1	RNA*	
+			1-2	RNA*	
+			2-1	RNA*	
+			2-2	RNA*	
+			3-1	RNA*	
+			3-2	RNA*	
+			4-1	RNA*	
+			4-2	RNA*	
+			5-1	RNA*	
+			5-2	RNA*	
+			6-1	RNA*	
+			6-2	RNA*	
+			7-1	RNA*	
+			7-2	RNA*	
+			8-1	RNA*	
+			8-2	RNA*	
+			9-1	RNA*	
+			9-2	RNA*	
+			Z-1	RNA*	
+			Z-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>1UTD nts=35 [whole]
+GUUUGA&G&A&G&GA&G&GA&G&GA&G&GA&G&GA&G&GA&G&GA&G&GA&G&GA
+......&.&.&.&..&.&..&.&..&.&..&.&..&.&..&.&..&.&..&.&..
+
+Interacting substructures
+Chain 0 
+GUUUGA
+......
+
+Chain 1-1 
+G
+.
+
+Chain 1-2 
+A
+.
+
+Chain 2-1 
+G
+.
+
+Chain 2-2 
+GA
+..
+
+Chain 3-1 
+G
+.
+
+Chain 3-2 
+GA
+..
+
+Chain 4-1 
+G
+.
+
+Chain 4-2 
+GA
+..
+
+Chain 5-1 
+G
+.
+
+Chain 5-2 
+GA
+..
+
+Chain 6-1 
+G
+.
+
+Chain 6-2 
+GA
+..
+
+Chain 7-1 
+G
+.
+
+Chain 7-2 
+GA
+..
+
+Chain 8-1 
+G
+.
+
+Chain 8-2 
+GA
+..
+
+Chain 9-1 
+G
+.
+
+Chain 9-2 
+GA
+..
+
+Chain Z-1 
+G
+.
+
+Chain Z-2 
+GA
+..
+

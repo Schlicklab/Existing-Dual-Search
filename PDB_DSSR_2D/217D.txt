@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURES OF THE B-FORM DNA-RNA CHIMER (5'-D(*IP*)- R(*CP*)-D(*IP*)-R(*CP*)-D(*IP*CP*IP*C)-3') COMPLEXED WITH DISTAMYCIN 
+Chain order		A 
+Amino acids		NO
+Metal			Mg	1
+Chains			A	DNA[6]/RNA[2]	
+Pseudoknot		NO
+
+Whole structure
+>217D nts=8 [whole]
+gCgCgCgC
+........
+
+Interacting substructures
+Chain A 
+gCgCgCgC
+........
+

@@ -1,0 +1,27 @@
+Title			RECOGNITION AND CLEAVAGE OF A NON-STRUCTURED CRISPR RNA BY ITS PROCESSING ENDORIBONUCLEASE CAS6 
+Chain order		R-1 R-2 C 
+Amino acids		YES
+Metal
+Chains			R-1	RNA[18]/1*	R-1 
+			R-2	RNA[18]/1*	
+			C	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>4ILL nts=36 [whole]
+AAUCUACUAUAGAA&UGAAG&GCUAAUCUACUAUAGAA
+..(((.....))).&.....&.....(((.....))).
+
+Interacting substructures
+Chain R-1 
+AAUCUACUAUAGAA
+..(((.....))).
+
+Chain R-2 
+UGAAG
+.....
+
+Chain C 
+GCUAAUCUACUAUAGAA
+.....(((.....))).
+

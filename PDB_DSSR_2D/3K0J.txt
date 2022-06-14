@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF THE E. COLI THIM RIBOSWITCH IN COMPLEX WITH THIAMINE PYROPHOSPHATE AND THE U1A CRYSTALLIZATION MODULE 
+Chain order		E F 
+Amino acids		YES
+Metal			Mg	8
+Chains			E	RNA	E 
+			F	RNA	F 
+Pseudoknot		NO
+
+Whole structure
+>3K0J nts=174 [whole]
+GCGACUCGGGGUGCCCUCCAUUGCACUCCGGAGGCUGAGAAAUACCCGUAUCACCUGAUCUGGAUAAUGCCAGCGUAGGGAAGUCGC&GCGACUCGGGGUGCCCUCCAUUGCACUCCGGAGGCUGAGAAAUACCCGUAUCACCUGAUCUGGAUAAUGCCAGCGUAGGGAAGUCGC
+((((((((((..(((.(((..........)))))).........)))).....(((...((((......))))...)))..))))))&((((((((((.((((.(((..........))))))......)..)))).....(((...((((......))))...)))..))))))
+
+Interacting substructures
+Chain E 
+GCGACUCGGGGUGCCCUCCAUUGCACUCCGGAGGCUGAGAAAUACCCGUAUCACCUGAUCUGGAUAAUGCCAGCGUAGGGAAGUCGC
+((((((((((..(((.(((..........)))))).........)))).....(((...((((......))))...)))..))))))
+
+Chain F 
+GCGACUCGGGGUGCCCUCCAUUGCACUCCGGAGGCUGAGAAAUACCCGUAUCACCUGAUCUGGAUAAUGCCAGCGUAGGGAAGUCGC
+((((((((((.((((.(((..........))))))......)..)))).....(((...((((......))))...)))..))))))
+

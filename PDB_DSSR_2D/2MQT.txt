@@ -1,0 +1,17 @@
+Title			SOLUTION NMR STRUCTURE OF THE U5-PRIMER BINDING SITE (U5-PBS) DOMAIN OF MURINE LEUKEMIA VIRUS RNA GENOME 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2MQT nts=68 [whole]
+GGGCGAGGGUCUCCUCUGAGUGAUUGACUACCCGUCAGCGGGGGUCUUUCAUUUGGGGGCUCGUGCCC
+(((((.((((((((.....((((..((((.((((....))))))))..))))..)))))))).)))))
+
+Interacting substructures
+Chain A 
+GGGCGAGGGUCUCCUCUGAGUGAUUGACUACCCGUCAGCGGGGGUCUUUCAUUUGGGGGCUCGUGCCC
+(((((.((((((((.....((((..((((.((((....))))))))..))))..)))))))).)))))
+

@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF THE PRP43-ADP-BEF3-U7-RNA COMPLEX 
+Chain order		E A 
+Amino acids		YES
+Metal			Be	1
+			Mg	1
+Chains			E	RNA	
+			A			
+Pseudoknot		NO
+
+Whole structure
+>5LTA nts=8 [whole]
+UUUUUUU&a
+.......&.
+
+Interacting substructures
+Chain E 
+UUUUUUU
+.......
+
+Chain A 
+a
+.
+

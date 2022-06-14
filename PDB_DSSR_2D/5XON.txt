@@ -1,0 +1,21 @@
+Title			RNA POLYMERASE II ELONGATION COMPLEX BOUND WITH SPT4/5 AND TFIIS 
+Chain order		P T N-1 N-2 
+Amino acids		YES
+Metal			Mg	1
+			Zn	10
+Chains			P	RNA	T 
+			T	DNA	N-1 P N-2 
+			N-1	DNA*	T 
+			N-2	DNA*	T 
+Pseudoknot		YES
+
+Whole structure
+>5XON nts=107 [whole]
+UCUUUUAUCGAGAGGU&CACTCTACCGATAAGCAGACGTACCTCTCGACCCTGTGCTAGACACGG&CCGTGTCTAGCACAGGGAAATG&TGTCTGCTTATCGGTAGAGTG
+.......[[[[[[[[[&.((.((((((((((((((((..]]]]]]]]](((((((((((((((((&))))))))))))))))).....&.)))))))))))))))).)).
+
+Interacting substructures
+Chain P T N-1 N-2 
+UCUUUUAUCGAGAGGUCACTCTACCGATAAGCAGACGTACCTCTCGACCCTGTGCTAGACACGGCCGTGTCTAGCACAGGGAAATGTGTCTGCTTATCGGTAGAGTG
+.......[[[[[[[[[.((.((((((((((((((((..]]]]]]]]]((((((((((((((((()))))))))))))))))......)))))))))))))))).)).
+

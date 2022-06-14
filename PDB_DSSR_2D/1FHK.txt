@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE 690 LOOP OF 16 S RRNA OF E. COLI 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1FHK nts=14 [whole]
+GGCGGUGAAAUGCC
+(((........)))
+
+Interacting substructures
+Chain A 
+GGCGGUGAAAUGCC
+(((........)))
+

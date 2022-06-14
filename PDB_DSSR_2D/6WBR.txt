@@ -1,0 +1,20 @@
+Title			CRYSTAL STRUCTURE OF ACECAS9 BOUND WITH GUIDE RNA AND DNA WITH 5'- NNNCC-3' PAM 
+Chain order		B-1 B-2 C D 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	C B-2 B-1 
+			B-2	RNA*	B-1 
+			C	DNA	D B-1 
+			D	DNA	C 
+Pseudoknot		YES
+
+Whole structure
+>6WBR nts=131 [whole]
+gGAUGGCAAGAUCCUGGUAUGCUGGGGAGCCUGAAAAGGCUACCUAGCAAGACCCCUUCGUGGGGUCGCAUUCUUCACCCCC&AGGGGGUUC&CGCCAGGTATATACCAGGATCTTGCCATCC&ATACCTGGCG
+(((((((((.((((((((((((((((.(((((....))))).))))))..(((((.......))))).........((((((&.))))))..&[[[[[[[[[[)))))))))).)))))))))&]]]]]]]]]]
+
+Interacting substructures
+Chain B-1 B-2 C D 
+gGAUGGCAAGAUCCUGGUAUGCUGGGGAGCCUGAAAAGGCUACCUAGCAAGACCCCUUCGUGGGGUCGCAUUCUUCACCCCCAGGGGGUUCCGCCAGGTATATACCAGGATCTTGCCATCCATACCTGGCG
+(((((((((.((((((((((((((((.(((((....))))).))))))..(((((.......))))).........((((((.))))))..[[[[[[[[[[)))))))))).)))))))))]]]]]]]]]]
+

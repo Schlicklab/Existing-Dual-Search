@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF A COMPLEX BETWEEN WT BACTERIOPHAGE MS2 COAT PROTEIN AND AN F5 APTAMER RNA STEMLOOP WITH 2AMINOPURINE SUBSTITUTED AT THE-10 POSITION 
+Chain order		R S 
+Amino acids		YES
+Metal
+Chains			R	DNA[2]/RNA[15]	R 
+			S	RNA[15]/1	S 
+Pseudoknot		NO
+
+Whole structure
+>1U1Y nts=33 [whole]
+CCGGgGGAUCACCACGG&CGGgGGAUCACCACGG
+(((..((....)).)))&((..((....)).)).
+
+Interacting substructures
+Chain R 
+CCGGgGGAUCACCACGG
+(((..((....)).)))
+
+Chain S 
+CGGgGGAUCACCACGG
+((..((....)).)).
+

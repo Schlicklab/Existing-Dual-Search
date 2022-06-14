@@ -1,0 +1,22 @@
+Title			RHO TRANSCRIPTION TERMINATION FACTOR/RNA COMPLEX 
+Chain order		D E 
+Amino acids		YES
+Metal
+Chains			D	RNA	
+			E	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2A8V nts=9 [whole]
+CCC&CCCCCC
+...&......
+
+Interacting substructures
+Chain D 
+CCC
+...
+
+Chain E 
+CCCCCC
+......
+

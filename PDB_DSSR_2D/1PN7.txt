@@ -1,0 +1,322 @@
+Title			COORDINATES OF S12, L11 PROTEINS AND P-TRNA, FROM THE 70S X- RAY STRUCTURE ALIGNED TO THE 70S CRYO-EM MAP OF E.COLI RIBOSOME 
+Chain order		C-1 C-2 C-3 C-4 C-5 C-6 C-7 C-8 C-9 C-10 C-11 C-12 C-13 C-14 C-15 C-16 C-17 C-18 C-19 C-20 C-21 C-22 C-23 C-24 C-25 C-26 C-27 C-28 C-29 C-30 C-31 C-32 C-33 C-34 C-35 C-36 C-37 C-38 C-39 C-40 C-41 C-42 C-43 C-44 C-45 C-46 C-47 C-48 C-49 C-50 C-51 C-52 C-53 C-54 C-55 C-56 C-57 C-58 C-59 C-60 C-61 C-62 
+Amino acids		YES
+Metal
+Chains			C-1	DNA*	
+			C-2	DNA*	
+			C-3	DNA*	
+			C-4	DNA*	
+			C-5	DNA*	
+			C-6	DNA*	
+			C-7	DNA*	
+			C-8	DNA*	
+			C-9	DNA*	
+			C-10	DNA*	
+			C-11	DNA*	
+			C-12	DNA*	
+			C-13	DNA*	
+			C-14	DNA*	
+			C-15	DNA*	
+			C-16	DNA*	
+			C-17	DNA*	
+			C-18	DNA*	
+			C-19	DNA*	
+			C-20	DNA*	
+			C-21	DNA*	
+			C-22	DNA*	
+			C-23	DNA*	
+			C-24	DNA*	
+			C-25	DNA*	
+			C-26	DNA*	
+			C-27	DNA*	
+			C-28	DNA*	
+			C-29	DNA*	
+			C-30	DNA*	
+			C-31	DNA*	
+			C-32	DNA*	
+			C-33	DNA*	
+			C-34	DNA*	
+			C-35	DNA*	
+			C-36	DNA*	
+			C-37	DNA*	
+			C-38	DNA*	
+			C-39	DNA*	
+			C-40	DNA*	
+			C-41	DNA*	
+			C-42	DNA*	
+			C-43	DNA*	
+			C-44	DNA*	
+			C-45	DNA*	
+			C-46	DNA*	
+			C-47	DNA*	
+			C-48	DNA*	
+			C-49	DNA*	
+			C-50	DNA*	
+			C-51	DNA*	
+			C-52	DNA*	
+			C-53	DNA*	
+			C-54	DNA*	
+			C-55	DNA*	
+			C-56	DNA*	
+			C-57	DNA*	
+			C-58	DNA*	
+			C-59	DNA*	
+			C-60	DNA*	
+			C-61	DNA*	
+			C-62	DNA*	
+Pseudoknot		NO
+
+Whole structure
+>1PN7 nts=62 [whole]
+G&C&G&G&A&U&U&U&A&C&U&C&A&G&G&G&G&A&G&A&G&C&C&C&A&G&A&U&A&A&A&U&G&G&A&G&U&C&U&G&U&G&C&G&U&C&C&A&C&A&G&A&A&U&U&C&G&C&A&C&C&A
+.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.&.
+
+Interacting substructures
+Chain C-1 
+G
+.
+
+Chain C-2 
+C
+.
+
+Chain C-3 
+G
+.
+
+Chain C-4 
+G
+.
+
+Chain C-5 
+A
+.
+
+Chain C-6 
+U
+.
+
+Chain C-7 
+U
+.
+
+Chain C-8 
+U
+.
+
+Chain C-9 
+A
+.
+
+Chain C-10 
+C
+.
+
+Chain C-11 
+U
+.
+
+Chain C-12 
+C
+.
+
+Chain C-13 
+A
+.
+
+Chain C-14 
+G
+.
+
+Chain C-15 
+G
+.
+
+Chain C-16 
+G
+.
+
+Chain C-17 
+G
+.
+
+Chain C-18 
+A
+.
+
+Chain C-19 
+G
+.
+
+Chain C-20 
+A
+.
+
+Chain C-21 
+G
+.
+
+Chain C-22 
+C
+.
+
+Chain C-23 
+C
+.
+
+Chain C-24 
+C
+.
+
+Chain C-25 
+A
+.
+
+Chain C-26 
+G
+.
+
+Chain C-27 
+A
+.
+
+Chain C-28 
+U
+.
+
+Chain C-29 
+A
+.
+
+Chain C-30 
+A
+.
+
+Chain C-31 
+A
+.
+
+Chain C-32 
+U
+.
+
+Chain C-33 
+G
+.
+
+Chain C-34 
+G
+.
+
+Chain C-35 
+A
+.
+
+Chain C-36 
+G
+.
+
+Chain C-37 
+U
+.
+
+Chain C-38 
+C
+.
+
+Chain C-39 
+U
+.
+
+Chain C-40 
+G
+.
+
+Chain C-41 
+U
+.
+
+Chain C-42 
+G
+.
+
+Chain C-43 
+C
+.
+
+Chain C-44 
+G
+.
+
+Chain C-45 
+U
+.
+
+Chain C-46 
+C
+.
+
+Chain C-47 
+C
+.
+
+Chain C-48 
+A
+.
+
+Chain C-49 
+C
+.
+
+Chain C-50 
+A
+.
+
+Chain C-51 
+G
+.
+
+Chain C-52 
+A
+.
+
+Chain C-53 
+A
+.
+
+Chain C-54 
+U
+.
+
+Chain C-55 
+U
+.
+
+Chain C-56 
+C
+.
+
+Chain C-57 
+G
+.
+
+Chain C-58 
+C
+.
+
+Chain C-59 
+A
+.
+
+Chain C-60 
+C
+.
+
+Chain C-61 
+C
+.
+
+Chain C-62 
+A
+.
+

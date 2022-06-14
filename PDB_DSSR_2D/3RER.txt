@@ -1,0 +1,42 @@
+Title			CRYSTAL STRUCTURE OF E. COLI HFQ IN COMPLEX WITH AU6A RNA AND ADP 
+Chain order		K A B C E F 
+Amino acids		YES
+Metal			Mg	2
+Chains			K	RNA	
+			A			
+			B			
+			C			
+			E			
+			F			
+Pseudoknot		NO
+
+Whole structure
+>3RER nts=13 [whole]
+AUUUUUUA&a&a&a&a&a
+........&.&.&.&.&.
+
+Interacting substructures
+Chain K 
+AUUUUUUA
+........
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+
+Chain C 
+a
+.
+
+Chain E 
+a
+.
+
+Chain F 
+a
+.
+

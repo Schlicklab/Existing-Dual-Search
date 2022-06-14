@@ -1,0 +1,19 @@
+Title			NSP7-NSP8-NSP12 SARS-COV2 RNA-DEPENDENT RNA POLYMERASE IN COMPLEX WITH TEMPLATE:PRIMER DSRNA AND FAVIPIRAVIR-RTP 
+Chain order		P T 
+Amino acids		YES
+Metal			Mg	3
+			Zn	2
+Chains			P	RNA	T 
+			T	RNA	P 
+Pseudoknot		NO
+
+Whole structure
+>7AAP nts=21 [whole]
+UUAAGUUAU&UUCAUAACUUAA
+(((((((((&...)))))))))
+
+Interacting substructures
+Chain P T 
+UUAAGUUAUUUCAUAACUUAA
+(((((((((...)))))))))
+

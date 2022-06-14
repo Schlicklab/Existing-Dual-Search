@@ -1,0 +1,18 @@
+Title			J4/5 LOOP FROM THE CANDIDA ALBICANS AND CANDIDA DUBLINIENSIS GROUP I INTRONS 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1TUT nts=22 [whole]
+GAGGAAGGCGA&UCGUUAAUCUC
+((((..(((((&)))))..))))
+
+Interacting substructures
+Chain A B 
+GAGGAAGGCGAUCGUUAAUCUC
+((((..((((()))))..))))
+

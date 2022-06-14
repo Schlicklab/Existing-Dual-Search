@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF HNRNP G RRM IN COMPLEX WITH THE RNA 5'-AUCAAA-3' 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2MB0 nts=6 [whole]
+AUCAAA
+......
+
+Interacting substructures
+Chain A 
+AUCAAA
+......
+

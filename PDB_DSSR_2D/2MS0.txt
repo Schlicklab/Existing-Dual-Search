@@ -1,0 +1,17 @@
+Title			SOLUTION NMR STRUCTURE PF TRNAPRO:MLV-NUCLEOCAPSID (1:2) COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal			Zn	2
+Chains			B	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>2MS0 nts=71 [whole]
+GGCUCGUUGGUCUAGGGGUAUGAUUCUCGCUUAGGGUGCGAGAGGUCCCGGGUUCAAAUCCCGGACGAGCC
+(((((....(((.....[...)))((((((.......))))))....(((((..]....)))))..)))))
+
+Interacting substructures
+Chain B 
+GGCUCGUUGGUCUAGGGGUAUGAUUCUCGCUUAGGGUGCGAGAGGUCCCGGGUUCAAAUCCCGGACGAGCC
+(((((....(((.....[...)))((((((.......))))))....(((((..]....)))))..)))))
+

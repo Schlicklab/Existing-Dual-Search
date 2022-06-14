@@ -1,0 +1,27 @@
+Title			THE CLOSED RING STRUCTURE OF THE RHO TRANSCRIPTION TERMINATION FACTOR IN COMPLEX WITH NUCLEIC ACID IN THE MOTOR DOMAINS 
+Chain order		J K M 
+Amino acids		YES
+Metal
+Chains			J	RNA	
+			K	RNA	
+			M	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2HT1 nts=9 [whole]
+UC&UC&UCUCU
+..&..&.....
+
+Interacting substructures
+Chain J 
+UC
+..
+
+Chain K 
+UC
+..
+
+Chain M 
+UCUCU
+.....
+

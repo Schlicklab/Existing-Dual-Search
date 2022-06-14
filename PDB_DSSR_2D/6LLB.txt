@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF MPY-RNASE J (MUTANT S247A), AN ARCHAEAL RNASE J FROM METHANOLOBUS PSYCHROPHILUS R15, IN COMPLEX WITH 6 NT RNA 
+Chain order		C D 
+Amino acids		YES
+Metal			Zn	4
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6LLB nts=12 [whole]
+AAAAAA&AAAAAA
+......&......
+
+Interacting substructures
+Chain C 
+AAAAAA
+......
+
+Chain D 
+AAAAAA
+......
+

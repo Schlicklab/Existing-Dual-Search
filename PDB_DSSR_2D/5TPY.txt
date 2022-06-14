@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF AN EXONUCLEASE RESISTANT RNA FROM ZIKA VIRUS 
+Chain order		A 
+Amino acids		NO
+Metal			Mg	1
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>5TPY nts=71 [whole]
+GGGUCAGGCCGGCGAAAGUCGCCACAGUUUGGGGAAAGCUGUGCAGCCUGUAACCCCCCCACGAAAGUGGG
+..{.(((((((((....)))).((((((..[[[[...))))))}.)))))...]]]](((((....)))))
+
+Interacting substructures
+Chain A 
+GGGUCAGGCCGGCGAAAGUCGCCACAGUUUGGGGAAAGCUGUGCAGCCUGUAACCCCCCCACGAAAGUGGG
+..{.(((((((((....)))).((((((..[[[[...))))))}.)))))...]]]](((((....)))))
+

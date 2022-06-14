@@ -1,0 +1,17 @@
+Title			THE MOLECULAR RECOGNITION OF KINK TURN STRUCTURE BY THE L7AE CLASS OF PROTEINS 
+Chain order		A 
+Amino acids		YES
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>4BW0 nts=26 [whole]
+GGGGGAGCCGAAAGGCGAAGAACCCA
+(((...(((....)))......))).
+
+Interacting substructures
+Chain A 
+GGGGGAGCCGAAAGGCGAAGAACCCA
+(((...(((....)))......))).
+

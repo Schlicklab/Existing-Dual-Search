@@ -1,0 +1,21 @@
+Title			SIGMAS-TRANSCRIPTION INITIATION COMPLEX WITH 4-NT NASCENT RNA 
+Chain order		1 2 3-1 3-2 
+Amino acids		YES
+Metal			Mg	2
+			Zn	2
+Chains			1	DNA	2 
+			2	DNA	3-2 1 3-1 
+			3-1	RNA*	2 
+			3-2	RNA*	2 
+Pseudoknot		YES
+
+Whole structure
+>5IPL nts=70 [whole]
+CACGTATGCTATAATGTGTGCAGTCTGACGCGG&CCGCGTCAGACTCGTAGGATTATAGCATACGTG&gAG&U
+((((((((((..............(((((((((&)))))))))[[[[..........))))))))))&]]]&]
+
+Interacting substructures
+Chain 1 2 3-1 3-2 
+CACGTATGCTATAATGTGTGCAGTCTGACGCGGCCGCGTCAGACTCGTAGGATTATAGCATACGTGgAGU
+((((((((((..............((((((((()))))))))[[[[..........))))))))))]]]]
+

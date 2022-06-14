@@ -1,0 +1,17 @@
+Title			X-RAY STRUCTURES OF THE (GUGGUCUGAUGAGGCC) RNA DUPLEX 
+Chain order		X 
+Amino acids		NO
+Metal
+Chains			X	RNA	
+Pseudoknot		NO
+
+Whole structure
+>3CZW nts=14 [whole]
+GGUCUGAUGAGGCC
+..............
+
+Interacting substructures
+Chain X 
+GGUCUGAUGAGGCC
+..............
+

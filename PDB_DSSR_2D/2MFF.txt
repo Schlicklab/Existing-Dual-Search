@@ -1,0 +1,22 @@
+Title			CSR/RSM PROTEIN-RNA RECOGNITION - A MOLECULAR AFFINITY RULER: RSMZ(SL3)/RSME(DIMER) 2:1 COMPLEX 
+Chain order		B D 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>2MFF nts=42 [whole]
+GGGAUCGCAGGAAGCGAUCCC&GGGAUCGCAGGAAGCGAUCCC
+((((((((.....))))))))&((((((((.....))))))))
+
+Interacting substructures
+Chain B 
+GGGAUCGCAGGAAGCGAUCCC
+((((((((.....))))))))
+
+Chain D 
+GGGAUCGCAGGAAGCGAUCCC
+((((((((.....))))))))
+

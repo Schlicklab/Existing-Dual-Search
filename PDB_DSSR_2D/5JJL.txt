@@ -1,0 +1,43 @@
+Title			RHO TRANSCRIPTION TERMINATION FACTOR BOUND TO RU8 AND 5 ADP-BEF3 MOLECULES 
+Chain order		G A B C D F 
+Amino acids		YES
+Metal			Be	5
+			Mg	5
+Chains			G	RNA	
+			A			
+			B			
+			C			
+			D			
+			F			
+Pseudoknot		NO
+
+Whole structure
+>5JJL nts=13 [whole]
+UUUUUUUU&a&a&a&a&a
+........&.&.&.&.&.
+
+Interacting substructures
+Chain G 
+UUUUUUUU
+........
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+
+Chain C 
+a
+.
+
+Chain D 
+a
+.
+
+Chain F 
+a
+.
+

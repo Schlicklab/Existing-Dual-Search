@@ -1,0 +1,18 @@
+Title			SOLUTION NMR STRUCTURE OF AN RNA WITH TANDEM, SYMMETRIC GU MISMATCHES, 30 STRUCTURES 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1GUC nts=16 [whole]
+GAGGUCUC&GAGGUCUC
+((((((((&))))))))
+
+Interacting substructures
+Chain A B 
+GAGGUCUCGAGGUCUC
+(((((((())))))))
+

@@ -1,0 +1,17 @@
+Title			CONSERVED RNA COMPONENT OF THE PEPTIDYL TRANSFERASE CENTER, NMR, 33 STRUCTURES 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1VOP nts=13 [whole]
+GACUGGGGCGGUC
+((((.....))))
+
+Interacting substructures
+Chain A 
+GACUGGGGCGGUC
+((((.....))))
+

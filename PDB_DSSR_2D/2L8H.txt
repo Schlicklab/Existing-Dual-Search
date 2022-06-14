@@ -1,0 +1,17 @@
+Title			CHEMICAL PROBE BOUND TO HIV TAR RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA*	A 
+Pseudoknot		NO
+
+Whole structure
+>2L8H nts=29 [whole]
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...((((......))))))))))
+
+Interacting substructures
+Chain A 
+GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+((((((...((((......))))))))))
+

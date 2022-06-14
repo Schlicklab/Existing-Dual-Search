@@ -1,0 +1,17 @@
+Title			NMR REVEALS ABSENCE OF HYDROGEN BONDING IN ADJACENT UU AND AG MISMATCHES IN AN ISOLATED INTERNAL LOOP FROM RIBOSOMAL RNA. 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2JSE nts=22 [whole]
+GGAGUGGCCGAAAGGCAUCUCC
+((((..(((....)))..))))
+
+Interacting substructures
+Chain A 
+GGAGUGGCCGAAAGGCAUCUCC
+((((..(((....)))..))))
+

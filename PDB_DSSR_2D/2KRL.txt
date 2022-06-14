@@ -1,0 +1,17 @@
+Title			THE ENSEMBLE OF THE SOLUTION GLOBAL STRUCTURES OF THE 102-NT RIBOSOME BINDING STRUCTURE ELEMENT OF THE TURNIP CRINKLE VIRUS 3' UTR RNA 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>2KRL nts=102 [whole]
+GGACGGUGGCAGCACUGUCUAGCUGCGGGCAUUAGACUGGAAAACUAGUGCUCUUUGGGUAACCACUAAAAUCCCGAAAGGGUGGGCUGUGGUGACCCUCCG
+.(((((((....))))))).......(((((((((..[[[[...)))))))))...((((.(((((......(........)......))))).))))]]]]
+
+Interacting substructures
+Chain A 
+GGACGGUGGCAGCACUGUCUAGCUGCGGGCAUUAGACUGGAAAACUAGUGCUCUUUGGGUAACCACUAAAAUCCCGAAAGGGUGGGCUGUGGUGACCCUCCG
+.(((((((....))))))).......(((((((((..[[[[...)))))))))...((((.(((((......(........)......))))).))))]]]]
+

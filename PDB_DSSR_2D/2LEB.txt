@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF HUMAN SRSF2 (SC35) RRM IN COMPLEX WITH 5'- UCCAGU-3' 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2LEB nts=6 [whole]
+UCCAGU
+......
+
+Interacting substructures
+Chain B 
+UCCAGU
+......
+

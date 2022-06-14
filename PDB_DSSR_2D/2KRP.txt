@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE E. COLI TRNA-ARG2(ACG) ANTICODON STEM AND LOOP 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KRP nts=17 [whole]
+CUCGGCUACGAACCGAG
+(((((.......)))))
+
+Interacting substructures
+Chain A 
+CUCGGCUACGAACCGAG
+(((((.......)))))
+

@@ -1,0 +1,17 @@
+Title			NAB3 RRM - UCUU COMPLEX 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2L41 nts=4 [whole]
+UCUU
+....
+
+Interacting substructures
+Chain B 
+UCUU
+....
+

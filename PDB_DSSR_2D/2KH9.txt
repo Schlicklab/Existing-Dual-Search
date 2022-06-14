@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF YEAST PRP24-RRM2 BOUND TO A FRAGMENT OF U6 RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2KH9 nts=6 [whole]
+AGAGAU
+......
+
+Interacting substructures
+Chain B 
+AGAGAU
+......
+

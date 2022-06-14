@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURES OF HUMAN PIWI-LIKE 1 PAZ DOMAIN WITH SSRNA (5'- PUGACA) 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2L5D nts=5 [whole]
+UGACA
+.....
+
+Interacting substructures
+Chain B 
+UGACA
+.....
+

@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE E. COLI TRNA-ARG1 (ICG) ASL CONTAINING THE 2-THIOCYTIDINE MODIFICATION 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KRV nts=17 [whole]
+CUCGGcUgCGAACCGAG
+(((((.......)))))
+
+Interacting substructures
+Chain A 
+CUCGGcUgCGAACCGAG
+(((((.......)))))
+

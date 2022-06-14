@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE AND DYNAMICS OF THE APICAL STEM-LOOP OF DUCK HEPATITIS B VIRUS 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2K5Z nts=29 [whole]
+GGUCUACAUUGCUGUUGUCGUGUGUGACC
+(((((((((.((....)).))))).))))
+
+Interacting substructures
+Chain A 
+GGUCUACAUUGCUGUUGUCGUGUGUGACC
+(((((((((.((....)).))))).))))
+

@@ -1,0 +1,17 @@
+Title			SOLUTION NMR STRUCTURE OF THE HIV-1 EXON SPLICING SILENCER 3 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2LDL nts=27 [whole]
+GGAUCCAUUCGAUUAGUGAACGGAUCC
+((((((.(((.......))).))))))
+
+Interacting substructures
+Chain A 
+GGAUCCAUUCGAUUAGUGAACGGAUCC
+((((((.(((.......))).))))))
+

@@ -1,0 +1,17 @@
+Title			STRUCTURE DETERMINATION OF THE TOP-LOOP OF THE CONSERVED 3 TERMINAL SECONDARY STRUCTURE IN THE GENOME OF YFV 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KPC nts=17 [whole]
+UGAGCACAGUUUGCUCA
+((((((.....))))))
+
+Interacting substructures
+Chain A 
+UGAGCACAGUUUGCUCA
+((((((.....))))))
+

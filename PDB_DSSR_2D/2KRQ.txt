@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE TRNA-ARG2 (ICG) ASL. 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2KRQ nts=17 [whole]
+CUCGGCUgCGAACCGAG
+(((((.......)))))
+
+Interacting substructures
+Chain A 
+CUCGGCUgCGAACCGAG
+(((((.......)))))
+

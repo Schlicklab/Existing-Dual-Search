@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF THE FIRST QRRM OF HNRNP F IN COMPLEX WITH AGGGAU G- TRACT RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2KFY nts=6 [whole]
+AGGGAU
+......
+
+Interacting substructures
+Chain B 
+AGGGAU
+......
+

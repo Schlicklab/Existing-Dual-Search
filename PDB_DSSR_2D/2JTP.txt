@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF THE FRAMESHIFT-INDUCING RNA STEM-LOOP IN SIV 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2JTP nts=34 [whole]
+GGAUGGGGAAAGAAGCCCCGCAAUUUCCCCAUCC
+(((((((((((...((...))..)))))))))))
+
+Interacting substructures
+Chain A 
+GGAUGGGGAAAGAAGCCCCGCAAUUUCCCCAUCC
+(((((((((((...((...))..)))))))))))
+

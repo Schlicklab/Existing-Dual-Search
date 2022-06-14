@@ -1,0 +1,22 @@
+Title			SOLUTION STRUCTURE OF A G-QUADRUPLEX OF HUMAN TELOMERIC RNA 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	
+			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>2KBP nts=24 [whole]
+UAGGGUUAGGGU&UAGGGUUAGGGU
+............&............
+
+Interacting substructures
+Chain A 
+UAGGGUUAGGGU
+............
+
+Chain B 
+UAGGGUUAGGGU
+............
+

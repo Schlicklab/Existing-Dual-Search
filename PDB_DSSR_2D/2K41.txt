@@ -1,0 +1,18 @@
+Title			NMR STRUCTURE OF URIDINE BULGED RNA DUPLEX 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>2K41 nts=17 [whole]
+GUCGUGCUG&CAGCCGAC
+((((.((((&))))))))
+
+Interacting substructures
+Chain A B 
+GUCGUGCUGCAGCCGAC
+((((.(((())))))))
+

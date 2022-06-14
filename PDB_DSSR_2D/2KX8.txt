@@ -1,0 +1,17 @@
+Title			NMR STRUCTURE OF STEM-LOOP 4 FROM THE HUMAN 7SK SNRNA IN COMPLEX WITH ARGININE 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA*	A 
+Pseudoknot		NO
+
+Whole structure
+>2KX8 nts=42 [whole]
+GGGAAAUGAGGCGCUGCAUGUGGCAGUCUGCCUUUCUUUCCC
+((((((.((((((((((.....)))))..)))))..))))))
+
+Interacting substructures
+Chain A 
+GGGAAAUGAGGCGCUGCAUGUGGCAGUCUGCCUUUCUUUCCC
+((((((.((((((((((.....)))))..)))))..))))))
+

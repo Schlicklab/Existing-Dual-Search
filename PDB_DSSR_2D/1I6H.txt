@@ -1,0 +1,19 @@
+Title			RNA POLYMERASE II ELONGATION COMPLEX 
+Chain order		D R 
+Amino acids		YES
+Metal			Mg	1
+			Zn	8
+Chains			D	DNA	R 
+			R	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>1I6H nts=22 [whole]
+AAATGCCTGGTCT&GACCAGGCA
+...(((((((((.&)))))))))
+
+Interacting substructures
+Chain D R 
+AAATGCCTGGTCTGACCAGGCA
+...(((((((((.)))))))))
+

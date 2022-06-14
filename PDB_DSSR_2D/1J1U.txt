@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF ARCHAEAL TYROSYL-TRNA SYNTHETASE COMPLEXED WITH TRNA(TYR) AND L-TYROSINE 
+Chain order		B 
+Amino acids		YES
+Metal			Mg	4
+Chains			B	RNA	B 
+Pseudoknot		YES
+
+Whole structure
+>1J1U nts=74 [whole]
+CCGGCGGUAGUUCAGCCUGGUAGAACGGCGGACUGUAGAUCCGCAUGUCGCUGGUUCAAAUCCGGCCCGCCGGA
+(((((((..((((......[..)))).(((((.......))))).....(((((..]....)))))))))))).
+
+Interacting substructures
+Chain B 
+CCGGCGGUAGUUCAGCCUGGUAGAACGGCGGACUGUAGAUCCGCAUGUCGCUGGUUCAAAUCCGGCCCGCCGGA
+(((((((..((((......[..)))).(((((.......))))).....(((((..]....)))))))))))).
+

@@ -1,0 +1,17 @@
+Title			THE STRUCTURE OF PARIACOTO VIRUS REVEALS A DODECAHEDRAL CAGE OF DUPLEX RNA 
+Chain order		R 
+Amino acids		YES
+Metal			Ca	1
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1F8V nts=25 [whole]
+UUUUUUUUUUUUUAAAAUUUUUUUU
+.........................
+
+Interacting substructures
+Chain R 
+UUUUUUUUUUUUUAAAAUUUUUUUU
+.........................
+

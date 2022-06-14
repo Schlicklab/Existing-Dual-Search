@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF AN RNA HAIRPIN FROM HRV-14 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1IK1 nts=14 [whole]
+GGUACUAUGUACCA
+(((((...))))).
+
+Interacting substructures
+Chain A 
+GGUACUAUGUACCA
+(((((...))))).
+

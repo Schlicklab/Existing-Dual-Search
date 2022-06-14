@@ -1,0 +1,32 @@
+Title			CRYSTAL STRUCTURE OF THERMUS THERMOPHILUS VALYL-TRNA SYNTHETASE COMPLEXED WITH TRNA(VAL) AND VALYL-ADENYLATE ANALOGUE 
+Chain order		C D A B 
+Amino acids		YES
+Metal			Zn	4
+Chains			C	RNA	C 
+			D	RNA	D 
+			A			
+			B			
+Pseudoknot		YES
+
+Whole structure
+>1GAX nts=152 [whole]
+GGGCGGCUAGCUCAGCGGAAGAGCGCUCGCCUCACACGCGAGAGGUCGUAGGUUCAAGUCCUACGCCGCCCACCA&GGGCGGCUAGCUCAGCGGAAGAGCGCUCGCCUCACACGCGAGAGGUCGUAGGUUCAAGUCCUACGCCGCCCACCA&a&a
+(((((((..((((....[..)))).(((((.......))))).....(((((..]....))))))))))))....&(((((((..((((....[..)))).(((((.......))))).....(((((..]....))))))))))))....&.&.
+
+Interacting substructures
+Chain C 
+GGGCGGCUAGCUCAGCGGAAGAGCGCUCGCCUCACACGCGAGAGGUCGUAGGUUCAAGUCCUACGCCGCCCACCA
+(((((((..((((....[..)))).(((((.......))))).....(((((..]....))))))))))))....
+
+Chain D 
+GGGCGGCUAGCUCAGCGGAAGAGCGCUCGCCUCACACGCGAGAGGUCGUAGGUUCAAGUCCUACGCCGCCCACCA
+(((((((..((((....[..)))).(((((.......))))).....(((((..]....))))))))))))....
+
+Chain A 
+a
+.
+
+Chain B 
+a
+.
+

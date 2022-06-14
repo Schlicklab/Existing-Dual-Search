@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF RNA HAIRPIN LOOP UUAACU AS PART OF HAIRPIN R(GCGUUAACUCGCA) 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1HS1 nts=13 [whole]
+GCGUUAACUCGCA
+(((......))).
+
+Interacting substructures
+Chain A 
+GCGUUAACUCGCA
+(((......))).
+

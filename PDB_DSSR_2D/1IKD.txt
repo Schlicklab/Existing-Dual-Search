@@ -1,0 +1,17 @@
+Title			ACCEPTOR STEM, NMR, 30 STRUCTURES 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1IKD nts=22 [whole]
+GGGGCUCUUCGGAGCUCCACCA
+(((((((....)))))))....
+
+Interacting substructures
+Chain A 
+GGGGCUCUUCGGAGCUCCACCA
+(((((((....)))))))....
+

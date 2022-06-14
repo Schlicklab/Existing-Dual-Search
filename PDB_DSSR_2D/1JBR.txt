@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF THE RIBOTOXIN RESTRICTOCIN AND A 31- MER SRD RNA INHIBITOR 
+Chain order		C F D 
+Amino acids		YES
+Metal			K	5
+Chains			C	RNA	F 
+			F	RNA	C 
+			D	RNA	D 
+Pseudoknot		NO
+
+Whole structure
+>1JBR nts=62 [whole]
+GCGCUCCUCAGUACGAGa&GGAACCGGAGCGC&GCGCUCCUCAGUACGAGAGGAACCGGAGCGC
+(((((((......(....&).....)))))))&(((((((......(....).....)))))))
+
+Interacting substructures
+Chain C F 
+GCGCUCCUCAGUACGAGaGGAACCGGAGCGC
+(((((((......(....).....)))))))
+
+Chain D 
+GCGCUCCUCAGUACGAGAGGAACCGGAGCGC
+(((((((......(....).....)))))))
+

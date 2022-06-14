@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF HUD AND AU-RICH ELEMENT OF THE TUMOR NECROSIS FACTOR ALPHA RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1G2E nts=10 [whole]
+UAUUUAUUUA
+..........
+
+Interacting substructures
+Chain B 
+UAUUUAUUUA
+..........
+

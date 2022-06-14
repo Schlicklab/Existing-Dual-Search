@@ -1,0 +1,17 @@
+Title			NMR SOLUTION STRUCTURE OF AN IN VITRO SELECTED RNA WHICH IS SEQUENCE SPECIFICALLY RECOGNIZED BY HAMSTER NUCLEOLIN RBD12. 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1IE1 nts=22 [whole]
+GGCCGAAAUCCCGAAGUAGGCC
+((((..............))))
+
+Interacting substructures
+Chain A 
+GGCCGAAAUCCCGAAGUAGGCC
+((((..............))))
+

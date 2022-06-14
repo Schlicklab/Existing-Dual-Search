@@ -1,0 +1,33 @@
+Title			CRYSTAL STRUCTURE OF AN RNA TETRAPLEX (UGAGGU)4 WITH A- TETRADS, G-TETRADS, U-TETRADS AND G-U OCTADS 
+Chain order		A B C D 
+Amino acids		NO
+Metal			Na	8
+			Ba	8
+Chains			A	RNA[5]/1	
+			B	RNA[5]/1	
+			C	RNA[5]/1	
+			D	RNA[4]/1	
+Pseudoknot		NO
+
+Whole structure
+>1J6S nts=23 [whole]
+uGAGGU&uGAGGU&uGAGGU&uGAGG
+......&......&......&.....
+
+Interacting substructures
+Chain A 
+uGAGGU
+......
+
+Chain B 
+uGAGGU
+......
+
+Chain C 
+uGAGGU
+......
+
+Chain D 
+uGAGG
+.....
+

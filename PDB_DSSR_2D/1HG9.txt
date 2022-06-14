@@ -1,0 +1,18 @@
+Title			SOLUTION STRUCTURE OF DNA:RNA HYBRID 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	DNA	B 
+			B	RNA	A 
+Pseudoknot		NO
+
+Whole structure
+>1HG9 nts=18 [whole]
+CTGATATGC&GCAUAUCAG
+(((((((((&)))))))))
+
+Interacting substructures
+Chain A B 
+CTGATATGCGCAUAUCAG
+((((((((()))))))))
+

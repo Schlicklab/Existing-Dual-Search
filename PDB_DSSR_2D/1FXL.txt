@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF HUD AND AU-RICH ELEMENT OF THE C-FOS RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>1FXL nts=8 [whole]
+UUUUAUUU
+........
+
+Interacting substructures
+Chain B 
+UUUUAUUU
+........
+

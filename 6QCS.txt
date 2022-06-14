@@ -1,0 +1,23 @@
+Title			INFLUENZA B POLYMERASE PRE-INITIATION COMPLEX 
+Chain order		M V R 
+Amino acids		YES
+Metal			Mg	2
+Chains			M	RNA	
+			V	RNA	V R 
+			R	RNA	V 
+Pseudoknot		NO
+
+Whole structure
+>6QCS nts=33 [whole]
+AAUG&AGUAGUAACAAGAG&ACCUCUGCUUCUGCU
+....&.((....)).((((&..)))).........
+
+Interacting substructures
+Chain M 
+AAUG
+....
+
+Chain V R 
+AGUAGUAACAAGAGACCUCUGCUUCUGCU
+.((....)).((((..)))).........
+

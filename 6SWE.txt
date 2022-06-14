@@ -1,0 +1,29 @@
+Title			IC2 HEAD OF CRYO-EM STRUCTURE OF A FULL ARCHAEAL RIBOSOMAL TRANSLATION INITIATION COMPLEX DEVOID OF AIF1 IN P. ABYSSI 
+Chain order		2-1 2-2 2-3 4 
+Amino acids		YES
+Metal			Mg	8
+			Zn	1
+Chains			2-1	RNA*	
+			2-2	RNA*	2-3 2-2 
+			2-3	RNA*	2-2 2-3 
+			4	RNA	4 
+Pseudoknot		NO
+
+Whole structure
+>6SWE nts=486 [whole]
+GUAA&GGCGGGGGAGCACUACAAGGGGUGGAGCGUGCGGUUUAAUUGGAUpcAACGCCGGGAACCUCACcGGGGGCGACGGCAGGAUGAAGGCCAGGCUGAAGGUCUUGCCGGACGCGCCGAGAGGAGGUGCAUGGCCGCcGUCAGCUCG&GCGUCCACUUAAGUGUGGUAACGAGCGAGACCCGCGCCCCCAGUUGCCAGUCCCUCCCGCUCGGGAGGGAGGCACUCUGGGGGGACUGCCGGCGAUAAGCcGGAGGAAGGGGCGGGCGACGGUAGGUCAGUAUGCCCcGAAACCCCcGGGCUACAcGCGCGCUACAAUGGGCGGGACAAUGGGUGCcGACCCcGAAAGGGGGAGGUAAUCCCCUAAACCCGCCCUCAGUUCGGAUCGCGGGCUGCAACUCGCCCGCGUGAAGCUGGAAUCCCUAGUACCCGCGCGUCAUCAUCGCGCGGCGAAUACGUCCCUGCUCCUU&GUCGGGcUCAUAACCCGA
+....&...(.(((((((..(...(((((..((((((((((......((........))..........(((((((...((((.(......(((.((((.....)))).)))...)..))))...((.(((...(.((((((....(((((&....((((......))))...)))))....(((((.(((((((..(((..((((((((....)))))))))))...)))))))..(..(((((.....))))).....)..)))))....))).)))....).)))))....)))))))...)).)))))))).(...(((((((.....(((..((..((((....))))..))....))).....)))))))......(....(((((((........)))))))....)..)..)))))......(((((((.......)))))))........)...))))))))&.(((((.......)))))
+
+Interacting substructures
+Chain 2-1 
+GUAA
+....
+
+Chain 2-2 2-3 
+GGCGGGGGAGCACUACAAGGGGUGGAGCGUGCGGUUUAAUUGGAUpcAACGCCGGGAACCUCACcGGGGGCGACGGCAGGAUGAAGGCCAGGCUGAAGGUCUUGCCGGACGCGCCGAGAGGAGGUGCAUGGCCGCcGUCAGCUCGGCGUCCACUUAAGUGUGGUAACGAGCGAGACCCGCGCCCCCAGUUGCCAGUCCCUCCCGCUCGGGAGGGAGGCACUCUGGGGGGACUGCCGGCGAUAAGCcGGAGGAAGGGGCGGGCGACGGUAGGUCAGUAUGCCCcGAAACCCCcGGGCUACAcGCGCGCUACAAUGGGCGGGACAAUGGGUGCcGACCCcGAAAGGGGGAGGUAAUCCCCUAAACCCGCCCUCAGUUCGGAUCGCGGGCUGCAACUCGCCCGCGUGAAGCUGGAAUCCCUAGUACCCGCGCGUCAUCAUCGCGCGGCGAAUACGUCCCUGCUCCUU
+...(.(((((((..(...(((((..((((((((((......((........))..........(((((((...((((.(......(((.((((.....)))).)))...)..))))...((.(((...(.((((((....(((((....((((......))))...)))))....(((((.(((((((..(((..((((((((....)))))))))))...)))))))..(..(((((.....))))).....)..)))))....))).)))....).)))))....)))))))...)).)))))))).(...(((((((.....(((..((..((((....))))..))....))).....)))))))......(....(((((((........)))))))....)..)..)))))......(((((((.......)))))))........)...))))))))
+
+Chain 4 
+GUCGGGcUCAUAACCCGA
+.(((((.......)))))
+

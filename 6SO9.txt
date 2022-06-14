@@ -1,0 +1,17 @@
+Title			MOUSE RBM20 RRM DOMAIN IN COMPLEX WITH AUCUUA RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>6SO9 nts=6 [whole]
+aUCUUA
+......
+
+Interacting substructures
+Chain B 
+aUCUUA
+......
+

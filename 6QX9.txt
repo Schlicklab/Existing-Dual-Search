@@ -1,0 +1,82 @@
+Title			? 
+Chain order		1 6-1 6-2 6-3 6-4 I-1 I-2 5-1 5-2 5-3 2-1 2-2 2-3 2-4 4-1 4-2 4-3 4-4 4-5 4-6 5C 
+Amino acids		YES
+Metal			Mg	1
+			Zn	6
+Chains			1	RNA	1 I-1 
+			6-1	RNA*	4-3 
+			6-2	RNA*	4-1 4-2 
+			6-3	RNA*	2-1 
+			6-4	RNA*	
+			I-1	RNA*	1 
+			I-2	RNA*	2-2 
+			5-1	RNA*	5-2 
+			5-2	RNA*	5-1 
+			5-3	RNA*	5-3 
+			2-1	RNA*	6-3 
+			2-2	RNA*	2-2 I-2 
+			2-3	RNA*	
+			2-4	RNA*	2-4 
+			4-1	RNA*	4-1 6-2 
+			4-2	RNA*	6-2 
+			4-3	RNA*	6-1 
+			4-4	RNA*	4-5 
+			4-5	RNA*	4-6 4-4 
+			4-6	RNA*	4-5 
+			5C			
+Pseudoknot		YES
+
+Whole structure
+>6QX9 nts=566 [whole]
+AUACUUACCUGGCAGGGGAGAUACCAUGAUCACGAAGGUGGUUUUCCCAGGGCGAGGCUUAUCCAUUGCACUCCGGAUGUGCUGACCCCUGCGAUUUCCCCAAAUGUGGGAAACUCGACUGCAUAAUUUGUGGUAGUGGGGGACUGCGUUCGCGCUUUCCCCUG&UUGGAA&AAGAUUAGCAUGGCCCCUGCGCAAGGAUGAC&UUCGUGAAGCG&AUUUU&GGGUGAGUAC&GCUUUCGUGCUGACC&ACUCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGC&ACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAGU&CCAAUUUUUUGAGGCCUUGCUUUGGCAAGGCUA&CGCUUCUCGGC&UGUAGUAUCUGUUCUUAUCAGUUUAAUAUCUGAU&AGAUUUUUGGA&GCAUCGACCUGGUAUUGCAGUACCUCCAGGAACGGUGC&AGCUUUGCGCAGUGGCAGUAUCGUAGCCAAUGAGGUUUAUCCGAGGCGCGAU&UUGCUAAUUGAAAACU&UCCCAAUA&GCCGUGACGACU&AGUCGGCAUUGGCAAUUUUUGACAGUCUC&GAGACUGG&g
+.[[[[.[[[...(((.(((((..((((..........)))).))))).((((...(((.(((((..........))))).)))...))))..(.((((((.......))))))..)..)))................((((((..(((....)))..)))))).&((((.(&...(((((((..(((.((((((((((.(...&..((.((((((&.....&.]]].]]]].&...[..[[.[[[.[.&((((.((((((((((((...((...((((((((...&...)))))))).)))))))))))))....).))))&............((((((((....)))))))).&)))))).))..&.]]]].]]..].....(((((........)))))&...........&((((((.(((((.............)))))..))))))&).)))))))))).)))...(((((.(((.....((.....))..))))))))&.)))))))........&).))))..&((((((.(((((&))))).))).))).........(((((((&))))))).&.
+
+Interacting substructures
+Chain 1 I-1 
+AUACUUACCUGGCAGGGGAGAUACCAUGAUCACGAAGGUGGUUUUCCCAGGGCGAGGCUUAUCCAUUGCACUCCGGAUGUGCUGACCCCUGCGAUUUCCCCAAAUGUGGGAAACUCGACUGCAUAAUUUGUGGUAGUGGGGGACUGCGUUCGCGCUUUCCCCUGGGGUGAGUAC
+.[[[[.[[[...(((.(((((..((((..........)))).))))).((((...(((.(((((..........))))).)))...))))..(.((((((.......))))))..)..)))................((((((..(((....)))..))))))..]]].]]]].
+
+Chain 6-1 4-3 
+UUGGAAUCCCAAUA
+((((.().))))..
+
+Chain 6-2 4-1 4-2 
+AAGAUUAGCAUGGCCCCUGCGCAAGGAUGACAGCUUUGCGCAGUGGCAGUAUCGUAGCCAAUGAGGUUUAUCCGAGGCGCGAUUUGCUAAUUGAAAACU
+...(((((((..(((.((((((((((.(...).)))))))))).)))...(((((.(((.....((.....))..)))))))).)))))))........
+
+Chain 6-3 2-1 
+UUCGUGAAGCGCGCUUCUCGGC
+..((.(((((()))))).))..
+
+Chain 6-4 
+AUUUU
+.....
+
+Chain I-2 2-2 
+GCUUUCGUGCUGACCUGUAGUAUCUGUUCUUAUCAGUUUAAUAUCUGAU
+...[..[[.[[[.[..]]]].]]..].....(((((........)))))
+
+Chain 5-1 5-2 
+ACUCUGGUUUCUCUUCAGAUCGCAUAAAUCUUUCGCACUAAAGAUUUCCGUGGAGAGGAACAACUCUGAGU
+((((.((((((((((((...((...((((((((......)))))))).)))))))))))))....).))))
+
+Chain 5-3 
+CCAAUUUUUUGAGGCCUUGCUUUGGCAAGGCUA
+............((((((((....)))))))).
+
+Chain 2-3 
+AGAUUUUUGGA
+...........
+
+Chain 2-4 
+GCAUCGACCUGGUAUUGCAGUACCUCCAGGAACGGUGC
+((((((.(((((.............)))))..))))))
+
+Chain 4-4 4-5 4-6 
+GCCGUGACGACUAGUCGGCAUUGGCAAUUUUUGACAGUCUCGAGACUGG
+((((((.((((())))).))).))).........((((((())))))).
+
+Chain 5C 
+g
+.
+

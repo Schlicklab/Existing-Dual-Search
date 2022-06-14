@@ -1,0 +1,18 @@
+Title			COCRYSTAL STRUCTURE OF THE NOCARDIA FARCINICA ILES T-BOX RIBOSWITCH IN COMPLEX WITH ITS COGNATE TRNA 
+Chain order		A B 
+Amino acids		NO
+Metal
+Chains			A	RNA	B A 
+			B	RNA	B A 
+Pseudoknot		YES
+
+Whole structure
+>6UFM nts=175 [whole]
+GGGCCUAUAGCUCAGGCGGUUAGAGCGCUUCGCUGAUAACGAAGAGGUCGGAGGUUCGAGUCCUCCUAGGCCCACCA&GGCGACGAUCCGGCCAUCACCGGGGAGCCUUCGGAAGAACGGCGCCGCCGGAAACGGCGGCGCUCAGUAGAACCGAACGGGUGAGCCCGUCACAGCUC
+(((((((..((((.....{...)))).(((((..[[[..))))).....(((((..}....))))))))))))....&(((......((((..]]].))))...)))(((((......((((((((((....))))))))))........)))))[[[..((((]]].....))))
+
+Interacting substructures
+Chain A B 
+GGGCCUAUAGCUCAGGCGGUUAGAGCGCUUCGCUGAUAACGAAGAGGUCGGAGGUUCGAGUCCUCCUAGGCCCACCAGGCGACGAUCCGGCCAUCACCGGGGAGCCUUCGGAAGAACGGCGCCGCCGGAAACGGCGGCGCUCAGUAGAACCGAACGGGUGAGCCCGUCACAGCUC
+(((((((..((((.....{...)))).(((((..[[[..))))).....(((((..}....))))))))))))....(((......((((..]]].))))...)))(((((......((((((((((....))))))))))........)))))[[[..((((]]].....))))
+

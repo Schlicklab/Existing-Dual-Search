@@ -1,0 +1,18 @@
+Title			DSRNA RECOGNITION BY R38AK41A MUTANT OF H7N1 NS1 RNA BINDING DOMAIN 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>6SX2 nts=38 [whole]
+GGUAACUGUUACAGUUACC&GGUAACUGUUACAGUUACC
+(((((((((.(((((((((&))))))))).)))))))))
+
+Interacting substructures
+Chain C D 
+GGUAACUGUUACAGUUACCGGUAACUGUUACAGUUACC
+(((((((((.((((((((())))))))).)))))))))
+

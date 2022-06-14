@@ -1,0 +1,32 @@
+Title			X-RAY STRUCTURE OF ROQUIN ROQ DOMAIN IN COMPLEX WITH A UCP3 CDE2 SL RNA MOTIF 
+Chain order		E F G H 
+Amino acids		YES
+Metal			Mg	1
+Chains			E	RNA	E 
+			F	RNA	F 
+			G	RNA	G 
+			H	RNA	H 
+Pseudoknot		NO
+
+Whole structure
+>6TQA nts=84 [whole]
+GGUGCCUAAUAUUUAGGCACc&GGUGCCUAAUAUUUAGGCACc&GGUGCCUAAUAUUUAGGCACc&GGUGCCUAAUAUUUAGGCACc
+(((((((((...)))))))))&(((((((((...)))))))))&(((((((((...)))))))))&(((((((((...)))))))))
+
+Interacting substructures
+Chain E 
+GGUGCCUAAUAUUUAGGCACc
+(((((((((...)))))))))
+
+Chain F 
+GGUGCCUAAUAUUUAGGCACc
+(((((((((...)))))))))
+
+Chain G 
+GGUGCCUAAUAUUUAGGCACc
+(((((((((...)))))))))
+
+Chain H 
+GGUGCCUAAUAUUUAGGCACc
+(((((((((...)))))))))
+

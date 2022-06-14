@@ -1,0 +1,26 @@
+Title			? 
+Chain order		111-1 111-2 222 333 DDD 
+Amino acids		YES
+Metal			Mg	2
+			Zn	2
+Chains			111-1	DNA*	222 
+			111-2	DNA*	222 
+			222	DNA	111-2 111-1 333 
+			333	RNA	222 
+			DDD			
+Pseudoknot		YES
+
+Whole structure
+>6UU4 nts=71 [whole]
+CACGTATGCTATAATGTG&GCAGTCTGACGCGG&TCCGCGTCAGACTCGTAGGATTATAGCATACGTGA&GAG&g
+((((((((((........&.....(((((((((&.))))))))).[[[..........)))))))))).&]]]&.
+
+Interacting substructures
+Chain 111-1 111-2 222 333 
+CACGTATGCTATAATGTGGCAGTCTGACGCGGTCCGCGTCAGACTCGTAGGATTATAGCATACGTGAGAG
+((((((((((.............(((((((((.))))))))).[[[..........)))))))))).]]]
+
+Chain DDD 
+g
+.
+

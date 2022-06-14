@@ -1,0 +1,17 @@
+Title			APO SAM-IV RIBOSWITCH 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	A 
+Pseudoknot		YES
+
+Whole structure
+>6UES nts=119 [whole]
+GGUCAUGAGUGCCAGCGUCAAGCCCCGGCUUGCUGGCCGGCAACCCUCCAACCGCGGUGGGGUGCCCCGGGUGAUGACCAGGUUGAGUAGCCGUGACGGCUACGCGGCAAGCGCGGGUC
+((((....(.((((((....((.[[[[[)).)))))))((((.((((((.{{{{{)).))))))))]]]]]....))))..((((.((((((.....)))))).))))....}}}}.}.
+
+Interacting substructures
+Chain A 
+GGUCAUGAGUGCCAGCGUCAAGCCCCGGCUUGCUGGCCGGCAACCCUCCAACCGCGGUGGGGUGCCCCGGGUGAUGACCAGGUUGAGUAGCCGUGACGGCUACGCGGCAAGCGCGGGUC
+((((....(.((((((....((.[[[[[)).)))))))((((.((((((.{{{{{)).))))))))]]]]]....))))..((((.((((((.....)))))).))))....}}}}.}.
+

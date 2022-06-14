@@ -1,0 +1,24 @@
+Title			CRYSTAL STRUCTURE OF LBUCAS13A-CRRNA-TARGET RNA TERNARY COMPLEX 
+Chain order		C D E F 
+Amino acids		YES
+Metal
+Chains			C	RNA	C D 
+			D	RNA	C 
+			E	RNA	F E 
+			F	RNA	E 
+Pseudoknot		NO
+
+Whole structure
+>5XWP nts=175 [whole]
+GACCACCCCAAAAAUGAAGGGGACUAAAACACAAAUCUAUCUGAAUAAACUCUUCUUC&GGAAGAAGAGUUUAUUCAGAUAGAUUUGUC&GACCACCCCAAAAAUGAAGGGGACUAAAACACAAAUCUAUCUGAAUAAACUCUUCUUC&GGAAGAAGAGUUUAUUCAGAUAGAUUUGU
+....(((((.........))))..).....(((((((((((((((((((((((.((((&.)))).))))))))))))))))))))))).&....(((((.........))))..)......((((((((((((((((((((((.((((&.)))).)))))))))))))))))))))).
+
+Interacting substructures
+Chain C D 
+GACCACCCCAAAAAUGAAGGGGACUAAAACACAAAUCUAUCUGAAUAAACUCUUCUUCGGAAGAAGAGUUUAUUCAGAUAGAUUUGUC
+....(((((.........))))..).....(((((((((((((((((((((((.((((.)))).))))))))))))))))))))))).
+
+Chain E F 
+GACCACCCCAAAAAUGAAGGGGACUAAAACACAAAUCUAUCUGAAUAAACUCUUCUUCGGAAGAAGAGUUUAUUCAGAUAGAUUUGU
+....(((((.........))))..)......((((((((((((((((((((((.((((.)))).)))))))))))))))))))))).
+

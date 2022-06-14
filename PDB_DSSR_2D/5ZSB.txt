@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF MONKEY TLR7 IN COMPLEX WITH IMDQ AND AAUUAA 
+Chain order		C D 
+Amino acids		YES
+Metal
+Chains			C	RNA	
+			D	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5ZSB nts=7 [whole]
+AUUA&UUA
+....&...
+
+Interacting substructures
+Chain C 
+AUUA
+....
+
+Chain D 
+UUA
+...
+

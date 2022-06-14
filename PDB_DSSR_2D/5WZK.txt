@@ -1,0 +1,17 @@
+Title			STRUCTURE OF APUM23-DELETION-OF-INSERT-REGION-GGAAUUGACGG 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5WZK nts=11 [whole]
+GGAAUUGACGG
+...........
+
+Interacting substructures
+Chain B 
+GGAAUUGACGG
+...........
+

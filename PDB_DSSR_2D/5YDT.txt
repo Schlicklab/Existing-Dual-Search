@@ -1,0 +1,29 @@
+Title			? 
+Chain order		SA-1 SA-2 SA-3 5A-1 5A-2 
+Amino acids		YES
+Metal
+Chains			SA-1	RNA*	SA-3 
+			SA-2	RNA*	SA-2 
+			SA-3	RNA*	SA-1 
+			5A-1	RNA*	5A-2 
+			5A-2	RNA*	5A-1 
+Pseudoknot		NO
+
+Whole structure
+>5YDT nts=65 [whole]
+GACGGAGCCAGCGAG&CCUUGGCCGAGAGGUCUUGGUAA&AAACUCCGUCGUGC&UGGGCAU&AUUCCA
+(((((((........&.(..((((....))))..)....&...)))))))....&((((...&..))))
+
+Interacting substructures
+Chain SA-1 SA-3 
+GACGGAGCCAGCGAGAAACUCCGUCGUGC
+(((((((...........)))))))....
+
+Chain SA-2 
+CCUUGGCCGAGAGGUCUUGGUAA
+.(..((((....))))..)....
+
+Chain 5A-1 5A-2 
+UGGGCAUAUUCCA
+((((.....))))
+

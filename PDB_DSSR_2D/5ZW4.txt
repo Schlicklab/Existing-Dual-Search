@@ -1,0 +1,23 @@
+Title			CRYSTAL STRUCTURE OF TRNA BOUND TRMR 
+Chain order		D-1 D-2 A 
+Amino acids		YES
+Metal
+Chains			D-1	RNA*	D-2 
+			D-2	RNA*	D-1 
+			A			
+Pseudoknot		NO
+
+Whole structure
+>5ZW4 nts=16 [whole]
+CCUGCUUUG&CGCAGG&a
+(((((....&.)))))&.
+
+Interacting substructures
+Chain D-1 D-2 
+CCUGCUUUGCGCAGG
+(((((.....)))))
+
+Chain A 
+a
+.
+

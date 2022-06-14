@@ -1,0 +1,22 @@
+Title			CRYSTAL STRUCTURE OF YB1 COLD-SHOCK DOMAIN IN COMPLEX WITH UCAUGU 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>5YTT nts=6 [whole]
+UCAUG&U
+.....&.
+
+Interacting substructures
+Chain B-1 
+UCAUG
+.....
+
+Chain B-2 
+U
+.
+

@@ -1,0 +1,17 @@
+Title			SOLUTION STRUCTURE OF MUSASHI1 RBD2 IN COMPLEX WITH RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5X3Z nts=5 [whole]
+GUAGU
+.....
+
+Interacting substructures
+Chain B 
+GUAGU
+.....
+

@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE KH1 DOMAIN OF HUMAN RNA-BINDING E3 UBIQUITIN- PROTEIN LIGASE MEX-3C COMPLEX WITH RNA 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5WWW nts=6 [whole]
+GUUUAG
+......
+
+Interacting substructures
+Chain B 
+GUUUAG
+......
+

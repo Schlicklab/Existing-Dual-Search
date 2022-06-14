@@ -1,0 +1,24 @@
+Title			HUMAN EXOG-H140A IN COMPLEX WITH RNA/DNA HYBRID DUPLEX 
+Chain order		C D E F 
+Amino acids		YES
+Metal			Mg	2
+Chains			C	RNA	D 
+			D	DNA	C 
+			E	RNA	F 
+			F	DNA	E 
+Pseudoknot		NO
+
+Whole structure
+>5ZKJ nts=48 [whole]
+CGGGAUGUCACG&CGTGACATCCCG&CGGGAUGUCACG&CGTGACATCCCG
+((((((((((((&))))))))))))&(((((((..(((&)))..)))))))
+
+Interacting substructures
+Chain C D 
+CGGGAUGUCACGCGTGACATCCCG
+(((((((((((())))))))))))
+
+Chain E F 
+CGGGAUGUCACGCGTGACATCCCG
+(((((((..((()))..)))))))
+

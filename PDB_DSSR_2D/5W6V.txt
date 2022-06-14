@@ -1,0 +1,22 @@
+Title			THE STRUCTURE OF HUMAN ARGONAUTE-1 IN COMPLEX WITH THE HOOK MOTIF OF HUMAN GW182 
+Chain order		R-1 R-2 
+Amino acids		YES
+Metal
+Chains			R-1	RNA*	
+			R-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>5W6V nts=10 [whole]
+AAUAUUAAA&A
+.........&.
+
+Interacting substructures
+Chain R-1 
+AAUAUUAAA
+.........
+
+Chain R-2 
+A
+.
+

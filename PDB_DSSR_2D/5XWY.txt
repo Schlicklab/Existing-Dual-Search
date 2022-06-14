@@ -1,0 +1,22 @@
+Title			ELECTRON CRYO-MICROSCOPY STRUCTURE OF LBUCAS13A-CRRNA BINARY COMPLEX 
+Chain order		B-1 B-2 
+Amino acids		YES
+Metal
+Chains			B-1	RNA*	B-1 
+			B-2	RNA*	
+Pseudoknot		NO
+
+Whole structure
+>5XWY nts=51 [whole]
+GGACCACCCCAAAAAUGAAGGGGACUAAAACACAAAUCUAUCUGAA&CUUCU
+.....(((((.........))))..)....................&.....
+
+Interacting substructures
+Chain B-1 
+GGACCACCCCAAAAAUGAAGGGGACUAAAACACAAAUCUAUCUGAA
+.....(((((.........))))..)....................
+
+Chain B-2 
+CUUCU
+.....
+

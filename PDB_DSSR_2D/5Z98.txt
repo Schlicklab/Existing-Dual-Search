@@ -1,0 +1,18 @@
+Title			CRYSTAL STRUCTURE OF THE PRIMATE APOBEC3H DIMER MEDIATED BY RNA DUPLEX 
+Chain order		C D 
+Amino acids		YES
+Metal			Zn	2
+Chains			C	RNA	D 
+			D	RNA	C 
+Pseudoknot		NO
+
+Whole structure
+>5Z98 nts=17 [whole]
+CUGCCGGGU&UACCCGGC
+..(((((((&.)))))))
+
+Interacting substructures
+Chain C D 
+CUGCCGGGUUACCCGGC
+..(((((((.)))))))
+

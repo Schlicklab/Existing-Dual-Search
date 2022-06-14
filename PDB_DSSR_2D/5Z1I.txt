@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF THE PROTOZOAL CYTOPLASMIC RIBOSOMAL DECODING SITE IN COMPLEX WITH 6'-FLUORO SISOMICIN 
+Chain order		A 
+Amino acids		NO
+Metal
+Chains			A	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5Z1I nts=21 [whole]
+GCGUCGCGCCGGCGAAGUCGC
+.....................
+
+Interacting substructures
+Chain A 
+GCGUCGCGCCGGCGAAGUCGC
+.....................
+

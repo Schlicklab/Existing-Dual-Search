@@ -1,0 +1,17 @@
+Title			CRYSTAL STRUCTURE OF TFB1M AND H45 IN HOMO SAPIENS 
+Chain order		B 
+Amino acids		YES
+Metal
+Chains			B	RNA	B 
+Pseudoknot		NO
+
+Whole structure
+>6AJK nts=28 [whole]
+GGUAAGUGUACUGGAAAGUGCACUUGCC
+((((((((((((....))))))))))))
+
+Interacting substructures
+Chain B 
+GGUAAGUGUACUGGAAAGUGCACUUGCC
+((((((((((((....))))))))))))
+

@@ -1,0 +1,17 @@
+Title			ARABIDOPSIS SMALL RNA DEGRADING NUCLEASE 1 IN COMPLEX WITH AN RNA SUBSTRATE 
+Chain order		R 
+Amino acids		YES
+Metal			Mg	2
+Chains			R	RNA	
+Pseudoknot		NO
+
+Whole structure
+>5Z9X nts=9 [whole]
+GCCCAUUAG
+.........
+
+Interacting substructures
+Chain R 
+GCCCAUUAG
+.........
+

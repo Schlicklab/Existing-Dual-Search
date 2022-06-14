@@ -1,0 +1,19 @@
+Title			CRYO-EM STRUCTURE OF SPCAS9-SGRNA-DNA TERNARY COMPLEX 
+Chain order		B C D 
+Amino acids		YES
+Metal			Mg	3
+Chains			B	RNA	B C 
+			C	DNA	B D 
+			D	DNA	C D 
+Pseudoknot		YES
+
+Whole structure
+>5Y36 nts=181 [whole]
+GGUACCGCUCCAGUCGUUCAUGGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU&ACATTTTCGGGATGGTCCTCATGAACGACTGGAGCGGTAAT&ATTACCGCTCCAGTCGTTCATGAGGACCATCCCGAAAATGT
+..((((((((((((((((((((.(((((...(((....))).....)))))...((.....)).......((((....)))).(((.(.....).))).&[[[[[[[[[[[[[[[[[[[))))))))))))))))))))(.&.).......(..).........]]]]]]]]]]]]]]]]]]]
+
+Interacting substructures
+Chain B C D 
+GGUACCGCUCCAGUCGUUCAUGGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCUACATTTTCGGGATGGTCCTCATGAACGACTGGAGCGGTAATATTACCGCTCCAGTCGTTCATGAGGACCATCCCGAAAATGT
+..((((((((((((((((((((.(((((...(((....))).....)))))...((.....)).......((((....)))).(((.(.....).))).[[[[[[[[[[[[[[[[[[[))))))))))))))))))))(..).......(..).........]]]]]]]]]]]]]]]]]]]
+
